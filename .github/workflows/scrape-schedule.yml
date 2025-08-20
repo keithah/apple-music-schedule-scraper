@@ -12,6 +12,9 @@ on:
       - 'requirements.txt'
       - '.github/workflows/scrape-schedule.yml'
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest

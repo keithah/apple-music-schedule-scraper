@@ -84,15 +84,52 @@ class AppleMusicScheduleScraper:
                             
                             // Look for time pattern to identify show blocks
                             if (text.match(/\\d{1,2}\\s*[–-]\\s*\\d{1,2}\\s*(AM|PM)/i)) {
-                                // Look for images within this show element
-                                const images = element.querySelectorAll('img');
-                                images.forEach(img => {
-                                    const src = img.src;
-                                    if (src && src.length > 10) {
-                                        const key = text.substring(0, 100);
-                                        imageMap[key] = src;
-                                    }
+                                const key = text.substring(0, 100);
+                                
+                                // First, look for picture elements with srcset
+                                const pictures = element.querySelectorAll('picture');
+                                pictures.forEach(picture => {
+                                    const sources = picture.querySelectorAll('source[srcset]');
+                                    sources.forEach(source => {
+                                        const srcset = source.getAttribute('srcset');
+                                        if (srcset && srcset.includes('mzstatic.com')) {
+                                            // Parse srcset to get the best quality image
+                                            const entries = srcset.split(',');
+                                            let bestUrl = null;
+                                            let bestSize = 0;
+                                            
+                                            entries.forEach(entry => {
+                                                const parts = entry.trim().split(' ');
+                                                if (parts.length >= 2) {
+                                                    const url = parts[0];
+                                                    const sizeMatch = parts[1].match(/(\\d+)w?/);
+                                                    if (sizeMatch) {
+                                                        const size = parseInt(sizeMatch[1]);
+                                                        if (size > bestSize) {
+                                                            bestSize = size;
+                                                            bestUrl = url;
+                                                        }
+                                                    }
+                                                }
+                                            });
+                                            
+                                            if (bestUrl) {
+                                                imageMap[key] = bestUrl;
+                                            }
+                                        }
+                                    });
                                 });
+                                
+                                // Fallback: look for img elements
+                                if (!imageMap[key]) {
+                                    const images = element.querySelectorAll('img');
+                                    images.forEach(img => {
+                                        const src = img.src;
+                                        if (src && src.length > 10 && !src.endsWith('1x1.gif')) {
+                                            imageMap[key] = src;
+                                        }
+                                    });
+                                }
                             }
                         });
                         
@@ -272,7 +309,40 @@ class AppleMusicScheduleScraper:
                         artwork_url = self._normalize_url(img_url)
                         break
             
-            # If not found in image_data, look for img elements with actual artwork
+            # If not found in image_data, look for picture elements with srcset attributes
+            if not artwork_url:
+                picture_elements = element.select('picture')
+                for picture_elem in picture_elements:
+                    # Look for source elements with srcset containing mzstatic URLs
+                    source_elements = picture_elem.select('source[srcset]')
+                    for source_elem in source_elements:
+                        srcset = source_elem.get('srcset', '')
+                        if 'mzstatic.com' in srcset:
+                            # Parse srcset to extract the highest quality image URL
+                            srcset_entries = [entry.strip() for entry in srcset.split(',')]
+                            best_url = None
+                            best_size = 0
+                            
+                            for entry in srcset_entries:
+                                parts = entry.strip().split()
+                                if len(parts) >= 2:
+                                    url = parts[0]
+                                    size_str = parts[1]
+                                    # Extract numeric size (e.g., "632w" -> 632)
+                                    size_match = re.match(r'(\d+)w?', size_str)
+                                    if size_match:
+                                        size = int(size_match.group(1))
+                                        if size > best_size:
+                                            best_size = size
+                                            best_url = url
+                            
+                            if best_url:
+                                artwork_url = self._normalize_url(best_url)
+                                break
+                    if artwork_url:
+                        break
+            
+            # Fallback: look for img elements with actual artwork
             if not artwork_url:
                 img_elements = element.select('img')
                 for img_elem in img_elements:
