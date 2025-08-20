@@ -18,6 +18,7 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     
     steps:
     - uses: actions/checkout@v4
@@ -27,11 +28,38 @@ jobs:
       with:
         python-version: '3.11'
         
+    - name: Cache pip dependencies
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+          
+    - name: Cache Playwright browsers
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/ms-playwright
+        key: ${{ runner.os }}-playwright-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-playwright-
+        
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        playwright install --with-deps chromium
+        
+    - name: Install Playwright browser
+      run: |
+        # Check if chromium is already cached
+        if [ ! -d ~/.cache/ms-playwright/chromium-* ]; then
+          echo "Installing Playwright chromium browser..."
+          playwright install chromium --with-deps
+        else
+          echo "Playwright chromium browser found in cache"
+          # Still need to install system deps if not cached
+          playwright install-deps chromium
+        fi
         
     - name: Run scraper
       run: |
