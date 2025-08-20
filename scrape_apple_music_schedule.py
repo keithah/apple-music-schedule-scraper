@@ -23,8 +23,8 @@ class AppleMusicScheduleScraper:
             "Apple Music Classical": "https://music.apple.com/us/radio/ra.1740614260"
         }
         
-    def fetch_page(self, url: str) -> Optional[str]:
-        """Fetch a specific Apple Music radio page using Playwright."""
+    def fetch_page(self, url: str) -> tuple[Optional[str], dict]:
+        """Fetch a specific Apple Music radio page using Playwright and extract image URLs."""
         try:
             with sync_playwright() as p:
                 browser = p.chromium.launch(headless=True)
@@ -34,21 +34,73 @@ class AppleMusicScheduleScraper:
                 page.goto(url, wait_until="networkidle")
                 
                 # Wait for schedule content to load
-                page.wait_for_timeout(3000)
+                page.wait_for_timeout(5000)
+                
+                # Wait for images to load by checking for img elements with proper src
+                try:
+                    page.wait_for_function(
+                        "() => document.querySelectorAll('img[src*=\"artwork\"]').length > 0 || "
+                        "document.querySelectorAll('[style*=\"background-image\"]').length > 0 || "
+                        "document.querySelectorAll('img').length > 10",
+                        timeout=10000
+                    )
+                except:
+                    pass  # Continue even if images don't load
+                
+                # Additional wait for dynamic content
+                page.wait_for_timeout(2000)
+                
+                # Extract image URLs using JavaScript
+                image_data = page.evaluate("""
+                    () => {
+                        const imageMap = {};
+                        
+                        // Find all elements that might contain show information
+                        const showElements = document.querySelectorAll('[class*="item"], [class*="card"], [class*="show"], [class*="schedule"]');
+                        
+                        showElements.forEach((element, index) => {
+                            const text = element.textContent.trim();
+                            
+                            // Look for images within this element
+                            const images = element.querySelectorAll('img');
+                            images.forEach(img => {
+                                const src = img.src || img.dataset.src || img.dataset.lazySrc;
+                                if (src && !src.includes('1x1.gif') && (src.includes('artwork') || src.includes('image'))) {
+                                    imageMap[text.substring(0, 100)] = src;
+                                }
+                            });
+                            
+                            // Look for background images
+                            const elementsWithBg = element.querySelectorAll('[style*="background-image"]');
+                            elementsWithBg.forEach(bgElement => {
+                                const style = bgElement.style.backgroundImage;
+                                if (style) {
+                                    const match = style.match(/url\\(["\']?([^"\']+)["\']?\\)/);
+                                    if (match && match[1] && !match[1].includes('1x1.gif')) {
+                                        imageMap[text.substring(0, 100)] = match[1];
+                                    }
+                                }
+                            });
+                        });
+                        
+                        return imageMap;
+                    }
+                """)
                 
                 # Get the page content
                 html = page.content()
                 browser.close()
-                return html
+                return html, image_data
                 
         except Exception as e:
             print(f"Error fetching page {url}: {e}")
-            return None
+            return None, {}
     
-    def parse_schedule(self, html: str) -> List[Dict]:
+    def parse_schedule(self, html: str, image_data: dict = None) -> List[Dict]:
         """Parse the schedule from HTML content."""
         soup = BeautifulSoup(html, 'html.parser')
         shows = []
+        image_data = image_data or {}
         
         # Look for specific Apple Music schedule structure
         # Try different selectors for schedule items
@@ -86,7 +138,7 @@ class AppleMusicScheduleScraper:
                     schedule_items.append(parent)
         
         for item in schedule_items:
-            show_data = self.extract_show_data(item)
+            show_data = self.extract_show_data(item, image_data)
             if show_data and self.is_valid_show(show_data):
                 shows.append(show_data)
         
@@ -107,7 +159,22 @@ class AppleMusicScheduleScraper:
             
         return True
     
-    def extract_show_data(self, element) -> Optional[Dict]:
+    def _normalize_url(self, url: str) -> str:
+        """Normalize and fix URL formats."""
+        if not url:
+            return url
+        
+        # Handle protocol-relative URLs
+        if url.startswith('//'):
+            return 'https:' + url
+        # Handle relative URLs
+        elif url.startswith('/'):
+            return 'https://music.apple.com' + url
+        # Return absolute URLs as-is
+        else:
+            return url
+    
+    def extract_show_data(self, element, image_data: dict = None) -> Optional[Dict]:
         """Extract show data from a schedule element."""
         try:
             # Get all text content
@@ -163,13 +230,54 @@ class AppleMusicScheduleScraper:
                         description = desc_text
                         break
             
-            # Extract artwork URL
+            # Extract artwork URL - comprehensive search for show thumbnails
             artwork_url = None
-            img_elem = element.select_one('img')
-            if img_elem:
-                artwork_url = img_elem.get('src') or img_elem.get('data-src') or img_elem.get('data-lazy-src')
-                if artwork_url and artwork_url.startswith('//'):
-                    artwork_url = 'https:' + artwork_url
+            image_data = image_data or {}
+            
+            # First, try to match with the image data extracted via JavaScript
+            if image_data:
+                element_text = full_text[:100]
+                for text_key, img_url in image_data.items():
+                    if element_text in text_key or text_key in element_text:
+                        artwork_url = self._normalize_url(img_url)
+                        break
+            
+            # If not found in image_data, look for img elements with actual artwork
+            if not artwork_url:
+                img_elements = element.select('img')
+                for img_elem in img_elements:
+                    # Try different attributes that might contain the image URL
+                    for attr in ['src', 'data-src', 'data-lazy-src', 'data-original', 'srcset', 'data-srcset']:
+                        url = img_elem.get(attr)
+                        if url and not url.endswith('1x1.gif'):
+                            # Look for URLs that contain actual image content
+                            if any(keyword in url.lower() for keyword in ['artwork', 'image', 'thumb', 'cover', '.jpg', '.png', '.webp']):
+                                artwork_url = self._normalize_url(url)
+                                break
+                    if artwork_url:
+                        break
+            
+            # Look for background images in any element
+            if not artwork_url:
+                bg_elements = element.select('[style*="background-image"], [data-style*="background-image"]')
+                for bg_elem in bg_elements:
+                    style = bg_elem.get('style', '') + bg_elem.get('data-style', '')
+                    bg_match = re.search(r'background-image:\s*url\(["\']?([^"\']+)["\']?\)', style)
+                    if bg_match:
+                        bg_url = bg_match.group(1)
+                        if not bg_url.endswith('1x1.gif'):
+                            if any(keyword in bg_url.lower() for keyword in ['artwork', 'image', 'thumb', 'cover', '.jpg', '.png', '.webp']):
+                                artwork_url = self._normalize_url(bg_url)
+                                break
+            
+            # Look for data attributes that might contain artwork URLs
+            if not artwork_url:
+                for attr in element.attrs:
+                    if 'artwork' in attr.lower() or 'image' in attr.lower() or 'thumb' in attr.lower():
+                        url = element.get(attr)
+                        if url and not url.endswith('1x1.gif'):
+                            artwork_url = self._normalize_url(url)
+                            break
             
             # Extract show URL
             show_url = None
@@ -202,12 +310,12 @@ class AppleMusicScheduleScraper:
         for station_name, url in self.stations.items():
             print(f"Fetching {station_name} schedule from: {url}")
             
-            html = self.fetch_page(url)
+            html, image_data = self.fetch_page(url)
             if not html:
                 print(f"Failed to fetch {station_name}")
                 continue
                 
-            shows = self.parse_schedule(html)
+            shows = self.parse_schedule(html, image_data)
             
             # Add station name to each show
             for show in shows:
