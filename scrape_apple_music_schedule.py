@@ -36,61 +36,82 @@ class AppleMusicScheduleScraper:
                 # Wait for schedule content to load
                 page.wait_for_timeout(5000)
                 
-                # Wait for images to load by checking for img elements with proper src
+                # Wait for images to load - look for the actual Apple Music image domains
                 try:
                     page.wait_for_function(
-                        "() => document.querySelectorAll('img[src*=\"artwork\"]').length > 0 || "
-                        "document.querySelectorAll('[style*=\"background-image\"]').length > 0 || "
-                        "document.querySelectorAll('img').length > 10",
-                        timeout=10000
+                        "() => document.querySelectorAll('img[src*=\"mzstatic.com\"]').length > 0 || "
+                        "document.querySelectorAll('img[src*=\"artwork\"]').length > 0 || "
+                        "document.querySelectorAll('[style*=\"mzstatic.com\"]').length > 0",
+                        timeout=15000
                     )
                 except:
-                    pass  # Continue even if images don't load
+                    print(f"Images may not have fully loaded for {url}")
                 
-                # Additional wait for dynamic content
+                # Additional wait for dynamic content and lazy loading
+                page.wait_for_timeout(3000)
+                
+                # Scroll down to trigger lazy loading
+                page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
                 page.wait_for_timeout(2000)
                 
-                # Extract image URLs using JavaScript
+                # Scroll back up
+                page.evaluate("window.scrollTo(0, 0)")
+                page.wait_for_timeout(1000)
+                
+                # Extract image URLs using JavaScript - debug version
                 image_data = page.evaluate("""
                     () => {
                         const imageMap = {};
+                        const debugInfo = {};
                         
-                        // Find all elements that might contain show information
-                        const showElements = document.querySelectorAll('[class*="item"], [class*="card"], [class*="show"], [class*="schedule"]');
+                        // Get all images 
+                        const allImages = document.querySelectorAll('img');
+                        debugInfo.totalImages = allImages.length;
                         
-                        showElements.forEach((element, index) => {
+                        const mzstaticImages = document.querySelectorAll('img[src*="mzstatic.com"]');
+                        debugInfo.mzstaticImages = mzstaticImages.length;
+                        
+                        // Get all images and their src attributes for debugging
+                        const allImageSrcs = Array.from(allImages).map(img => img.src).filter(src => src && src.length > 10);
+                        debugInfo.imageSources = allImageSrcs.slice(0, 10); // First 10 for debugging
+                        
+                        // Look for show elements more specifically
+                        const potentialShows = document.querySelectorAll('[class*="item"], [class*="card"], [class*="tile"], [role="listitem"], li, [class*="show"]');
+                        debugInfo.potentialShows = potentialShows.length;
+                        
+                        potentialShows.forEach((element, index) => {
                             const text = element.textContent.trim();
                             
-                            // Look for images within this element
-                            const images = element.querySelectorAll('img');
-                            images.forEach(img => {
-                                const src = img.src || img.dataset.src || img.dataset.lazySrc;
-                                if (src && !src.includes('1x1.gif') && (src.includes('artwork') || src.includes('image'))) {
-                                    imageMap[text.substring(0, 100)] = src;
-                                }
-                            });
-                            
-                            // Look for background images
-                            const elementsWithBg = element.querySelectorAll('[style*="background-image"]');
-                            elementsWithBg.forEach(bgElement => {
-                                const style = bgElement.style.backgroundImage;
-                                if (style) {
-                                    const match = style.match(/url\\(["\']?([^"\']+)["\']?\\)/);
-                                    if (match && match[1] && !match[1].includes('1x1.gif')) {
-                                        imageMap[text.substring(0, 100)] = match[1];
+                            // Look for time pattern to identify show blocks
+                            if (text.match(/\\d{1,2}\\s*[–-]\\s*\\d{1,2}\\s*(AM|PM)/i)) {
+                                // Look for images within this show element
+                                const images = element.querySelectorAll('img');
+                                images.forEach(img => {
+                                    const src = img.src;
+                                    if (src && src.length > 10) {
+                                        const key = text.substring(0, 100);
+                                        imageMap[key] = src;
                                     }
-                                }
-                            });
+                                });
+                            }
                         });
                         
-                        return imageMap;
+                        debugInfo.imageMapSize = Object.keys(imageMap).length;
+                        
+                        return {
+                            imageMap: imageMap,
+                            debug: debugInfo
+                        };
                     }
                 """)
+                
+                print(f"Debug info for {url}: {image_data.get('debug', {})}")
+                actual_image_data = image_data.get('imageMap', {})
                 
                 # Get the page content
                 html = page.content()
                 browser.close()
-                return html, image_data
+                return html, actual_image_data
                 
         except Exception as e:
             print(f"Error fetching page {url}: {e}")
