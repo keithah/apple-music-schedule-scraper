@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-08-20T19:27:23.803523",
+  "scraped_at": "2025-08-20T19:35:18.108255",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -11,8 +11,8 @@
   "shows": [
     {
       "time_slot": "7 – 9 PM",
-      "title": "LIVE · 7 – 9 PM",
-      "description": "LIVE · 7 – 9 PMThe Ebro ShowCash Cobain meets up with Ebro Darden in our NYC studio.",
+      "title": "The Ebro Show",
+      "description": "The Ebro ShowCash Cobain meets up with Ebro Darden in our NYC studio.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/1c/a9/23/1ca923d0-7859-2403-629a-83ebe3af6cfe/f4897bc2-340c-4eca-adcf-127cc0b8d3b4.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-ebro-show/990473683",
       "raw_text": "LIVE · 7 – 9 PM The Ebro Show Cash Cobain meets up with Ebro Darden in our NYC studio.",
@@ -22,7 +22,7 @@
     {
       "time_slot": "9 – 10 PM",
       "title": "Ruel",
-      "description": "RuelRuel hosts an hour of live radio on Apple Music 1.",
+      "description": "RuelRuel hosts an hour of",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/f5/14/46/f5144683-d1f9-2ecd-f87b-67affa0d90f0/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
       "raw_text": "9 – 10 PM Ruel Ruel hosts an hour of live radio on Apple Music 1.",
@@ -32,7 +32,7 @@
     {
       "time_slot": "12 – 1 AM",
       "title": "Frost Children",
-      "description": "Frost ChildrenFrost Children are live on Apple Music 1 with an exclusive DJ set.",
+      "description": "Frost ChildrenFrost Children are",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f4/6b/3b/f46b3b1b-85bd-a731-96f7-08ccaacbf214/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
       "raw_text": "12 – 1 AM Frost Children Frost Children are live on Apple Music 1 with an exclusive DJ set.",
@@ -151,8 +151,8 @@
     },
     {
       "time_slot": "6 – 8 PM",
-      "title": "LIVE · 6 – 8 PM",
-      "description": "LIVE · 6 – 8 PMThe Estelle ShowFrom the singer’s library to your ears.",
+      "title": "The Estelle Show",
+      "description": "The Estelle ShowFrom the singer’s library to your ears.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/af/29/1d/af291d47-7feb-2942-461f-3c8ac86b94ec/386a40c2-f584-4d7f-8021-883a85d79377.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
       "raw_text": "LIVE · 6 – 8 PM The Estelle Show From the singer’s library to your ears.",
@@ -331,8 +331,8 @@
     },
     {
       "time_slot": "7 – 8 PM",
-      "title": "LIVE · 7 – 8 PM",
-      "description": "LIVE · 7 – 8 PMThe Country ListWhere it sounds like home.",
+      "title": "The Country List",
+      "description": "The Country ListWhere it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
       "raw_text": "LIVE · 7 – 8 PM The Country List Where it sounds like home.",
@@ -491,8 +491,8 @@
     },
     {
       "time_slot": "6 – 8 PM",
-      "title": "LIVE · 6 – 8 PM",
-      "description": "LIVE · 6 – 8 PMLa ListaLa cultura que te mueve.",
+      "title": "La Lista",
+      "description": "La ListaLa cultura que te mueve.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "LIVE · 6 – 8 PM La Lista La cultura que te mueve.",
@@ -532,7 +532,7 @@
     {
       "time_slot": "05 – 5 AM",
       "title": "4:05 – 5 AM",
-      "description": "4:05 – 5 AMLa ListaLa cultura que te mueve.",
+      "description": "La ListaLa cultura que te mueve.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "4:05 – 5 AM La Lista La cultura que te mueve.",
@@ -611,8 +611,8 @@
     },
     {
       "time_slot": "35 – 1 PM",
-      "title": "12:35 – 1 PM",
-      "description": "12:35 – 1 PMThe Club MixWhere the mix never ends.",
+      "title": "12:",
+      "description": "Where the mix never ends.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "12:35 – 1 PM The Club Mix Where the mix never ends.",
@@ -651,8 +651,8 @@
     },
     {
       "time_slot": "7 – 9 PM",
-      "title": "LIVE · 7 – 9 PM",
-      "description": "LIVE · 7 – 9 PMThe Chill ListListen and let go.",
+      "title": "The Chill List",
+      "description": "The Chill ListListen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "LIVE · 7 – 9 PM The Chill List Listen and let go.",
