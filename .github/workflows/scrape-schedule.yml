@@ -20,7 +20,7 @@ jobs:
     - uses: actions/checkout@v4
     
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
         
@@ -28,7 +28,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        playwright install chromium
+        playwright install --with-deps chromium
         
     - name: Run scraper
       run: |
@@ -38,14 +38,24 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: apple-music-schedule-${{ github.run_number }}
-        path: apple_music_schedule.json
+        path: |
+          apple_music_schedule.csv
+          apple_music_schedule.json
         
     - name: Commit and push if changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add apple_music_schedule.json
-        git diff --staged --quiet || git commit -m "Update Apple Music schedule data"
-        git push
+        git add apple_music_schedule.csv apple_music_schedule.json
+        if ! git diff --staged --quiet; then
+          git commit -m "Update Apple Music schedule data - $(date -u +%Y-%m-%d_%H:%M:%S_UTC)
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>"
+          git push
+        else
+          echo "No changes to commit"
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
