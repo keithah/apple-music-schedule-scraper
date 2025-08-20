@@ -232,7 +232,7 @@ class AppleMusicScheduleScraper:
         else:
             return url
     
-    def _clean_title_description(self, text: str, time_slot: str = None) -> str:
+    def _clean_title_description(self, text: str, time_slot: str = None, is_description: bool = False, title: str = None) -> str:
         """Clean title/description by removing time slots, LIVE prefixes, and duplicated content."""
         if not text:
             return text
@@ -259,13 +259,24 @@ class AppleMusicScheduleScraper:
         if show_match and show_match.group(1).strip():
             cleaned = show_match.group(1).strip()
         
-        # Split on common separators and take the meaningful part
-        parts = re.split(r'(?:LIVE\s*[·•]?\s*)|(?:\d{1,2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM)\s*)', cleaned, flags=re.I)
-        for part in parts:
-            part = part.strip()
-            if part and len(part) > 2:
-                cleaned = part
-                break
+        # Split on common separators and take the meaningful part (but only for non-descriptions or when no title removal is needed)
+        if not is_description or not title:
+            parts = re.split(r'(?:LIVE\s*[·•]?\s*)|(?:\d{1,2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM)\s*)', cleaned, flags=re.I)
+            for part in parts:
+                part = part.strip()
+                if part and len(part) > 2:
+                    cleaned = part
+                    break
+        
+        # For descriptions, remove the title from the beginning if it's duplicated
+        if is_description and title:
+            # Remove exact title match from beginning
+            if cleaned.startswith(title):
+                cleaned = cleaned[len(title):].strip()
+            # Handle cases where title is repeated (e.g., "RuelRuel hosts...")
+            title_repeated = title + title
+            if cleaned.startswith(title_repeated):
+                cleaned = cleaned[len(title_repeated):].strip()
         
         return cleaned.strip()
     
@@ -296,7 +307,7 @@ class AppleMusicScheduleScraper:
                     # Skip if it's just the time
                     if candidate_title and not re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', candidate_title, re.I):
                         # Clean up the title
-                        candidate_title = self._clean_title_description(candidate_title, time_slot)
+                        candidate_title = self._clean_title_description(candidate_title, time_slot, is_description=False)
                         if candidate_title:  # Only set if something meaningful remains
                             title = candidate_title
                             break
@@ -313,7 +324,7 @@ class AppleMusicScheduleScraper:
                         continue
                     # Take the first meaningful line as potential title
                     if line and len(line) > 3:
-                        cleaned_line = self._clean_title_description(line, time_slot)
+                        cleaned_line = self._clean_title_description(line, time_slot, is_description=False)
                         if cleaned_line and len(cleaned_line) > 2:
                             title = cleaned_line
                             break
@@ -330,8 +341,8 @@ class AppleMusicScheduleScraper:
                 if desc_elem:
                     desc_text = desc_elem.get_text(strip=True)
                     if desc_text and desc_text != title and not re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', desc_text, re.I):
-                        # Clean up the description
-                        cleaned_desc = self._clean_title_description(desc_text, time_slot)
+                        # Clean up the description, removing title duplication
+                        cleaned_desc = self._clean_title_description(desc_text, time_slot, is_description=True, title=title)
                         # Make sure it's different from title and meaningful
                         if cleaned_desc and cleaned_desc != title and len(cleaned_desc) > 5:
                             description = cleaned_desc
@@ -492,7 +503,7 @@ class AppleMusicScheduleScraper:
                 'time_slot': show.get('time_slot', ''),
                 'show_title': show.get('title', ''),
                 'description': show.get('description', ''),
-                'image_url': show.get('artwork_url', ''),
+                'show_image_url': show.get('artwork_url', ''),
                 'show_url': show.get('show_url', ''),
                 'scraped_at': datetime.now().isoformat()
             })
