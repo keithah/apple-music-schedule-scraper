@@ -232,6 +232,43 @@ class AppleMusicScheduleScraper:
         else:
             return url
     
+    def _clean_title_description(self, text: str, time_slot: str = None) -> str:
+        """Clean title/description by removing time slots, LIVE prefixes, and duplicated content."""
+        if not text:
+            return text
+            
+        cleaned = text
+        
+        # Remove LIVE prefix variations
+        cleaned = re.sub(r'^LIVE\s*[·•]\s*', '', cleaned, flags=re.I)
+        cleaned = re.sub(r'^LIVE\s+', '', cleaned, flags=re.I)
+        
+        # Remove time slot from beginning if it exists
+        if time_slot:
+            cleaned = re.sub(r'^' + re.escape(time_slot) + r'\s*', '', cleaned)
+        
+        # Remove any remaining time patterns at the start
+        cleaned = re.sub(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)\s*', '', cleaned, flags=re.I)
+        
+        # Remove "LIVE ·" patterns anywhere in the text
+        cleaned = re.sub(r'LIVE\s*[·•]\s*\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)\s*', '', cleaned, flags=re.I)
+        
+        # Handle cases like "LIVE · 7 – 9 PMThe Ebro Show" -> "The Ebro Show"
+        # Look for show title after time patterns
+        show_match = re.search(r'(?:LIVE\s*[·•]?\s*)?(?:\d{1,2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM)\s*)?(.+)', cleaned, re.I)
+        if show_match and show_match.group(1).strip():
+            cleaned = show_match.group(1).strip()
+        
+        # Split on common separators and take the meaningful part
+        parts = re.split(r'(?:LIVE\s*[·•]?\s*)|(?:\d{1,2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM)\s*)', cleaned, flags=re.I)
+        for part in parts:
+            part = part.strip()
+            if part and len(part) > 2:
+                cleaned = part
+                break
+        
+        return cleaned.strip()
+    
     def extract_show_data(self, element, image_data: dict = None) -> Optional[Dict]:
         """Extract show data from a schedule element."""
         try:
@@ -258,11 +295,11 @@ class AppleMusicScheduleScraper:
                     candidate_title = title_elem.get_text(strip=True)
                     # Skip if it's just the time
                     if candidate_title and not re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', candidate_title, re.I):
-                        # Remove time slot from beginning of title if it exists
-                        if time_slot:
-                            candidate_title = re.sub(r'^' + re.escape(time_slot) + r'\s*', '', candidate_title)
-                        title = candidate_title
-                        break
+                        # Clean up the title
+                        candidate_title = self._clean_title_description(candidate_title, time_slot)
+                        if candidate_title:  # Only set if something meaningful remains
+                            title = candidate_title
+                            break
             
             # If no title found, try to extract from structured text
             if not title and full_text:
@@ -271,13 +308,15 @@ class AppleMusicScheduleScraper:
                     # Skip time-only lines
                     if re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', line, re.I):
                         continue
-                    # Take the first non-time line as potential title
+                    # Skip LIVE-only lines
+                    if re.match(r'^LIVE\s*[·•]?\s*$', line, re.I):
+                        continue
+                    # Take the first meaningful line as potential title
                     if line and len(line) > 3:
-                        # Remove time slot from beginning of title if it exists
-                        if time_slot:
-                            line = re.sub(r'^' + re.escape(time_slot) + r'\s*', '', line)
-                        title = line
-                        break
+                        cleaned_line = self._clean_title_description(line, time_slot)
+                        if cleaned_line and len(cleaned_line) > 2:
+                            title = cleaned_line
+                            break
             
             # Extract description
             description = None
@@ -291,11 +330,12 @@ class AppleMusicScheduleScraper:
                 if desc_elem:
                     desc_text = desc_elem.get_text(strip=True)
                     if desc_text and desc_text != title and not re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', desc_text, re.I):
-                        # Remove time slot from beginning of description if it exists
-                        if time_slot:
-                            desc_text = re.sub(r'^' + re.escape(time_slot) + r'\s*', '', desc_text)
-                        description = desc_text
-                        break
+                        # Clean up the description
+                        cleaned_desc = self._clean_title_description(desc_text, time_slot)
+                        # Make sure it's different from title and meaningful
+                        if cleaned_desc and cleaned_desc != title and len(cleaned_desc) > 5:
+                            description = cleaned_desc
+                            break
             
             # Extract artwork URL - comprehensive search for show thumbnails
             artwork_url = None
