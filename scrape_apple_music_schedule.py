@@ -221,6 +221,9 @@ class AppleMusicScheduleScraper:
                     candidate_title = title_elem.get_text(strip=True)
                     # Skip if it's just the time
                     if candidate_title and not re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', candidate_title, re.I):
+                        # Remove time slot from beginning of title if it exists
+                        if time_slot:
+                            candidate_title = re.sub(r'^' + re.escape(time_slot) + r'\s*', '', candidate_title)
                         title = candidate_title
                         break
             
@@ -233,6 +236,9 @@ class AppleMusicScheduleScraper:
                         continue
                     # Take the first non-time line as potential title
                     if line and len(line) > 3:
+                        # Remove time slot from beginning of title if it exists
+                        if time_slot:
+                            line = re.sub(r'^' + re.escape(time_slot) + r'\s*', '', line)
                         title = line
                         break
             
@@ -248,6 +254,9 @@ class AppleMusicScheduleScraper:
                 if desc_elem:
                     desc_text = desc_elem.get_text(strip=True)
                     if desc_text and desc_text != title and not re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', desc_text, re.I):
+                        # Remove time slot from beginning of description if it exists
+                        if time_slot:
+                            desc_text = re.sub(r'^' + re.escape(time_slot) + r'\s*', '', desc_text)
                         description = desc_text
                         break
             

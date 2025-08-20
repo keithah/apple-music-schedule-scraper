@@ -48,11 +48,7 @@ jobs:
         git config --local user.name "GitHub Action"
         git add apple_music_schedule.csv apple_music_schedule.json
         if ! git diff --staged --quiet; then
-          git commit -m "Update Apple Music schedule data - $(date -u +%Y-%m-%d_%H:%M:%S_UTC)
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude <noreply@anthropic.com>"
+          git commit -m "Update Apple Music schedule data - $(date -u +%Y-%m-%d_%H:%M:%S_UTC)"
           git push
         else
           echo "No changes to commit"
