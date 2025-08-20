@@ -43,23 +43,44 @@ jobs:
         key: ${{ runner.os }}-playwright-${{ hashFiles('**/requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-playwright-
+          
+    - name: Cache apt packages
+      uses: actions/cache@v4
+      with:
+        path: /var/cache/apt
+        key: ${{ runner.os }}-apt-minimal-deps
+        restore-keys: |
+          ${{ runner.os }}-apt-
         
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         
+    - name: Install minimal system dependencies
+      run: |
+        # Check if essential libs are available
+        if ! dpkg -l | grep -q libnss3; then
+          echo "Installing minimal system dependencies..."
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends \
+            libnss3 \
+            libatk-bridge2.0-0 \
+            libdrm2 \
+            libxcomposite1 \
+            libxdamage1 \
+            libxrandr2 \
+            libgbm1 \
+            libxss1 \
+            libasound2
+        else
+          echo "System dependencies already available"
+        fi
+          
     - name: Install Playwright browser
       run: |
-        # Check if chromium is already cached
-        if [ ! -d ~/.cache/ms-playwright/chromium-* ]; then
-          echo "Installing Playwright chromium browser..."
-          playwright install chromium --with-deps
-        else
-          echo "Playwright chromium browser found in cache"
-          # Still need to install system deps if not cached
-          playwright install-deps chromium
-        fi
+        # Install browser without system deps (we handled them above)
+        playwright install chromium
         
     - name: Run scraper
       run: |
