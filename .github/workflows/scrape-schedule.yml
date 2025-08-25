@@ -2,8 +2,8 @@ name: Apple Music Schedule Scraper
 
 on:
   schedule:
-    # Run every 6 hours
-    - cron: '0 */6 * * *'
+    # Run at 1:30 AM and 1:30 PM Pacific Time (8:30 AM and 8:30 PM UTC during PDT)
+    - cron: '30 8,20 * * *'
   workflow_dispatch: # Allow manual trigger
   push:
     branches: [ main ]
