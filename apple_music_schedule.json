@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-08-25T14:57:32.598551-07:00",
+  "scraped_at": "2025-08-25T15:02:37.529133-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "9 – 10 PM",
-      "title": "Lecrae Lecrae",
-      "description": "hosts his own show on Apple Music Radio.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/bb/34/d2/bb34d2b7-064b-63c3-d9ab-16364fd415e9/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
-      "raw_text": "LIVE · 9 – 10 PM Lecrae Lecrae hosts his own show on Apple Music Radio.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "10 – 11 PM",
       "title": "The Global Chart Show",
       "description": "With Brooke Reese The most popular songs on Apple Music.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/68/61/da/6861daa3-4de4-c484-61a4-6aefc5fc0e78/7d4fde68-78db-40cc-9be0-3ca6bab907f1.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
-      "raw_text": "10 – 11 PM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
+      "raw_text": "LIVE · 10 – 11 PM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -370,22 +360,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "8 – 10 PM",
-      "title": "The Ward Guenther Show",
-      "description": "Tyler Nance talks his new viral song “Keeps Me Sane.”",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/e9/ef/1b/e9ef1b76-a78f-4bfb-b6ea-c293e3945d5d/0d2f99a6-efce-4e86-a0e6-02e5c553530c.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-ward-guenther-show/1500977263",
-      "raw_text": "LIVE · 8 – 10 PM The Ward Guenther Show Tyler Nance talks his new viral song “Keeps Me Sane.”",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
-    },
-    {
       "time_slot": "10PM – 12AM",
       "title": "The Country List",
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "10PM – 12AM The Country List Where it sounds like home.",
+      "raw_text": "LIVE · 10PM – 12AM The Country List Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -690,22 +670,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "9 – 10 PM",
-      "title": "Acoustic Chill Pop",
-      "description": "and indie with a lighter, unplugged touch.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 9 – 10 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "10PM – 12AM",
       "title": "The Chill List",
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "10PM – 12AM The Chill List Listen and let go.",
+      "raw_text": "LIVE · 10PM – 12AM The Chill List Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -860,22 +830,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "8 – 10 PM",
-      "title": "La Oficial La",
-      "description": "casa oficial de la música mexicana.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
-      "raw_text": "LIVE · 8 – 10 PM La Oficial La casa oficial de la música mexicana.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
       "time_slot": "10PM – 12AM",
       "title": "La Lista La",
       "description": "cultura que te mueve.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "10PM – 12AM La Lista La cultura que te mueve.",
+      "raw_text": "LIVE · 10PM – 12AM La Lista La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
