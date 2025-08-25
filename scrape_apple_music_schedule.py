@@ -255,8 +255,8 @@ class AppleMusicScheduleScraper:
             cleaned = re.sub(r'^' + escaped_time + r'\s*', '', cleaned)
         
         # More comprehensive time pattern removal that handles concatenated cases
-        # This handles patterns like "7 – 9 PMThe Show" -> "The Show"
-        cleaned = re.sub(r'^(?:LIVE\s*[·•]?\s*)?(\d{1,2}(?::\d{2})?\s*[–-]\s*\d{1,2}(?::\d{2})?\s*(?:AM|PM))\s*', '', cleaned, flags=re.I)
+        # This handles patterns like "7 – 9 PMThe Show" -> "The Show" and "11PM – 12AM The Show" -> "The Show"
+        cleaned = re.sub(r'^(?:LIVE\s*[·•]?\s*)?(\d{1,2}(?::\d{2})?(?:AM|PM)?\s*[–-]\s*\d{1,2}(?::\d{2})?(?:AM|PM))\s*', '', cleaned, flags=re.I)
         
         # Additional cleanup for remaining patterns
         cleaned = re.sub(r'^(\d{1,2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM))\s*', '', cleaned, flags=re.I)
@@ -307,10 +307,12 @@ class AppleMusicScheduleScraper:
             
             # Extract time slot using improved regex - prefer complete/longer time patterns
             patterns = [
-                r'(\d{1,2}:\d{2}\s*[–-]\s*\d{1,2}:\d{2}\s*(?:AM|PM))',  # 7:05 - 9:00 PM
-                r'(\d{1,2}:\d{2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM))',        # 7:05 - 9 PM  
-                r'(\d{1,2}\s*[–-]\s*\d{1,2}:\d{2}\s*(?:AM|PM))',        # 7 - 9:00 PM
-                r'(\d{1,2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM))'               # 7 - 9 PM
+                r'(\d{1,2}(?:AM|PM)\s*[–-]\s*\d{1,2}(?:AM|PM))',              # 11PM - 12AM
+                r'(\d{1,2}:\d{2}(?:AM|PM)\s*[–-]\s*\d{1,2}:\d{2}(?:AM|PM))',  # 7:05PM - 9:00PM
+                r'(\d{1,2}:\d{2}\s*[–-]\s*\d{1,2}:\d{2}\s*(?:AM|PM))',        # 7:05 - 9:00 PM
+                r'(\d{1,2}:\d{2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM))',              # 7:05 - 9 PM  
+                r'(\d{1,2}\s*[–-]\s*\d{1,2}:\d{2}\s*(?:AM|PM))',              # 7 - 9:00 PM
+                r'(\d{1,2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM))'                     # 7 - 9 PM
             ]
             
             all_matches = []
