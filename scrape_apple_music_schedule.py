@@ -11,7 +11,7 @@ import re
 import pandas as pd
 from datetime import datetime
 import pytz
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Tuple
 
 class AppleMusicScheduleScraper:
     def __init__(self):
@@ -238,6 +238,114 @@ class AppleMusicScheduleScraper:
         # Return absolute URLs as-is
         else:
             return url
+    
+    def _parse_time_component(self, time_str: str) -> Tuple[int, int, str]:
+        """Parse a time component like '7:05 PM' or '11PM' into hour, minute, period."""
+        time_str = time_str.strip()
+        
+        # Check for AM/PM attached to time
+        am_pm_match = re.match(r'(\d{1,2})(?::(\d{2}))?(?:\s*)?(AM|PM)', time_str, re.I)
+        if am_pm_match:
+            hour = int(am_pm_match.group(1))
+            minute = int(am_pm_match.group(2) or 0)
+            period = am_pm_match.group(3).upper()
+            return hour, minute, period
+            
+        # Just numbers without AM/PM
+        num_match = re.match(r'(\d{1,2})(?::(\d{2}))?', time_str)
+        if num_match:
+            hour = int(num_match.group(1))
+            minute = int(num_match.group(2) or 0)
+            return hour, minute, None
+            
+        return None, None, None
+    
+    def _convert_utc_to_pacific(self, time_slot_utc: str) -> str:
+        """Convert UTC time slot to Pacific time."""
+        if not time_slot_utc:
+            return None
+            
+        try:
+            # Parse different time slot formats
+            # Formats: "11PM – 12AM", "7:05 – 9 PM", "10AM – 12PM"
+            patterns = [
+                r'(\d{1,2}(?::\d{2})?(?:AM|PM)?)\s*[–-]\s*(\d{1,2}(?::\d{2})?(?:AM|PM)?)',
+            ]
+            
+            match = None
+            for pattern in patterns:
+                match = re.match(pattern, time_slot_utc, re.I)
+                if match:
+                    break
+                    
+            if not match:
+                return time_slot_utc
+                
+            start_str = match.group(1)
+            end_str = match.group(2)
+            
+            # Parse start time
+            start_hour, start_min, start_period = self._parse_time_component(start_str)
+            end_hour, end_min, end_period = self._parse_time_component(end_str)
+            
+            # If end doesn't have AM/PM, infer it
+            if end_period is None and start_period:
+                # If end hour is less than start, it probably switches periods
+                if end_hour < start_hour:
+                    end_period = 'AM' if start_period == 'PM' else 'PM'
+                else:
+                    end_period = start_period
+                    
+            # Convert to 24-hour format
+            if start_period == 'PM' and start_hour != 12:
+                start_hour += 12
+            elif start_period == 'AM' and start_hour == 12:
+                start_hour = 0
+                
+            if end_period == 'PM' and end_hour != 12:
+                end_hour += 12
+            elif end_period == 'AM' and end_hour == 12:
+                end_hour = 0
+            
+            # Apply Pacific Time offset (UTC-8 for PST, UTC-7 for PDT)
+            # Current date determines if we're in PDT or PST
+            pacific_tz = pytz.timezone('America/Los_Angeles')
+            now = datetime.now(pacific_tz)
+            is_dst = bool(now.dst())
+            offset = 7 if is_dst else 8
+            
+            # Subtract offset hours
+            start_hour = (start_hour - offset) % 24
+            end_hour = (end_hour - offset) % 24
+            
+            # Convert back to 12-hour format
+            start_period = 'AM' if start_hour < 12 else 'PM'
+            end_period = 'AM' if end_hour < 12 else 'PM'
+            
+            display_start_hour = start_hour % 12
+            if display_start_hour == 0:
+                display_start_hour = 12
+                
+            display_end_hour = end_hour % 12
+            if display_end_hour == 0:
+                display_end_hour = 12
+            
+            # Format the result
+            if start_min > 0:
+                start_formatted = f"{display_start_hour}:{start_min:02d}{start_period}"
+            else:
+                start_formatted = f"{display_start_hour}{start_period}"
+                
+            if end_min > 0:
+                end_formatted = f"{display_end_hour}:{end_min:02d}{end_period}"
+            else:
+                end_formatted = f"{display_end_hour}{end_period}"
+            
+            return f"{start_formatted} – {end_formatted}"
+            
+        except Exception as e:
+            print(f"Error converting time: {e}")
+            return time_slot_utc
     
     def _clean_title_description(self, text: str, time_slot: str = None, is_description: bool = False, title: str = None) -> str:
         """Clean title/description by removing time slots, LIVE prefixes, and duplicated content."""
@@ -587,14 +695,18 @@ class AppleMusicScheduleScraper:
         pacific_tz = pytz.timezone('America/Los_Angeles')
         scraped_at = datetime.now(pacific_tz).isoformat()
         
-        # Prepare data for CSV
+        # Prepare data for CSV with new column order
         csv_data = []
         for show in shows:
+            time_slot_utc = show.get('time_slot', '')
+            time_slot_pacific = self._convert_utc_to_pacific(time_slot_utc)
+            
             csv_data.append({
                 'station': show.get('station', ''),
-                'time_slot': show.get('time_slot', ''),
+                'time_slot_pacific': time_slot_pacific,
                 'show_title': show.get('title', ''),
                 'description': show.get('description', ''),
+                'time_slot_utc': time_slot_utc,
                 'show_image_url': show.get('artwork_url', ''),
                 'show_url': show.get('show_url', ''),
                 'scraped_at': scraped_at
