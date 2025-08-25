@@ -101,6 +101,7 @@ jobs:
         git add apple_music_schedule.csv apple_music_schedule.json
         if ! git diff --staged --quiet; then
           git commit -m "Update Apple Music schedule data - $(date -u +%Y-%m-%d_%H:%M:%S_UTC)"
+          git pull --rebase origin main
           git push
         else
           echo "No changes to commit"
