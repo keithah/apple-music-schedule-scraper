@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-08-25T14:32:04.971066-07:00",
+  "scraped_at": "2025-08-25T14:38:25.860272-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -11,11 +11,11 @@
   "shows": [
     {
       "time_slot": "9 – 10 PM",
-      "title": "Lecrae Your",
-      "description": "favorite artists host their own shows on Apple Music Radio.",
+      "title": "Lecrae Lecrae",
+      "description": "hosts his own show on Apple Music Radio.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/bb/34/d2/bb34d2b7-064b-63c3-d9ab-16364fd415e9/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
-      "raw_text": "LIVE · 9 – 10 PM Lecrae Your favorite artists host their own shows on Apple Music Radio.",
+      "raw_text": "LIVE · 9 – 10 PM Lecrae Lecrae hosts his own show on Apple Music Radio.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -321,11 +321,11 @@
     },
     {
       "time_slot": "3 – 5 PM",
-      "title": "Jayde Donovan Good",
-      "description": "vibes and the best pop from the ’90s and 2000s.",
+      "title": "Jayde Donovan Riding",
+      "description": "the positive vibes of early '00s hip hop.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "3 – 5 PM Jayde Donovan Good vibes and the best pop from the ’90s and 2000s.",
+      "raw_text": "3 – 5 PM Jayde Donovan Riding the positive vibes of early '00s hip hop.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -492,10 +492,10 @@
     {
       "time_slot": "2 – 4 PM",
       "title": "The Kelleigh Bannen Show",
-      "description": "The voice of Nashville.",
+      "description": "Fresh finds from Kelleigh's playlist.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/28/d2/d7/28d2d71f-e735-ead1-5fae-526e3e172a86/71ddc8cc-6066-44af-acb6-b444ed3cd250.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-kelleigh-bannen-show/1496851605",
-      "raw_text": "2 – 4 PM The Kelleigh Bannen Show The voice of Nashville.",
+      "raw_text": "2 – 4 PM The Kelleigh Bannen Show Fresh finds from Kelleigh's playlist.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
