@@ -22,7 +22,7 @@ A Python script that scrapes schedule information from multiple Apple Music radi
 
 - Outputs data in both CSV and JSON formats with dual time zones
 - Converts UTC schedule times to Pacific Time automatically
-- Automated scraping via GitHub Actions (runs every 6 hours)
+- Automated scraping via GitHub Actions (runs twice daily at 1:30 AM and 1:30 PM Pacific Time)
 
 ## Installation
 
@@ -52,8 +52,9 @@ This will create two output files:
 ## GitHub Actions
 
 The repository includes a GitHub Actions workflow that:
-- Runs automatically every 6 hours (at 00:00, 06:00, 12:00, and 18:00 UTC)
+- Runs automatically twice daily at 8:30 AM and 8:30 PM UTC (1:30 AM and 1:30 PM Pacific Time)
 - Can be triggered manually via workflow dispatch
+- Auto-triggers when scraper code, requirements, or workflow files are pushed
 - Commits updated schedule data with UTC to Pacific time conversion
 - Uploads artifacts for each run
 
