@@ -10,7 +10,7 @@ A Python script that scrapes schedule information from multiple Apple Music radi
   - Apple Music Country
   - Apple Music Club
   - Apple Music Chill
-  - Apple Music Classical
+  - Apple Música Uno
 
 - Extracts show information including:
   - Station name
@@ -72,6 +72,6 @@ The repository includes a GitHub Actions workflow that:
 - **Apple Music 1**: `https://music.apple.com/us/radio/ra.978194965`
 - **Apple Music Hits**: `https://music.apple.com/us/radio/ra.1498155548`
 - **Apple Music Country**: `https://music.apple.com/us/radio/ra.1498157166`
-- **Apple Music Club**: `https://music.apple.com/us/radio/ra.1740613864`
-- **Apple Music Chill**: `https://music.apple.com/us/radio/ra.1740613859`
-- **Apple Music Classical**: `https://music.apple.com/us/radio/ra.1740614260`
+- **Apple Music Club**: `https://music.apple.com/radio/ra.1740613859`
+- **Apple Music Chill**: `https://music.apple.com/radio/ra.1740614260`
+- **Apple Música Uno**: `https://music.apple.com/radio/ra.1740613864`
