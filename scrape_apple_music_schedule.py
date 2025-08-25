@@ -19,9 +19,9 @@ class AppleMusicScheduleScraper:
             "Apple Music 1": "https://music.apple.com/us/radio/ra.978194965",
             "Apple Music Hits": "https://music.apple.com/us/radio/ra.1498155548", 
             "Apple Music Country": "https://music.apple.com/us/radio/ra.1498157166",
-            "Apple Music Club": "https://music.apple.com/us/radio/ra.1740613864",
-            "Apple Music Chill": "https://music.apple.com/us/radio/ra.1740613859",
-            "Apple Music Classical": "https://music.apple.com/us/radio/ra.1740614260"
+            "Apple Music Club": "https://music.apple.com/radio/ra.1740613859",
+            "Apple Music Chill": "https://music.apple.com/radio/ra.1740614260",
+            "Apple Musica Uno": "https://music.apple.com/radio/ra.1740613864"
         }
         
     def fetch_page(self, url: str) -> tuple[Optional[str], dict]:
