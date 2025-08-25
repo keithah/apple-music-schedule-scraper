@@ -10,6 +10,7 @@ import json
 import re
 import pandas as pd
 from datetime import datetime
+import pytz
 from typing import List, Dict, Optional
 
 class AppleMusicScheduleScraper:
@@ -28,7 +29,12 @@ class AppleMusicScheduleScraper:
         try:
             with sync_playwright() as p:
                 browser = p.chromium.launch(headless=True)
-                page = browser.new_page()
+                # Create browser context with Pacific Time timezone
+                context = browser.new_context(
+                    timezone_id='America/Los_Angeles',
+                    locale='en-US'
+                )
+                page = context.new_page()
                 
                 # Navigate to the page
                 page.goto(url, wait_until="networkidle")
@@ -147,6 +153,7 @@ class AppleMusicScheduleScraper:
                 
                 # Get the page content
                 html = page.content()
+                context.close()
                 browser.close()
                 return html, actual_image_data
                 
@@ -239,44 +246,56 @@ class AppleMusicScheduleScraper:
             
         cleaned = text
         
-        # Remove LIVE prefix variations
-        cleaned = re.sub(r'^LIVE\s*[·•]\s*', '', cleaned, flags=re.I)
-        cleaned = re.sub(r'^LIVE\s+', '', cleaned, flags=re.I)
+        # Remove LIVE prefix variations at start
+        cleaned = re.sub(r'^LIVE\s*[·•]?\s*', '', cleaned, flags=re.I)
         
-        # Remove time slot from beginning if it exists
+        # Remove time slot from beginning if it exists (exact match)
         if time_slot:
-            cleaned = re.sub(r'^' + re.escape(time_slot) + r'\s*', '', cleaned)
+            escaped_time = re.escape(time_slot)
+            cleaned = re.sub(r'^' + escaped_time + r'\s*', '', cleaned)
         
-        # Remove any remaining time patterns at the start
-        cleaned = re.sub(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)\s*', '', cleaned, flags=re.I)
+        # More comprehensive time pattern removal that handles concatenated cases
+        # This handles patterns like "7 – 9 PMThe Show" -> "The Show"
+        cleaned = re.sub(r'^(?:LIVE\s*[·•]?\s*)?(\d{1,2}(?::\d{2})?\s*[–-]\s*\d{1,2}(?::\d{2})?\s*(?:AM|PM))\s*', '', cleaned, flags=re.I)
         
-        # Remove "LIVE ·" patterns anywhere in the text
-        cleaned = re.sub(r'LIVE\s*[·•]\s*\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)\s*', '', cleaned, flags=re.I)
+        # Additional cleanup for remaining patterns
+        cleaned = re.sub(r'^(\d{1,2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM))\s*', '', cleaned, flags=re.I)
         
-        # Handle cases like "LIVE · 7 – 9 PMThe Ebro Show" -> "The Ebro Show"
-        # Look for show title after time patterns
-        show_match = re.search(r'(?:LIVE\s*[·•]?\s*)?(?:\d{1,2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM)\s*)?(.+)', cleaned, re.I)
-        if show_match and show_match.group(1).strip():
-            cleaned = show_match.group(1).strip()
+        # Remove LIVE patterns that appear mid-text
+        cleaned = re.sub(r'LIVE\s*[·•]\s*(\d{1,2}(?::\d{2})?\s*[–-]\s*\d{1,2}(?::\d{2})?\s*(?:AM|PM))\s*', '', cleaned, flags=re.I)
         
-        # Split on common separators and take the meaningful part (but only for non-descriptions or when no title removal is needed)
-        if not is_description or not title:
-            parts = re.split(r'(?:LIVE\s*[·•]?\s*)|(?:\d{1,2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM)\s*)', cleaned, flags=re.I)
-            for part in parts:
-                part = part.strip()
-                if part and len(part) > 2:
-                    cleaned = part
-                    break
+        # Handle badly concatenated time+title (e.g., "05 – 9 PM7:05 – 9 PMThe Show")
+        # Look for repeated time patterns
+        cleaned = re.sub(r'(\d{1,2}(?::\d{2})?\s*[–-]\s*\d{1,2}(?::\d{2})?\s*(?:AM|PM))\s*\1\s*', r'\1 ', cleaned, flags=re.I)
+        
+        # Final cleanup: if text starts with a time pattern followed immediately by letters, split them
+        time_title_match = re.match(r'^(\d{1,2}(?::\d{2})?\s*[–-]\s*\d{1,2}(?::\d{2})?\s*(?:AM|PM))([A-Za-z].*)$', cleaned, re.I)
+        if time_title_match:
+            cleaned = time_title_match.group(2).strip()
+        
+        # Handle concatenated words like "ShowHouston's" -> "Show Houston's"
+        # Look for common show-ending words immediately followed by capitalized words
+        cleaned = re.sub(r'(Show|List|Hits|Radio|Music)([A-Z][a-z])', r'\1 \2', cleaned)
+        
+        # Handle other common concatenations
+        cleaned = re.sub(r'([a-z])([A-Z][a-z])', r'\1 \2', cleaned)
         
         # For descriptions, remove the title from the beginning if it's duplicated
         if is_description and title:
             # Remove exact title match from beginning
-            if cleaned.startswith(title):
+            if cleaned.lower().startswith(title.lower()):
                 cleaned = cleaned[len(title):].strip()
-            # Handle cases where title is repeated (e.g., "RuelRuel hosts...")
+            # Handle cases where title is repeated (e.g., "The ShowThe Show description")
             title_repeated = title + title
-            if cleaned.startswith(title_repeated):
+            if cleaned.lower().startswith(title_repeated.lower()):
                 cleaned = cleaned[len(title_repeated):].strip()
+            # Handle concatenated title+description (e.g., "The ShowDescription text")
+            elif title and len(title) > 3:
+                # Look for title at start followed immediately by description
+                pattern = r'^' + re.escape(title) + r'([A-Z].*)'
+                match = re.match(pattern, cleaned)
+                if match:
+                    cleaned = match.group(1)
         
         return cleaned.strip()
     
@@ -286,67 +305,130 @@ class AppleMusicScheduleScraper:
             # Get all text content
             full_text = element.get_text(separator=' ', strip=True)
             
-            # Extract time slot
-            time_match = re.search(r'(\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM))', full_text, re.I)
-            time_slot = time_match.group(1) if time_match else None
+            # Extract time slot using improved regex - prefer complete/longer time patterns
+            patterns = [
+                r'(\d{1,2}:\d{2}\s*[–-]\s*\d{1,2}:\d{2}\s*(?:AM|PM))',  # 7:05 - 9:00 PM
+                r'(\d{1,2}:\d{2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM))',        # 7:05 - 9 PM  
+                r'(\d{1,2}\s*[–-]\s*\d{1,2}:\d{2}\s*(?:AM|PM))',        # 7 - 9:00 PM
+                r'(\d{1,2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM))'               # 7 - 9 PM
+            ]
             
-            # Extract show title - look for various title patterns
+            all_matches = []
+            for pattern in patterns:
+                matches = re.findall(pattern, full_text, re.I)
+                all_matches.extend(matches)
+            
+            time_slot = None
+            if all_matches:
+                # Prefer the longest/most complete time pattern
+                time_slot = max(all_matches, key=len)
+            
+            # Extract show title and description using improved algorithm
             title = None
-            
-            # Try different selectors for title
-            title_selectors = [
-                'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
-                '[class*="title"]', '[class*="name"]', '[class*="heading"]',
-                'strong', 'b', '.typography-headline'
-            ]
-            
-            for selector in title_selectors:
-                title_elem = element.select_one(selector)
-                if title_elem:
-                    candidate_title = title_elem.get_text(strip=True)
-                    # Skip if it's just the time
-                    if candidate_title and not re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', candidate_title, re.I):
-                        # Clean up the title
-                        candidate_title = self._clean_title_description(candidate_title, time_slot, is_description=False)
-                        if candidate_title:  # Only set if something meaningful remains
-                            title = candidate_title
-                            break
-            
-            # If no title found, try to extract from structured text
-            if not title and full_text:
-                lines = [line.strip() for line in full_text.split('\n') if line.strip()]
-                for line in lines:
-                    # Skip time-only lines
-                    if re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', line, re.I):
-                        continue
-                    # Skip LIVE-only lines
-                    if re.match(r'^LIVE\s*[·•]?\s*$', line, re.I):
-                        continue
-                    # Take the first meaningful line as potential title
-                    if line and len(line) > 3:
-                        cleaned_line = self._clean_title_description(line, time_slot, is_description=False)
-                        if cleaned_line and len(cleaned_line) > 2:
-                            title = cleaned_line
-                            break
-            
-            # Extract description
             description = None
-            desc_selectors = [
-                '[class*="description"]', '[class*="subtitle"]', 
-                'p', '.typography-body', '[class*="summary"]'
-            ]
             
-            for selector in desc_selectors:
-                desc_elem = element.select_one(selector)
-                if desc_elem:
-                    desc_text = desc_elem.get_text(strip=True)
-                    if desc_text and desc_text != title and not re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', desc_text, re.I):
-                        # Clean up the description, removing title duplication
-                        cleaned_desc = self._clean_title_description(desc_text, time_slot, is_description=True, title=title)
-                        # Make sure it's different from title and meaningful
-                        if cleaned_desc and cleaned_desc != title and len(cleaned_desc) > 5:
-                            description = cleaned_desc
+            # Smart extraction of title and description
+            # Clean the input text first
+            clean_text = self._clean_title_description(full_text, time_slot, is_description=False)
+            
+            if clean_text:
+                # Look for show name patterns - typically the first capitalized phrase
+                words = clean_text.split()
+                
+                # Find where the title ends and description begins
+                title_end_idx = None
+                
+                for i in range(1, len(words)):
+                    current_phrase = ' '.join(words[:i+1])
+                    
+                    # Special case: if we see "Show", that's likely the title end
+                    if words[i].lower() == 'show':
+                        title = current_phrase
+                        title_end_idx = i + 1
+                        break
+                    
+                    # Check if this looks like a complete show title
+                    if i < len(words) - 1:  # Not the last word
+                        next_word = words[i+1]
+                        next_words = ' '.join(words[i+1:]).lower()
+                        
+                        # Don't break on description starters if "Show" might still be coming
+                        # Check if "Show" appears in next few words
+                        upcoming_words = words[i+1:i+4] if i+3 < len(words) else words[i+1:]
+                        has_show_coming = any(w.lower() == 'show' for w in upcoming_words)
+                        
+                        # Strong indicators this is end of title (but not if Show is coming)
+                        if (not has_show_coming and (
+                            words[i].lower() in ['list', 'hits', 'radio', 'music'] or  # Common show endings
+                            next_word[0].islower() or  # Next word starts lowercase (likely description)
+                            # Only break on description starters if no "Show" is expected
+                            next_words.startswith(('your favorite', 'daily dispatches', 'from the'))
+                        )):
+                            title = current_phrase
+                            title_end_idx = i + 1
                             break
+                
+                # If no clear break found, use heuristics
+                if not title and len(words) >= 2:
+                    # Default: take first 2-3 words as title if they look like proper nouns
+                    if words[0][0].isupper() and (len(words) == 1 or words[1][0].isupper()):
+                        # Find reasonable title length
+                        for i in range(1, min(4, len(words))):
+                            if words[i-1].lower() in ['show', 'list', 'radio'] or words[i][0].islower():
+                                title = ' '.join(words[:i])
+                                title_end_idx = i
+                                break
+                        if not title:
+                            title = ' '.join(words[:2]) if len(words) >= 2 else words[0]
+                            title_end_idx = 2 if len(words) >= 2 else 1
+                
+                # Extract description from remaining words
+                if title_end_idx and title_end_idx < len(words):
+                    description = ' '.join(words[title_end_idx:])
+            
+            # Fallback: try element-based extraction if smart extraction failed
+            if not title:
+                # Try different selectors for title
+                title_selectors = [
+                    'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
+                    '[class*="title"]', '[class*="name"]', '[class*="heading"]',
+                    'strong', 'b', '.typography-headline'
+                ]
+                
+                for selector in title_selectors:
+                    title_elem = element.select_one(selector)
+                    if title_elem:
+                        candidate_title = title_elem.get_text(strip=True)
+                        # Skip if it's just the time
+                        if candidate_title and not re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', candidate_title, re.I):
+                            # Clean up the title
+                            candidate_title = self._clean_title_description(candidate_title, time_slot, is_description=False)
+                            if candidate_title:  # Only set if something meaningful remains
+                                title = candidate_title
+                                break
+            
+            # Clean up description by removing title duplication (if not already extracted above)
+            if description and title:
+                description = self._clean_title_description(description, time_slot, is_description=True, title=title)
+            
+            # Fallback: try element-based description extraction if smart extraction didn't find one
+            if not description:
+                desc_selectors = [
+                    '[class*="description"]', '[class*="subtitle"]', 
+                    'p', '.typography-body', '[class*="summary"]'
+                ]
+                
+                for selector in desc_selectors:
+                    desc_elem = element.select_one(selector)
+                    if desc_elem:
+                        desc_text = desc_elem.get_text(strip=True)
+                        if desc_text and desc_text != title and not re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', desc_text, re.I):
+                            # Clean up the description, removing title duplication
+                            cleaned_desc = self._clean_title_description(desc_text, time_slot, is_description=True, title=title)
+                            # Make sure it's different from title and meaningful
+                            if cleaned_desc and cleaned_desc != title and len(cleaned_desc) > 5:
+                                description = cleaned_desc
+                                break
             
             # Extract artwork URL - comprehensive search for show thumbnails
             artwork_url = None
@@ -481,9 +563,13 @@ class AppleMusicScheduleScraper:
     
     def save_to_json(self, shows: List[Dict], filename: str = "apple_music_schedule.json"):
         """Save schedule data to JSON file."""
+        # Get current time in Pacific Time
+        pacific_tz = pytz.timezone('America/Los_Angeles')
+        scraped_at = datetime.now(pacific_tz).isoformat()
+        
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump({
-                'scraped_at': datetime.now().isoformat(),
+                'scraped_at': scraped_at,
                 'stations_scraped': list(self.stations.keys()),
                 'shows': shows
             }, f, indent=2, ensure_ascii=False)
@@ -495,6 +581,10 @@ class AppleMusicScheduleScraper:
             print("No shows to save to CSV")
             return
             
+        # Get current time in Pacific Time
+        pacific_tz = pytz.timezone('America/Los_Angeles')
+        scraped_at = datetime.now(pacific_tz).isoformat()
+        
         # Prepare data for CSV
         csv_data = []
         for show in shows:
@@ -505,7 +595,7 @@ class AppleMusicScheduleScraper:
                 'description': show.get('description', ''),
                 'show_image_url': show.get('artwork_url', ''),
                 'show_url': show.get('show_url', ''),
-                'scraped_at': datetime.now().isoformat()
+                'scraped_at': scraped_at
             })
         
         # Create DataFrame and save to CSV
