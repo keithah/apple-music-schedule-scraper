@@ -269,7 +269,12 @@ class AppleMusicScheduleScraper:
             # Parse different time slot formats
             # Formats: "11PM – 12AM", "7:05 – 9 PM", "10AM – 12PM"
             patterns = [
-                r'(\d{1,2}(?::\d{2})?(?:AM|PM)?)\s*[–-]\s*(\d{1,2}(?::\d{2})?(?:AM|PM)?)',
+                # Pattern 1: Both times have AM/PM (11PM – 12AM)
+                r'(\d{1,2}(?::\d{2})?(?:AM|PM))\s*[–-]\s*(\d{1,2}(?::\d{2})?(?:AM|PM))',
+                # Pattern 2: Only end time has AM/PM (9 – 10 PM)
+                r'(\d{1,2}(?::\d{2})?)\s*[–-]\s*(\d{1,2}(?::\d{2})?\s*(?:AM|PM))',
+                # Pattern 3: No AM/PM on either
+                r'(\d{1,2}(?::\d{2})?)\s*[–-]\s*(\d{1,2}(?::\d{2})?)',
             ]
             
             match = None
@@ -288,13 +293,21 @@ class AppleMusicScheduleScraper:
             start_hour, start_min, start_period = self._parse_time_component(start_str)
             end_hour, end_min, end_period = self._parse_time_component(end_str)
             
-            # If end doesn't have AM/PM, infer it
+            # Infer missing AM/PM periods
             if end_period is None and start_period:
                 # If end hour is less than start, it probably switches periods
                 if end_hour < start_hour:
                     end_period = 'AM' if start_period == 'PM' else 'PM'
                 else:
                     end_period = start_period
+            elif start_period is None and end_period:
+                # If start doesn't have period but end does (like "9 – 10 PM")
+                if start_hour > end_hour:
+                    # Spans midnight, start is previous period
+                    start_period = 'AM' if end_period == 'PM' else 'PM'
+                else:
+                    # Same period
+                    start_period = end_period
                     
             # Convert to 24-hour format
             if start_period == 'PM' and start_hour != 12:
@@ -314,21 +327,40 @@ class AppleMusicScheduleScraper:
             is_dst = bool(now.dst())
             offset = 7 if is_dst else 8
             
-            # Subtract offset hours
-            start_hour = (start_hour - offset) % 24
-            end_hour = (end_hour - offset) % 24
+            # Subtract offset hours (if result is negative, add 24)
+            start_hour = start_hour - offset
+            if start_hour < 0:
+                start_hour += 24
+            end_hour = end_hour - offset
+            if end_hour < 0:
+                end_hour += 24
             
-            # Convert back to 12-hour format
-            start_period = 'AM' if start_hour < 12 else 'PM'
-            end_period = 'AM' if end_hour < 12 else 'PM'
-            
-            display_start_hour = start_hour % 12
-            if display_start_hour == 0:
+            # Convert back to 12-hour format with correct AM/PM
+            if start_hour == 0:
                 display_start_hour = 12
+                start_period = 'AM'
+            elif start_hour < 12:
+                display_start_hour = start_hour
+                start_period = 'AM'
+            elif start_hour == 12:
+                display_start_hour = 12
+                start_period = 'PM'
+            else:
+                display_start_hour = start_hour - 12
+                start_period = 'PM'
                 
-            display_end_hour = end_hour % 12
-            if display_end_hour == 0:
+            if end_hour == 0:
                 display_end_hour = 12
+                end_period = 'AM'
+            elif end_hour < 12:
+                display_end_hour = end_hour
+                end_period = 'AM'
+            elif end_hour == 12:
+                display_end_hour = 12
+                end_period = 'PM'
+            else:
+                display_end_hour = end_hour - 12
+                end_period = 'PM'
             
             # Format the result
             if start_min > 0:
