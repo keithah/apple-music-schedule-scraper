@@ -20,7 +20,8 @@ A Python script that scrapes schedule information from multiple Apple Music radi
   - Image URL
   - Show URL
 
-- Outputs data in both CSV and JSON formats
+- Outputs data in both CSV and JSON formats with dual time zones
+- Converts UTC schedule times to Pacific Time automatically
 - Automated scraping via GitHub Actions (runs every 6 hours)
 
 ## Installation
@@ -45,27 +46,28 @@ python scrape_apple_music_schedule.py
 ```
 
 This will create two output files:
-- `apple_music_schedule.csv` - CSV format with columns: station, time_slot, show_title, description, image_url, show_url, scraped_at
+- `apple_music_schedule.csv` - CSV format with time zones and show details
 - `apple_music_schedule.json` - JSON format with metadata and show details
 
 ## GitHub Actions
 
 The repository includes a GitHub Actions workflow that:
-- Runs automatically every 6 hours
-- Can be triggered manually
-- Commits updated schedule data
+- Runs automatically every 6 hours (at 00:00, 06:00, 12:00, and 18:00 UTC)
+- Can be triggered manually via workflow dispatch
+- Commits updated schedule data with UTC to Pacific time conversion
 - Uploads artifacts for each run
 
 ## Output Format
 
 ### CSV Columns
 - `station`: Radio station name
-- `time_slot`: Show time (e.g., "2 – 4 AM")
+- `time_slot_pacific`: Show time in Pacific Time (e.g., "2PM – 4PM")
 - `show_title`: Name of the show
 - `description`: Show description
-- `image_url`: Artwork/image URL
+- `time_slot_utc`: Show time in UTC (e.g., "9 – 11 PM")
+- `show_image_url`: Artwork/image URL
 - `show_url`: Link to show page
-- `scraped_at`: Timestamp of data collection
+- `scraped_at`: Timestamp of data collection in Pacific Time
 
 ## Radio Stations
 
