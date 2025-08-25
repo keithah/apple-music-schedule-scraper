@@ -469,108 +469,122 @@ class AppleMusicScheduleScraper:
             title = None
             description = None
             
-            # Smart extraction of title and description
-            # Clean the input text first
-            clean_text = self._clean_title_description(full_text, time_slot, is_description=False)
+            # Try HTML-based extraction first to separate title and description
+            # Look for strong elements (bold text) for titles
+            title_candidates = []
+            desc_candidates = []
             
-            if clean_text:
-                # Look for show name patterns - typically the first capitalized phrase
-                words = clean_text.split()
-                
-                # Find where the title ends and description begins
-                title_end_idx = None
-                
-                for i in range(1, len(words)):
-                    current_phrase = ' '.join(words[:i+1])
-                    
-                    # Special case: if we see "Show", that's likely the title end
-                    if words[i].lower() == 'show':
-                        title = current_phrase
-                        title_end_idx = i + 1
+            # Find bold/strong elements for titles
+            title_elements = element.select('strong, b, [class*="title"], [class*="heading"], h1, h2, h3, h4, h5, h6')
+            for elem in title_elements:
+                candidate_text = elem.get_text(strip=True)
+                candidate_text = self._clean_title_description(candidate_text, time_slot, is_description=False)
+                if candidate_text and not re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', candidate_text, re.I):
+                    title_candidates.append(candidate_text)
+            
+            # Find description elements (often in separate elements after title)
+            desc_elements = element.select('p, [class*="description"], [class*="subtitle"], [class*="summary"]')
+            for elem in desc_elements:
+                candidate_text = elem.get_text(strip=True)
+                candidate_text = self._clean_title_description(candidate_text, time_slot, is_description=True)
+                if candidate_text and not re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', candidate_text, re.I):
+                    desc_candidates.append(candidate_text)
+            
+            # Choose best title and description
+            if title_candidates:
+                title = title_candidates[0]  # Take first valid title
+            
+            if desc_candidates:
+                # Find description that doesn't duplicate the title
+                for desc in desc_candidates:
+                    if not title or (desc != title and not desc.startswith(title)):
+                        description = desc
                         break
+            
+            # Fallback: Smart extraction from combined text if HTML-based didn't work
+            if not title:
+                clean_text = self._clean_title_description(full_text, time_slot, is_description=False)
+                
+                if clean_text:
+                    # Look for show name patterns - typically the first capitalized phrase
+                    words = clean_text.split()
                     
-                    # Check if this looks like a complete show title
-                    if i < len(words) - 1:  # Not the last word
-                        next_word = words[i+1]
-                        next_words = ' '.join(words[i+1:]).lower()
+                    # Find where the title ends and description begins
+                    title_end_idx = None
+                    
+                    for i in range(1, len(words)):
+                        current_phrase = ' '.join(words[:i+1])
                         
-                        # Don't break on description starters if "Show" might still be coming
-                        # Check if "Show" appears in next few words
-                        upcoming_words = words[i+1:i+4] if i+3 < len(words) else words[i+1:]
-                        has_show_coming = any(w.lower() == 'show' for w in upcoming_words)
-                        
-                        # Strong indicators this is end of title (but not if Show is coming)
-                        if (not has_show_coming and (
-                            words[i].lower() in ['list', 'hits', 'radio', 'music'] or  # Common show endings
-                            next_word[0].islower() or  # Next word starts lowercase (likely description)
-                            # Only break on description starters if no "Show" is expected
-                            next_words.startswith(('your favorite', 'daily dispatches', 'from the'))
-                        )):
+                        # Special case: if we see "Show", that's likely the title end
+                        if words[i].lower() == 'show':
                             title = current_phrase
                             title_end_idx = i + 1
                             break
-                
-                # If no clear break found, use heuristics
-                if not title and len(words) >= 2:
-                    # Default: take first 2-3 words as title if they look like proper nouns
-                    if words[0][0].isupper() and (len(words) == 1 or words[1][0].isupper()):
-                        # Find reasonable title length
-                        for i in range(1, min(4, len(words))):
-                            if words[i-1].lower() in ['show', 'list', 'radio'] or words[i][0].islower():
-                                title = ' '.join(words[:i])
-                                title_end_idx = i
+                        
+                        # Check if this looks like a complete show title
+                        if i < len(words) - 1:  # Not the last word
+                            next_word = words[i+1]
+                            next_words = ' '.join(words[i+1:]).lower()
+                            
+                            # Don't break on description starters if "Show" might still be coming
+                            # Check if "Show" appears in next few words
+                            upcoming_words = words[i+1:i+4] if i+3 < len(words) else words[i+1:]
+                            has_show_coming = any(w.lower() == 'show' for w in upcoming_words)
+                            
+                            # Strong indicators this is end of title (but not if Show is coming)
+                            if (not has_show_coming and (
+                                words[i].lower() in ['list', 'hits', 'radio', 'music'] or  # Common show endings
+                                next_word[0].islower() or  # Next word starts lowercase (likely description)
+                                # Only break on description starters if no "Show" is expected
+                                next_words.startswith(('your favorite', 'daily dispatches', 'from the'))
+                            )):
+                                title = current_phrase
+                                title_end_idx = i + 1
                                 break
-                        if not title:
-                            title = ' '.join(words[:2]) if len(words) >= 2 else words[0]
-                            title_end_idx = 2 if len(words) >= 2 else 1
-                
-                # Extract description from remaining words
-                if title_end_idx and title_end_idx < len(words):
-                    description = ' '.join(words[title_end_idx:])
+                    
+                    # If no clear break found, use heuristics
+                    if not title and len(words) >= 2:
+                        # Default: take first 2-3 words as title if they look like proper nouns
+                        if words[0][0].isupper() and (len(words) == 1 or words[1][0].isupper()):
+                            # Find reasonable title length
+                            for i in range(1, min(4, len(words))):
+                                if words[i-1].lower() in ['show', 'list', 'radio'] or words[i][0].islower():
+                                    title = ' '.join(words[:i])
+                                    title_end_idx = i
+                                    break
+                            if not title:
+                                title = ' '.join(words[:2]) if len(words) >= 2 else words[0]
+                                title_end_idx = 2 if len(words) >= 2 else 1
+                    
+                    # Extract description from remaining words if not already set
+                    if not description and title_end_idx and title_end_idx < len(words):
+                        description = ' '.join(words[title_end_idx:])
             
-            # Fallback: try element-based extraction if smart extraction failed
-            if not title:
-                # Try different selectors for title
-                title_selectors = [
-                    'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
-                    '[class*="title"]', '[class*="name"]', '[class*="heading"]',
-                    'strong', 'b', '.typography-headline'
-                ]
-                
-                for selector in title_selectors:
-                    title_elem = element.select_one(selector)
-                    if title_elem:
-                        candidate_title = title_elem.get_text(strip=True)
-                        # Skip if it's just the time
-                        if candidate_title and not re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', candidate_title, re.I):
-                            # Clean up the title
-                            candidate_title = self._clean_title_description(candidate_title, time_slot, is_description=False)
-                            if candidate_title:  # Only set if something meaningful remains
-                                title = candidate_title
-                                break
+            # Additional fallback: if still no title, use the first meaningful part of the text
+            if not title and clean_text:
+                # Just take the first few words as title
+                words = clean_text.split()
+                if words:
+                    title = words[0]
+                    # Add more words if they seem part of the title
+                    for i in range(1, min(len(words), 4)):
+                        if words[i][0].isupper() or words[i-1].lower() in ['the', 'a', 'an']:
+                            title += ' ' + words[i]
+                        else:
+                            break
             
             # Clean up description by removing title duplication (if not already extracted above)
             if description and title:
                 description = self._clean_title_description(description, time_slot, is_description=True, title=title)
             
-            # Fallback: try element-based description extraction if smart extraction didn't find one
-            if not description:
-                desc_selectors = [
-                    '[class*="description"]', '[class*="subtitle"]', 
-                    'p', '.typography-body', '[class*="summary"]'
-                ]
-                
-                for selector in desc_selectors:
-                    desc_elem = element.select_one(selector)
-                    if desc_elem:
-                        desc_text = desc_elem.get_text(strip=True)
-                        if desc_text and desc_text != title and not re.match(r'^\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)$', desc_text, re.I):
-                            # Clean up the description, removing title duplication
-                            cleaned_desc = self._clean_title_description(desc_text, time_slot, is_description=True, title=title)
-                            # Make sure it's different from title and meaningful
-                            if cleaned_desc and cleaned_desc != title and len(cleaned_desc) > 5:
-                                description = cleaned_desc
-                                break
+            # Fallback: extract description from remaining text if not already set
+            if not description and clean_text and title:
+                remaining_text = clean_text
+                if title in remaining_text:
+                    # Remove the title from the text to get description
+                    remaining_text = remaining_text.replace(title, '', 1).strip()
+                if remaining_text and len(remaining_text) > 5:
+                    description = remaining_text
             
             # Extract artwork URL - comprehensive search for show thumbnails
             artwork_url = None
