@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-08-25T23:00:26.143467-07:00",
+  "scraped_at": "2025-08-25T23:39:37.270084-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "4:05 – 6:05 AM",
-      "title": "Today's Hits",
-      "description": "The biggest songs in pop, hip-hop, R&B, and more.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/1c/24/d0/1c24d0de-1833-7fa8-c811-3d3e5df84eb6/947f2946-2f2f-4be0-bc4c-66183f190445.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/todays-hits-on-apple-music-1/1653478003",
-      "raw_text": "LIVE · 4:05 – 6:05 AM Today's Hits The biggest songs in pop, hip-hop, R&B, and more.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "6:05 – 8 AM",
       "title": "The Apple Music 1 List",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/7b/a7/a1/7ba7a1bd-bae7-67f0-3487-e31d47ab799a/U0MtTVQtVEVSLVRoZV9MaXN0X0xpdmUtMjAyMC1OZXdMb2dvLnBuZw.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "6:05 – 8 AM The Apple Music 1 List The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 6:05 – 8 AM The Apple Music 1 List The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -166,6 +156,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/1c/24/d0/1c24d0de-1833-7fa8-c811-3d3e5df84eb6/947f2946-2f2f-4be0-bc4c-66183f190445.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/todays-hits-on-apple-music-1/1653478003",
       "raw_text": "4 – 6 AM Today's Hits The biggest songs in pop, hip-hop, R&B, and more.\r\n-OR-\r\nAll the songs you know and love from all your favorite artists.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "6 – 8 AM",
+      "title": "The Apple Music 1 List",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/7b/a7/a1/7ba7a1bd-bae7-67f0-3487-e31d47ab799a/U0MtTVQtVEVSLVRoZV9MaXN0X0xpdmUtMjAyMC1OZXdMb2dvLnBuZw.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "6 – 8 AM The Apple Music 1 List The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -836,6 +836,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "4 – 6 AM The Chill List Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "6 – 7 AM",
+      "title": "Today's Chill",
+      "description": "Updates from electronic music’s low-key vanguard.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/d2/7b/dad27b4f-45ab-07b1-bdcd-9a0321c35e30/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "6 – 7 AM Today's Chill Updates from electronic music’s low-key vanguard.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },

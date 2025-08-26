@@ -328,12 +328,15 @@ class AppleMusicScheduleScraper:
             offset = 7 if is_dst else 8
             
             # Subtract offset hours (if result is negative, add 24)
-            start_hour = start_hour - offset
-            if start_hour < 0:
-                start_hour += 24
-            end_hour = end_hour - offset
-            if end_hour < 0:
-                end_hour += 24
+            start_hour_pacific = start_hour - offset
+            if start_hour_pacific < 0:
+                start_hour_pacific += 24
+            end_hour_pacific = end_hour - offset  
+            if end_hour_pacific < 0:
+                end_hour_pacific += 24
+            
+            start_hour = start_hour_pacific
+            end_hour = end_hour_pacific
             
             # Convert back to 12-hour format with correct AM/PM
             if start_hour == 0:
@@ -363,6 +366,7 @@ class AppleMusicScheduleScraper:
                 end_period = 'PM'
             
             # Format the result to match UTC pattern (only show AM/PM when necessary)
+            # Always format with same period logic - only show AM/PM on end time unless periods cross midnight
             if start_period == end_period:
                 # Same period - only show AM/PM on end time (like "4 – 6 AM")
                 if start_min > 0:
@@ -375,7 +379,7 @@ class AppleMusicScheduleScraper:
                 else:
                     end_formatted = f"{display_end_hour}{end_period}"
             else:
-                # Different periods - show AM/PM on both times (like "11PM – 12AM")
+                # Different periods - show AM/PM on both times (like "11PM – 12AM") 
                 if start_min > 0:
                     start_formatted = f"{display_start_hour}:{start_min:02d}{start_period}"
                 else:
