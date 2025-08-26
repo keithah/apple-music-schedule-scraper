@@ -362,16 +362,29 @@ class AppleMusicScheduleScraper:
                 display_end_hour = end_hour - 12
                 end_period = 'PM'
             
-            # Format the result
-            if start_min > 0:
-                start_formatted = f"{display_start_hour}:{start_min:02d}{start_period}"
+            # Format the result to match UTC pattern (only show AM/PM when necessary)
+            if start_period == end_period:
+                # Same period - only show AM/PM on end time (like "4 – 6 AM")
+                if start_min > 0:
+                    start_formatted = f"{display_start_hour}:{start_min:02d}"
+                else:
+                    start_formatted = f"{display_start_hour}"
+                    
+                if end_min > 0:
+                    end_formatted = f"{display_end_hour}:{end_min:02d}{end_period}"
+                else:
+                    end_formatted = f"{display_end_hour}{end_period}"
             else:
-                start_formatted = f"{display_start_hour}{start_period}"
-                
-            if end_min > 0:
-                end_formatted = f"{display_end_hour}:{end_min:02d}{end_period}"
-            else:
-                end_formatted = f"{display_end_hour}{end_period}"
+                # Different periods - show AM/PM on both times (like "11PM – 12AM")
+                if start_min > 0:
+                    start_formatted = f"{display_start_hour}:{start_min:02d}{start_period}"
+                else:
+                    start_formatted = f"{display_start_hour}{start_period}"
+                    
+                if end_min > 0:
+                    end_formatted = f"{display_end_hour}:{end_min:02d}{end_period}"
+                else:
+                    end_formatted = f"{display_end_hour}{end_period}"
             
             return f"{start_formatted} – {end_formatted}"
             
