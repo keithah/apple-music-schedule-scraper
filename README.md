@@ -72,9 +72,9 @@ The repository includes a GitHub Actions workflow that:
 
 ## Radio Stations
 
-- **Apple Music 1**: `https://music.apple.com/us/radio/ra.978194965`
-- **Apple Music Hits**: `https://music.apple.com/us/radio/ra.1498155548`
-- **Apple Music Country**: `https://music.apple.com/us/radio/ra.1498157166`
-- **Apple Music Club**: `https://music.apple.com/radio/ra.1740613859`
-- **Apple Music Chill**: `https://music.apple.com/radio/ra.1740614260`
-- **Apple Música Uno**: `https://music.apple.com/radio/ra.1740613864`
+- **Apple Music 1**: [https://music.apple.com/us/radio/ra.978194965](https://music.apple.com/us/radio/ra.978194965)
+- **Apple Music Hits**: [https://music.apple.com/us/radio/ra.1498155548](https://music.apple.com/us/radio/ra.1498155548)
+- **Apple Music Country**: [https://music.apple.com/us/radio/ra.1498157166](https://music.apple.com/us/radio/ra.1498157166)
+- **Apple Music Club**: [https://music.apple.com/radio/ra.1740613859](https://music.apple.com/radio/ra.1740613859)
+- **Apple Music Chill**: [https://music.apple.com/radio/ra.1740614260](https://music.apple.com/radio/ra.1740614260)
+- **Apple Música Uno**: [https://music.apple.com/radio/ra.1740613864](https://music.apple.com/radio/ra.1740613864)
