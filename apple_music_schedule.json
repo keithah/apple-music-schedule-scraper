@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "scraped_at": "2025-08-25T23:42:47.411334-07:00",
+=======
+  "scraped_at": "2025-08-25T23:55:45.502474-07:00",
+>>>>>>> cbb94dc (Fix UTC to Pacific time conversion bug in AM/PM period inference)
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -540,22 +544,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "4:55 – 6:55 AM",
-      "title": "Beats In Space with Tim Sweeney",
-      "description": "Tim Sweeney and Floating Points.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/83/60/df/8360dfd4-6ebe-3ea1-6885-5e386e8a4f68/d3adf304-a48c-4083-a835-494568ddebc4.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/beats-in-space-with-tim-sweeney/1573950910",
-      "raw_text": "LIVE · 4:55 – 6:55 AM Beats In Space with Tim Sweeney Tim Sweeney and Floating Points.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "6:55 – 8:55 AM",
       "title": "Loops",
       "description": "Electronic music at its most innovative.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "6:55 – 8:55 AM Loops Electronic music at its most innovative.",
+      "raw_text": "LIVE · 6:55 – 8:55 AM Loops Electronic music at its most innovative.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },

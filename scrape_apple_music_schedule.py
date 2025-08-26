@@ -301,8 +301,14 @@ class AppleMusicScheduleScraper:
                 else:
                     end_period = start_period
             elif start_period is None and end_period:
-                # If start doesn't have period but end does (like "9 – 10 PM")
-                if start_hour > end_hour:
+                # If start doesn't have period but end does (like "12 – 2 AM")
+                # Special case: if start is 12 and end is AM, start should also be AM (midnight)
+                if start_hour == 12 and end_period == 'AM':
+                    start_period = 'AM'
+                # Special case: if start is 12 and end is PM, start should also be PM (noon)
+                elif start_hour == 12 and end_period == 'PM':
+                    start_period = 'PM'
+                elif start_hour > end_hour:
                     # Spans midnight, start is previous period
                     start_period = 'AM' if end_period == 'PM' else 'PM'
                 else:
