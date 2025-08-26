@@ -765,8 +765,8 @@ class AppleMusicScheduleScraper:
                 'time_slot_pacific': time_slot_pacific,
                 'show_title': show.get('title', ''),
                 'description': show.get('description', ''),
-                'time_slot_utc': time_slot_utc,
                 'show_image_url': show.get('artwork_url', ''),
+                'time_slot_utc': time_slot_utc,
                 'show_url': show.get('show_url', ''),
                 'scraped_at': scraped_at
             })
