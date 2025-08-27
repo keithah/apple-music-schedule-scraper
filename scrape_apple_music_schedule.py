@@ -81,15 +81,20 @@ class AppleMusicScheduleScraper:
                         const allImageSrcs = Array.from(allImages).map(img => img.src).filter(src => src && src.length > 10);
                         debugInfo.imageSources = allImageSrcs.slice(0, 10); // First 10 for debugging
                         
-                        // Look for show elements more specifically
-                        const potentialShows = document.querySelectorAll('[class*="item"], [class*="card"], [class*="tile"], [role="listitem"], li, [class*="show"]');
+                        // Look for show elements more aggressively - cast a wider net
+                        const potentialShows = document.querySelectorAll(
+                            '[class*="item"], [class*="card"], [class*="tile"], [role="listitem"], ' +
+                            'li, [class*="show"], [class*="program"], [class*="schedule"], ' +
+                            '[class*="episode"], [class*="track"], [class*="content"], ' + 
+                            'div[data-testid], article, section > div, main > div > div'
+                        );
                         debugInfo.potentialShows = potentialShows.length;
                         
                         potentialShows.forEach((element, index) => {
                             const text = element.textContent.trim();
                             
-                            // Look for time pattern to identify show blocks
-                            if (text.match(/\\d{1,2}\\s*[–-]\\s*\\d{1,2}\\s*(AM|PM)/i)) {
+                            // Look for time pattern to identify show blocks - include times with minutes
+                            if (text.match(/\\d{1,2}(?::\\d{2})?\\s*(?:AM|PM)?\\s*[–-]\\s*\\d{1,2}(?::\\d{2})?\\s*(?:AM|PM)/i)) {
                                 const key = text.substring(0, 100);
                                 
                                 // First, look for picture elements with srcset
@@ -168,28 +173,41 @@ class AppleMusicScheduleScraper:
         image_data = image_data or {}
         
         # Look for specific Apple Music schedule structure
-        # Try different selectors for schedule items
+        # Try different selectors for schedule items - be more aggressive
         selectors = [
             '[data-testid*="schedule"]',
             '[data-testid*="show"]',
             '[data-testid*="program"]',
+            '[data-testid*="episode"]',
+            '[data-testid*="track"]',
             '.schedule-item',
             '.show-item',
             '[class*="schedule"]',
             '[class*="show"]',
-            '[class*="item"]'
+            '[class*="program"]',
+            '[class*="episode"]',
+            '[class*="track-list"]',
+            '[class*="content-item"]',
+            '[class*="media-item"]',
+            '[class*="item"][class*="list"]',
+            '[class*="item"]:not([class*="nav"])',
+            'li[role="listitem"]',
+            'article',
+            'section > div > div',
+            'main div[class*="grid"] > div',
+            'div[class*="row"] > div[class*="col"]'
         ]
         
         schedule_items = []
         for selector in selectors:
             items = soup.select(selector)
-            if items:
+            if items and len(items) > 1:  # Only use if we get multiple items (individual shows)
                 schedule_items = items
                 break
         
         if not schedule_items:
-            # Fallback: look for any elements containing time patterns
-            time_elements = soup.find_all(string=re.compile(r'\d{1,2}\s*[–-]\s*\d{1,2}\s*(AM|PM)', re.I))
+            # Fallback: look for any elements containing time patterns - including LIVE prefix
+            time_elements = soup.find_all(string=re.compile(r'(?:LIVE\s*[·•]?\s*)?\d{1,2}(?::\d{2})?\s*(?:AM|PM)?\s*[–-]\s*\d{1,2}(?::\d{2})?\s*(?:AM|PM)', re.I))
             schedule_items = []
             for time_elem in time_elements:
                 # Get the parent container that likely contains the full show info
@@ -419,10 +437,11 @@ class AppleMusicScheduleScraper:
         
         # More comprehensive time pattern removal that handles concatenated cases
         # This handles patterns like "7 – 9 PMThe Show" -> "The Show" and "11PM – 12AM The Show" -> "The Show"
-        cleaned = re.sub(r'^(?:LIVE\s*[·•]?\s*)?(\d{1,2}(?::\d{2})?(?:AM|PM)?\s*[–-]\s*\d{1,2}(?::\d{2})?(?:AM|PM))\s*', '', cleaned, flags=re.I)
+        # Also handles "2:55 – 5:15 AM The Show" -> "The Show"
+        cleaned = re.sub(r'^(?:LIVE\s*[·•]?\s*)?(\d{1,2}(?::\d{2})?\s*(?:AM|PM)?\s*[–-]\s*\d{1,2}(?::\d{2})?\s*(?:AM|PM))\s*', '', cleaned, flags=re.I)
         
         # Additional cleanup for remaining patterns
-        cleaned = re.sub(r'^(\d{1,2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM))\s*', '', cleaned, flags=re.I)
+        cleaned = re.sub(r'^(\d{1,2}(?::\d{2})?\s*[–-]\s*\d{1,2}(?::\d{2})?\s*(?:AM|PM))\s*', '', cleaned, flags=re.I)
         
         # Remove LIVE patterns that appear mid-text
         cleaned = re.sub(r'LIVE\s*[·•]\s*(\d{1,2}(?::\d{2})?\s*[–-]\s*\d{1,2}(?::\d{2})?\s*(?:AM|PM))\s*', '', cleaned, flags=re.I)
@@ -468,11 +487,15 @@ class AppleMusicScheduleScraper:
             # Get all text content
             full_text = element.get_text(separator=' ', strip=True)
             
-            # Extract time slot using improved regex - prefer complete/longer time patterns
+            # Extract time slot using improved regex - handle LIVE prefix and various formats
+            # First, clean up LIVE prefix if present
+            full_text_clean = re.sub(r'^LIVE\s*[·•]?\s*', '', full_text, flags=re.I)
+            
             patterns = [
-                r'(\d{1,2}(?:AM|PM)\s*[–-]\s*\d{1,2}(?:AM|PM))',              # 11PM - 12AM
-                r'(\d{1,2}:\d{2}(?:AM|PM)\s*[–-]\s*\d{1,2}:\d{2}(?:AM|PM))',  # 7:05PM - 9:00PM
+                r'(\d{1,2}:\d{2}\s*(?:AM|PM)?\s*[–-]\s*\d{1,2}:\d{2}\s*(?:AM|PM))',  # 7:05 PM - 9:00 PM or 7:05 - 9:00 AM
                 r'(\d{1,2}:\d{2}\s*[–-]\s*\d{1,2}:\d{2}\s*(?:AM|PM))',        # 7:05 - 9:00 PM
+                r'(\d{1,2}:\d{2}\s*(?:AM|PM)?\s*[–-]\s*\d{1,2}\s*(?:AM|PM))',  # 7:05 PM - 9 AM or 2:55 - 5:15 AM
+                r'(\d{1,2}\s*(?:AM|PM)\s*[–-]\s*\d{1,2}\s*(?:AM|PM))',        # 11PM - 12AM
                 r'(\d{1,2}:\d{2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM))',              # 7:05 - 9 PM  
                 r'(\d{1,2}\s*[–-]\s*\d{1,2}:\d{2}\s*(?:AM|PM))',              # 7 - 9:00 PM
                 r'(\d{1,2}\s*[–-]\s*\d{1,2}\s*(?:AM|PM))'                     # 7 - 9 PM
@@ -480,8 +503,11 @@ class AppleMusicScheduleScraper:
             
             all_matches = []
             for pattern in patterns:
+                # Try both original and cleaned text
                 matches = re.findall(pattern, full_text, re.I)
                 all_matches.extend(matches)
+                matches_clean = re.findall(pattern, full_text_clean, re.I)
+                all_matches.extend(matches_clean)
             
             time_slot = None
             if all_matches:
@@ -754,8 +780,125 @@ class AppleMusicScheduleScraper:
             }, f, indent=2, ensure_ascii=False)
         print(f"Schedule saved to {filename}")
     
+    def _parse_time_to_minutes(self, time_str: str) -> int:
+        """Convert a time string like '2:55AM' or '11PM' to minutes since midnight."""
+        if not time_str:
+            return -1
+            
+        # Remove spaces and convert to uppercase
+        time_str = time_str.strip().upper()
+        
+        # Parse time with regex
+        match = re.match(r'(\d{1,2})(?::(\d{2}))?\s*(AM|PM)', time_str)
+        if not match:
+            return -1
+            
+        hour = int(match.group(1))
+        minute = int(match.group(2) or 0)
+        period = match.group(3)
+        
+        # Convert to 24-hour format
+        if period == 'PM' and hour != 12:
+            hour += 12
+        elif period == 'AM' and hour == 12:
+            hour = 0
+            
+        return hour * 60 + minute
+    
+    def _detect_time_gaps(self, station_shows: List[Dict]) -> List[Dict]:
+        """Detect gaps in schedule and insert placeholder entries."""
+        if not station_shows:
+            return station_shows
+            
+        # Parse time slots and sort by start time
+        shows_with_times = []
+        for show in station_shows:
+            time_slot = show.get('time_slot', '')
+            if not time_slot:
+                continue
+                
+            # Extract start and end times
+            time_match = re.search(r'(\d{1,2}(?::\d{2})?\s*(?:AM|PM)?)\s*[–-]\s*(\d{1,2}(?::\d{2})?\s*(?:AM|PM))', time_slot, re.I)
+            if time_match:
+                start_str = time_match.group(1)
+                end_str = time_match.group(2)
+                
+                # Handle missing AM/PM
+                if 'AM' not in end_str.upper() and 'PM' not in end_str.upper():
+                    # Infer from context
+                    if 'AM' in start_str.upper():
+                        end_str += 'AM'
+                    elif 'PM' in start_str.upper():
+                        end_str += 'PM'
+                
+                start_minutes = self._parse_time_to_minutes(start_str)
+                end_minutes = self._parse_time_to_minutes(end_str)
+                
+                # Handle day rollover
+                if end_minutes < start_minutes:
+                    end_minutes += 24 * 60
+                    
+                shows_with_times.append({
+                    'show': show,
+                    'start': start_minutes,
+                    'end': end_minutes,
+                    'time_slot': time_slot
+                })
+        
+        # Sort by start time
+        shows_with_times.sort(key=lambda x: x['start'])
+        
+        # Check for gaps and insert placeholders
+        result = []
+        for i, current in enumerate(shows_with_times):
+            result.append(current['show'])
+            
+            # Check if there's a next show
+            if i < len(shows_with_times) - 1:
+                next_show = shows_with_times[i + 1]
+                
+                # If there's a gap between current end and next start
+                gap_minutes = next_show['start'] - current['end']
+                if gap_minutes > 5:  # Allow 5 minutes tolerance
+                    # Calculate gap time slot
+                    gap_start = current['end']
+                    gap_end = next_show['start']
+                    
+                    # Convert back to time format
+                    gap_start_hour = (gap_start // 60) % 24
+                    gap_start_min = gap_start % 60
+                    gap_end_hour = (gap_end // 60) % 24
+                    gap_end_min = gap_end % 60
+                    
+                    # Format time slot
+                    gap_start_str = f"{gap_start_hour % 12 or 12}:{gap_start_min:02d}{'AM' if gap_start_hour < 12 else 'PM'}"
+                    gap_end_str = f"{gap_end_hour % 12 or 12}:{gap_end_min:02d}{'AM' if gap_end_hour < 12 else 'PM'}"
+                    
+                    # Simplify format if minutes are :00
+                    if gap_start_min == 0:
+                        gap_start_str = f"{gap_start_hour % 12 or 12}{'AM' if gap_start_hour < 12 else 'PM'}"
+                    if gap_end_min == 0:
+                        gap_end_str = f"{gap_end_hour % 12 or 12}{'AM' if gap_end_hour < 12 else 'PM'}"
+                    
+                    gap_time_slot = f"{gap_start_str} – {gap_end_str}"
+                    
+                    # Insert gap placeholder
+                    result.append({
+                        'station': current['show'].get('station', ''),
+                        'time_slot': gap_time_slot,
+                        'title': '*** MISSING SHOW ***',
+                        'description': f'Gap detected in schedule from {gap_start_str} to {gap_end_str}',
+                        'artwork_url': '',
+                        'show_url': '',
+                        'station_url': current['show'].get('station_url', '')
+                    })
+                    
+                    print(f"WARNING: Gap detected in {current['show'].get('station', '')} schedule: {gap_time_slot}")
+        
+        return result
+    
     def save_to_csv(self, shows: List[Dict], filename: str = "apple_music_schedule.csv"):
-        """Save schedule data to CSV file."""
+        """Save schedule data to CSV file with gap detection."""
         if not shows:
             print("No shows to save to CSV")
             return
@@ -764,11 +907,25 @@ class AppleMusicScheduleScraper:
         pacific_tz = pytz.timezone('America/Los_Angeles')
         scraped_at = datetime.now(pacific_tz).isoformat()
         
+        # Group shows by station and detect gaps
+        stations = {}
+        for show in shows:
+            station = show.get('station', 'Unknown')
+            if station not in stations:
+                stations[station] = []
+            stations[station].append(show)
+        
+        # Process each station to detect gaps
+        all_shows_with_gaps = []
+        for station, station_shows in stations.items():
+            processed_shows = self._detect_time_gaps(station_shows)
+            all_shows_with_gaps.extend(processed_shows)
+        
         # Prepare data for CSV with new column order
         csv_data = []
-        for show in shows:
+        for show in all_shows_with_gaps:
             time_slot_utc = show.get('time_slot', '')
-            time_slot_pacific = self._convert_utc_to_pacific(time_slot_utc)
+            time_slot_pacific = self._convert_utc_to_pacific(time_slot_utc) if '*** MISSING' not in show.get('title', '') else time_slot_utc
             
             csv_data.append({
                 'station': show.get('station', ''),
@@ -784,7 +941,7 @@ class AppleMusicScheduleScraper:
         # Create DataFrame and save to CSV
         df = pd.DataFrame(csv_data)
         df.to_csv(filename, index=False, encoding='utf-8')
-        print(f"Schedule saved to {filename}")
+        print(f"Schedule saved to {filename} (with gap detection)")
 
 def main():
     scraper = AppleMusicScheduleScraper()
