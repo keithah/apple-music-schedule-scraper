@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "scraped_at": "2025-08-27T15:52:30.443850-07:00",
-=======
-  "scraped_at": "2025-08-27T16:21:11.796245-07:00",
->>>>>>> e30baa7 (Fix scraper bug to capture all shows including ¡Dale Play!)
+  "scraped_at": "2025-08-27T16:24:27.661549-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
