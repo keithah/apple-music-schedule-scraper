@@ -551,8 +551,8 @@ class AppleMusicScheduleScraper:
                         break
             
             # Fallback: Smart extraction from combined text if HTML-based didn't work
+            clean_text = self._clean_title_description(full_text, time_slot, is_description=False)
             if not title:
-                clean_text = self._clean_title_description(full_text, time_slot, is_description=False)
                 
                 if clean_text:
                     # Look for show name patterns - typically the first capitalized phrase
@@ -788,22 +788,32 @@ class AppleMusicScheduleScraper:
         # Remove spaces and convert to uppercase
         time_str = time_str.strip().upper()
         
-        # Parse time with regex
-        match = re.match(r'(\d{1,2})(?::(\d{2}))?\s*(AM|PM)', time_str)
-        if not match:
-            return -1
-            
-        hour = int(match.group(1))
-        minute = int(match.group(2) or 0)
-        period = match.group(3)
+        # Handle common time formats more flexibly
+        # Try different patterns
+        patterns = [
+            r'(\d{1,2})(?::(\d{2}))?\s*(AM|PM)',  # 11:30PM or 11PM
+            r'(\d{1,2})(?::(\d{2}))?'             # 11:30 or 11 (assume 24-hour if no AM/PM)
+        ]
         
-        # Convert to 24-hour format
-        if period == 'PM' and hour != 12:
-            hour += 12
-        elif period == 'AM' and hour == 12:
-            hour = 0
-            
-        return hour * 60 + minute
+        for pattern in patterns:
+            match = re.match(pattern, time_str)
+            if match:
+                hour = int(match.group(1))
+                minute = int(match.group(2) or 0)
+                period = match.group(3) if len(match.groups()) >= 3 else None
+                
+                # Convert to 24-hour format
+                if period:
+                    if period == 'PM' and hour != 12:
+                        hour += 12
+                    elif period == 'AM' and hour == 12:
+                        hour = 0
+                
+                # Validate hour range
+                if 0 <= hour <= 23 and 0 <= minute <= 59:
+                    return hour * 60 + minute
+                    
+        return -1
     
     def _detect_time_gaps(self, station_shows: List[Dict]) -> List[Dict]:
         """Detect gaps in schedule and insert placeholder entries."""
@@ -915,11 +925,11 @@ class AppleMusicScheduleScraper:
                 stations[station] = []
             stations[station].append(show)
         
-        # Process each station to detect gaps
+        # Process each station - disable gap detection since we have 24h coverage
         all_shows_with_gaps = []
         for station, station_shows in stations.items():
-            processed_shows = self._detect_time_gaps(station_shows)
-            all_shows_with_gaps.extend(processed_shows)
+            # Skip gap detection for now since it's creating false positives
+            all_shows_with_gaps.extend(station_shows)
         
         # Prepare data for CSV with new column order
         csv_data = []
@@ -938,10 +948,53 @@ class AppleMusicScheduleScraper:
                 'scraped_at': scraped_at
             })
         
-        # Create DataFrame and save to CSV
+        # Create DataFrame and sort by station and time
         df = pd.DataFrame(csv_data)
+        
+        # Add a sorting helper column for Pacific times
+        def time_to_sort_key(time_slot):
+            """Convert Pacific time slot to sorting key"""
+            if not time_slot or '***' in str(time_slot):
+                return 9999  # Put gaps at end
+            
+            # Extract start time from slot like "5 – 7PM" or "11PM – 12AM"
+            time_match = re.search(r'(\d{1,2}(?::\d{2})?)\s*(?:AM|PM)?\s*[–-]', str(time_slot), re.I)
+            if time_match:
+                start_str = time_match.group(1)
+                # Look for AM/PM in the full string
+                if 'AM' in str(time_slot).upper():
+                    period = 'AM'
+                elif 'PM' in str(time_slot).upper():
+                    period = 'PM'
+                else:
+                    period = 'AM'  # Default
+                
+                # Parse time
+                if ':' in start_str:
+                    hour, minute = map(int, start_str.split(':'))
+                else:
+                    hour, minute = int(start_str), 0
+                
+                # Convert to 24-hour for sorting
+                if period == 'PM' and hour != 12:
+                    hour += 12
+                elif period == 'AM' and hour == 12:
+                    hour = 0
+                
+                return hour * 60 + minute
+            
+            return 9999
+        
+        df['_sort_key'] = df['time_slot_pacific'].apply(time_to_sort_key)
+        
+        # Sort by station, then by time
+        df = df.sort_values(['station', '_sort_key'])
+        
+        # Remove the sorting helper column
+        df = df.drop('_sort_key', axis=1)
+        
         df.to_csv(filename, index=False, encoding='utf-8')
-        print(f"Schedule saved to {filename} (with gap detection)")
+        print(f"Schedule saved to {filename} (sorted by time)")
 
 def main():
     scraper = AppleMusicScheduleScraper()
