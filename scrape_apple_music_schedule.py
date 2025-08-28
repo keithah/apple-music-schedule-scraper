@@ -934,7 +934,9 @@ class AppleMusicScheduleScraper:
         # Prepare data for CSV with new column order
         csv_data = []
         for show in all_shows_with_gaps:
+            # Original time from Apple Music (this is UTC)
             time_slot_utc = show.get('time_slot', '')
+            # Convert UTC to Pacific for display
             time_slot_pacific = self._convert_utc_to_pacific(time_slot_utc) if '*** MISSING' not in show.get('title', '') else time_slot_utc
             
             csv_data.append({
