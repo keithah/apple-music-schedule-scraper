@@ -333,65 +333,70 @@ class AppleMusicScheduleScraper:
                     # Same period
                     start_period = end_period
                     
-            # Convert to 24-hour format
+            # Convert to 24-hour format for calculation
+            utc_start_hour = start_hour
+            utc_end_hour = end_hour
+            
             if start_period == 'PM' and start_hour != 12:
-                start_hour += 12
+                utc_start_hour = start_hour + 12
             elif start_period == 'AM' and start_hour == 12:
-                start_hour = 0
+                utc_start_hour = 0
                 
             if end_period == 'PM' and end_hour != 12:
-                end_hour += 12
+                utc_end_hour = end_hour + 12
             elif end_period == 'AM' and end_hour == 12:
-                end_hour = 0
+                utc_end_hour = 0
             
-            # Apply Pacific Time offset (UTC-8 for PST, UTC-7 for PDT)
-            # Current date determines if we're in PDT or PST
+            # Apply Pacific Time offset (UTC-8 for PST, UTC-7 for PDT)  
+            # Determine if we're in Daylight Saving Time
             pacific_tz = pytz.timezone('America/Los_Angeles')
             now = datetime.now(pacific_tz)
             is_dst = bool(now.dst())
-            offset = 7 if is_dst else 8
+            offset = 7 if is_dst else 8  # PDT is UTC-7, PST is UTC-8
             
-            # Subtract offset hours (if result is negative, add 24)
-            start_hour_pacific = start_hour - offset
-            if start_hour_pacific < 0:
-                start_hour_pacific += 24
-            end_hour_pacific = end_hour - offset  
-            if end_hour_pacific < 0:
-                end_hour_pacific += 24
-            
-            start_hour = start_hour_pacific
-            end_hour = end_hour_pacific
+            # Convert UTC to Pacific by subtracting offset
+            pacific_start_hour = utc_start_hour - offset
+            if pacific_start_hour < 0:
+                pacific_start_hour += 24
+            elif pacific_start_hour >= 24:
+                pacific_start_hour -= 24
+                
+            pacific_end_hour = utc_end_hour - offset  
+            if pacific_end_hour < 0:
+                pacific_end_hour += 24
+            elif pacific_end_hour >= 24:
+                pacific_end_hour -= 24
             
             # Convert back to 12-hour format with correct AM/PM
-            if start_hour == 0:
+            if pacific_start_hour == 0:
                 display_start_hour = 12
-                start_period = 'AM'
-            elif start_hour < 12:
-                display_start_hour = start_hour
-                start_period = 'AM'
-            elif start_hour == 12:
+                pacific_start_period = 'AM'
+            elif pacific_start_hour < 12:
+                display_start_hour = pacific_start_hour
+                pacific_start_period = 'AM'
+            elif pacific_start_hour == 12:
                 display_start_hour = 12
-                start_period = 'PM'
+                pacific_start_period = 'PM'
             else:
-                display_start_hour = start_hour - 12
-                start_period = 'PM'
+                display_start_hour = pacific_start_hour - 12
+                pacific_start_period = 'PM'
                 
-            if end_hour == 0:
+            if pacific_end_hour == 0:
                 display_end_hour = 12
-                end_period = 'AM'
-            elif end_hour < 12:
-                display_end_hour = end_hour
-                end_period = 'AM'
-            elif end_hour == 12:
+                pacific_end_period = 'AM'
+            elif pacific_end_hour < 12:
+                display_end_hour = pacific_end_hour
+                pacific_end_period = 'AM'
+            elif pacific_end_hour == 12:
                 display_end_hour = 12
-                end_period = 'PM'
+                pacific_end_period = 'PM'
             else:
-                display_end_hour = end_hour - 12
-                end_period = 'PM'
+                display_end_hour = pacific_end_hour - 12
+                pacific_end_period = 'PM'
             
             # Format the result to match UTC pattern (only show AM/PM when necessary)
             # Always format with same period logic - only show AM/PM on end time unless periods cross midnight
-            if start_period == end_period:
+            if pacific_start_period == pacific_end_period:
                 # Same period - only show AM/PM on end time (like "4 – 6 AM")
                 if start_min > 0:
                     start_formatted = f"{display_start_hour}:{start_min:02d}"
@@ -399,20 +404,20 @@ class AppleMusicScheduleScraper:
                     start_formatted = f"{display_start_hour}"
                     
                 if end_min > 0:
-                    end_formatted = f"{display_end_hour}:{end_min:02d}{end_period}"
+                    end_formatted = f"{display_end_hour}:{end_min:02d}{pacific_end_period}"
                 else:
-                    end_formatted = f"{display_end_hour}{end_period}"
+                    end_formatted = f"{display_end_hour}{pacific_end_period}"
             else:
                 # Different periods - show AM/PM on both times (like "11PM – 12AM") 
                 if start_min > 0:
-                    start_formatted = f"{display_start_hour}:{start_min:02d}{start_period}"
+                    start_formatted = f"{display_start_hour}:{start_min:02d}{pacific_start_period}"
                 else:
-                    start_formatted = f"{display_start_hour}{start_period}"
+                    start_formatted = f"{display_start_hour}{pacific_start_period}"
                     
                 if end_min > 0:
-                    end_formatted = f"{display_end_hour}:{end_min:02d}{end_period}"
+                    end_formatted = f"{display_end_hour}:{end_min:02d}{pacific_end_period}"
                 else:
-                    end_formatted = f"{display_end_hour}{end_period}"
+                    end_formatted = f"{display_end_hour}{pacific_end_period}"
             
             return f"{start_formatted} – {end_formatted}"
             
@@ -934,9 +939,9 @@ class AppleMusicScheduleScraper:
         # Prepare data for CSV with new column order
         csv_data = []
         for show in all_shows_with_gaps:
-            # Original time from Apple Music (this is UTC)
+            # Original time from Apple Music (this is already UTC - no conversion needed)
             time_slot_utc = show.get('time_slot', '')
-            # Convert UTC to Pacific for display
+            # Convert UTC to Pacific for display purposes
             time_slot_pacific = self._convert_utc_to_pacific(time_slot_utc) if '*** MISSING' not in show.get('title', '') else time_slot_utc
             
             csv_data.append({
