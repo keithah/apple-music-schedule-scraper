@@ -965,16 +965,31 @@ class AppleMusicScheduleScraper:
                 return 9999  # Put gaps at end
             
             # Extract start time from slot like "5 – 7PM" or "11PM – 12AM"
-            time_match = re.search(r'(\d{1,2}(?::\d{2})?)\s*(?:AM|PM)?\s*[–-]', str(time_slot), re.I)
+            # More precise regex to capture the AM/PM attached to the start time
+            time_match = re.search(r'(\d{1,2}(?::\d{2})?)\s*(AM|PM)?\s*[–-]', str(time_slot), re.I)
             if time_match:
                 start_str = time_match.group(1)
-                # Look for AM/PM in the full string
-                if 'AM' in str(time_slot).upper():
-                    period = 'AM'
-                elif 'PM' in str(time_slot).upper():
-                    period = 'PM'
+                period = time_match.group(2)  # AM/PM directly attached to start time
+                
+                # If no AM/PM attached to start time, infer from context
+                if not period:
+                    # Look for AM/PM later in the string for end time
+                    end_match = re.search(r'[–-]\s*\d{1,2}(?::\d{2})?\s*(AM|PM)', str(time_slot), re.I)
+                    if end_match:
+                        end_period = end_match.group(1).upper()
+                        # For patterns like "11 – 12AM", start time (11) should be PM if end is AM (midnight crossing)
+                        # For patterns like "5 – 7PM", start time (5) should be PM same as end
+                        start_hour = int(start_str.split(':')[0])  # Extract just the hour part
+                        if end_period == 'AM' and start_hour >= 10:  # Like "11PM – 1AM"
+                            period = 'PM'  # Late night hours crossing midnight
+                        elif end_period == 'PM' and start_hour <= 8:  # Like "5 – 7PM"  
+                            period = 'PM'  # Afternoon/evening hours
+                        else:
+                            period = end_period  # Default to same as end time
+                    else:
+                        period = 'AM'  # Default
                 else:
-                    period = 'AM'  # Default
+                    period = period.upper()
                 
                 # Parse time
                 if ':' in start_str:
