@@ -277,9 +277,9 @@ class AppleMusicScheduleScraper:
         try:
             # Parse different time slot formats
             patterns = [
-                # Pattern 1: Both times have AM/PM (11PM – 12AM)
-                r'(\d{1,2}(?::\d{2})?(?:AM|PM))\s*[–-]\s*(\d{1,2}(?::\d{2})?(?:AM|PM))',
-                # Pattern 2: Only end time has AM/PM (9 – 10 PM)
+                # Pattern 1: Both times have AM/PM with flexible spacing (10:10 PM – 12:15 AM)
+                r'(\d{1,2}(?::\d{2})?\s*(?:AM|PM))\s*[–-]\s*(\d{1,2}(?::\d{2})?\s*(?:AM|PM))',
+                # Pattern 2: Only end time has AM/PM (9 – 10 PM, 10:10 AM – 12PM)
                 r'(\d{1,2}(?::\d{2})?)\s*[–-]\s*(\d{1,2}(?::\d{2})?\s*(?:AM|PM))',
                 # Pattern 3: No AM/PM on either
                 r'(\d{1,2}(?::\d{2})?)\s*[–-]\s*(\d{1,2}(?::\d{2})?)',
@@ -338,7 +338,9 @@ class AppleMusicScheduleScraper:
             
             return f"{start_formatted} – {end_formatted}"
             
-        except Exception:
+        except Exception as e:
+            # If conversion fails, log the error and return original
+            print(f"Error converting 12h to 24h format '{time_slot}': {e}")
             return time_slot
     
     def _convert_utc_to_pacific(self, time_slot_utc: str) -> str:
@@ -352,7 +354,15 @@ class AppleMusicScheduleScraper:
             match = re.match(pattern, time_slot_utc)
             
             if not match:
-                return time_slot_utc
+                # Fallback: try to convert 12h to 24h first if input is still in 12h format
+                if re.search(r'(AM|PM)', time_slot_utc, re.I):
+                    print(f"Warning: UTC time still in 12h format, converting: {time_slot_utc}")
+                    time_slot_utc_24h = self._convert_12h_to_24h(time_slot_utc)
+                    match = re.match(pattern, time_slot_utc_24h)
+                    if not match:
+                        return time_slot_utc
+                else:
+                    return time_slot_utc
                 
             start_hour = int(match.group(1))
             start_min = int(match.group(2))
@@ -853,14 +863,10 @@ class AppleMusicScheduleScraper:
                     gap_end_min = gap_end % 60
                     
                     # Format time slot
-                    gap_start_str = f"{gap_start_hour % 12 or 12}:{gap_start_min:02d}{'AM' if gap_start_hour < 12 else 'PM'}"
-                    gap_end_str = f"{gap_end_hour % 12 or 12}:{gap_end_min:02d}{'AM' if gap_end_hour < 12 else 'PM'}"
+                    gap_start_str = f"{gap_start_hour:02d}:{gap_start_min:02d}"
+                    gap_end_str = f"{gap_end_hour:02d}:{gap_end_min:02d}"
                     
-                    # Simplify format if minutes are :00
-                    if gap_start_min == 0:
-                        gap_start_str = f"{gap_start_hour % 12 or 12}{'AM' if gap_start_hour < 12 else 'PM'}"
-                    if gap_end_min == 0:
-                        gap_end_str = f"{gap_end_hour % 12 or 12}{'AM' if gap_end_hour < 12 else 'PM'}"
+                    # Keep consistent 24-hour format (no simplification needed)
                     
                     gap_time_slot = f"{gap_start_str} – {gap_end_str}"
                     
@@ -927,12 +933,18 @@ class AppleMusicScheduleScraper:
         
         # Add a sorting helper column for Pacific times
         def time_to_sort_key(time_slot):
-            """Convert Pacific time slot to sorting key"""
+            """Convert Pacific time slot to sorting key (handles both 12h and 24h formats)"""
             if not time_slot or '***' in str(time_slot):
                 return 9999  # Put gaps at end
             
-            # Extract start time from slot like "5 – 7PM" or "11PM – 12AM"
-            # More precise regex to capture the AM/PM attached to the start time
+            # Try 24-hour format first: "14:00 – 16:00"
+            time_match_24h = re.search(r'(\d{1,2}):(\d{2})\s*[–-]', str(time_slot))
+            if time_match_24h:
+                hour = int(time_match_24h.group(1))
+                minute = int(time_match_24h.group(2))
+                return hour * 60 + minute
+            
+            # Fallback to 12-hour format parsing
             time_match = re.search(r'(\d{1,2}(?::\d{2})?)\s*(AM|PM)?\s*[–-]', str(time_slot), re.I)
             if time_match:
                 start_str = time_match.group(1)
@@ -944,8 +956,6 @@ class AppleMusicScheduleScraper:
                     end_match = re.search(r'[–-]\s*\d{1,2}(?::\d{2})?\s*(AM|PM)', str(time_slot), re.I)
                     if end_match:
                         end_period = end_match.group(1).upper()
-                        # For patterns like "11 – 12AM", start time (11) should be PM if end is AM (midnight crossing)
-                        # For patterns like "5 – 7PM", start time (5) should be PM same as end
                         start_hour = int(start_str.split(':')[0])  # Extract just the hour part
                         if end_period == 'AM' and start_hour >= 10:  # Like "11PM – 1AM"
                             period = 'PM'  # Late night hours crossing midnight
