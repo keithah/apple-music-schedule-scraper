@@ -11,6 +11,15 @@ def parse_time_to_minutes(time_str):
         return -1
     
     time_str = time_str.strip().upper()
+    
+    # Try 24-hour format first (HH:MM)
+    match_24h = re.match(r'(\d{1,2}):(\d{2})', time_str)
+    if match_24h:
+        hour = int(match_24h.group(1))
+        minute = int(match_24h.group(2))
+        return hour * 60 + minute
+    
+    # Fallback to 12-hour format
     match = re.match(r'(\d{1,2})(?::(\d{2}))?\s*(AM|PM)', time_str)
     if not match:
         return -1
@@ -43,8 +52,11 @@ def verify_station_coverage(df, station_name):
         if not time_slot or 'MISSING' in str(show['show_title']):
             continue
             
-        # Extract start and end times
-        time_match = re.search(r'(\d{1,2}(?::\d{2})?\s*(?:AM|PM)?)\s*[–-]\s*(\d{1,2}(?::\d{2})?\s*(?:AM|PM))', time_slot, re.I)
+        # Extract start and end times - handle both 24h and 12h formats
+        time_match = re.search(r'(\d{1,2}:\d{2})\s*[–-]\s*(\d{1,2}:\d{2})', time_slot, re.I)
+        if not time_match:
+            # Fallback to 12-hour format
+            time_match = re.search(r'(\d{1,2}(?::\d{2})?\s*(?:AM|PM)?)\s*[–-]\s*(\d{1,2}(?::\d{2})?\s*(?:AM|PM))', time_slot, re.I)
         if time_match:
             start_str = time_match.group(1).strip()
             end_str = time_match.group(2).strip()

@@ -64,22 +64,18 @@ class AppleMusicScheduleScraper:
                 page.evaluate("window.scrollTo(0, 0)")
                 page.wait_for_timeout(1000)
                 
-                # Extract image URLs using JavaScript - debug version
+                # Extract image URLs using JavaScript
                 image_data = page.evaluate("""
                     () => {
                         const imageMap = {};
-                        const debugInfo = {};
                         
                         // Get all images 
                         const allImages = document.querySelectorAll('img');
-                        debugInfo.totalImages = allImages.length;
                         
                         const mzstaticImages = document.querySelectorAll('img[src*="mzstatic.com"]');
-                        debugInfo.mzstaticImages = mzstaticImages.length;
                         
-                        // Get all images and their src attributes for debugging
+                        // Get all images and their src attributes
                         const allImageSrcs = Array.from(allImages).map(img => img.src).filter(src => src && src.length > 10);
-                        debugInfo.imageSources = allImageSrcs.slice(0, 10); // First 10 for debugging
                         
                         // Look for show elements more aggressively - cast a wider net
                         const potentialShows = document.querySelectorAll(
@@ -88,7 +84,6 @@ class AppleMusicScheduleScraper:
                             '[class*="episode"], [class*="track"], [class*="content"], ' + 
                             'div[data-testid], article, section > div, main > div > div'
                         );
-                        debugInfo.potentialShows = potentialShows.length;
                         
                         potentialShows.forEach((element, index) => {
                             const text = element.textContent.trim();
@@ -144,16 +139,12 @@ class AppleMusicScheduleScraper:
                             }
                         });
                         
-                        debugInfo.imageMapSize = Object.keys(imageMap).length;
-                        
                         return {
-                            imageMap: imageMap,
-                            debug: debugInfo
+                            imageMap: imageMap
                         };
                     }
                 """)
                 
-                print(f"Debug info for {url}: {image_data.get('debug', {})}")
                 actual_image_data = image_data.get('imageMap', {})
                 
                 # Get the page content
@@ -278,14 +269,13 @@ class AppleMusicScheduleScraper:
             
         return None, None, None
     
-    def _convert_utc_to_pacific(self, time_slot_utc: str) -> str:
-        """Convert UTC time slot to Pacific time."""
-        if not time_slot_utc:
-            return None
+    def _convert_12h_to_24h(self, time_slot: str) -> str:
+        """Convert 12-hour format time slot to 24-hour format."""
+        if not time_slot:
+            return time_slot
             
         try:
             # Parse different time slot formats
-            # Formats: "11PM – 12AM", "7:05 – 9 PM", "10AM – 12PM"
             patterns = [
                 # Pattern 1: Both times have AM/PM (11PM – 12AM)
                 r'(\d{1,2}(?::\d{2})?(?:AM|PM))\s*[–-]\s*(\d{1,2}(?::\d{2})?(?:AM|PM))',
@@ -297,55 +287,77 @@ class AppleMusicScheduleScraper:
             
             match = None
             for pattern in patterns:
-                match = re.match(pattern, time_slot_utc, re.I)
+                match = re.match(pattern, time_slot, re.I)
                 if match:
                     break
                     
             if not match:
-                return time_slot_utc
+                return time_slot
                 
             start_str = match.group(1)
             end_str = match.group(2)
             
-            # Parse start time
+            # Parse start and end times
             start_hour, start_min, start_period = self._parse_time_component(start_str)
             end_hour, end_min, end_period = self._parse_time_component(end_str)
             
             # Infer missing AM/PM periods
             if end_period is None and start_period:
-                # If end hour is less than start, it probably switches periods
                 if end_hour < start_hour:
                     end_period = 'AM' if start_period == 'PM' else 'PM'
                 else:
                     end_period = start_period
             elif start_period is None and end_period:
-                # If start doesn't have period but end does (like "12 – 2 AM")
-                # Special case: if start is 12 and end is AM, start should also be AM (midnight)
                 if start_hour == 12 and end_period == 'AM':
                     start_period = 'AM'
-                # Special case: if start is 12 and end is PM, start should also be PM (noon)
                 elif start_hour == 12 and end_period == 'PM':
                     start_period = 'PM'
                 elif start_hour > end_hour:
-                    # Spans midnight, start is previous period
                     start_period = 'AM' if end_period == 'PM' else 'PM'
                 else:
-                    # Same period
                     start_period = end_period
-                    
-            # Convert to 24-hour format for calculation
-            utc_start_hour = start_hour
-            utc_end_hour = end_hour
             
+            # Convert to 24-hour format
             if start_period == 'PM' and start_hour != 12:
-                utc_start_hour = start_hour + 12
+                start_hour_24 = start_hour + 12
             elif start_period == 'AM' and start_hour == 12:
-                utc_start_hour = 0
+                start_hour_24 = 0
+            else:
+                start_hour_24 = start_hour
                 
             if end_period == 'PM' and end_hour != 12:
-                utc_end_hour = end_hour + 12
+                end_hour_24 = end_hour + 12
             elif end_period == 'AM' and end_hour == 12:
-                utc_end_hour = 0
+                end_hour_24 = 0
+            else:
+                end_hour_24 = end_hour
+            
+            # Format as 24-hour time
+            start_formatted = f"{start_hour_24:02d}:{start_min:02d}"
+            end_formatted = f"{end_hour_24:02d}:{end_min:02d}"
+            
+            return f"{start_formatted} – {end_formatted}"
+            
+        except Exception:
+            return time_slot
+    
+    def _convert_utc_to_pacific(self, time_slot_utc: str) -> str:
+        """Convert UTC time slot to Pacific time."""
+        if not time_slot_utc:
+            return None
+            
+        try:
+            # Parse 24-hour format: "23:00 – 01:00"
+            pattern = r'(\d{1,2}):(\d{2})\s*[–-]\s*(\d{1,2}):(\d{2})'
+            match = re.match(pattern, time_slot_utc)
+            
+            if not match:
+                return time_slot_utc
+                
+            start_hour = int(match.group(1))
+            start_min = int(match.group(2))
+            end_hour = int(match.group(3))
+            end_min = int(match.group(4))
             
             # Apply Pacific Time offset (UTC-8 for PST, UTC-7 for PDT)  
             # Determine if we're in Daylight Saving Time
@@ -355,69 +367,21 @@ class AppleMusicScheduleScraper:
             offset = 7 if is_dst else 8  # PDT is UTC-7, PST is UTC-8
             
             # Convert UTC to Pacific by subtracting offset
-            pacific_start_hour = utc_start_hour - offset
+            pacific_start_hour = start_hour - offset
             if pacific_start_hour < 0:
                 pacific_start_hour += 24
             elif pacific_start_hour >= 24:
                 pacific_start_hour -= 24
                 
-            pacific_end_hour = utc_end_hour - offset  
+            pacific_end_hour = end_hour - offset  
             if pacific_end_hour < 0:
                 pacific_end_hour += 24
             elif pacific_end_hour >= 24:
                 pacific_end_hour -= 24
             
-            # Convert back to 12-hour format with correct AM/PM
-            if pacific_start_hour == 0:
-                display_start_hour = 12
-                pacific_start_period = 'AM'
-            elif pacific_start_hour < 12:
-                display_start_hour = pacific_start_hour
-                pacific_start_period = 'AM'
-            elif pacific_start_hour == 12:
-                display_start_hour = 12
-                pacific_start_period = 'PM'
-            else:
-                display_start_hour = pacific_start_hour - 12
-                pacific_start_period = 'PM'
-                
-            if pacific_end_hour == 0:
-                display_end_hour = 12
-                pacific_end_period = 'AM'
-            elif pacific_end_hour < 12:
-                display_end_hour = pacific_end_hour
-                pacific_end_period = 'AM'
-            elif pacific_end_hour == 12:
-                display_end_hour = 12
-                pacific_end_period = 'PM'
-            else:
-                display_end_hour = pacific_end_hour - 12
-                pacific_end_period = 'PM'
-            
-            # Format the result to match UTC pattern (only show AM/PM when necessary)
-            # Always format with same period logic - only show AM/PM on end time unless periods cross midnight
-            if pacific_start_period == pacific_end_period:
-                # Same period - only show AM/PM on end time (like "4 – 6 AM")
-                if start_min > 0:
-                    start_formatted = f"{display_start_hour}:{start_min:02d}"
-                else:
-                    start_formatted = f"{display_start_hour}"
-                    
-                if end_min > 0:
-                    end_formatted = f"{display_end_hour}:{end_min:02d}{pacific_end_period}"
-                else:
-                    end_formatted = f"{display_end_hour}{pacific_end_period}"
-            else:
-                # Different periods - show AM/PM on both times (like "11PM – 12AM") 
-                if start_min > 0:
-                    start_formatted = f"{display_start_hour}:{start_min:02d}{pacific_start_period}"
-                else:
-                    start_formatted = f"{display_start_hour}{pacific_start_period}"
-                    
-                if end_min > 0:
-                    end_formatted = f"{display_end_hour}:{end_min:02d}{pacific_end_period}"
-                else:
-                    end_formatted = f"{display_end_hour}{pacific_end_period}"
+            # Format with 24-hour time
+            start_formatted = f"{pacific_start_hour:02d}:{start_min:02d}"
+            end_formatted = f"{pacific_end_hour:02d}:{end_min:02d}"
             
             return f"{start_formatted} – {end_formatted}"
             
@@ -732,8 +696,11 @@ class AppleMusicScheduleScraper:
             
             # Only return if we have meaningful data
             if time_slot or title or description:
+                # Convert time_slot to 24-hour format
+                time_slot_24h = self._convert_12h_to_24h(time_slot) if time_slot else time_slot
+                
                 return {
-                    'time_slot': time_slot,
+                    'time_slot': time_slot_24h,
                     'title': title,
                     'description': description,
                     'artwork_url': artwork_url,

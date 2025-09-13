@@ -62,10 +62,10 @@ The repository includes a GitHub Actions workflow that:
 
 ### CSV Columns
 - `station`: Radio station name
-- `time_slot_pacific`: Show time in Pacific Time (e.g., "2PM – 4PM")
+- `time_slot_pacific`: Show time in Pacific Time (e.g., "14:00 – 16:00")
 - `show_title`: Name of the show
 - `description`: Show description
-- `time_slot_utc`: Show time in UTC (e.g., "9 – 11 PM")
+- `time_slot_utc`: Show time in UTC (e.g., "21:00 – 23:00")
 - `show_image_url`: Artwork/image URL
 - `show_url`: Link to show page
 - `scraped_at`: Timestamp of data collection in Pacific Time
