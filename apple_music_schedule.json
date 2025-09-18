@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-18T00:30:21.361867-07:00",
+  "scraped_at": "2025-09-18T01:35:45.248565-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "06:00 – 08:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 6 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "08:00 – 10:00",
       "title": "The Rebecca Judd Show",
       "description": "The biggest tunes right now, followed by throwback anthems.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/ea/90/b8/ea90b8ff-4173-a0d3-2be3-9d45d20f92da/0e074dce-66ee-44e3-8f27-22b88467d34d.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-rebecca-judd-show/1481636844",
-      "raw_text": "8 – 10 AM The Rebecca Judd Show The biggest tunes right now, followed by throwback anthems.",
+      "raw_text": "LIVE · 8 – 10 AM The Rebecca Judd Show The biggest tunes right now, followed by throwback anthems.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -190,6 +180,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
+      "time_slot": "08:00 – 09:00",
+      "title": "Africa Now Radio with Nandi Madida",
+      "description": "Celebrating rising Nigerian artist Salle.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/37/78/60/377860e9-1c1a-4ea4-fb12-68a5c3d2ccdb/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/africa-now-radio-with-nandi-madida/1494794631",
+      "raw_text": "8 – 9 AM Africa Now Radio with Nandi Madida Celebrating rising Nigerian artist Salle.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
       "time_slot": "07:00 – 09:00",
       "title": "Apple Music Hits",
       "description": "Songs you know and love.",
@@ -282,10 +282,10 @@
     {
       "time_slot": "18:00 – 20:00",
       "title": "The Estelle Show",
-      "description": "From the singer’s library to your ears.",
+      "description": "One for the real yearners.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/af/29/1d/af291d47-7feb-2942-461f-3c8ac86b94ec/386a40c2-f584-4d7f-8021-883a85d79377.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
-      "raw_text": "6 – 8 PM The Estelle Show From the singer’s library to your ears.",
+      "raw_text": "6 – 8 PM The Estelle Show One for the real yearners.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
