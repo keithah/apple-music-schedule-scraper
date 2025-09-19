@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-18T19:02:48.557598-07:00",
+  "scraped_at": "2025-09-18T19:51:02.807708-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -302,10 +302,10 @@
     {
       "time_slot": "15:00 – 17:00",
       "title": "Jayde Donovan",
-      "description": "Good vibes and the best pop from the ’90s and 2000s.",
+      "description": "From Mariah to Marky Mark, Burna Boy to Britney.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "3 – 5 PM Jayde Donovan Good vibes and the best pop from the ’90s and 2000s.",
+      "raw_text": "3 – 5 PM Jayde Donovan From Mariah to Marky Mark, Burna Boy to Britney.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -376,6 +376,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/56/c4/ec/56c4ec66-6ebc-63da-e815-dc25f911d7df/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/pure-throwback-radio-with-nina-sky/1496850732",
       "raw_text": "1 – 2 AM In the Mix with Nina Sky Latin Heritage Month Mix with Nina Sky, Part 2.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "02:00 – 04:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "2 – 4 AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -726,6 +736,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/bf/bf/fe/bfbffe30-1992-0eed-5404-fd9a50491259/b438c39f-f7ae-4126-bc9c-ecdccfdd7488.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/naina-presents/1774051496",
       "raw_text": "1:05 – 2:15 AM NAINA Presents: DRUMSKULL, Vol. 15 Drumskull in the mix.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "02:15 – 03:15",
+      "title": "Loops",
+      "description": "Electronic music at its most innovative.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "2:15 – 3:15 AM Loops Electronic music at its most innovative.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
