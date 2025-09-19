@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-19T15:31:13.566824-07:00",
+  "scraped_at": "2025-09-19T16:29:21.408539-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "danceXL Radio",
-      "description": "The biggest new tunes roaring through clubs around the world. May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/d3/4c/fe/d34cfe6d-87d3-fcf1-eb52-2533dad65547/1cdfaf08-2a72-4067-b549-4ded3f13406f.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dancexl-radio/1472071066",
-      "raw_text": "LIVE · 10 – 11 PM danceXL Radio The biggest new tunes roaring through clubs around the world. May contain explicit content.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "Loops",
       "description": "Electronic music at its most innovative.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f7/d8/e9/f7d8e9bd-28b4-5434-03b6-0e32507e6f0c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "11PM – 12AM Loops Electronic music at its most innovative.",
+      "raw_text": "LIVE · 11PM – 12AM Loops Electronic music at its most innovative.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,14 +170,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "23:00 – 00:00",
+      "title": "Rap Life Radio with Ebro Darden",
+      "description": "Key Glock talks about the deluxe edition of Glockaveli.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/60/9a/10/609a1068-fd7b-efa2-08dd-a675cbbe037c/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/rap-life-radio-with-ebro-darden/1472071440",
+      "raw_text": "11PM – 12AM Rap Life Radio with Ebro Darden Key Glock talks about the deluxe edition of Glockaveli.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "23:00 – 00:00",
@@ -195,7 +185,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -356,6 +346,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "23:00 – 01:00",
+      "title": "After School Radio",
+      "description": "Mark and the panel play songs in heavy rotation.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/e6/26/62/e62662f9-fc30-3a40-40d7-4ea3faba6306/f53231f0-51ba-4710-bb8c-1485c6d26b63.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/after-school-radio/1496846020",
+      "raw_text": "11PM – 1AM After School Radio Mark and the panel play songs in heavy rotation.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -530,22 +530,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "22:00 – 23:05",
-      "title": "Tomorrowland Belgium 2025: Kaskade at Mainstage, Weekend 2",
-      "description": "A bass fuelled and progressive journey from the Chicago DJ.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/85/f1/6c/85f16c5b-6b2d-ae8f-4285-17ed437bedaf/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 10 – 11:05 PM Tomorrowland Belgium 2025: Kaskade at Mainstage, Weekend 2 A bass fuelled and progressive journey from the Chicago DJ.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "23:05 – 00:05",
       "title": "Tomorrowland Belgium 2025: Cassian b2b Kevin de Vries at Mainstage, Weekend 1",
       "description": "The two DJs kill it at the mainstage.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/e3/bf/77/e3bf7742-e01b-cc83-884f-5897012b5270/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "11:05 PM – 12:05 AM Tomorrowland Belgium 2025: Cassian b2b Kevin de Vries at Mainstage, Weekend 1 The two DJs kill it at the mainstage.",
+      "raw_text": "LIVE · 11:05 PM – 12:05 AM Tomorrowland Belgium 2025: Cassian b2b Kevin de Vries at Mainstage, Weekend 1 The two DJs kill it at the mainstage.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -732,20 +722,20 @@
     {
       "time_slot": "21:00 – 22:30",
       "title": "Tomorrowland Belgium 2025: Sammy Virji at Freedom, Weekend",
-      "description": "A high energy, bass fuelled journey from the UK DJ.",
+      "description": "A high-energy, bass-fueled journey from the UK DJ.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/2e/a3/91/2ea391e2-fb51-d2a2-52c1-5c3cc44f4748/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "9 – 10:30 PM Tomorrowland Belgium 2025: Sammy Virji at Freedom, Weekend A high energy, bass fuelled journey from the UK DJ.",
+      "raw_text": "9 – 10:30 PM Tomorrowland Belgium 2025: Sammy Virji at Freedom, Weekend A high-energy, bass-fueled journey from the UK DJ.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "22:30 – 23:55",
       "title": "Tomorrowland Belgium 2025: Funk Tribu at Atmosphere, Weekend 1",
-      "description": "A hypnotising and genre fluid set, live from the festival.",
+      "description": "A hypnotizing and genre-fluid set, live from the festival.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/9f/8f/a0/9f8fa061-ea97-431b-a338-a12b2e2c183e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "10:30 – 11:55 PM Tomorrowland Belgium 2025: Funk Tribu at Atmosphere, Weekend 1 A hypnotising and genre fluid set, live from the festival.",
+      "raw_text": "10:30 – 11:55 PM Tomorrowland Belgium 2025: Funk Tribu at Atmosphere, Weekend 1 A hypnotizing and genre-fluid set, live from the festival.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
