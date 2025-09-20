@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-19T18:59:11.480474-07:00",
+  "scraped_at": "2025-09-19T19:45:30.793873-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -180,22 +180,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "01:00 – 02:00",
-      "title": "In the Mix with Nina Sky",
-      "description": "Latin Heritage Month Mix with Nina Sky, Part 2.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/56/c4/ec/56c4ec66-6ebc-63da-e815-dc25f911d7df/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/pure-throwback-radio-with-nina-sky/1496850732",
-      "raw_text": "LIVE · 1 – 2 AM In the Mix with Nina Sky Latin Heritage Month Mix with Nina Sky, Part 2.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "02:00 – 04:00",
       "title": "Apple Music Hits",
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "2 – 4 AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 2 – 4 AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -346,6 +336,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "1 – 2 AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "02:00 – 04:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "2 – 4 AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -520,22 +520,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "01:05 – 02:15",
-      "title": "NAINA Presents: DRUMSKULL, Vol. 15",
-      "description": "Drumskull in the mix.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/bf/bf/fe/bfbffe30-1992-0eed-5404-fd9a50491259/b438c39f-f7ae-4126-bc9c-ecdccfdd7488.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/naina-presents/1774051496",
-      "raw_text": "LIVE · 1:05 – 2:15 AM NAINA Presents: DRUMSKULL, Vol. 15 Drumskull in the mix.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "02:15 – 03:15",
       "title": "Loops",
       "description": "Electronic music at its most innovative.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "2:15 – 3:15 AM Loops Electronic music at its most innovative.",
+      "raw_text": "LIVE · 2:15 – 3:15 AM Loops Electronic music at its most innovative.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -726,6 +716,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/1d/21/be/1d21be4c-1380-c83f-ea18-7bb227963249/8dac7713-0eb9-4ccc-9956-72a5c4f54049.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/hyperhouse/998788287",
       "raw_text": "12:55 – 1:55 AM HYPERHOUSE Music from LOVEFOXY, Miggy, and Jamie xx.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "01:55 – 02:55",
+      "title": "Loops",
+      "description": "Electronic music at its most innovative.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "1:55 – 2:55 AM Loops Electronic music at its most innovative.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
