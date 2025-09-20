@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-19T21:32:59.418346-07:00",
+  "scraped_at": "2025-09-19T22:31:35.119615-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Tomorrowland Belgium 2025: Kaskade at Mainstage, Weekend 2",
-      "description": "May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/b3/7f/99/b37f9907-d95b-e63c-4ca6-2aaa95ee3eb8/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "LIVE · 4 – 5 AM Tomorrowland Belgium 2025: Kaskade at Mainstage, Weekend 2 May contain explicit content.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "05:00 – 06:00",
       "title": "Tomorrowland Belgium 2025: Cassian b2b Kevin de Vries at Mainstage, Weekend 1",
       "description": "May contain explicit content.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/89/5d/8b/895d8b0d-6bd8-94fb-56f1-ff6994f6604e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "5 – 6 AM Tomorrowland Belgium 2025: Cassian b2b Kevin de Vries at Mainstage, Weekend 1 May contain explicit content.",
+      "raw_text": "LIVE · 5 – 6 AM Tomorrowland Belgium 2025: Cassian b2b Kevin de Vries at Mainstage, Weekend 1 May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,22 +170,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "'90s Club Essentials",
-      "description": "Electronic music’s floor-filling golden age.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/f9/e2/29/f9e2290f-2dde-2d06-b8a2-bcf385dc4f48/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 4 – 5 AM '90s Club Essentials Electronic music’s floor-filling golden age.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "05:00 – 07:00",
       "title": "Jayde Donovan",
       "description": "From Mariah to Marky Mark, Burna Boy to Britney.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "5 – 7 AM Jayde Donovan From Mariah to Marky Mark, Burna Boy to Britney.",
+      "raw_text": "LIVE · 5 – 7 AM Jayde Donovan From Mariah to Marky Mark, Burna Boy to Britney.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -350,14 +330,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 4 – 5 AM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "05:00 – 07:00",
+      "title": "'90s Club Essentials",
+      "description": "Electronic music’s floor-filling golden age.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/f9/e2/29/f9e2290f-2dde-2d06-b8a2-bcf385dc4f48/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "5 – 7 AM '90s Club Essentials Electronic music’s floor-filling golden age.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "05:00 – 07:00",
@@ -365,7 +345,7 @@
       "description": "Rootsy tunes for kicking back and watching the world go by.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "5 – 7 AM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
+      "raw_text": "LIVE · 5 – 7 AM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -520,22 +500,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "04:15 – 05:10",
-      "title": "Tomorrowland Belgium 2025: Sub Focus at Mainstage, Weekend 1",
-      "description": "A high energy set from this year’s extravaganza.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/bc/6c/ed/bc6cede6-eaa9-5569-1305-0fe9451889dd/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 4:15 – 5:10 AM Tomorrowland Belgium 2025: Sub Focus at Mainstage, Weekend 1 A high energy set from this year’s extravaganza.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "05:10 – 06:15",
       "title": "Tomorrowland Belgium 2025: Kaskade at Mainstage, Weekend 2",
       "description": "A bass fuelled and progressive journey from the Chicago DJ.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/85/f1/6c/85f16c5b-6b2d-ae8f-4285-17ed437bedaf/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "5:10 – 6:15 AM Tomorrowland Belgium 2025: Kaskade at Mainstage, Weekend 2 A bass fuelled and progressive journey from the Chicago DJ.",
+      "raw_text": "LIVE · 5:10 – 6:15 AM Tomorrowland Belgium 2025: Kaskade at Mainstage, Weekend 2 A bass fuelled and progressive journey from the Chicago DJ.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -730,6 +700,16 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
+      "time_slot": "05:25 – 06:55",
+      "title": "Tomorrowland Belgium 2025: Funk Tribu at Atmosphere, Weekend 1",
+      "description": "A hypnotizing and genre-fluid set, live from the festival.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/9f/8f/a0/9f8fa061-ea97-431b-a338-a12b2e2c183e/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "5:25 – 6:55 AM Tomorrowland Belgium 2025: Funk Tribu at Atmosphere, Weekend 1 A hypnotizing and genre-fluid set, live from the festival.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
       "time_slot": "04:00 – 06:00",
       "title": "Apple Music Chill",
       "description": "Listen and let go.",
@@ -910,14 +890,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "03:00 – 05:00",
-      "title": "De Fiesta",
-      "description": "Pop latino, cumbia, salsa y reggaetón para amanecer bailando.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/13/d5/aa/13d5aa42-4f1c-0c7f-88ed-227c6d746fdf/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 3 – 5 AM De Fiesta Pop latino, cumbia, salsa y reggaetón para amanecer bailando.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "05:00 – 06:00",
+      "title": "Evergreen",
+      "description": null,
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "5 – 6 AM Evergreen",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "05:00 – 07:00",
@@ -925,7 +905,7 @@
       "description": "Para pasar una larga noche de copas entre compas. ¡Salud!",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/5e/47/81/5e478138-b6c4-cd28-f44d-ade334c7c97d/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "5 – 7 AM Pistear Para pasar una larga noche de copas entre compas. ¡Salud!",
+      "raw_text": "LIVE · 5 – 7 AM Pistear Para pasar una larga noche de copas entre compas. ¡Salud!",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1066,6 +1046,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/13/d5/aa/13d5aa42-4f1c-0c7f-88ed-227c6d746fdf/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "3 – 5 AM De Fiesta Pop latino, cumbia, salsa y reggaetón para amanecer bailando.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "05:00 – 07:00",
+      "title": "Cumbia Pa' La Fiesta",
+      "description": "Clásicos de siempre y éxitos que definen el presente del género.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/31/be/03/31be0354-ec11-f1d5-346d-a8823bdc9a67/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "5 – 7 AM Cumbia Pa' La Fiesta Clásicos de siempre y éxitos que definen el presente del género.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
