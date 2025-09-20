@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-20T15:30:37.683723-07:00",
+  "scraped_at": "2025-09-20T16:29:17.228980-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "New Music Daily Radio with Zane Lowe",
-      "description": "The superstar wants to know WHERE IS MY HUSBAND!",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/27/c6/3a/27c63acd-89a7-e09d-11a6-a6a70b50160e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/new-music-daily-radio-with-zane-lowe/1458161472",
-      "raw_text": "LIVE · 10 – 11 PM New Music Daily Radio with Zane Lowe The superstar wants to know WHERE IS MY HUSBAND!",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "Rap Life Radio with Ebro Darden",
       "description": "Key Glock talks about the deluxe edition of Glockaveli.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/60/9a/10/609a1068-fd7b-efa2-08dd-a675cbbe037c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/rap-life-radio-with-ebro-darden/1472071440",
-      "raw_text": "11PM – 12AM Rap Life Radio with Ebro Darden Key Glock talks about the deluxe edition of Glockaveli.",
+      "raw_text": "LIVE · 11PM – 12AM Rap Life Radio with Ebro Darden Key Glock talks about the deluxe edition of Glockaveli.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -170,22 +160,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "23:00 – 01:00",
       "title": "After School Radio",
       "description": "Mark and the panel play songs in heavy rotation.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/e6/26/62/e62662f9-fc30-3a40-40d7-4ea3faba6306/f53231f0-51ba-4710-bb8c-1485c6d26b63.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/after-school-radio/1496846020",
-      "raw_text": "11PM – 1AM After School Radio Mark and the panel play songs in heavy rotation.",
+      "raw_text": "LIVE · 11PM – 1AM After School Radio Mark and the panel play songs in heavy rotation.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -336,6 +316,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "23:00 – 01:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "11PM – 1AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -500,22 +490,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "21:00 – 22:30",
-      "title": "Tomorrowland Belgium 2025: Sammy Virji at Freedom, Weekend",
-      "description": "A high-energy, bass-fueled journey from the UK DJ.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/2e/a3/91/2ea391e2-fb51-d2a2-52c1-5c3cc44f4748/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 9 – 10:30 PM Tomorrowland Belgium 2025: Sammy Virji at Freedom, Weekend A high-energy, bass-fueled journey from the UK DJ.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "22:30 – 23:55",
       "title": "Tomorrowland Belgium 2025: Funk Tribu at Atmosphere, Weekend 1",
       "description": "A hypnotizing and genre-fluid set, live from the festival.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/9f/8f/a0/9f8fa061-ea97-431b-a338-a12b2e2c183e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "10:30 – 11:55 PM Tomorrowland Belgium 2025: Funk Tribu at Atmosphere, Weekend 1 A hypnotizing and genre-fluid set, live from the festival.",
+      "raw_text": "LIVE · 10:30 – 11:55 PM Tomorrowland Belgium 2025: Funk Tribu at Atmosphere, Weekend 1 A hypnotizing and genre-fluid set, live from the festival.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -706,6 +686,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/90/b0/18/90b01846-6491-7c25-85e5-443ff3db1cc0/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "9:55 – 10:55 PM Public Possession DJs: New Modernity Mix 02 The label bosses, in the mix.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "22:55 – 23:55",
+      "title": "Boiler Room: Dee Diggs at Dekmantel, Amsterdam, Aug 5, 2022",
+      "description": "An adventurous and energetic from the New York DJ.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/01/d0/6d/01d06d44-ab14-7a3e-2345-1bb2b616f498/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "10:55 – 11:55 PM Boiler Room: Dee Diggs at Dekmantel, Amsterdam, Aug 5, 2022 An adventurous and energetic from the New York DJ.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -1046,6 +1036,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
       "raw_text": "9 – 11 PM La Oficial La casa oficial de la música mexicana.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "23:00 – 01:00",
+      "title": "Amor Alternativo",
+      "description": "Sonidos alternativos para el corazón.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/b3/40/25/b34025cf-2552-dfe5-a552-1143702ed133/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "11PM – 1AM Amor Alternativo Sonidos alternativos para el corazón.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
