@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-20T09:32:45.485517-07:00",
+  "scraped_at": "2025-09-20T10:29:08.680402-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "16:00 – 17:00",
-      "title": "Rocket Hour",
-      "description": "Elton John plays his favorite new releases.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/6e/fd/65/6efd65e4-989c-ddfc-831f-01ae0410121c/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/rocket-hour/993269779",
-      "raw_text": "LIVE · 4 – 5 PM Rocket Hour Elton John plays his favorite new releases.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "17:00 – 19:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "5 – 7 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 5 – 7 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,22 +170,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "15:00 – 17:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 3 – 5 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "17:00 – 18:00",
       "title": "Apple Music Hits",
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "5 – 6 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 5 – 6 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -346,6 +326,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "3 – 5 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "17:00 – 18:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "5 – 6 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -510,14 +500,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "16:00 – 17:05",
-      "title": "RA.048 Dixon",
-      "description": "Crammed full of soulful vocals and deep house.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f9/81/72/f9817212-7d1e-7ec4-f4d3-f66ad3ff5a86/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 4 – 5:05 PM RA.048 Dixon Crammed full of soulful vocals and deep house.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "17:00 – 19:00",
+      "title": "Country Caffeine",
+      "description": "The boost you need to get back in the saddle.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/eb/26/cc/eb26cc3c-27ce-de4d-8be5-920607accd45/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "5 – 7 PM Country Caffeine The boost you need to get back in the saddle.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "17:05 – 18:00",
@@ -525,7 +515,7 @@
       "description": "Bump and flex to the best in new-school UKG.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/bf/24/b1/bf24b1f5-8a2b-e5dd-f8a7-ef420571cc94/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "5:05 – 6 PM UKG Bump and flex to the best in new-school UKG.",
+      "raw_text": "LIVE · 5:05 – 6 PM UKG Bump and flex to the best in new-school UKG.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -730,22 +720,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "16:00 – 17:00",
-      "title": "Chill Gems",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com#",
-      "raw_text": "LIVE · 4 – 5 PM Chill Gems Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "17:00 – 18:00",
       "title": "Evergreen",
       "description": null,
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "5 – 6 PM Evergreen",
+      "raw_text": "LIVE · 5 – 6 PM Evergreen",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -920,14 +900,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "16:00 – 17:15",
-      "title": "Track by Track",
-      "description": "Un recorrido por cada canción del álbum.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 4 – 5:15 PM Track by Track Un recorrido por cada canción del álbum.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "17:00 – 18:00",
+      "title": "Evergreen",
+      "description": null,
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "5 – 6 PM Evergreen",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "17:15 – 18:00",
@@ -935,7 +915,7 @@
       "description": "La cultura que te mueve.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "5:15 – 6 PM La Lista La cultura que te mueve.",
+      "raw_text": "LIVE · 5:15 – 6 PM La Lista La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1056,6 +1036,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "3 – 5 PM Apple Música Uno La cultura que te mueve.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "17:00 – 18:00",
+      "title": "SOMOS Radio",
+      "description": "El Malilla, Santa Fe Klan y la escena musical en México.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/53/20/56/53205683-f948-811b-1846-73df1e4a879c/82520c78-6fcc-4bab-bed3-c7b3f2c575fd.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/somos/1653478999",
+      "raw_text": "5 – 6 PM SOMOS Radio El Malilla, Santa Fe Klan y la escena musical en México.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
