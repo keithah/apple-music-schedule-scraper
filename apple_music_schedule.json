@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-20T06:31:28.343753-07:00",
+  "scraped_at": "2025-09-20T07:30:50.541160-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "12:00 – 14:00",
-      "title": "Charlie Sloth Rap Show",
-      "description": "Reliving four eras of hip-hop greatness.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/6a/06/be/6a06be6d-cf65-59ba-3f7d-e08c48ace7d8/fb373810-e10d-494a-82d2-920c2d8be7b2.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/charlie-sloth-rap-show/1437832972",
-      "raw_text": "LIVE · 12 – 2 PM Charlie Sloth Rap Show Reliving four eras of hip-hop greatness.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "14:00 – 16:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "2 – 4 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 2 – 4 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,14 +170,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "13:00 – 14:00",
-      "title": "Pop Hits Radio with Brooke Reese",
-      "description": "Reminisce in all the nostalgia of these 1991 hits.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/28/97/a2/2897a214-30eb-b83e-060e-1c2e2c9d8b47/U0MtTVMtV1ctUG9wSGl0c1JhZGlvLUVQNDAtMTk5MV9IaXRzLnBuZw.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/pop-hits-radio-with-brooke-reese/1496850873",
-      "raw_text": "LIVE · 1 – 2 PM Pop Hits Radio with Brooke Reese Reminisce in all the nostalgia of these 1991 hits.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "14:00 – 16:00",
+      "title": "Vibes",
+      "description": "The most exciting sounds that focus on mood and texture.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/10/1e/1f/101e1fa1-55a3-bcb9-3616-d70a409abe67/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
+      "raw_text": "2 – 4 PM Vibes The most exciting sounds that focus on mood and texture.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "14:00 – 15:00",
@@ -195,7 +185,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "2 – 3 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 2 – 3 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -350,14 +340,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "13:00 – 14:00",
-      "title": "Country Rewind",
-      "description": "Timeless country hits you can revisit again and again.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/79/4d/14/794d14fd-e8b1-b218-448a-7bb4fcbb0d9a/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 1 – 2 PM Country Rewind Timeless country hits you can revisit again and again.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "14:00 – 15:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "2 – 3 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "14:00 – 16:00",
@@ -365,7 +355,7 @@
       "description": "The boost you need to get back in the saddle.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/eb/26/cc/eb26cc3c-27ce-de4d-8be5-920607accd45/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "2 – 4 PM Country Caffeine The boost you need to get back in the saddle.",
+      "raw_text": "LIVE · 2 – 4 PM Country Caffeine The boost you need to get back in the saddle.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -506,6 +496,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/79/4d/14/794d14fd-e8b1-b218-448a-7bb4fcbb0d9a/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
       "raw_text": "1 – 2 PM Country Rewind Timeless Country hits you can revisit again and again.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
+      "time_slot": "14:00 – 16:00",
+      "title": "Back Porch Country",
+      "description": "Rootsy tunes for kicking back and watching the world go by.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "2 – 4 PM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -720,6 +720,16 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
+      "time_slot": "13:50 – 14:50",
+      "title": "Early Hours Mix: Enamour",
+      "description": "Enamour in the mix.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/92/d6/6c/92d66c6d-d25f-56d5-5803-34a647bf3c6e/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "1:50 – 2:50 PM Early Hours Mix: Enamour Enamour in the mix.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
       "time_slot": "13:00 – 15:00",
       "title": "Apple Music Chill",
       "description": "Listen and let go.",
@@ -910,22 +920,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "12:00 – 14:00",
-      "title": "La Oficial",
-      "description": "La casa oficial de la música mexicana.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
-      "raw_text": "LIVE · 12 – 2 PM La Oficial La casa oficial de la música mexicana.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
       "time_slot": "14:00 – 16:00",
       "title": "Puro Pop",
       "description": "Una mezcla única de éxitos del pop latino.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "2 – 4 PM Puro Pop Una mezcla única de éxitos del pop latino.",
+      "raw_text": "LIVE · 2 – 4 PM Puro Pop Una mezcla única de éxitos del pop latino.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
