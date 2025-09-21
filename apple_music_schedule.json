@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-21T04:28:09.700491-07:00",
+  "scraped_at": "2025-09-21T05:38:16.805044-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "10:00 – 12:00",
-      "title": "Today’s Chill",
-      "description": "Songs that redefine the sound of chill on a daily basis.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/f0/f5/6e/f0f56e6e-58e2-347e-3565-0c8987571f73/08f697f2-a52a-4f5d-b6d4-b286e7b45f5c.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "LIVE · 10AM – 12PM Today’s Chill Songs that redefine the sound of chill on a daily basis.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "12:00 – 14:00",
       "title": "indie + chill",
       "description": "Gentle indie pop and rock melodies that make moments better.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/39/bf/cf/39bfcf8e-7a4e-04ec-a694-da75e866f543/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "12 – 2 PM indie + chill Gentle indie pop and rock melodies that make moments better.",
+      "raw_text": "LIVE · 12 – 2 PM indie + chill Gentle indie pop and rock melodies that make moments better.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -160,22 +150,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "10:00 – 12:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 10AM – 12PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "12:00 – 13:00",
       "title": "2000s Hits Essentials",
       "description": "The idols and pop stars who ruled the early 21st century.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/80/8d/ce/808dce42-81c4-a608-832e-a5016196865b/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "12 – 1 PM 2000s Hits Essentials The idols and pop stars who ruled the early 21st century.",
+      "raw_text": "LIVE · 12 – 1 PM 2000s Hits Essentials The idols and pop stars who ruled the early 21st century.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -360,6 +340,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "12:00 – 13:00",
+      "title": "'90s Hits Essentials",
+      "description": "A mix of the decade’s biggest tracks and lost favorites.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/3d/64/fa/3d64faea-b022-d865-4b41-8b693fa79eb3/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "12 – 1 PM '90s Hits Essentials A mix of the decade’s biggest tracks and lost favorites.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "11:00 – 13:00",
       "title": "Apple Music Country",
       "description": "Where it sounds like home.",
@@ -520,22 +510,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "10:55 – 12:00",
-      "title": "RA.048 Dixon",
-      "description": "Crammed full of soulful vocals and deep house.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f9/81/72/f9817212-7d1e-7ec4-f4d3-f66ad3ff5a86/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 10:55 AM – 12PM RA.048 Dixon Crammed full of soulful vocals and deep house.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "12:00 – 12:55",
       "title": "UKG",
       "description": "Bump and flex to the best in new-school UKG.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/bf/24/b1/bf24b1f5-8a2b-e5dd-f8a7-ef420571cc94/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "12 – 12:55 PM UKG Bump and flex to the best in new-school UKG.",
+      "raw_text": "LIVE · 12 – 12:55 PM UKG Bump and flex to the best in new-school UKG.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -730,14 +710,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "10:00 – 12:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 10AM – 12PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "11:55 – 12:55",
+      "title": "Apple Music Club",
+      "description": "Where the mix never ends.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "11:55 AM – 12:55 PM Apple Music Club Where the mix never ends.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "12:00 – 13:00",
@@ -745,7 +725,7 @@
       "description": "Zane's selection of chilled Beck classics.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/c9/d5/9a/c9d59aec-dd8e-4da1-1c9e-ce9948111e22/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "12 – 1 PM Zane Needs To Chill Zane's selection of chilled Beck classics.",
+      "raw_text": "LIVE · 12 – 1 PM Zane Needs To Chill Zane's selection of chilled Beck classics.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -920,6 +900,16 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
+      "time_slot": "12:00 – 13:00",
+      "title": "Lo-Fi Chill",
+      "description": "Hazy, easy sounds for lean-back listening.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/5e/f2/4d/5ef24d37-9174-683a-5c64-134ced909189/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "12 – 1 PM Lo-Fi Chill Hazy, easy sounds for lean-back listening.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
       "time_slot": "11:00 – 13:00",
       "title": "Apple Música Uno",
       "description": "La cultura que te mueve.",
@@ -1076,6 +1066,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
       "raw_text": "10AM – 12PM La Oficial La casa oficial de la música mexicana.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "12:00 – 14:00",
+      "title": "Puro Pop",
+      "description": "Una mezcla única de éxitos del pop latino.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "12 – 2 PM Puro Pop Una mezcla única de éxitos del pop latino.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
