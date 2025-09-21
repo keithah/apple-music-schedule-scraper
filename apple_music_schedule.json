@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-21T02:29:35.618153-07:00",
+  "scraped_at": "2025-09-21T03:31:41.311144-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "08:00 – 10:00",
-      "title": "Chill Africa",
-      "description": "Mellow music from across the continent and the diaspora.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/80/95/55/809555dd-654f-fe21-41ab-1ea7487bbe96/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "LIVE · 8 – 10 AM Chill Africa Mellow music from across the continent and the diaspora.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "10:00 – 12:00",
       "title": "Today’s Chill",
       "description": "Songs that redefine the sound of chill on a daily basis.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/f0/f5/6e/f0f56e6e-58e2-347e-3565-0c8987571f73/08f697f2-a52a-4f5d-b6d4-b286e7b45f5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "10AM – 12PM Today’s Chill Songs that redefine the sound of chill on a daily basis.",
+      "raw_text": "LIVE · 10AM – 12PM Today’s Chill Songs that redefine the sound of chill on a daily basis.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -150,14 +140,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "09:00 – 10:00",
-      "title": "Elton John Essentials",
-      "description": "Explore the career-defining hits of music’s biggest stars.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/a7/ee/aa/a7eeaa1f-e556-692d-2f36-4221652b82e5/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 9 – 10 AM Elton John Essentials Explore the career-defining hits of music’s biggest stars.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "10:00 – 11:00",
+      "title": "The Apple Music 1 List",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "10 – 11 AM The Apple Music 1 List The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "10:00 – 12:00",
@@ -165,7 +155,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "10AM – 12PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 10AM – 12PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -340,6 +330,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "10:00 – 11:00",
+      "title": "2010s Hits Essentials",
+      "description": "Viral sensations and A-list bops rule the airwaves.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/13/36/08/133608bc-e86a-a650-32f6-b74ac46d9d94/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "10 – 11 AM 2010s Hits Essentials Viral sensations and A-list bops rule the airwaves.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "09:00 – 11:00",
       "title": "Back Porch Country",
       "description": "Rootsy tunes for kicking back and watching the world go by.",
@@ -490,14 +490,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "07:55 – 09:50",
-      "title": "Apple Music Club",
-      "description": "Where the mix never ends.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 7:55 – 9:50 AM Apple Music Club Where the mix never ends.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "10:00 – 11:00",
+      "title": "2000s Country Essentials",
+      "description": "A decade of big tunes that chronicle life’s little moments.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/9a/a1/3d/9aa13d51-f437-233b-b221-068b07c16603/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "10 – 11 AM 2000s Country Essentials A decade of big tunes that chronicle life’s little moments.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "09:50 – 10:55",
@@ -505,7 +505,7 @@
       "description": "A warm and energetic electronic soundscape.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/a2/34/fe/a234fea6-737e-a005-b7f3-1ee9d403b625/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "9:50 – 10:55 AM Carla Mo: Ascension Radio, Episode 016 A warm and energetic electronic soundscape.",
+      "raw_text": "LIVE · 9:50 – 10:55 AM Carla Mo: Ascension Radio, Episode 016 A warm and energetic electronic soundscape.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -700,14 +700,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "09:00 – 10:00",
-      "title": "Acoustic Chill",
-      "description": "Pop and indie with a lighter, unplugged touch.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 9 – 10 AM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "09:55 – 10:55",
+      "title": "Public Possession DJs: New Modernity Mix 02",
+      "description": "The label bosses, in the mix.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/90/b0/18/90b01846-6491-7c25-85e5-443ff3db1cc0/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "9:55 – 10:55 AM Public Possession DJs: New Modernity Mix 02 The label bosses, in the mix.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "10:00 – 12:00",
@@ -715,7 +715,7 @@
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "10AM – 12PM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 10AM – 12PM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -890,6 +890,16 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
+      "time_slot": "10:00 – 12:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "10AM – 12PM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
       "time_slot": "09:00 – 11:00",
       "title": "¡Dale Play!",
       "description": "¡Dale Play! a los éxitos de tus artistas favoritos.",
@@ -1046,6 +1056,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dc/f5/be/dcf5be41-58fe-4cc0-94df-762b9e3d9c6b/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "9 – 10 AM Corridos al Cien Pedazos de realidad en forma de canción.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "10:00 – 12:00",
+      "title": "La Oficial",
+      "description": "La casa oficial de la música mexicana.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
+      "raw_text": "10AM – 12PM La Oficial La casa oficial de la música mexicana.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
