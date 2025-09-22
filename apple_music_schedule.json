@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-22T00:31:37.653380-07:00",
+  "scraped_at": "2025-09-22T01:37:00.584676-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "07:00 – 08:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 7 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "08:00 – 10:00",
       "title": "The Rebecca Judd Show",
-      "description": "Kojey Radical talks through his album, 'Don't Look Down'.",
+      "description": "Music from Sabrina Carpenter, RAYE and Khalid.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/ea/90/b8/ea90b8ff-4173-a0d3-2be3-9d45d20f92da/0e074dce-66ee-44e3-8f27-22b88467d34d.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-rebecca-judd-show/1481636844",
-      "raw_text": "8 – 10 AM The Rebecca Judd Show Kojey Radical talks through his album, 'Don't Look Down'.",
+      "raw_text": "LIVE · 8 – 10 AM The Rebecca Judd Show Music from Sabrina Carpenter, RAYE and Khalid.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -186,6 +176,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/cd/71/ec/cd71ecc8-7ee6-a944-1fa1-67de9008712c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/j-pop-now-radio-with-kentaro-ochiai/1526877564",
       "raw_text": "7 – 8 AM J-Pop Now Trending tracks from Japan's most popular acts.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "08:00 – 10:00",
+      "title": "The Rebecca Judd Show",
+      "description": "Kojey Radical joins to discuss 'Don't Look Down'.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/ea/90/b8/ea90b8ff-4173-a0d3-2be3-9d45d20f92da/0e074dce-66ee-44e3-8f27-22b88467d34d.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-rebecca-judd-show/1481636844",
+      "raw_text": "8 – 10 AM The Rebecca Judd Show Kojey Radical joins to discuss 'Don't Look Down'.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
