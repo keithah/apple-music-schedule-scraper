@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-22T15:31:22.582576-07:00",
+  "scraped_at": "2025-09-22T16:29:35.147735-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "The Global Chart Show With Brooke Reese",
-      "description": "The most popular songs on Apple Music.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/68/61/da/6861daa3-4de4-c484-61a4-6aefc5fc0e78/7d4fde68-78db-40cc-9be0-3ca6bab907f1.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
-      "raw_text": "LIVE · 10 – 11 PM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "The Travis Mills Show",
       "description": "Bobby Krlic, Denzel Curry, and Guapdad 4000 chat HIM.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/ac/9d/0e/ac9d0ef2-b120-ece6-4fce-f4e1082f4a1c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
-      "raw_text": "11PM – 12AM The Travis Mills Show Bobby Krlic, Denzel Curry, and Guapdad 4000 chat HIM.",
+      "raw_text": "LIVE · 11PM – 12AM The Travis Mills Show Bobby Krlic, Denzel Curry, and Guapdad 4000 chat HIM.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -61,11 +51,11 @@
     },
     {
       "time_slot": "04:00 – 06:00",
-      "title": "Today's Hits",
-      "description": "All the songs you know and love from all your favorite artists.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/1c/24/d0/1c24d0de-1833-7fa8-c811-3d3e5df84eb6/947f2946-2f2f-4be0-bc4c-66183f190445.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/todays-hits-on-apple-music-1/1653478003",
-      "raw_text": "4 – 6 AM Today's Hits All the songs you know and love from all your favorite artists.",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "4 – 6 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -190,14 +180,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "23:00 – 00:00",
+      "title": "The Travis Mills Show",
+      "description": "Check in with Apple Music’s pop culture authority.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/4e/3f/90/4e3f9078-3647-99a8-c3c4-14b66b1f662e/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
+      "raw_text": "11PM – 12AM The Travis Mills Show Check in with Apple Music’s pop culture authority.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "23:00 – 00:00",
@@ -205,7 +195,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -380,6 +370,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "23:00 – 00:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "22:00 – 00:00",
       "title": "Apple Music Country",
       "description": "Where it sounds like home.",
@@ -550,22 +550,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "22:10 – 23:20",
-      "title": "DJ Minx x Life and Death Mix Series",
-      "description": "Women on Wax founder in the mix.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/de/85/23/de85233c-75a8-1619-2f6f-71e32c069528/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 10:10 – 11:20 PM DJ Minx x Life and Death Mix Series Women on Wax founder in the mix.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "23:20 – 00:25",
       "title": "Gudu Mix 058: John Falke",
       "description": "The German DJ takes control.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/31/75/dc/3175dcaf-a8b3-3c37-d128-53a747389204/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "11:20 PM – 12:25 AM GuduMix 058: John Falke The German DJ takes control.",
+      "raw_text": "LIVE · 11:20 PM – 12:25 AM GuduMix 058: John Falke The German DJ takes control.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -716,6 +706,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/bb/6e/09/bb6e0959-132b-1668-c1ae-8c9a1303303d/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "9:55 – 10:55 PM Higher Ground: Tiffy Vera Bold selections and signature grooves.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "22:55 – 23:55",
+      "title": "Armada Today: Eelke Kleijn",
+      "description": "Dutch DJ and producer in the mix.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/16/1b/28/161b2867-8fa9-674d-e236-c91de120572b/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "10:55 – 11:55 PM Armada Today: Eelke Kleijn Dutch DJ and producer in the mix.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
