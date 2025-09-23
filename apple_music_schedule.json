@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-23T00:31:08.530796-07:00",
+  "scraped_at": "2025-09-23T01:35:47.590466-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "07:00 – 08:00",
-      "title": "J-Pop Now",
-      "description": "Trending tracks from Japan’s most popular acts.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/cd/71/ec/cd71ecc8-7ee6-a944-1fa1-67de9008712c/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/j-pop-now-radio-with-kentaro-ochiai/1526877564",
-      "raw_text": "LIVE · 7 – 8 AM J-Pop Now Trending tracks from Japan’s most popular acts.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "08:00 – 10:00",
       "title": "The Rebecca Judd Show",
       "description": "Kojey Radical joins to discuss his album Don’t Look Down.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6c/cf/63/6ccf639c-1cca-2ad9-2726-847f3b9e7646/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-rebecca-judd-show/1481636844",
-      "raw_text": "8 – 10 AM The Rebecca Judd Show Kojey Radical joins to discuss his album Don’t Look Down.",
+      "raw_text": "LIVE · 8 – 10 AM The Rebecca Judd Show Kojey Radical joins to discuss his album Don’t Look Down.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -170,6 +160,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
+      "time_slot": "08:00 – 10:00",
+      "title": "The Rebecca Judd Show",
+      "description": "Meet the Cambridgeshire singer Sissy Ford.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/ea/90/b8/ea90b8ff-4173-a0d3-2be3-9d45d20f92da/0e074dce-66ee-44e3-8f27-22b88467d34d.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-rebecca-judd-show/1481636844",
+      "raw_text": "8 – 10 AM The Rebecca Judd Show Meet the Cambridgeshire singer Sissy Ford.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
       "time_slot": "07:00 – 09:00",
       "title": "Apple Music Hits",
       "description": "Songs you know and love.",
@@ -262,10 +262,10 @@
     {
       "time_slot": "18:00 – 20:00",
       "title": "The Estelle Show",
-      "description": "From the singer’s library to your ears.",
+      "description": "Songs that transport you back in time.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/af/29/1d/af291d47-7feb-2942-461f-3c8ac86b94ec/386a40c2-f584-4d7f-8021-883a85d79377.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
-      "raw_text": "6 – 8 PM The Estelle Show From the singer’s library to your ears.",
+      "raw_text": "6 – 8 PM The Estelle Show Songs that transport you back in time.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
