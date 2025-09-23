@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-23T15:31:52.645256-07:00",
+  "scraped_at": "2025-09-23T16:29:37.610384-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "The Global Chart Show With Brooke Reese",
-      "description": "The most popular songs on Apple Music.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/68/61/da/6861daa3-4de4-c484-61a4-6aefc5fc0e78/7d4fde68-78db-40cc-9be0-3ca6bab907f1.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
-      "raw_text": "LIVE · 10 – 11 PM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "The Travis Mills Show",
       "description": "Check in with Apple Music’s pop culture authority.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/4e/3f/90/4e3f9078-3647-99a8-c3c4-14b66b1f662e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
-      "raw_text": "11PM – 12AM The Travis Mills Show Check in with Apple Music’s pop culture authority.",
+      "raw_text": "LIVE · 11PM – 12AM The Travis Mills Show Check in with Apple Music’s pop culture authority.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,14 +170,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "23:00 – 00:00",
+      "title": "Flowers: Mariah Carey & SZA",
+      "description": "SZA gives Mariah Carey her flowers, live in NYC.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/15/41/55/1541553b-a10a-7bf1-fe07-5407f94c6882/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-ebro-show/990473683",
+      "raw_text": "11PM – 12AM Flowers: Mariah Carey & SZA SZA gives Mariah Carey her flowers, live in NYC.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "23:00 – 00:00",
@@ -195,7 +185,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -380,6 +370,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "23:00 – 00:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "22:00 – 00:00",
       "title": "Apple Music Country",
       "description": "Where it sounds like home.",
@@ -550,22 +550,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "21:55 – 22:55",
-      "title": "Higher Ground: Tiffy Vera",
-      "description": "Bold selections and signature grooves.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/bb/6e/09/bb6e0959-132b-1668-c1ae-8c9a1303303d/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 9:55 – 10:55 PM Higher Ground: Tiffy Vera Bold selections and signature grooves.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "22:55 – 23:55",
       "title": "Armada Today: Eelke Kleijn",
       "description": "Dutch DJ and producer in the mix.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/16/1b/28/161b2867-8fa9-674d-e236-c91de120572b/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "10:55 – 11:55 PM Armada Today: Eelke Kleijn Dutch DJ and producer in the mix.",
+      "raw_text": "LIVE · 10:55 – 11:55 PM Armada Today: Eelke Kleijn Dutch DJ and producer in the mix.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -726,6 +716,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/0a/09/97/0a099788-202b-e90a-917f-222253ea00ae/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "10 – 11 PM House Workout: Fedde Le Grand Motivating, uplifting and pumping house music.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "23:00 – 00:00",
+      "title": "Ministry of Sound: Ibiza Closing 2025: Sigala",
+      "description": "A roof-raising mix of certified club favourites.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/c4/56/bd/c456bdf3-9658-b389-e0c3-70450fdfcf96/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "11PM – 12AM Ministry of Sound: Ibiza Closing 2025: Sigala A roof-raising mix of certified club favourites.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
