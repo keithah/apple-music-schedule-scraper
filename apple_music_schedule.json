@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-23T03:33:48.411484-07:00",
+  "scraped_at": "2025-09-23T04:29:20.468114-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "10:00 – 11:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 10 – 11 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "11:00 – 13:00",
       "title": "The Matt Wilkinson Show",
       "description": "The daily show dedicated to all things alternative.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6d/aa/86/6daa867b-1a40-0b36-f8b7-4d58cab2f1e8/6f83b0b3-55aa-4e4d-b9db-dd2a7c260077.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-matt-wilkinson-show/1184566442",
-      "raw_text": "11AM – 1PM The Matt Wilkinson Show The daily show dedicated to all things alternative.",
+      "raw_text": "LIVE · 11AM – 1PM The Matt Wilkinson Show The daily show dedicated to all things alternative.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -170,14 +160,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "10:00 – 11:00",
-      "title": "2010s Hits Essentials",
-      "description": "Viral sensations and A-list bops rule the airwaves.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/13/36/08/133608bc-e86a-a650-32f6-b74ac46d9d94/pr_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 10 – 11 AM 2010s Hits Essentials Viral sensations and A-list bops rule the airwaves.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "11:00 – 13:00",
+      "title": "The Matt Wilkinson Show",
+      "description": "The daily show dedicated to all things alternative.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6d/aa/86/6daa867b-1a40-0b36-f8b7-4d58cab2f1e8/6f83b0b3-55aa-4e4d-b9db-dd2a7c260077.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-matt-wilkinson-show/1184566442",
+      "raw_text": "11AM – 1PM The Matt Wilkinson Show The daily show dedicated to all things alternative.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "11:00 – 12:00",
@@ -185,7 +175,7 @@
       "description": "The idols and pop stars who ruled the early 21st century.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/80/8d/ce/808dce42-81c4-a608-832e-a5016196865b/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11AM – 12PM 2000s Hits Essentials The idols and pop stars who ruled the early 21st century.",
+      "raw_text": "LIVE · 11AM – 12PM 2000s Hits Essentials The idols and pop stars who ruled the early 21st century.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -360,14 +350,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "10:00 – 11:00",
-      "title": "2000s Country Essentials",
-      "description": "A decade of big tunes that chronicle life’s little moments.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/9a/a1/3d/9aa13d51-f437-233b-b221-068b07c16603/pr_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 10 – 11 AM 2000s Country Essentials A decade of big tunes that chronicle life’s little moments.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "11:00 – 12:00",
+      "title": "2000s Hits Essentials",
+      "description": "The idols and pop stars who ruled the early 21st century.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/80/8d/ce/808dce42-81c4-a608-832e-a5016196865b/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "11AM – 12PM 2000s Hits Essentials The idols and pop stars who ruled the early 21st century.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "11:00 – 13:00",
@@ -375,7 +365,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "11AM – 1PM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 11AM – 1PM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -530,14 +520,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "10:10 – 11:25",
-      "title": "DJ Minx x Life and Death Mix Series",
-      "description": "Women on Wax founder in the mix.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/de/85/23/de85233c-75a8-1619-2f6f-71e32c069528/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 10:10 – 11:25 AM DJ Minx x Life and Death Mix Series Women on Wax founder in the mix.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "11:00 – 13:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "11AM – 1PM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "11:25 – 12:25",
@@ -545,7 +535,7 @@
       "description": "The German DJ takes control.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/31/75/dc/3175dcaf-a8b3-3c37-d128-53a747389204/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "11:25 AM – 12:25 PM GuduMix 058: John Falke The German DJ takes control.",
+      "raw_text": "LIVE · 11:25 AM – 12:25 PM GuduMix 058: John Falke The German DJ takes control.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -696,6 +686,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/bb/6e/09/bb6e0959-132b-1668-c1ae-8c9a1303303d/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "9:50 – 10:50 AM Higher Ground: Tiffy Vera Bold selections and signature grooves.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "10:50 – 11:50",
+      "title": "Armada Today: Eelke Kleijn",
+      "description": "Dutch DJ and producer in the mix.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/16/1b/28/161b2867-8fa9-674d-e236-c91de120572b/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "10:50 – 11:50 AM Armada Today: Eelke Kleijn Dutch DJ and producer in the mix.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
