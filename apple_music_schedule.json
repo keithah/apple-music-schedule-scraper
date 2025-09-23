@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-22T19:00:47.386277-07:00",
+  "scraped_at": "2025-09-22T19:48:10.849305-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "00:00 – 02:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 12 – 2 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "02:00 – 03:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "2 – 3 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 2 – 3 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -190,14 +180,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "01:00 – 02:00",
-      "title": "Easy Hits",
-      "description": "Low-key songs to help you unwind.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/07/4d/7e/074d7ea9-8d9d-40e4-c5cf-3a8126030cd8/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 1 – 2 AM Easy Hits Low-key songs to help you unwind.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "02:00 – 03:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "2 – 3 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "02:00 – 04:00",
@@ -205,7 +195,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "2 – 4 AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 2 – 4 AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -302,10 +292,10 @@
     {
       "time_slot": "15:00 – 17:00",
       "title": "Jayde Donovan",
-      "description": "Good vibes and the best pop from the ’90s and 2000s.",
+      "description": "A push and pull for the perfect playlist.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "3 – 5 PM Jayde Donovan Good vibes and the best pop from the ’90s and 2000s.",
+      "raw_text": "3 – 5 PM Jayde Donovan A push and pull for the perfect playlist.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -376,6 +366,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/07/4d/7e/074d7ea9-8d9d-40e4-c5cf-3a8126030cd8/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "1 – 2 AM Easy Hits Low-key songs to help you unwind.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "02:00 – 04:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "2 – 4 AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
