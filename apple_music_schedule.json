@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-24T13:32:05.643274-07:00",
+  "scraped_at": "2025-09-24T14:29:45.448179-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "20:00 – 21:00",
-      "title": "The Ebro Show",
-      "description": "Ebro sits down with Japan’s best rising artists.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/1c/a9/23/1ca923d0-7859-2403-629a-83ebe3af6cfe/f4897bc2-340c-4eca-adcf-127cc0b8d3b4.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-ebro-show/990473683",
-      "raw_text": "LIVE · 8 – 9 PM The Ebro Show Ebro sits down with Japan’s best rising artists.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "21:00 – 22:30",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "9 – 10:30 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 9 – 10:30 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -113,7 +103,7 @@
       "time_slot": "13:00 – 14:00",
       "title": "Proud Radio",
       "description": "Exploring LGBTQ+ experiences with British journalist Hattie Collins. Not available in all territories.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features123/v4/db/a4/dd/dba4dd2c-d55d-b261-f1de-c158779c1574/pr_source.png/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/e6/0e/ee/e60eee8c-a9c4-ff39-86bc-68077c8df997/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/proud-radio/1446498836",
       "raw_text": "1 – 2 PM Proud Radio Exploring LGBTQ+ experiences with British journalist Hattie Collins. Not available in all territories.",
       "station": "Apple Music 1",
@@ -160,14 +150,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "20:00 – 21:00",
-      "title": "Pure Throwback",
-      "description": "An amped-up time capsule from the turn of the 2000s.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/dd/2f/37/dd2f373f-69ab-74a6-8f1c-8532a4561786/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 8 – 9 PM Pure Throwback An amped-up time capsule from the turn of the 2000s.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "21:00 – 22:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "9 – 10 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "21:00 – 22:00",
@@ -175,7 +165,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "9 – 10 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 9 – 10 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -343,7 +333,7 @@
       "time_slot": "18:00 – 20:00",
       "title": "The Estelle Show",
       "description": "From the singer’s library to your ears.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/af/29/1d/af291d47-7feb-2942-461f-3c8ac86b94ec/386a40c2-f584-4d7f-8021-883a85d79377.png/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/14/f2/e4/14f2e4ef-35c2-b60d-9c4f-0954214b8168/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
       "raw_text": "6 – 8 PM The Estelle Show From the singer’s library to your ears.",
       "station": "Apple Music Hits",
@@ -356,6 +346,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/dd/2f/37/dd2f373f-69ab-74a6-8f1c-8532a4561786/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "8 – 9 PM Pure Throwback An amped-up time capsule from the turn of the 2000s.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "21:00 – 23:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -530,22 +530,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "19:00 – 21:00",
-      "title": "Loops",
-      "description": "Electronic music at its most innovative.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 7 – 9 PM Loops Electronic music at its most innovative.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "21:00 – 22:00",
       "title": "Heist Mixtape: Ossie",
       "description": "London-born talent Ossie in the mix.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/6a/c7/4a/6ac74abb-f9cc-6ad0-9ffe-af165e59fe37/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "9 – 10 PM Heist Mixtape: Ossie London-born talent Ossie in the mix.",
+      "raw_text": "LIVE · 9 – 10 PM Heist Mixtape: Ossie London-born talent Ossie in the mix.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -710,22 +700,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "19:00 – 21:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 7 – 9 PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "21:00 – 22:00",
       "title": "Zane Needs To Chill",
       "description": "Zane’s selection of chilled Beck classics.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/35/31/87/353187ad-f2ac-1b61-01ef-2004ccac17d1/b9b54330-650d-42c8-9b7c-5191cd777ac8.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "9 – 10 PM Zane Needs To Chill Zane’s selection of chilled Beck classics.",
+      "raw_text": "LIVE · 9 – 10 PM Zane Needs To Chill Zane’s selection of chilled Beck classics.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -876,6 +856,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "7 – 9 PM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "21:00 – 22:00",
+      "title": "Acoustic Chill",
+      "description": "Pop and indie with a lighter, unplugged touch.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "9 – 10 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
