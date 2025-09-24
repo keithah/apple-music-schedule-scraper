@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-23T21:33:39.684215-07:00",
+  "scraped_at": "2025-09-23T22:31:54.882796-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -170,22 +170,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 4 – 5 AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "05:00 – 07:00",
       "title": "Jayde Donovan",
       "description": "Hold on and let go with the perfect playlist.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "5 – 7 AM Jayde Donovan Hold on and let go with the perfect playlist.",
+      "raw_text": "LIVE · 5 – 7 AM Jayde Donovan Hold on and let go with the perfect playlist.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -370,14 +360,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 4 – 5 AM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "05:00 – 07:00",
+      "title": "Jayde Donovan",
+      "description": "Explorations in pop from NYC.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
+      "raw_text": "5 – 7 AM Jayde Donovan Explorations in pop from NYC.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "05:00 – 07:00",
@@ -385,7 +375,7 @@
       "description": "Rootsy tunes for kicking back and watching the world go by.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "5 – 7 AM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
+      "raw_text": "LIVE · 5 – 7 AM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -540,14 +530,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "02:50 – 04:50",
-      "title": "Apple Music Club",
-      "description": "Where the mix never ends.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 2:50 – 4:50 AM Apple Music Club Where the mix never ends.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "05:00 – 07:00",
+      "title": "Back Porch Country",
+      "description": "Rootsy tunes for kicking back and watching the world go by.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "5 – 7 AM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "04:50 – 06:50",
@@ -555,7 +545,7 @@
       "description": "Raw rhythms and tonal melodies in the mix.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/d1/c3/9a/d1c39a2d-b213-000d-3390-f46db83bbb86/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "4:50 – 6:50 AM Durante Live at Anjunadeep Explorations 2025 Raw rhythms and tonal melodies in the mix.",
+      "raw_text": "LIVE · 4:50 – 6:50 AM Durante Live at Anjunadeep Explorations 2025 Raw rhythms and tonal melodies in the mix.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -716,6 +706,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "3 – 5 AM Apple Music Club Where the mix never ends.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "05:00 – 06:00",
+      "title": "Technimatic: Flow State, Vol. 4",
+      "description": "The fourth instalment of the Flow State mix series.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/61/cc/2b/61cc2b7c-8c08-9954-9c7d-290c114ef1a2/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "5 – 6 AM Technimatic: Flow State, Vol. 4 The fourth instalment of the Flow State mix series.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -890,22 +890,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "03:00 – 05:00",
-      "title": "Puro Pop",
-      "description": "Una mezcla única de éxitos del pop latino.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 3 – 5 AM Puro Pop Una mezcla única de éxitos del pop latino.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
       "time_slot": "05:00 – 07:00",
       "title": "¡Dale Play!",
       "description": "¡Dale Play! a los éxitos de tus artistas favoritos.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/3b/f5/9c/3bf59cd8-4072-82a7-5e2b-f88ed50c0f0c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
-      "raw_text": "5 – 7 AM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
+      "raw_text": "LIVE · 5 – 7 AM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1046,6 +1036,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "3:25 – 5:25 AM Puro Pop Una mezcla única de éxitos del pop latino.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "05:25 – 07:25",
+      "title": "¡Dale Play!",
+      "description": "¡Dale Play! a los éxitos de tus artistas favoritos.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
+      "raw_text": "5:25 – 7:25 AM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
