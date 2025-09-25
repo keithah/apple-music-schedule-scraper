@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-25T07:34:19.770309-07:00",
+  "scraped_at": "2025-09-25T08:32:56.731288-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -102,10 +102,10 @@
     {
       "time_slot": "03:00 – 04:00",
       "title": "Doja Cat: One Night Only",
-      "description": "We’re live with Doja Cat in LA for the release of her new album.",
+      "description": "We’re live in LA with Doja Cat for the release of her new album.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/79/a1/30/79a13030-8850-453a-783f-e9359f6bda19/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-ebro-show/990473683",
-      "raw_text": "3 – 4 AM Doja Cat: One Night Only We’re live with Doja Cat in LA for the release of her new album.",
+      "raw_text": "3 – 4 AM Doja Cat: One Night Only We’re live in LA with Doja Cat for the release of her new album.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -132,20 +132,20 @@
     {
       "time_slot": "08:00 – 09:00",
       "title": "Africa Now Radio with Nandi Madida",
-      "description": "Nigerian producer Sarz talks Protect Sarz At All Costs.",
+      "description": "Nigerian producer Sarz talks Protect Sarz at All Costs.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/37/78/60/377860e9-1c1a-4ea4-fb12-68a5c3d2ccdb/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/africa-now-radio-with-nandi-madida/1494794631",
-      "raw_text": "8 – 9 AM Africa Now Radio with Nandi Madida Nigerian producer Sarz talks Protect Sarz At All Costs.",
+      "raw_text": "8 – 9 AM Africa Now Radio with Nandi Madida Nigerian producer Sarz talks Protect Sarz at All Costs.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "09:00 – 10:00",
       "title": "The Dotty Show",
-      "description": "Top 20 songs in Black music including Cardi B, Drake and Rema.",
+      "description": "Top 20 songs in Black music including Cardi B, Drake, and Rema.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6c/d3/93/6cd393ba-a500-2d16-aa18-1c5fe437f60f/33f29bfe-220d-4afe-b817-fdb33729e92f.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-dotty-show/1526877708",
-      "raw_text": "9 – 10 AM The Dotty Show Top 20 songs in Black music including Cardi B, Drake and Rema.",
+      "raw_text": "9 – 10 AM The Dotty Show Top 20 songs in Black music including Cardi B, Drake, and Rema.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,14 +180,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "14:00 – 15:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 2 – 3 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "15:00 – 16:00",
+      "title": "R&B Now Radio with Nadeska Alexis",
+      "description": "Discover the freshest R&B cuts from the Apple Music playlist.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/09/b4/f4/09b4f46c-e7e6-6983-5dc8-9691bd833207/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/r-b-now-radio/1494793925",
+      "raw_text": "3 – 4 PM R&B Now Radio with Nadeska Alexis Discover the freshest R&B cuts from the Apple Music playlist.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "15:00 – 17:00",
@@ -195,7 +195,7 @@
       "description": "Celebrating NYC music through the ages.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "3 – 5 PM Jayde Donovan Celebrating NYC music through the ages.",
+      "raw_text": "LIVE · 3 – 5 PM Jayde Donovan Celebrating NYC music through the ages.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -212,10 +212,10 @@
     {
       "time_slot": "18:00 – 20:00",
       "title": "The Estelle Show",
-      "description": "Tis' the season for love.",
+      "description": "’Tis the season for love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/14/f2/e4/14f2e4ef-35c2-b60d-9c4f-0954214b8168/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
-      "raw_text": "6 – 8 PM The Estelle Show Tis' the season for love.",
+      "raw_text": "6 – 8 PM The Estelle Show ’Tis the season for love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -366,6 +366,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/f9/e2/29/f9e2290f-2dde-2d06-b8a2-bcf385dc4f48/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "2 – 3 PM '90s Club Essentials Electronic music’s floor-filling golden age.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "15:00 – 17:00",
+      "title": "Jayde Donovan",
+      "description": "Good vibes and the best pop from the ’90s and 2000s.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
+      "raw_text": "3 – 5 PM Jayde Donovan Good vibes and the best pop from the ’90s and 2000s.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -540,14 +550,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "13:00 – 15:00",
-      "title": "Afro House Nation",
-      "description": "That deep, soulful sound.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/a1/37/d9/a137d950-8159-35c7-23ab-5d0dff8f6e44/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com#",
-      "raw_text": "LIVE · 1 – 3 PM Afro House Nation That deep, soulful sound.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "15:00 – 17:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "3 – 5 PM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "15:00 – 17:00",
@@ -555,7 +565,7 @@
       "description": "Where the mix never ends.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "3 – 5 PM Apple Music Club Where the mix never ends.",
+      "raw_text": "LIVE · 3 – 5 PM Apple Music Club Where the mix never ends.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -650,22 +660,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "13:00 – 15:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 1 – 3 PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "15:00 – 16:00",
       "title": "Pure Focus",
       "description": "A mix of immersive, mostly electronic sounds.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "3 – 4 PM Pure Focus A mix of immersive, mostly electronic sounds.",
+      "raw_text": "LIVE · 3 – 4 PM Pure Focus A mix of immersive, mostly electronic sounds.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -820,6 +820,16 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
+      "time_slot": "15:00 – 16:00",
+      "title": "Pure Focus",
+      "description": "A mix of immersive, mostly electronic sounds.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "3 – 4 PM Pure Focus A mix of immersive, mostly electronic sounds.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
       "time_slot": "14:00 – 16:00",
       "title": "Apple Música Uno",
       "description": "La cultura que te mueve.",
@@ -956,6 +966,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/ba/4a/08/ba4a08a7-56f4-dccc-ae52-2a2b255357dd/9e27324c-2bd7-4e15-8638-3f58c4f0cf3e.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/somos/1653478999",
       "raw_text": "2 – 3 PM SOMOS Radio Cris MJ y Kidd Voodoo hablan de Chile y su música.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "15:00 – 16:00",
+      "title": "Puro Pop",
+      "description": "Una mezcla única de éxitos del pop latino.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "3 – 4 PM Puro Pop Una mezcla única de éxitos del pop latino.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
