@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-25T10:31:13.129709-07:00",
+  "scraped_at": "2025-09-25T11:37:12.322298-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "16:00 – 17:30",
-      "title": "The Zane Lowe Show",
-      "description": null,
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/bc/99/bf/bc99bf27-90f7-1e2e-d8c1-b89224dad041/057a0e39-030b-4301-b1b8-930e4372665b.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "LIVE · 4 – 5:30 PM The Zane Lowe Show",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "17:30 – 19:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "5:30 – 7 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 5:30 – 7 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -192,22 +182,22 @@
     {
       "time_slot": "17:00 – 18:00",
       "title": "Rap Life Radio with Ebro Darden",
-      "description": "If it happened this week in rap, it's on Rap Life.",
+      "description": "If it happened this week in rap, it’s on Rap Life.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/60/9a/10/609a1068-fd7b-efa2-08dd-a675cbbe037c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/rap-life-radio-with-ebro-darden/1472071440",
-      "raw_text": "5 – 6 PM Rap Life Radio with Ebro Darden If it happened this week in rap, it's on Rap Life.",
+      "raw_text": "5 – 6 PM Rap Life Radio with Ebro Darden If it happened this week in rap, it’s on Rap Life.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "17:00 – 18:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 5 – 6 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "18:00 – 19:00",
+      "title": "Zara Larson",
+      "description": "Your favorite artists host their own shows on Apple Music Radio.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/58/f0/9c/58f09cb0-8c3c-e8fc-941c-8e01a10ab31f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
+      "raw_text": "6 – 7 PM Zara Larson Your favorite artists host their own shows on Apple Music Radio.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "18:00 – 20:00",
@@ -215,7 +205,7 @@
       "description": "’Tis the season for love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/14/f2/e4/14f2e4ef-35c2-b60d-9c4f-0954214b8168/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
-      "raw_text": "6 – 8 PM The Estelle Show ’Tis the season for love.",
+      "raw_text": "LIVE · 6 – 8 PM The Estelle Show ’Tis the season for love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -372,10 +362,10 @@
     {
       "time_slot": "15:00 – 17:00",
       "title": "Jayde Donovan",
-      "description": "From Doja Cat to Disclosure, Kaytranada to Kelis.",
+      "description": "From Doja Cat to Disclosure, KAYTRANADA to Kelis.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "3 – 5 PM Jayde Donovan From Doja Cat to Disclosure, Kaytranada to Kelis.",
+      "raw_text": "3 – 5 PM Jayde Donovan From Doja Cat to Disclosure, KAYTRANADA to Kelis.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -386,6 +376,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "5 – 6 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "18:00 – 20:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "6 – 8 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -532,10 +532,10 @@
     {
       "time_slot": "14:00 – 15:00",
       "title": "Today’s Country Radio With Kelleigh Bannen",
-      "description": "What’s happening from the heart of the country scene.",
+      "description": "HARDY goes inside his songwriting process and talks COUNTRY! COUNTRY!",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/99/2a/7d/992a7d62-1d20-c44a-3478-ebd9e1eb8276/703496cb-5efe-4fd7-81b4-4249640b8621.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/todays-country-radio-with-kelleigh-bannen/1484718373",
-      "raw_text": "2 – 3 PM Today’s Country Radio With Kelleigh Bannen What’s happening from the heart of the country scene.",
+      "raw_text": "2 – 3 PM Today’s Country Radio With Kelleigh Bannen HARDY goes inside his songwriting process and talks COUNTRY! COUNTRY!",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -670,14 +670,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "16:00 – 18:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 4 – 6 PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "18:00 – 19:00",
+      "title": "NAINA Presents: Sinistarr, Vol.8",
+      "description": "House, techno, and footwork with his personal edge.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/8b/7e/87/8b7e878b-8c24-1949-6d9e-5659e08f5e3c/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/naina-presents/1774051496",
+      "raw_text": "6 – 7 PM NAINA Presents: Sinistarr, Vol.8 House, techno, and footwork with his personal edge.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "18:00 – 19:00",
@@ -685,7 +685,7 @@
       "description": "Updates from electronic music’s low-key vanguard.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/d2/7b/dad27b4f-45ab-07b1-bdcd-9a0321c35e30/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "6 – 7 PM Today's Chill Updates from electronic music’s low-key vanguard.",
+      "raw_text": "LIVE · 6 – 7 PM Today's Chill Updates from electronic music’s low-key vanguard.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -840,14 +840,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "16:00 – 18:00",
-      "title": "¡Dale Play!",
-      "description": "¡Dale Play! a los éxitos de tus artistas favoritos.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
-      "raw_text": "LIVE · 4 – 6 PM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "18:00 – 19:00",
+      "title": "Today's Chill",
+      "description": "Updates from electronic music’s low-key vanguard.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/d2/7b/dad27b4f-45ab-07b1-bdcd-9a0321c35e30/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "6 – 7 PM Today's Chill Updates from electronic music’s low-key vanguard.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "18:00 – 20:00",
@@ -855,7 +855,7 @@
       "description": "La cultura que te mueve.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "6 – 8 PM Apple Música Uno La cultura que te mueve.",
+      "raw_text": "LIVE · 6 – 8 PM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -986,6 +986,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
       "raw_text": "4 – 6 PM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "18:00 – 20:00",
+      "title": "Apple Música Uno",
+      "description": "La cultura que te mueve.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "6 – 8 PM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
