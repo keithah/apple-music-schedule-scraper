@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-25T19:02:15.865287-07:00",
+  "scraped_at": "2025-09-25T19:50:07.039880-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -370,6 +370,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "02:00 – 04:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "2 – 4 AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "01:00 – 03:00",
       "title": "Apple Music Country",
       "description": "Where it sounds like home.",
@@ -706,6 +716,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/8b/7e/87/8b7e878b-8c24-1949-6d9e-5659e08f5e3c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/naina-presents/1774051496",
       "raw_text": "1 – 2 AM NAINA Presents: Sinistarr, Vol.8 House, techno, and footwork with his personal edge.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "02:00 – 03:05",
+      "title": "Loops",
+      "description": "Electronic music at its most innovative.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "2 – 3:05 AM Loops Electronic music at its most innovative.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
