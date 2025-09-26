@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-26T09:35:27.278714-07:00",
+  "scraped_at": "2025-09-26T10:30:52.728037-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "16:00 – 17:00",
-      "title": "New Music Daily Radio with Zane Lowe",
-      "description": "Interviews, commentary, and the latest, greatest must-hear songs.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/27/c6/3a/27c63acd-89a7-e09d-11a6-a6a70b50160e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/new-music-daily-radio-with-zane-lowe/1458161472",
-      "raw_text": "LIVE · 4 – 5 PM New Music Daily Radio with Zane Lowe Interviews, commentary, and the latest, greatest must-hear songs.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "17:00 – 18:00",
       "title": "Rap Life Radio with Ebro Darden",
       "description": "Key Glock talks about the deluxe edition of Glockaveli.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/60/9a/10/609a1068-fd7b-efa2-08dd-a675cbbe037c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/rap-life-radio-with-ebro-darden/1472071440",
-      "raw_text": "5 – 6 PM Rap Life Radio with Ebro Darden Key Glock talks about the deluxe edition of Glockaveli.",
+      "raw_text": "LIVE · 5 – 6 PM Rap Life Radio with Ebro Darden Key Glock talks about the deluxe edition of Glockaveli.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,14 +170,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "15:00 – 17:00",
-      "title": "Jayde Donovan",
-      "description": "From Doja Cat to Disclosure, KAYTRANADA to Kelis.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "LIVE · 3 – 5 PM Jayde Donovan From Doja Cat to Disclosure, KAYTRANADA to Kelis.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "17:00 – 18:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "5 – 6 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "17:00 – 18:00",
@@ -195,7 +185,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "5 – 6 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 5 – 6 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -350,14 +340,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "15:00 – 17:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 3 – 5 PM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "17:00 – 18:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "5 – 6 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "17:00 – 19:00",
@@ -365,7 +355,7 @@
       "description": "The boost you need to get back in the saddle.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/eb/26/cc/eb26cc3c-27ce-de4d-8be5-920607accd45/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "5 – 7 PM Country Caffeine The boost you need to get back in the saddle.",
+      "raw_text": "LIVE · 5 – 7 PM Country Caffeine The boost you need to get back in the saddle.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -530,22 +520,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "16:00 – 17:00",
-      "title": "Mixmag: The Cover Mix: Joy Orbison",
-      "description": "A mix full of unreleased gems.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/76/2d/8b/762d8b32-e164-487e-f8fe-d80b9c5790ad/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 4 – 5 PM Mixmag: The Cover Mix: Joy Orbison A mix full of unreleased gems.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "17:00 – 18:00",
       "title": "Drum & Bass",
       "description": "A deeper strain of D’n’B.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/db/72/ee/db72eedb-5653-6a69-8795-32c52f62af35/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "5 – 6 PM Drum & Bass A deeper strain of D’n’B.",
+      "raw_text": "LIVE · 5 – 6 PM Drum & Bass A deeper strain of D’n’B.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -740,6 +720,16 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
+      "time_slot": "17:15 – 18:00",
+      "title": "UKG",
+      "description": "Bump and flex to the best in new-school UKG.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/bf/24/b1/bf24b1f5-8a2b-e5dd-f8a7-ef420571cc94/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com#",
+      "raw_text": "5:15 – 6 PM UKG Bump and flex to the best in new-school UKG.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
       "time_slot": "16:00 – 18:00",
       "title": "Apple Music Chill",
       "description": "Listen and let go.",
@@ -906,6 +896,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
       "raw_text": "4 – 5 PM Chill Gems Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "17:00 – 18:00",
+      "title": "Evergreen",
+      "description": null,
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "5 – 6 PM Evergreen",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
