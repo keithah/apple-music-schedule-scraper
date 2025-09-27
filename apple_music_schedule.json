@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-26T22:31:04.725114-07:00",
+  "scraped_at": "2025-09-26T23:35:30.735637-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "05:25 – 06:25",
-      "title": "DJ - Kicks: Modeselektor",
-      "description": "May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/02/e7/e2/02e7e22f-ea42-988f-4dd6-3793f3a39233/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "LIVE · 5:25 – 6:25 AM DJ - Kicks: Modeselektor May contain explicit content.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "06:25 – 08:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "6:25 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 6:25 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -146,6 +136,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/c1/30/d3/c130d302-19ba-394b-1528-595a212bec59/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
       "raw_text": "4:20 – 6 AM Descendants: Atmos Blaq in Nairobi, 2025 May contain explicit content.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "06:00 – 07:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "6 – 7 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -480,6 +480,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
+      "time_slot": "06:00 – 07:00",
+      "title": "Color Me Country Radio",
+      "description": "The real roots of country music.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/f3/ce/55/f3ce5598-cddb-e094-8ce5-4caa0a7beba3/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/color-me-country-radio/1500977601",
+      "raw_text": "6 – 7 AM Color Me Country Radio The real roots of country music.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
       "time_slot": "05:25 – 06:35",
       "title": "DJ-Kicks: Maya Jane Coles",
       "description": "British music producer in the mix.",
@@ -680,22 +690,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "04:00 – 06:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 4 – 6 AM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "06:00 – 07:00",
       "title": "Today's Chill",
       "description": "Updates from electronic music’s low-key vanguard.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/d2/7b/dad27b4f-45ab-07b1-bdcd-9a0321c35e30/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "6 – 7 AM Today's Chill Updates from electronic music’s low-key vanguard.",
+      "raw_text": "LIVE · 6 – 7 AM Today's Chill Updates from electronic music’s low-key vanguard.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -866,6 +866,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "5 – 6 AM Evergreen",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "06:00 – 07:00",
+      "title": "Chill Gems",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com#",
+      "raw_text": "6 – 7 AM Chill Gems Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
