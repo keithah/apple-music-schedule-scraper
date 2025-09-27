@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-26T20:35:23.612490-07:00",
+  "scraped_at": "2025-09-26T21:32:51.341484-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "03:00 – 04:20",
-      "title": "DJ - Kicks: Honey Dijon",
-      "description": "May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/7b/66/ad/7b66ad47-47de-553c-f0d2-2cd4153de3ee/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "LIVE · 3 – 4:20 AM DJ - Kicks: Honey Dijon May contain explicit content.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "04:20 – 05:25",
       "title": "DJ - Kicks: Maya Jane Coles",
       "description": "May contain explicit content.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/9e/da/0d/9eda0d59-8f90-a271-8cc8-757fed94ee76/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "4:20 – 5:25 AM DJ - Kicks: Maya Jane Coles May contain explicit content.",
+      "raw_text": "LIVE · 4:20 – 5:25 AM DJ - Kicks: Maya Jane Coles May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -160,14 +150,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "02:00 – 04:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 2 – 4 AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "04:20 – 06:00",
+      "title": "Descendants: Atmos Blaq in Nairobi, 2025",
+      "description": "May contain explicit content.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/c1/30/d3/c130d302-19ba-394b-1528-595a212bec59/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
+      "raw_text": "4:20 – 6 AM Descendants: Atmos Blaq in Nairobi, 2025 May contain explicit content.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "04:00 – 05:00",
@@ -175,7 +165,7 @@
       "description": "Electronic music’s floor-filling golden age.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/f9/e2/29/f9e2290f-2dde-2d06-b8a2-bcf385dc4f48/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "4 – 5 AM '90s Club Essentials Electronic music’s floor-filling golden age.",
+      "raw_text": "LIVE · 4 – 5 AM '90s Club Essentials Electronic music’s floor-filling golden age.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -330,14 +320,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "03:00 – 04:00",
-      "title": "Today’s Country Radio With Kelleigh Bannen",
-      "description": "HARDY goes inside his songwriting process and talks COUNTRY! COUNTRY!",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/99/2a/7d/992a7d62-1d20-c44a-3478-ebd9e1eb8276/703496cb-5efe-4fd7-81b4-4249640b8621.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/todays-country-radio-with-kelleigh-bannen/1484718373",
-      "raw_text": "LIVE · 3 – 4 AM Today’s Country Radio With Kelleigh Bannen HARDY goes inside his songwriting process and talks COUNTRY! COUNTRY!",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "04:00 – 05:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "4 – 5 AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "04:00 – 05:00",
@@ -345,7 +335,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "4 – 5 AM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 4 – 5 AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -500,14 +490,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "03:05 – 04:05",
-      "title": "danceXL",
-      "description": "The biggest floor-fillers from around the world.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 3:05 – 4:05 AM danceXL The biggest floor-fillers from around the world.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "04:00 – 06:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "4 – 6 AM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "04:05 – 05:25",
@@ -515,7 +505,7 @@
       "description": "A tribute to the golden years of house music.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/ba/63/ef/ba63ef25-4744-43b5-eef9-c0e8e6de6e7d/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "4:05 – 5:25 AM DJ - Kicks: Honey Dijon A tribute to the golden years of house music.",
+      "raw_text": "LIVE · 4:05 – 5:25 AM DJ - Kicks: Honey Dijon A tribute to the golden years of house music.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -700,14 +690,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "03:00 – 04:00",
-      "title": "Pure Focus",
-      "description": "A mix of immersive, mostly electronic sounds.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 3 – 4 AM Pure Focus A mix of immersive, mostly electronic sounds.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "04:00 – 05:25",
+      "title": "DESCENDANTS: Kabza De Small in New York",
+      "description": "The South African DJ recorded live in NYC.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/f3/97/5e/f3975e4e-f5f7-4b27-42a3-093c5350dc6d/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "4 – 5:25 AM DESCENDANTS: Kabza De Small in New York The South African DJ recorded live in NYC.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "04:00 – 06:00",
@@ -715,7 +705,7 @@
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "4 – 6 AM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 4 – 6 AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -876,6 +866,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "3 – 4 AM Pure Focus A mix of immersive, mostly electronic sounds.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "04:00 – 05:00",
+      "title": "Max Richter’s Songs of a Jumping Universe",
+      "description": "Music organized around the principle of movement.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/88/ea/e0/88eae029-eee6-b1e8-f160-a7c6fe540ec7/501004f5-6595-4cf6-ac0b-c7daff4fd58e.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/max-richters-songs-of-a-jumping-universe/1774052314",
+      "raw_text": "4 – 5 AM Max Richter’s Songs of a Jumping Universe Music organized around the principle of movement.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
