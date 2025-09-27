@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-27T12:28:10.317662-07:00",
+  "scraped_at": "2025-09-27T13:31:07.546890-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "18:00 – 20:00",
-      "title": "Time Crisis",
-      "description": "The Crisis Crew talk NRBQ, Bluey, and the hits of '82.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/06/ee/53/06ee532a-5e78-ecff-cd94-2aef3afdd184/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/time-crisis/993269786",
-      "raw_text": "LIVE · 6 – 8 PM Time Crisis The Crisis Crew talk NRBQ, Bluey, and the hits of '82.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "20:00 – 21:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "8 – 9 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 8 – 9 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -160,14 +150,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "18:00 – 20:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 6 – 8 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "20:00 – 22:00",
+      "title": "Mellow Days",
+      "description": "Some days can be stressful, but not today. Take it easy.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/8d/62/db/8d62db89-8251-e805-843b-ffaf930cacdd/07149ddc-cfc2-41d2-ab54-4c9c7c535027.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
+      "raw_text": "8 – 10 PM Mellow Days Some days can be stressful, but not today. Take it easy.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "20:00 – 21:00",
@@ -175,7 +165,7 @@
       "description": "Explore the career-defining hits of music’s biggest stars.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/a7/ee/aa/a7eeaa1f-e556-692d-2f36-4221652b82e5/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "8 – 9 PM 2Pac Essentials Explore the career-defining hits of music’s biggest stars.",
+      "raw_text": "LIVE · 8 – 9 PM 2Pac Essentials Explore the career-defining hits of music’s biggest stars.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -340,6 +330,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "20:00 – 21:00",
+      "title": "Elton John Essentials",
+      "description": "Explore the career-defining hits of music’s biggest stars.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/a7/ee/aa/a7eeaa1f-e556-692d-2f36-4221652b82e5/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "8 – 9 PM Elton John Essentials Explore the career-defining hits of music’s biggest stars.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "19:00 – 21:00",
       "title": "Apple Music Country",
       "description": "Where it sounds like home.",
@@ -413,7 +413,7 @@
       "time_slot": "06:00 – 07:00",
       "title": "Color Me Country Radio",
       "description": "The real roots of country music.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/f3/ce/55/f3ce5598-cddb-e094-8ce5-4caa0a7beba3/bb_source.png/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/94/29/d9/9429d90a-d935-fc41-4d47-c72ef46edd4b/40f72ed0-15c6-4859-ba57-7186d6f14586.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/color-me-country-radio/1500977601",
       "raw_text": "6 – 7 AM Color Me Country Radio The real roots of country music.",
       "station": "Apple Music Country",
@@ -500,22 +500,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "19:00 – 20:05",
-      "title": "Loops",
-      "description": "Electronic music at its most innovative.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 7 – 8:05 PM Loops Electronic music at its most innovative.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "20:05 – 21:00",
       "title": "danceXL",
       "description": "The biggest floor-fillers from around the world.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "8:05 – 9 PM danceXL The biggest floor-fillers from around the world.",
+      "raw_text": "LIVE · 8:05 – 9 PM danceXL The biggest floor-fillers from around the world.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -880,22 +870,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "18:00 – 20:00",
-      "title": "¡Dale Play!",
-      "description": "¡Dale Play! a los éxitos de tus artistas favoritos.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
-      "raw_text": "LIVE · 6 – 8 PM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
       "time_slot": "20:00 – 22:00",
       "title": "Por Siempre Hits",
       "description": "Una colección de hits innolvidables.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0c/25/8b/0c258b92-4770-fa02-c64d-ade535f0fbd8/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "8 – 10 PM Por Siempre Hits Una colección de hits innolvidables.",
+      "raw_text": "LIVE · 8 – 10 PM Por Siempre Hits Una colección de hits innolvidables.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
