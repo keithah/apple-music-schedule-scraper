@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-29T09:32:03.867641-07:00",
+  "scraped_at": "2025-09-29T10:31:27.857692-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,32 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "16:00 – 16:45",
-      "title": "Halftime Headliner Special with Zane and Ebro",
-      "description": "Bad Bunny is your Super Bowl LX Halftime headliner.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dd/c3/f7/ddc3f72e-2c73-f736-d90b-e3bea33fe659/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
-      "raw_text": "LIVE · 4 – 4:45 PM Halftime Headliner Special with Zane and Ebro Bad Bunny is your Super Bowl LX Halftime headliner.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
-      "time_slot": "16:45 – 17:00",
-      "title": "Bad Bunny Essentials",
-      "description": "Definitive tracks from the halftime headliner.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/91/38/cc/9138cc3a-de32-12b2-6771-d5d8fb7fd8cf/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
-      "raw_text": "4:45 – 5 PM Bad Bunny Essentials Definitive tracks from the halftime headliner.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "17:00 – 18:00",
       "title": "Bad Bunny's Road to Halftime with DJ Gusto",
       "description": "Tune in as we celebrate Bad Bunny.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/fb/e8/cf/fbe8cf79-525e-5886-922c-176a72d48a5e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
-      "raw_text": "5 – 6 PM Bad Bunny's Road to Halftime with DJ Gusto Tune in as we celebrate Bad Bunny.",
+      "raw_text": "LIVE · 5 – 6 PM Bad Bunny's Road to Halftime with DJ Gusto Tune in as we celebrate Bad Bunny.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -120,12 +100,22 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "06:00 – 08:00",
+      "time_slot": "06:00 – 07:00",
+      "title": "Number_i Radio",
+      "description": "The group talks creativity, their personalities, and more.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/fe/c0/75/fec075e1-c983-4885-ea4b-247edb529bff/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/number-i-radio/1774319628",
+      "raw_text": "6 – 7 AM Number_i Radio The group talks creativity, their personalities, and more.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "07:00 – 08:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "6 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "7 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -172,32 +162,32 @@
     {
       "time_slot": "14:00 – 16:00",
       "title": "The Dotty Show",
-      "description": "Dotty plays the biggest tracks from Cardi B, Mariah Carey and Tyla.",
+      "description": "Dotty plays the biggest tracks from Cardi B, Mariah Carey, and Tyla.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6c/d3/93/6cd393ba-a500-2d16-aa18-1c5fe437f60f/33f29bfe-220d-4afe-b817-fdb33729e92f.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-dotty-show/1526877708",
-      "raw_text": "2 – 4 PM The Dotty Show Dotty plays the biggest tracks from Cardi B, Mariah Carey and Tyla.",
+      "raw_text": "2 – 4 PM The Dotty Show Dotty plays the biggest tracks from Cardi B, Mariah Carey, and Tyla.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "16:00 – 17:00",
       "title": "The Zane Lowe Show",
-      "description": "An all-access pass into the world’s best new music.",
+      "description": "An all-access pass into the world's best new music.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/bc/99/bf/bc99bf27-90f7-1e2e-d8c1-b89224dad041/057a0e39-030b-4301-b1b8-930e4372665b.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "4 – 5 PM The Zane Lowe Show An all-access pass into the world’s best new music.",
+      "raw_text": "4 – 5 PM The Zane Lowe Show An all-access pass into the world's best new music.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "15:00 – 17:00",
-      "title": "Jayde Donovan",
-      "description": "Celebrating artists with new music by rockin’ the classics.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "LIVE · 3 – 5 PM Jayde Donovan Celebrating artists with new music by rockin’ the classics.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "17:00 – 19:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "5 – 7 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "17:00 – 18:00",
@@ -205,7 +195,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "5 – 6 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 5 – 6 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -380,14 +370,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "16:00 – 17:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 4 – 5 PM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "17:00 – 18:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "5 – 6 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "17:00 – 19:00",
@@ -395,7 +385,7 @@
       "description": "Interpolations: songs that breathe new life into older ones.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/36/14/40/361440d2-92e3-256c-e2d8-05941afc8a38/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-ty-bentli-show/1496851549",
-      "raw_text": "5 – 7 PM The Ty Bentli Show Interpolations: songs that breathe new life into older ones.",
+      "raw_text": "LIVE · 5 – 7 PM The Ty Bentli Show Interpolations: songs that breathe new life into older ones.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -550,14 +540,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "15:00 – 17:00",
-      "title": "Apple Music Club",
-      "description": "Where the mix never ends.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 3 – 5 PM Apple Music Club Where the mix never ends.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "17:00 – 19:00",
+      "title": "The Ty Bentli Show",
+      "description": "Daily dispatches from Music City.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/36/14/40/361440d2-92e3-256c-e2d8-05941afc8a38/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-ty-bentli-show/1496851549",
+      "raw_text": "5 – 7 PM The Ty Bentli Show Daily dispatches from Music City.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "17:00 – 19:00",
@@ -565,7 +555,7 @@
       "description": "Tim Sweeney and Myd.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/83/60/df/8360dfd4-6ebe-3ea1-6885-5e386e8a4f68/d3adf304-a48c-4083-a835-494568ddebc4.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/beats-in-space-with-tim-sweeney/1573950910",
-      "raw_text": "5 – 7 PM Beats In Space with Tim Sweeney Tim Sweeney and Myd.",
+      "raw_text": "LIVE · 5 – 7 PM Beats In Space with Tim Sweeney Tim Sweeney and Myd.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -716,6 +706,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "2:55 – 4:55 PM Apple Music Club Where the mix never ends.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "16:55 – 18:55",
+      "title": "Chemistry Radio with Chris Lake, Ep. 5",
+      "description": "A brand new mix from the British DJ.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/31/ca/36/31ca3645-d9ba-1610-c288-df6ecd3f6192/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/chemistry-radio-with-chris-lake/1774052302",
+      "raw_text": "4:55 – 6:55 PM Chemistry Radio with Chris Lake, Ep. 5 A brand new mix from the British DJ.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
