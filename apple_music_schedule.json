@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-28T20:38:34.585385-07:00",
+  "scraped_at": "2025-09-28T21:34:37.989841-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,42 +10,22 @@
   ],
   "shows": [
     {
-      "time_slot": "03:20 – 04:20",
-      "title": "Halftime Headliner Mix",
-      "description": "Tune in as we celebrate Bad Bunny.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/fb/e8/cf/fbe8cf79-525e-5886-922c-176a72d48a5e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
-      "raw_text": "LIVE · 3:20 – 4:20 AM Halftime Headliner Mix Tune in as we celebrate Bad Bunny.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
-      "time_slot": "04:20 – 06:00",
+      "time_slot": "04:20 – 06:25",
       "title": "Bad Bunny Essentials",
       "description": "Definitive tracks from the Halftime headliner.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/63/bc/35/63bc35f2-c852-7d95-cc8e-ad0c5ff111ad/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
-      "raw_text": "4:20 – 6 AM Bad Bunny Essentials Definitive tracks from the Halftime headliner.",
+      "raw_text": "LIVE · 4:20 – 6:25 AM Bad Bunny Essentials Definitive tracks from the Halftime headliner.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "06:00 – 07:35",
+      "time_slot": "06:25 – 08:00",
       "title": "Bad Bunny: DeBí TiRAR MáS FOToS",
       "description": "Un recorrido por cada canción del álbum.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/47/d3/0d/47d30d4b-23aa-39d8-4e46-33b109e85df2/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
-      "raw_text": "6 – 7:35 AM Bad Bunny: DeBí TiRAR MáS FOToS Un recorrido por cada canción del álbum.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
-      "time_slot": "07:35 – 08:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "7:35 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "6:25 – 8 AM Bad Bunny: DeBí TiRAR MáS FOToS Un recorrido por cada canción del álbum.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -80,32 +60,62 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "13:00 – 14:00",
+      "time_slot": "13:00 – 13:30",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "1 – 2 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "1 – 1:30 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "14:00 – 16:00",
-      "title": "The Dotty Show",
-      "description": "Dotty presses play on the biggest new drops from the weekend.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6c/d3/93/6cd393ba-a500-2d16-aa18-1c5fe437f60f/33f29bfe-220d-4afe-b817-fdb33729e92f.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-dotty-show/1526877708",
-      "raw_text": "2 – 4 PM The Dotty Show Dotty presses play on the biggest new drops from the weekend.",
+      "time_slot": "13:30 – 14:15",
+      "title": "Halftime Headliner Special with Zane and Ebro",
+      "description": "Bad Bunny is your Super Bowl LX Halftime Headliner.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dd/c3/f7/ddc3f72e-2c73-f736-d90b-e3bea33fe659/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
+      "raw_text": "1:30 – 2:15 PM Halftime Headliner Special with Zane and Ebro Bad Bunny is your Super Bowl LX Halftime Headliner.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "16:00 – 18:00",
-      "title": "The Zane Lowe Show",
-      "description": "An all-access pass into the world's best new music.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/55/03/7c/55037c4e-f17b-1129-e332-c68afd0f0924/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "4 – 6 PM The Zane Lowe Show An all-access pass into the world's best new music.",
+      "time_slot": "14:15 – 16:00",
+      "title": "Road to Halftime Radio",
+      "description": null,
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dd/c3/f7/ddc3f72e-2c73-f736-d90b-e3bea33fe659/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/road-to-halftime-radio/1653478216",
+      "raw_text": "2:15 – 4 PM Road to Halftime Radio",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "16:00 – 16:45",
+      "title": "Halftime Headliner Special with Zane and Ebro",
+      "description": "Bad Bunny is your Super Bowl LX Halftime Headliner.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dd/c3/f7/ddc3f72e-2c73-f736-d90b-e3bea33fe659/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
+      "raw_text": "4 – 4:45 PM Halftime Headliner Special with Zane and Ebro Bad Bunny is your Super Bowl LX Halftime Headliner.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "16:45 – 17:00",
+      "title": "Road to Halftime Radio",
+      "description": null,
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dd/c3/f7/ddc3f72e-2c73-f736-d90b-e3bea33fe659/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/road-to-halftime-radio/1653478216",
+      "raw_text": "4:45 – 5 PM Road to Halftime Radio",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "17:00 – 18:00",
+      "title": "Bad Bunny's Road to Halftime with DJ Gusto",
+      "description": "Tune in as we celebrate Bad Bunny.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/fb/e8/cf/fbe8cf79-525e-5886-922c-176a72d48a5e/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
+      "raw_text": "5 – 6 PM Bad Bunny's Road to Halftime with DJ Gusto Tune in as we celebrate Bad Bunny.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,14 +190,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "03:00 – 04:00",
-      "title": "STROMBO",
-      "description": "Six degrees of Steve Albini, Dave Grohl, and more.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/13/28/1c/13281cdc-80eb-70f3-d9be-b91d0590c749/d26dc278-e00b-4bbb-8653-426adf020284.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/strombo/1496683317",
-      "raw_text": "LIVE · 3 – 4 AM STROMBO Six degrees of Steve Albini, Dave Grohl, and more.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "04:00 – 06:00",
+      "title": "Today's Hits",
+      "description": "The biggest songs in pop, hip-hop, R&B, and more.\r\n-OR-\r\nAll the songs you know and love from all your favorite artists.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/1c/24/d0/1c24d0de-1833-7fa8-c811-3d3e5df84eb6/947f2946-2f2f-4be0-bc4c-66183f190445.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/todays-hits-on-apple-music-1/1653478003",
+      "raw_text": "4 – 6 AM Today's Hits The biggest songs in pop, hip-hop, R&B, and more.\r\n-OR-\r\nAll the songs you know and love from all your favorite artists.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "04:00 – 05:00",
@@ -195,7 +205,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "4 – 5 AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 4 – 5 AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -380,6 +390,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "04:00 – 05:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "4 – 5 AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "03:00 – 05:00",
       "title": "Back Porch Country",
       "description": "Rootsy tunes for kicking back and watching the world go by.",
@@ -536,6 +556,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/d2/90/24/d2902444-a91b-609e-6a32-ae92cbef3e26/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
       "raw_text": "3 – 4 AM 2010s Country Essentials The era of new-schoolers and outlaws.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
+      "time_slot": "04:00 – 05:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "4 – 5 AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -720,22 +750,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "03:00 – 04:00",
-      "title": "Pure Focus",
-      "description": "A mix of immersive, mostly electronic sounds.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 3 – 4 AM Pure Focus A mix of immersive, mostly electronic sounds.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "04:00 – 05:00",
       "title": "Chill Gems",
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "4 – 5 AM Chill Gems Listen and let go.",
+      "raw_text": "LIVE · 4 – 5 AM Chill Gems Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -896,6 +916,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "3 – 4 AM Pure Focus A mix of immersive, mostly electronic sounds.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "04:00 – 06:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "4 – 6 AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
