@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-28T22:32:46.443446-07:00",
+  "scraped_at": "2025-09-28T23:37:56.962261-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "04:20 – 06:25",
-      "title": "Bad Bunny Essentials",
-      "description": "Definitive tracks from the Halftime headliner.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/63/bc/35/63bc35f2-c852-7d95-cc8e-ad0c5ff111ad/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
-      "raw_text": "LIVE · 4:20 – 6:25 AM Bad Bunny Essentials Definitive tracks from the Halftime headliner.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "06:25 – 08:00",
       "title": "Bad Bunny: DeBí TiRAR MáS FOToS",
       "description": "Un recorrido por cada canción del álbum.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/47/d3/0d/47d30d4b-23aa-39d8-4e46-33b109e85df2/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
-      "raw_text": "6:25 – 8 AM Bad Bunny: DeBí TiRAR MáS FOToS Un recorrido por cada canción del álbum.",
+      "raw_text": "LIVE · 6:25 – 8 AM Bad Bunny: DeBí TiRAR MáS FOToS Un recorrido por cada canción del álbum.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -200,14 +190,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "05:00 – 06:00",
-      "title": "Easy Hits",
-      "description": "Low-key songs to help you unwind.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/07/4d/7e/074d7ea9-8d9d-40e4-c5cf-3a8126030cd8/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 5 – 6 AM Easy Hits Low-key songs to help you unwind.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "06:00 – 08:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "6 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "06:00 – 07:00",
@@ -215,7 +205,7 @@
       "description": "Low-key songs to help you unwind.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/07/4d/7e/074d7ea9-8d9d-40e4-c5cf-3a8126030cd8/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "6 – 7 AM Easy Hits Low-key songs to help you unwind.",
+      "raw_text": "LIVE · 6 – 7 AM Easy Hits Low-key songs to help you unwind.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -570,22 +560,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "05:00 – 06:00",
-      "title": "Chilltronics",
-      "description": "Weightless breakbeats, blissed-out deep house, and more laidback grooves.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/9e/63/ce/9e63ce90-e3cb-d407-ede4-d0ea86706b6f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 5 – 6 AM Chilltronics Weightless breakbeats, blissed-out deep house, and more laidback grooves.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "06:00 – 07:00",
       "title": "Early Hours Mix: KILIMANJARO",
       "description": "The sounds of Afro, Amapiano, House and the world.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b1/c9/45/b1c94526-7f61-0862-2131-0fa178d300e6/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "6 – 7 AM Early Hours Mix: KILIMANJARO The sounds of Afro, Amapiano, House and the world.",
+      "raw_text": "LIVE · 6 – 7 AM Early Hours Mix: KILIMANJARO The sounds of Afro, Amapiano, House and the world.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -750,22 +730,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "05:00 – 06:00",
-      "title": "Evergreen",
-      "description": null,
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 5 – 6 AM Evergreen",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "06:00 – 07:00",
       "title": "Chill Gems",
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "6 – 7 AM Chill Gems Listen and let go.",
+      "raw_text": "LIVE · 6 – 7 AM Chill Gems Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -916,6 +886,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "4 – 6 AM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "06:00 – 07:00",
+      "title": "Zane Needs To Chill",
+      "description": "Zane’s playlist to connect you with calm.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/82/4e/40/824e40a2-6ba3-8929-d9d3-672bb0fbcbb0/b43bb602-0108-47b0-8693-29f2a3cc4f74.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
+      "raw_text": "6 – 7 AM Zane Needs To Chill Zane’s playlist to connect you with calm.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
