@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-09-30T15:31:23.920364-07:00",
+  "scraped_at": "2025-09-30T16:29:24.882514-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "The Global Chart Show With Brooke Reese",
-      "description": "The most popular songs on Apple Music.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/68/61/da/6861daa3-4de4-c484-61a4-6aefc5fc0e78/7d4fde68-78db-40cc-9be0-3ca6bab907f1.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
-      "raw_text": "LIVE · 10 – 11 PM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "The Travis Mills Show",
       "description": "Check in with Apple Music’s pop culture authority.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/04/30/3b/04303be0-7ac8-3891-247d-005d16f353fb/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
-      "raw_text": "11PM – 12AM The Travis Mills Show Check in with Apple Music’s pop culture authority.",
+      "raw_text": "LIVE · 11PM – 12AM The Travis Mills Show Check in with Apple Music’s pop culture authority.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -133,7 +123,7 @@
       "time_slot": "16:00 – 18:00",
       "title": "The Zane Lowe Show",
       "description": "An all-access pass into the world’s best new music.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/5c/61/9c/5c619cfc-f6b8-c729-6aa2-cb905e52881d/bb_source.png/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/bc/99/bf/bc99bf27-90f7-1e2e-d8c1-b89224dad041/057a0e39-030b-4301-b1b8-930e4372665b.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
       "raw_text": "4 – 6 PM The Zane Lowe Show An all-access pass into the world’s best new music.",
       "station": "Apple Music 1",
@@ -180,14 +170,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "After School Radio",
-      "description": "Mark chats with Danny Elfman.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/a9/9b/50/a99b500e-1f13-93c1-5aba-5741bdb330ae/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/after-school-radio/1496846020",
-      "raw_text": "LIVE · 9 – 11 PM After School Radio Mark chats with Danny Elfman.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "23:00 – 00:00",
+      "title": "The Travis Mills Show",
+      "description": "Check in with Apple Music’s pop culture authority.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/04/30/3b/04303be0-7ac8-3891-247d-005d16f353fb/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
+      "raw_text": "11PM – 12AM The Travis Mills Show Check in with Apple Music’s pop culture authority.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "23:00 – 00:00",
@@ -195,7 +185,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -366,6 +356,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "23:00 – 00:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -672,20 +672,20 @@
     {
       "time_slot": "21:00 – 22:05",
       "title": "Defected Worldwide, Summer 2025: Sam Divine",
-      "description": "British DJ hailed \"Queen of Defected\" delivers classic house.",
+      "description": "British DJ hailed Queen of Defected delivers classic house.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/87/d8/ed/87d8ed71-7915-c498-a7f7-880f82a67288/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "9 – 10:05 PM Defected Worldwide, Summer 2025: Sam Divine British DJ hailed \"Queen of Defected\" delivers classic house.",
+      "raw_text": "9 – 10:05 PM Defected Worldwide, Summer 2025: Sam Divine British DJ hailed Queen of Defected delivers classic house.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "22:05 – 00:05",
       "title": "Benny Benassi at [UNVRS]: Jul 17, 2025",
-      "description": "The Italian DJ fills the world's biggest club with house beats.",
+      "description": "The Italian DJ fills the world’s biggest club with house beats.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/4e/aa/03/4eaa0343-9e2b-5c9a-635a-2133666bbb57/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "10:05 PM – 12:05 AM Benny Benassi at [UNVRS]: Jul 17, 2025 The Italian DJ fills the world's biggest club with house beats.",
+      "raw_text": "10:05 PM – 12:05 AM Benny Benassi at [UNVRS]: Jul 17, 2025 The Italian DJ fills the world’s biggest club with house beats.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
