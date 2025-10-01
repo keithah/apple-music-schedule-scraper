@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-01T01:36:20.307815-07:00",
+  "scraped_at": "2025-10-01T02:32:58.017244-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "08:00 – 09:00",
-      "title": "The Rebecca Judd Show",
-      "description": "Rebecca celebrates Olivia Dean.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/ea/90/b8/ea90b8ff-4173-a0d3-2be3-9d45d20f92da/0e074dce-66ee-44e3-8f27-22b88467d34d.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-rebecca-judd-show/1481636844",
-      "raw_text": "LIVE · 8 – 9 AM The Rebecca Judd Show Rebecca celebrates Olivia Dean.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "09:00 – 10:00",
       "title": "The Olivia Dean Interview",
       "description": "The singer on 'The Art of Loving'.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/93/d9/6a/93d96a2c-0a8e-2c7c-0fa9-edc0057f83b9/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-rebecca-judd-show/1481636844",
-      "raw_text": "9 – 10 AM The Olivia Dean Interview The singer on 'The Art of Loving'.",
+      "raw_text": "LIVE · 9 – 10 AM The Olivia Dean Interview The singer on 'The Art of Loving'.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -190,22 +180,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "07:00 – 09:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 7 – 9 AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "09:00 – 10:00",
       "title": "Pure Throwback",
       "description": "An amped-up time capsule from the turn of the 2000s.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/dd/2f/37/dd2f373f-69ab-74a6-8f1c-8532a4561786/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "9 – 10 AM Pure Throwback An amped-up time capsule from the turn of the 2000s.",
+      "raw_text": "LIVE · 9 – 10 AM Pure Throwback An amped-up time capsule from the turn of the 2000s.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -380,14 +360,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "07:00 – 09:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 7 – 9 AM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "09:00 – 10:00",
+      "title": "Pure Throwback",
+      "description": "An amped-up time capsule from the turn of the 2000s.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/dd/2f/37/dd2f373f-69ab-74a6-8f1c-8532a4561786/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "9 – 10 AM Pure Throwback An amped-up time capsule from the turn of the 2000s.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "09:00 – 10:00",
@@ -395,7 +375,7 @@
       "description": "Revisit the decade when country music exploded.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/b0/fb/16/b0fb16cf-1494-ebee-399b-a23e300bea3b/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "9 – 10 AM '90s Country Essentials Revisit the decade when country music exploded.",
+      "raw_text": "LIVE · 9 – 10 AM '90s Country Essentials Revisit the decade when country music exploded.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -550,14 +530,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "07:00 – 08:55",
-      "title": "danceXL",
-      "description": "The biggest floor-fillers from around the world.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 7 – 8:55 AM danceXL The biggest floor-fillers from around the world.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "09:00 – 10:00",
+      "title": "'90s Country Essentials",
+      "description": "Revisit the decade when country music exploded.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/b0/fb/16/b0fb16cf-1494-ebee-399b-a23e300bea3b/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "9 – 10 AM '90s Country Essentials Revisit the decade when country music exploded.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "08:55 – 11:55",
@@ -565,7 +545,7 @@
       "description": "London-based DJ goes b2b with Scottish electronic producer.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/36/90/65/36906571-b23c-cf12-5eaf-96df050d6a38/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "8:55 – 11:55 AM Live from Lost Village 2023: Barry Can't Swim b2b Laurence Guy London-based DJ goes b2b with Scottish electronic producer.",
+      "raw_text": "LIVE · 8:55 – 11:55 AM Live from Lost Village 2023: Barry Can't Swim b2b Laurence Guy London-based DJ goes b2b with Scottish electronic producer.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -710,14 +690,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "07:00 – 09:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 7 – 9 AM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "09:00 – 10:05",
+      "title": "Defected Worldwide, Summer 2025: Sam Divine",
+      "description": "British DJ hailed Queen of Defected delivers classic house.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/87/d8/ed/87d8ed71-7915-c498-a7f7-880f82a67288/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "9 – 10:05 AM Defected Worldwide, Summer 2025: Sam Divine British DJ hailed Queen of Defected delivers classic house.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "09:00 – 10:00",
@@ -725,7 +705,7 @@
       "description": "Zane’s playlist to connect you with calm.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/82/4e/40/824e40a2-6ba3-8929-d9d3-672bb0fbcbb0/b43bb602-0108-47b0-8693-29f2a3cc4f74.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "9 – 10 AM Zane Needs To Chill Zane’s playlist to connect you with calm.",
+      "raw_text": "LIVE · 9 – 10 AM Zane Needs To Chill Zane’s playlist to connect you with calm.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -880,14 +860,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "07:00 – 09:00",
-      "title": "Apple Música Uno",
-      "description": "La cultura que te mueve.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 7 – 9 AM Apple Música Uno La cultura que te mueve.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "09:00 – 10:00",
+      "title": "Acoustic Chill",
+      "description": "Pop and indie with a lighter, unplugged touch.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "9 – 10 AM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "09:00 – 10:00",
@@ -895,7 +875,7 @@
       "description": "Pedazos de realidad en forma de canción.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dc/f5/be/dcf5be41-58fe-4cc0-94df-762b9e3d9c6b/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "9 – 10 AM Corridos al Cien Pedazos de realidad en forma de canción.",
+      "raw_text": "LIVE · 9 – 10 AM Corridos al Cien Pedazos de realidad en forma de canción.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1036,6 +1016,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "7 – 9 AM Apple Música Uno La cultura que te mueve.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "09:00 – 10:00",
+      "title": "Corridos al Cien",
+      "description": "Pedazos de realidad en forma de canción.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dc/f5/be/dcf5be41-58fe-4cc0-94df-762b9e3d9c6b/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "9 – 10 AM Corridos al Cien Pedazos de realidad en forma de canción.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
