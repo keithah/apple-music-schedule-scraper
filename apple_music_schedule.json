@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-01T10:31:21.809286-07:00",
+  "scraped_at": "2025-10-01T11:37:22.954346-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -20,12 +20,22 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "19:00 – 21:00",
+      "time_slot": "19:00 – 20:30",
       "title": "The Ebro Show",
       "description": "Bringing the music and sounds of New York City to the world.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/fc/4f/94/fc4f94d9-3f1d-2254-a247-5a839cb817b7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-ebro-show/990473683",
-      "raw_text": "7 – 9 PM The Ebro Show Bringing the music and sounds of New York City to the world.",
+      "raw_text": "7 – 8:30 PM The Ebro Show Bringing the music and sounds of New York City to the world.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "20:30 – 21:00",
+      "title": "The Ebro Show",
+      "description": "BIGBIRD KUTI and Vector discuss their collab EP.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/a9/7e/06/a97e064c-4f6d-8ce0-e4d0-de565fcb8db4/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-ebro-show/990473683",
+      "raw_text": "8:30 – 9 PM The Ebro Show BIGBIRD KUTI and Vector discuss their collab EP.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -170,14 +180,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "17:00 – 18:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 5 – 6 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "17:30 – 19:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "5:30 – 7 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "18:00 – 20:00",
@@ -185,7 +195,7 @@
       "description": "808s and punchlines galore!",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/af/29/1d/af291d47-7feb-2942-461f-3c8ac86b94ec/386a40c2-f584-4d7f-8021-883a85d79377.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
-      "raw_text": "6 – 8 PM The Estelle Show 808s and punchlines galore!",
+      "raw_text": "LIVE · 6 – 8 PM The Estelle Show 808s and punchlines galore!",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -360,6 +370,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "18:00 – 20:00",
+      "title": "The Estelle Show",
+      "description": "From the singer's library to your ears.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/01/68/4c/01684cbe-1a5f-b717-e969-538e5975b208/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
+      "raw_text": "6 – 8 PM The Estelle Show From the singer's library to your ears.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "17:00 – 19:00",
       "title": "The Ty Bentli Show",
       "description": "Daily dispatches from Music City.",
@@ -530,22 +550,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "16:55 – 18:00",
-      "title": "Karma Karma Radio with Shimza 002",
-      "description": "The Afro-tech specialist has a fresh batch of South African soul.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/fc/1d/19/fc1d1909-cb56-5979-90b3-f3c8d79a1761/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 4:55 – 6 PM Karma Karma Radio with Shimza 002 The Afro-tech specialist has a fresh batch of South African soul.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "18:00 – 19:00",
       "title": "Defected presents: Jonas Blue In The House",
       "description": "The Essex hitmaker delivers the best crowd-pleaser anthems.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/0b/53/44/0b534487-388a-9450-b4ed-ed58c1003767/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "6 – 7 PM Defected presents: Jonas Blue In The House The Essex hitmaker delivers the best crowd-pleaser anthems.",
+      "raw_text": "LIVE · 6 – 7 PM Defected presents: Jonas Blue In The House The Essex hitmaker delivers the best crowd-pleaser anthems.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -700,22 +710,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "16:00 – 18:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 4 – 6 PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "18:00 – 19:00",
       "title": "Today's Chill",
       "description": "Updates from electronic music’s low-key vanguard.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/d2/7b/dad27b4f-45ab-07b1-bdcd-9a0321c35e30/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "6 – 7 PM Today's Chill Updates from electronic music’s low-key vanguard.",
+      "raw_text": "LIVE · 6 – 7 PM Today's Chill Updates from electronic music’s low-key vanguard.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -870,14 +870,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "16:00 – 18:00",
-      "title": "¡Dale Play!",
-      "description": "Manuel Turizo habla sobre su música y lo que viene próximamente.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
-      "raw_text": "LIVE · 4 – 6 PM ¡Dale Play! Manuel Turizo habla sobre su música y lo que viene próximamente.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "18:00 – 19:00",
+      "title": "Today's Chill",
+      "description": "Updates from electronic music’s low-key vanguard.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/d2/7b/dad27b4f-45ab-07b1-bdcd-9a0321c35e30/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "6 – 7 PM Today's Chill Updates from electronic music’s low-key vanguard.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "18:00 – 19:00",
@@ -885,7 +885,7 @@
       "description": "Kapo y Ovy On The Drums: sobre la música colombiana.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/15/ab/88/15ab8886-2ba1-c966-3f1c-6bafaa57c237/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/somos/1653478999",
-      "raw_text": "6 – 7 PM SOMOS Radio Kapo y Ovy On The Drums: sobre la música colombiana.",
+      "raw_text": "LIVE · 6 – 7 PM SOMOS Radio Kapo y Ovy On The Drums: sobre la música colombiana.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1026,6 +1026,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
       "raw_text": "4 – 6 PM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "18:00 – 19:10",
+      "title": "Pop-Up con Belinda, Danna y Kenia Os",
+      "description": "Reinas del pop mexicano traen música y una sorpresa.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/7a/bc/9a/7abc9af2-6504-e486-bdd4-a125507881d5/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
+      "raw_text": "6 – 7:10 PM Pop-Up con Belinda, Danna y Kenia Os Reinas del pop mexicano traen música y una sorpresa.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
