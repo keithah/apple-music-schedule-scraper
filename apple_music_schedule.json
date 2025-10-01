@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-01T13:32:41.284769-07:00",
+  "scraped_at": "2025-10-01T14:29:40.753922-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "20:30 – 21:00",
-      "title": "The Ebro Show",
-      "description": "BIGBIRD KUTI and Vector discuss their collab EP.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9a/a4/5d/9aa45d90-e621-1065-1501-257e72fe64d3/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-ebro-show/990473683",
-      "raw_text": "LIVE · 8:30 – 9 PM The Ebro Show BIGBIRD KUTI and Vector discuss their collab EP.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "21:00 – 22:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "9 – 10 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 9 – 10 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,14 +170,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "20:00 – 21:00",
-      "title": "Pure Throwback",
-      "description": "An amped-up time capsule from the turn of the 2000s.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/dd/2f/37/dd2f373f-69ab-74a6-8f1c-8532a4561786/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 8 – 9 PM Pure Throwback An amped-up time capsule from the turn of the 2000s.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "21:00 – 22:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "9 – 10 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "21:00 – 23:00",
@@ -195,7 +185,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -370,6 +360,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "21:00 – 23:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "20:00 – 22:00",
       "title": "The Ward Guenther Show",
       "description": "Marcus King talks Darling Blue and collaborating.",
@@ -540,22 +540,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "19:00 – 21:00",
-      "title": "Loops",
-      "description": "Electronic music at its most innovative.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 7 – 9 PM Loops Electronic music at its most innovative.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "21:00 – 22:05",
       "title": "Defected Worldwide, Summer 2025: Sam Divine",
       "description": "British DJ hailed Queen of Defected delivers classic house.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/87/d8/ed/87d8ed71-7915-c498-a7f7-880f82a67288/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "9 – 10:05 PM Defected Worldwide, Summer 2025: Sam Divine British DJ hailed Queen of Defected delivers classic house.",
+      "raw_text": "LIVE · 9 – 10:05 PM Defected Worldwide, Summer 2025: Sam Divine British DJ hailed Queen of Defected delivers classic house.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -700,14 +690,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "19:00 – 21:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 7 – 9 PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "21:00 – 22:10",
+      "title": "Francis Mercier at EDC Las Vegas 2025: Stereo Bloom Stage",
+      "description": "Soul-warming Afro-house selections from the NY-based DJ.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/b5/cc/dab5cc1b-ae57-9b02-715e-bff266488849/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "9 – 10:10 PM Francis Mercier at EDC Las Vegas 2025: Stereo Bloom Stage Soul-warming Afro-house selections from the NY-based DJ.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "21:00 – 22:00",
@@ -715,7 +705,7 @@
       "description": "Zane’s playlist to connect you with calm.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/82/4e/40/824e40a2-6ba3-8929-d9d3-672bb0fbcbb0/b43bb602-0108-47b0-8693-29f2a3cc4f74.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "9 – 10 PM Zane Needs To Chill Zane’s playlist to connect you with calm.",
+      "raw_text": "LIVE · 9 – 10 PM Zane Needs To Chill Zane’s playlist to connect you with calm.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -866,6 +856,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "7 – 9 PM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "21:00 – 22:00",
+      "title": "Acoustic Chill",
+      "description": "Pop and indie with a lighter, unplugged touch.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "9 – 10 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
