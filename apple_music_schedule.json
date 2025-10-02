@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-02T13:32:04.674035-07:00",
+  "scraped_at": "2025-10-02T14:29:05.165325-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -32,10 +32,10 @@
     {
       "time_slot": "05:00 – 06:00",
       "title": "Taylor Swift Essentials",
-      "description": "Selections from Taylor's vast discography.",
+      "description": "Selections from Taylor’s vast discography.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0d/8f/61/0d8f6162-ca74-9264-3fe3-37260db33c47/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
-      "raw_text": "5 – 6 AM Taylor Swift Essentials Selections from Taylor's vast discography.",
+      "raw_text": "5 – 6 AM Taylor Swift Essentials Selections from Taylor’s vast discography.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -160,22 +160,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "20:00 – 21:00",
-      "title": "Pure Throwback",
-      "description": "An amped-up time capsule from the turn of the 2000s.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/dd/2f/37/dd2f373f-69ab-74a6-8f1c-8532a4561786/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 8 – 9 PM Pure Throwback An amped-up time capsule from the turn of the 2000s.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "21:00 – 23:00",
       "title": "Apple Music Hits",
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -350,6 +340,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "21:00 – 23:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "20:00 – 22:00",
       "title": "The Ward Guenther Show",
       "description": "Everything you need to know from the heart of Music City.",
@@ -520,14 +520,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "19:00 – 21:00",
-      "title": "danceXL",
-      "description": "The biggest floor-fillers from around the world.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 7 – 9 PM danceXL The biggest floor-fillers from around the world.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "21:00 – 22:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "9 – 10 PM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "21:00 – 22:10",
@@ -535,7 +535,7 @@
       "description": "Soul-warming Afro-house selections from the NY-based DJ.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/b5/cc/dab5cc1b-ae57-9b02-715e-bff266488849/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "9 – 10:10 PM Francis Mercier at EDC Las Vegas 2025: Stereo Bloom Stage Soul-warming Afro-house selections from the NY-based DJ.",
+      "raw_text": "LIVE · 9 – 10:10 PM Francis Mercier at EDC Las Vegas 2025: Stereo Bloom Stage Soul-warming Afro-house selections from the NY-based DJ.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -642,30 +642,30 @@
     {
       "time_slot": "16:00 – 17:00",
       "title": "Higher Ground: ROKAR",
-      "description": "A fire mixtape for Diplo's label.",
+      "description": "A fire mixtape for Diplo’s label.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/83/36/4d/83364d28-fcf8-0a8b-7429-783d944814cf/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "4 – 5 PM Higher Ground: ROKAR A fire mixtape for Diplo's label.",
+      "raw_text": "4 – 5 PM Higher Ground: ROKAR A fire mixtape for Diplo’s label.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "17:00 – 18:00",
       "title": "Drum & Bass",
-      "description": "A deeper strain of D'n'B.",
+      "description": "A deeper strain of D’n’B.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/db/72/ee/db72eedb-5653-6a69-8795-32c52f62af35/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "5 – 6 PM Drum & Bass A deeper strain of D'n'B.",
+      "raw_text": "5 – 6 PM Drum & Bass A deeper strain of D’n’B.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "18:00 – 19:00",
       "title": "NAINA Presents: Prospa Vol.5",
-      "description": "House, bass and club sounds from the Leeds duo.",
+      "description": "House, bass, and club sounds from the Leeds duo.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f4/c2/77/f4c27733-2a9a-8be5-f44a-446bfd9d4b53/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/naina-presents/1774051496",
-      "raw_text": "6 – 7 PM NAINA Presents: Prospa Vol.5 House, bass and club sounds from the Leeds duo.",
+      "raw_text": "6 – 7 PM NAINA Presents: Prospa Vol.5 House, bass, and club sounds from the Leeds duo.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -682,22 +682,22 @@
     {
       "time_slot": "20:00 – 20:55",
       "title": "Tomorrowland Belgium 2025: Swedish House Mafia at Mainstage, Weekend 2",
-      "description": "The Swedish trio take center stage in Belgium.",
+      "description": "The Swedish trio takes center stage in Belgium.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/7f/59/a3/7f59a31f-422d-ef43-bf10-5f05865aa292/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "8 – 8:55 PM Tomorrowland Belgium 2025: Swedish House Mafia at Mainstage, Weekend 2 The Swedish trio take center stage in Belgium.",
+      "raw_text": "8 – 8:55 PM Tomorrowland Belgium 2025: Swedish House Mafia at Mainstage, Weekend 2 The Swedish trio takes center stage in Belgium.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "19:00 – 21:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 7 – 9 PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "20:55 – 23:10",
+      "title": "Tomorrowland Belgium 2025: Charlotte de Witte (Daybreak) at Mainstage, Weekend 1",
+      "description": "Belgian techno powerhouse on the main stage.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/a9/e1/14/a9e1149d-cc4a-ae0c-714b-fb525cea1a73/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "8:55 – 11:10 PM Tomorrowland Belgium 2025: Charlotte de Witte (Daybreak) at Mainstage, Weekend 1 Belgian techno powerhouse on the main stage.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "21:00 – 22:00",
@@ -705,7 +705,7 @@
       "description": "Pop and indie with a lighter, unplugged touch.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "9 – 10 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
+      "raw_text": "LIVE · 9 – 10 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -856,6 +856,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "7 – 9 PM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "21:00 – 22:00",
+      "title": "Acoustic Chill",
+      "description": "Pop and indie with a lighter, unplugged touch.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "9 – 10 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
