@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-02T03:32:44.783375-07:00",
+  "scraped_at": "2025-10-02T04:28:43.733338-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "10:00 – 11:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 10 – 11 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "11:00 – 13:00",
       "title": "The Matt Wilkinson Show",
       "description": "A premiere from the Dundalk shoegazers Just Mustard.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/86/b6/c2/86b6c265-913f-b21c-0717-f833b3b0711d/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-matt-wilkinson-show/1184566442",
-      "raw_text": "11AM – 1PM The Matt Wilkinson Show A premiere from the Dundalk shoegazers Just Mustard.",
+      "raw_text": "LIVE · 11AM – 1PM The Matt Wilkinson Show A premiere from the Dundalk shoegazers Just Mustard.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,14 +170,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "10:00 – 11:00",
-      "title": "2010s Hits Essentials",
-      "description": "Viral sensations and A-list bops rule the airwaves.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/13/36/08/133608bc-e86a-a650-32f6-b74ac46d9d94/pr_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 10 – 11 AM 2010s Hits Essentials Viral sensations and A-list bops rule the airwaves.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "11:00 – 13:00",
+      "title": "The Matt Wilkinson Show",
+      "description": "This week's biggest and most exciting new releases.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/08/1f/3c/081f3c7e-d9a3-3667-3550-82500338d0b7/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-matt-wilkinson-show/1184566442",
+      "raw_text": "11AM – 1PM The Matt Wilkinson Show This week's biggest and most exciting new releases.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "11:00 – 12:00",
@@ -195,7 +185,7 @@
       "description": "The idols and pop stars who ruled the early 21st century.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/80/8d/ce/808dce42-81c4-a608-832e-a5016196865b/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11AM – 12PM 2000s Hits Essentials The idols and pop stars who ruled the early 21st century.",
+      "raw_text": "LIVE · 11AM – 12PM 2000s Hits Essentials The idols and pop stars who ruled the early 21st century.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -370,14 +360,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "10:00 – 11:00",
-      "title": "2000s Country Essentials",
-      "description": "A decade of big tunes that chronicle life’s little moments.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/9a/a1/3d/9aa13d51-f437-233b-b221-068b07c16603/pr_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 10 – 11 AM 2000s Country Essentials A decade of big tunes that chronicle life’s little moments.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "11:00 – 12:00",
+      "title": "2000s Hits Essentials",
+      "description": "The idols and pop stars who ruled the early 21st century.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/80/8d/ce/808dce42-81c4-a608-832e-a5016196865b/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "11AM – 12PM 2000s Hits Essentials The idols and pop stars who ruled the early 21st century.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "11:00 – 13:00",
@@ -385,7 +375,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "11AM – 1PM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 11AM – 1PM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -536,6 +526,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/9a/a1/3d/9aa13d51-f437-233b-b221-068b07c16603/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
       "raw_text": "10 – 11 AM 2000s Country Essentials A decade of big tunes that chronicle life’s little moments.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
+      "time_slot": "11:00 – 13:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "11AM – 1PM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
