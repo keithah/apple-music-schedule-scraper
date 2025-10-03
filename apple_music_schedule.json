@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-03T08:31:33.350154-07:00",
+  "scraped_at": "2025-10-03T09:34:27.827399-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,32 +10,22 @@
   ],
   "shows": [
     {
-      "time_slot": "15:00 – 16:00",
-      "title": "R&B Now Radio with Nadeska Alexis",
-      "description": "R&B from Bryson Tiller, Leon Thomas, and more.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/09/b4/f4/09b4f46c-e7e6-6983-5dc8-9691bd833207/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/r-b-now-radio/1494793925",
-      "raw_text": "LIVE · 3 – 4 PM R&B Now Radio with Nadeska Alexis R&B from Bryson Tiller, Leon Thomas, and more.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "16:00 – 17:00",
       "title": "New Music Daily Radio with Zane Lowe",
       "description": "Celebrating the release of Taylor Swift's The Life of a Showgirl.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/27/c6/3a/27c63acd-89a7-e09d-11a6-a6a70b50160e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/new-music-daily-radio-with-zane-lowe/1458161472",
-      "raw_text": "4 – 5 PM New Music Daily Radio with Zane Lowe Celebrating the release of Taylor Swift's The Life of a Showgirl.",
+      "raw_text": "LIVE · 4 – 5 PM New Music Daily Radio with Zane Lowe Celebrating the release of Taylor Swift's The Life of a Showgirl.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "17:00 – 18:00",
       "title": "Rap Life Radio with Ebro Darden",
-      "description": null,
+      "description": "Joey Bada$$ calls in to discuss \"DARK AURA.\"",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/60/9a/10/609a1068-fd7b-efa2-08dd-a675cbbe037c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/rap-life-radio-with-ebro-darden/1472071440",
-      "raw_text": "5 – 6 PM Rap Life Radio with Ebro Darden",
+      "raw_text": "5 – 6 PM Rap Life Radio with Ebro Darden Joey Bada$$ calls in to discuss \"DARK AURA.\"",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -92,10 +82,10 @@
     {
       "time_slot": "00:00 – 01:00",
       "title": "HYPERHOUSE",
-      "description": "Music from lau.ra, Justin Jay and Addison Groove. May contain explicit content.",
+      "description": "Music from lau.ra, Justin Jay, and Addison Groove. May contain explicit content.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/e5/ac/65/e5ac65d4-cc0c-3edb-5a6e-71ec72ee68fc/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/hyperhouse/998788287",
-      "raw_text": "12 – 1 AM HYPERHOUSE Music from lau.ra, Justin Jay and Addison Groove. May contain explicit content.",
+      "raw_text": "12 – 1 AM HYPERHOUSE Music from lau.ra, Justin Jay, and Addison Groove. May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -176,6 +166,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
       "raw_text": "2 – 4 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "16:00 – 17:00",
+      "title": "Rocket Hour",
+      "description": "Lord Huron join Elton John on the Rocket Hour.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/66/a8/67/66a8677e-8c97-5075-039b-5c10f7cd2ffa/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/rocket-hour/993269779",
+      "raw_text": "4 – 5 PM Rocket Hour Lord Huron join Elton John on the Rocket Hour.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -520,14 +520,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "13:00 – 16:00",
-      "title": "Apple Music Club",
-      "description": "Mixed live by Tim Sweeney.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 1 – 4 PM Apple Music Club Mixed live by Tim Sweeney.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "16:00 – 18:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "4 – 6 PM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "16:00 – 17:00",
@@ -535,7 +535,7 @@
       "description": "A fire mixtape for Diplo’s label.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/83/36/4d/83364d28-fcf8-0a8b-7429-783d944814cf/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "4 – 5 PM Higher Ground: ROKAR A fire mixtape for Diplo’s label.",
+      "raw_text": "LIVE · 4 – 5 PM Higher Ground: ROKAR A fire mixtape for Diplo’s label.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -692,22 +692,22 @@
     {
       "time_slot": "14:50 – 15:50",
       "title": "Shall Not Fade: Lis Sarroca",
-      "description": "Barcelona-based DJ, crate digger and producer in the mix.",
+      "description": "Barcelona-based DJ, crate-digger, and producer in the mix.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/62/1d/d2/621dd231-d116-a86a-46d1-f592124b8bc3/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "2:50 – 3:50 PM Shall Not Fade: Lis Sarroca Barcelona-based DJ, crate digger and producer in the mix.",
+      "raw_text": "2:50 – 3:50 PM Shall Not Fade: Lis Sarroca Barcelona-based DJ, crate-digger, and producer in the mix.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "15:00 – 16:00",
-      "title": "Pure Focus",
-      "description": "A mix of immersive, mostly electronic sounds.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 3 – 4 PM Pure Focus A mix of immersive, mostly electronic sounds.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "15:50 – 16:45",
+      "title": "HY Radio: NUAGE, Oct 24, 2024",
+      "description": "Something eclectic, melodic, moody and contrasting.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/99/71/d2/9971d269-f5c2-6412-14a7-6cab03f3cd28/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "3:50 – 4:45 PM HY Radio: NUAGE, Oct 24, 2024 Something eclectic, melodic, moody and contrasting.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "16:00 – 18:00",
@@ -715,7 +715,7 @@
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "4 – 6 PM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 4 – 6 PM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -870,14 +870,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "15:00 – 16:10",
-      "title": "Pop-Up con Belinda, Danna y Kenia Os",
-      "description": "Reinas del pop mexicano traen música y una sorpresa.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a5/8b/94/a58b94fb-a2a5-416b-6932-7bf0ad9448cd/55cd03b7-d689-444f-b3d3-f601bcb452bf.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
-      "raw_text": "LIVE · 3 – 4:10 PM Pop-Up con Belinda, Danna y Kenia Os Reinas del pop mexicano traen música y una sorpresa.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "16:00 – 17:00",
+      "title": "Chill Gems",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com#",
+      "raw_text": "4 – 5 PM Chill Gems Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "16:10 – 18:10",
@@ -885,7 +885,7 @@
       "description": "¡Dale Play! a los éxitos de tus artistas favoritos.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
-      "raw_text": "4:10 – 6:10 PM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
+      "raw_text": "LIVE · 4:10 – 6:10 PM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1016,6 +1016,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "2 – 4 PM Puro Pop Una mezcla única de éxitos del pop latino.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "16:00 – 17:10",
+      "title": "Pop-Up con Belinda, Danna y Kenia Os",
+      "description": "Reinas del pop mexicano traen música y una sorpresa.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a5/8b/94/a58b94fb-a2a5-416b-6932-7bf0ad9448cd/55cd03b7-d689-444f-b3d3-f601bcb452bf.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
+      "raw_text": "4 – 5:10 PM Pop-Up con Belinda, Danna y Kenia Os Reinas del pop mexicano traen música y una sorpresa.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
