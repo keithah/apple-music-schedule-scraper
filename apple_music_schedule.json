@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-03T13:32:03.239287-07:00",
+  "scraped_at": "2025-10-03T14:29:05.197207-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -170,22 +170,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "20:00 – 21:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 8 – 9 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "21:00 – 23:00",
       "title": "Apple Music Hits",
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -340,14 +330,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "20:00 – 21:00",
-      "title": "Country Risers Radio with Ward Guenther",
-      "description": "Ward celebrates five years of Country Risers.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/3b/32/48/3b324875-3ebc-3e10-31a5-b48ebd01e155/7910b6f4-1496-422f-98ad-5ce6bfe01ee5.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/country-risers-radio-with-ward-guenther/1496865276",
-      "raw_text": "LIVE · 8 – 9 PM Country Risers Radio with Ward Guenther Ward celebrates five years of Country Risers.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "21:00 – 23:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "21:00 – 22:00",
@@ -355,7 +345,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "9 – 10 PM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 9 – 10 PM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -520,22 +510,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "20:00 – 20:55",
-      "title": "Tomorrowland Belgium 2025: Swedish House Mafia at Mainstage, Weekend 2",
-      "description": "The Swedish trio takes center stage in Belgium.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/7f/59/a3/7f59a31f-422d-ef43-bf10-5f05865aa292/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 8 – 8:55 PM Tomorrowland Belgium 2025: Swedish House Mafia at Mainstage, Weekend 2 The Swedish trio takes center stage in Belgium.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "20:55 – 23:10",
       "title": "Tomorrowland Belgium 2025: Charlotte de Witte (Daybreak) at Mainstage, Weekend 1",
       "description": "Belgian techno powerhouse on the main stage.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/a9/e1/14/a9e1149d-cc4a-ae0c-714b-fb525cea1a73/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "8:55 – 11:10 PM Tomorrowland Belgium 2025: Charlotte de Witte (Daybreak) at Mainstage, Weekend 1 Belgian techno powerhouse on the main stage.",
+      "raw_text": "LIVE · 8:55 – 11:10 PM Tomorrowland Belgium 2025: Charlotte de Witte (Daybreak) at Mainstage, Weekend 1 Belgian techno powerhouse on the main stage.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -700,14 +680,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "19:00 – 21:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 7 – 9 PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "20:45 – 21:50",
+      "title": "Ninja Tune Presents: I. JORDAN",
+      "description": "The UK producer gleefully celebrates collective ecstasy.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/2f/30/ba/2f30ba42-9452-da8e-db42-57e67dca1b9b/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "8:45 – 9:50 PM Ninja Tune Presents: I. JORDAN The UK producer gleefully celebrates collective ecstasy.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "21:00 – 22:00",
@@ -715,7 +695,7 @@
       "description": "Pop and indie with a lighter, unplugged touch.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "9 – 10 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
+      "raw_text": "LIVE · 9 – 10 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -876,6 +856,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "7 – 9 PM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "21:00 – 22:00",
+      "title": "Chill Gems",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com#",
+      "raw_text": "9 – 10 PM Chill Gems Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
