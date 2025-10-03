@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-03T15:30:59.188324-07:00",
+  "scraped_at": "2025-10-03T16:29:03.941871-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "danceXL Radio",
-      "description": "Featuring new music from Fred again...",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/d3/4c/fe/d34cfe6d-87d3-fcf1-eb52-2533dad65547/1cdfaf08-2a72-4067-b549-4ded3f13406f.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dancexl-radio/1472071066",
-      "raw_text": "LIVE · 10 – 11 PM danceXL Radio Featuring new music from Fred again...",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "Loops",
       "description": "Electronic music at its most innovative.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f7/d8/e9/f7d8e9bd-28b4-5434-03b6-0e32507e6f0c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "11PM – 12AM Loops Electronic music at its most innovative.",
+      "raw_text": "LIVE · 11PM – 12AM Loops Electronic music at its most innovative.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -170,14 +160,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "23:00 – 00:00",
+      "title": "Rap Life Radio with Ebro Darden",
+      "description": "Joey Bada$$ calls in to discuss \"DARK AURA.\"",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/60/9a/10/609a1068-fd7b-efa2-08dd-a675cbbe037c/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/rap-life-radio-with-ebro-darden/1472071440",
+      "raw_text": "11PM – 12AM Rap Life Radio with Ebro Darden Joey Bada$$ calls in to discuss \"DARK AURA.\"",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "23:00 – 00:00",
@@ -185,7 +175,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -336,6 +326,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "23:00 – 01:00",
+      "title": "After School Radio",
+      "description": "Mark chats with Danny Elfman.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c8/62/79/c86279b7-c9d5-41f5-8e99-b93c115a7fec/a37216b0-4e1e-4fd3-b2a2-35b6eea1643c.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/after-school-radio/1496846020",
+      "raw_text": "11PM – 1AM After School Radio Mark chats with Danny Elfman.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -510,22 +510,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "20:55 – 23:10",
-      "title": "Tomorrowland Belgium 2025: Charlotte de Witte (Daybreak) at Mainstage, Weekend 1",
-      "description": "Belgian techno powerhouse on the main stage.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/a9/e1/14/a9e1149d-cc4a-ae0c-714b-fb525cea1a73/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 8:55 – 11:10 PM Tomorrowland Belgium 2025: Charlotte de Witte (Daybreak) at Mainstage, Weekend 1 Belgian techno powerhouse on the main stage.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "23:10 – 00:55",
       "title": "House Grooves",
       "description": "Bassline-heavy house designed to make you move.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0d/4b/1a/0d4b1a91-9dde-7d6a-9fca-7346117b5a14/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "11:10 PM – 12:55 AM House Grooves Bassline-heavy house designed to make you move.",
+      "raw_text": "LIVE · 11:10 PM – 12:55 AM House Grooves Bassline-heavy house designed to make you move.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -696,6 +686,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/23/40/57/2340578e-177b-773c-044c-37d1a87d64db/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "9:50 – 11:10 PM Ninja Tune Presents: Solid Steel with Robert Hood Founding member of the legendary Underground Resistance.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "23:10 – 00:15",
+      "title": "Ninja Tune Presents: Solid Steel with Helena Hauff",
+      "description": "DJ and producer from Hamburg, Germany in the mix.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f7/98/49/f798490c-2e54-1611-bbe9-6e17f3b0ba2f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "11:10 PM – 12:15 AM Ninja Tune Presents: Solid Steel with Helena Hauff DJ and producer from Hamburg, Germany in the mix.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
