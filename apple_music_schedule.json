@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-03T06:34:45.802328-07:00",
+  "scraped_at": "2025-10-03T07:32:29.453182-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -22,10 +22,10 @@
     {
       "time_slot": "15:00 – 16:00",
       "title": "R&B Now Radio with Nadeska Alexis",
-      "description": "R&B from Bryson Tiller, Leon Thomas and more.",
+      "description": "R&B from Bryson Tiller, Leon Thomas, and more.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/09/b4/f4/09b4f46c-e7e6-6983-5dc8-9691bd833207/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/r-b-now-radio/1494793925",
-      "raw_text": "3 – 4 PM R&B Now Radio with Nadeska Alexis R&B from Bryson Tiller, Leon Thomas and more.",
+      "raw_text": "3 – 4 PM R&B Now Radio with Nadeska Alexis R&B from Bryson Tiller, Leon Thomas, and more.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -172,22 +172,22 @@
     {
       "time_slot": "12:00 – 14:00",
       "title": "Charlie Sloth Rap Show",
-      "description": "The freshest cuts in hip-hop, straight outta the UK.",
+      "description": "Wohdee brings Fire to the Booth.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/87/45/42/8745428c-851b-8509-6046-1c35275b502e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/charlie-sloth-rap-show/1437832972",
-      "raw_text": "12 – 2 PM Charlie Sloth Rap Show The freshest cuts in hip-hop, straight outta the UK.",
+      "raw_text": "12 – 2 PM Charlie Sloth Rap Show Wohdee brings Fire to the Booth.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "13:00 – 14:00",
-      "title": "Taylor Swift Essentials",
-      "description": "Explore the career-defining hits of music’s biggest stars.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/a7/ee/aa/a7eeaa1f-e556-692d-2f36-4221652b82e5/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 1 – 2 PM Taylor Swift Essentials Explore the career-defining hits of music’s biggest stars.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "14:00 – 16:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "2 – 4 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "14:00 – 15:00",
@@ -195,7 +195,7 @@
       "description": "Electronic music’s floor-filling golden age.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/f9/e2/29/f9e2290f-2dde-2d06-b8a2-bcf385dc4f48/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "2 – 3 PM '90s Club Essentials Electronic music’s floor-filling golden age.",
+      "raw_text": "LIVE · 2 – 3 PM '90s Club Essentials Electronic music’s floor-filling golden age.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -350,14 +350,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "13:00 – 14:00",
-      "title": "Country Rewind",
-      "description": "Timeless country hits you can revisit again and again.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/79/4d/14/794d14fd-e8b1-b218-448a-7bb4fcbb0d9a/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 1 – 2 PM Country Rewind Timeless country hits you can revisit again and again.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "14:00 – 15:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "2 – 3 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "14:00 – 15:00",
@@ -365,7 +365,7 @@
       "description": "What’s happening from the heart of the country scene.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/10/58/11/10581176-4ad7-7411-e9b1-1bcc90bdff38/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/todays-country-radio-with-kelleigh-bannen/1484718373",
-      "raw_text": "2 – 3 PM Today’s Country Radio With Kelleigh Bannen What’s happening from the heart of the country scene.",
+      "raw_text": "LIVE · 2 – 3 PM Today’s Country Radio With Kelleigh Bannen What’s happening from the heart of the country scene.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -526,6 +526,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/79/4d/14/794d14fd-e8b1-b218-448a-7bb4fcbb0d9a/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
       "raw_text": "1 – 2 PM Country Rewind Timeless country hits you can revisit again and again.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
+      "time_slot": "14:00 – 16:00",
+      "title": "Country Caffeine",
+      "description": "The boost you need to get back in the saddle.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/eb/26/cc/eb26cc3c-27ce-de4d-8be5-920607accd45/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "2 – 4 PM Country Caffeine The boost you need to get back in the saddle.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -870,22 +880,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "12:00 – 14:00",
-      "title": "Puro Pop",
-      "description": "Una mezcla única de éxitos del pop latino.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 12 – 2 PM Puro Pop Una mezcla única de éxitos del pop latino.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
       "time_slot": "14:00 – 15:00",
       "title": "SOMOS Radio",
       "description": "Kapo y Ovy On The Drums: sobre la música colombiana.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/c7/0e/51/c70e5146-7aa5-efcc-58e3-8a05a3cb6a42/12bb7396-fab3-42c9-b5a1-e00b970090ea.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/somos/1653478999",
-      "raw_text": "2 – 3 PM SOMOS Radio Kapo y Ovy On The Drums: sobre la música colombiana.",
+      "raw_text": "LIVE · 2 – 3 PM SOMOS Radio Kapo y Ovy On The Drums: sobre la música colombiana.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1026,6 +1026,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
       "raw_text": "12 – 2 PM La Oficial La casa oficial de la música mexicana.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "14:00 – 16:00",
+      "title": "Puro Pop",
+      "description": "Una mezcla única de éxitos del pop latino.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "2 – 4 PM Puro Pop Una mezcla única de éxitos del pop latino.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
