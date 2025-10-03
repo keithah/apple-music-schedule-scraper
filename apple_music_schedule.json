@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-03T03:33:00.324554-07:00",
+  "scraped_at": "2025-10-03T04:29:11.392184-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "10:00 – 11:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 10 – 11 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "11:00 – 13:00",
       "title": "The Matt Wilkinson Show",
       "description": "Brand new music from Upchuck, Snõõper, and Fred Again...",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/08/1f/3c/081f3c7e-d9a3-3667-3550-82500338d0b7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-matt-wilkinson-show/1184566442",
-      "raw_text": "11AM – 1PM The Matt Wilkinson Show Brand new music from Upchuck, Snõõper, and Fred Again...",
+      "raw_text": "LIVE · 11AM – 1PM The Matt Wilkinson Show Brand new music from Upchuck, Snõõper, and Fred Again...",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -140,22 +130,32 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "03:00 – 06:00",
-      "title": "DJ Mix",
+      "time_slot": "03:00 – 04:00",
+      "title": "Tomorrowland Belgium 2025: Swedish House Mafia at Mainstage, Weekend 2",
       "description": "May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/40/f2/18/40f218f6-e456-9bf5-e6ac-f053962f7329/b76dda28-3068-456c-a38f-30ab5a74bf64.png/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/55/4d/90/554d90f9-a608-a784-86a5-006245976b17/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "3 – 6 AM DJ Mix May contain explicit content.",
+      "raw_text": "3 – 4 AM Tomorrowland Belgium 2025: Swedish House Mafia at Mainstage, Weekend 2 May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "06:00 – 08:00",
+      "time_slot": "04:00 – 06:15",
+      "title": "Tomorrowland Belgium 2025: Charlotte de Witte (Daybreak) at Mainstage, Weekend 1",
+      "description": "May contain explicit content.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/bb/c5/f8/bbc5f8a3-5d82-fbae-88da-ad567578770a/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
+      "raw_text": "4 – 6:15 AM Tomorrowland Belgium 2025: Charlotte de Witte (Daybreak) at Mainstage, Weekend 1 May contain explicit content.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "06:15 – 08:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "6 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "6:15 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,22 +180,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "10:00 – 11:00",
-      "title": "2010s Hits Essentials",
-      "description": "Viral sensations and A-list bops rule the airwaves.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/13/36/08/133608bc-e86a-a650-32f6-b74ac46d9d94/pr_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 10 – 11 AM 2010s Hits Essentials Viral sensations and A-list bops rule the airwaves.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "11:00 – 12:00",
       "title": "2000s Hits Essentials",
       "description": "The idols and pop stars who ruled the early 21st century.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/80/8d/ce/808dce42-81c4-a608-832e-a5016196865b/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11AM – 12PM 2000s Hits Essentials The idols and pop stars who ruled the early 21st century.",
+      "raw_text": "LIVE · 11AM – 12PM 2000s Hits Essentials The idols and pop stars who ruled the early 21st century.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -370,22 +360,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "10:00 – 11:00",
-      "title": "2000s Country Essentials",
-      "description": "A decade of big tunes that chronicle life’s little moments.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/9a/a1/3d/9aa13d51-f437-233b-b221-068b07c16603/pr_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 10 – 11 AM 2000s Country Essentials A decade of big tunes that chronicle life’s little moments.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
-    },
-    {
       "time_slot": "11:00 – 13:00",
       "title": "Apple Music Country",
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "11AM – 1PM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 11AM – 1PM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -550,6 +530,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
+      "time_slot": "11:00 – 13:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "11AM – 1PM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
       "time_slot": "10:10 – 11:40",
       "title": "Joseph Ray at Proper NYE 24/25: Wall Stage",
       "description": "EDM artist and one-third of Nero plays San Diego’s Petco Park.",
@@ -706,6 +696,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "7:50 – 10:50 AM Apple Music Club Mixed live by Tim Sweeney.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "10:50 – 11:50",
+      "title": "Higher Ground: ROKAR",
+      "description": "A fire mixtape for Diplo’s label.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/83/36/4d/83364d28-fcf8-0a8b-7429-783d944814cf/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "10:50 – 11:50 AM Higher Ground: ROKAR A fire mixtape for Diplo’s label.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
