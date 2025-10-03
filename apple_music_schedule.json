@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-03T07:32:29.453182-07:00",
+  "scraped_at": "2025-10-03T08:31:33.350154-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "13:00 – 15:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 1 – 3 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "15:00 – 16:00",
       "title": "R&B Now Radio with Nadeska Alexis",
       "description": "R&B from Bryson Tiller, Leon Thomas, and more.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/09/b4/f4/09b4f46c-e7e6-6983-5dc8-9691bd833207/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/r-b-now-radio/1494793925",
-      "raw_text": "3 – 4 PM R&B Now Radio with Nadeska Alexis R&B from Bryson Tiller, Leon Thomas, and more.",
+      "raw_text": "LIVE · 3 – 4 PM R&B Now Radio with Nadeska Alexis R&B from Bryson Tiller, Leon Thomas, and more.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -190,22 +180,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "14:00 – 15:00",
-      "title": "'90s Club Essentials",
-      "description": "Electronic music’s floor-filling golden age.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/f9/e2/29/f9e2290f-2dde-2d06-b8a2-bcf385dc4f48/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 2 – 3 PM '90s Club Essentials Electronic music’s floor-filling golden age.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "15:00 – 17:00",
       "title": "Jayde Donovan",
       "description": "From The Ting Tings to Ty Dolla $ign, Daft Punk to Dua Lipa.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "3 – 5 PM Jayde Donovan From The Ting Tings to Ty Dolla $ign, Daft Punk to Dua Lipa.",
+      "raw_text": "LIVE · 3 – 5 PM Jayde Donovan From The Ting Tings to Ty Dolla $ign, Daft Punk to Dua Lipa.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -360,14 +340,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "14:00 – 15:00",
-      "title": "Today’s Country Radio With Kelleigh Bannen",
-      "description": "What’s happening from the heart of the country scene.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/10/58/11/10581176-4ad7-7411-e9b1-1bcc90bdff38/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/todays-country-radio-with-kelleigh-bannen/1484718373",
-      "raw_text": "LIVE · 2 – 3 PM Today’s Country Radio With Kelleigh Bannen What’s happening from the heart of the country scene.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "15:00 – 17:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "3 – 5 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "15:00 – 17:00",
@@ -375,7 +355,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "3 – 5 PM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 3 – 5 PM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -710,14 +690,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "13:00 – 15:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 1 – 3 PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "14:50 – 15:50",
+      "title": "Shall Not Fade: Lis Sarroca",
+      "description": "Barcelona-based DJ, crate digger and producer in the mix.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/62/1d/d2/621dd231-d116-a86a-46d1-f592124b8bc3/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "2:50 – 3:50 PM Shall Not Fade: Lis Sarroca Barcelona-based DJ, crate digger and producer in the mix.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "15:00 – 16:00",
@@ -725,7 +705,7 @@
       "description": "A mix of immersive, mostly electronic sounds.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "3 – 4 PM Pure Focus A mix of immersive, mostly electronic sounds.",
+      "raw_text": "LIVE · 3 – 4 PM Pure Focus A mix of immersive, mostly electronic sounds.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -880,14 +860,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "14:00 – 15:00",
-      "title": "SOMOS Radio",
-      "description": "Kapo y Ovy On The Drums: sobre la música colombiana.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/c7/0e/51/c70e5146-7aa5-efcc-58e3-8a05a3cb6a42/12bb7396-fab3-42c9-b5a1-e00b970090ea.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/somos/1653478999",
-      "raw_text": "LIVE · 2 – 3 PM SOMOS Radio Kapo y Ovy On The Drums: sobre la música colombiana.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "15:00 – 16:00",
+      "title": "Pure Focus",
+      "description": "A mix of immersive, mostly electronic sounds.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "3 – 4 PM Pure Focus A mix of immersive, mostly electronic sounds.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "15:00 – 16:10",
@@ -895,7 +875,7 @@
       "description": "Reinas del pop mexicano traen música y una sorpresa.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a5/8b/94/a58b94fb-a2a5-416b-6932-7bf0ad9448cd/55cd03b7-d689-444f-b3d3-f601bcb452bf.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
-      "raw_text": "3 – 4:10 PM Pop-Up con Belinda, Danna y Kenia Os Reinas del pop mexicano traen música y una sorpresa.",
+      "raw_text": "LIVE · 3 – 4:10 PM Pop-Up con Belinda, Danna y Kenia Os Reinas del pop mexicano traen música y una sorpresa.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
