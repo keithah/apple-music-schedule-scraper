@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-04T11:35:15.845330-07:00",
+  "scraped_at": "2025-10-04T12:27:29.619836-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "17:00 – 19:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 5 – 7 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "19:00 – 20:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "7 – 8 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 7 – 8 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -360,22 +350,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "18:00 – 19:00",
-      "title": "The ’90s Country Show with Riley Green",
-      "description": "Riley kicks off the show and dials up the ’90s nostalgia.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/3f/63/2c/3f632cd7-c335-56f3-77bf-d5e20fddfe3b/0faa41e5-3fd1-4a75-b5b8-ae46fb929974.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-90s-country-show-with-riley-green/1774052213",
-      "raw_text": "LIVE · 6 – 7 PM The ’90s Country Show with Riley Green Riley kicks off the show and dials up the ’90s nostalgia.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
-    },
-    {
       "time_slot": "19:00 – 20:00",
       "title": "Today’s Country Radio With Kelleigh Bannen",
       "description": "What’s happening from the heart of the country scene.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/19/a2/41/19a241c0-90c9-5a33-30b5-aeb2c1c07743/40ea51d6-91ca-4ea1-b297-46c535d71eac.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/todays-country-radio-with-kelleigh-bannen/1484718373",
-      "raw_text": "7 – 8 PM Today’s Country Radio With Kelleigh Bannen What’s happening from the heart of the country scene.",
+      "raw_text": "LIVE · 7 – 8 PM Today’s Country Radio With Kelleigh Bannen What’s happening from the heart of the country scene.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -520,22 +500,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "17:50 – 18:50",
-      "title": "HYPERHOUSE",
-      "description": "Music from lau.ra, Justin Jay, and Addison Groove.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/1d/21/be/1d21be4c-1380-c83f-ea18-7bb227963249/8dac7713-0eb9-4ccc-9956-72a5c4f54049.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/hyperhouse/998788287",
-      "raw_text": "LIVE · 5:50 – 6:50 PM HYPERHOUSE Music from lau.ra, Justin Jay, and Addison Groove.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "18:50 – 19:50",
       "title": "danceXL",
       "description": "The biggest floor-fillers from around the world.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "6:50 – 7:50 PM danceXL The biggest floor-fillers from around the world.",
+      "raw_text": "LIVE · 6:50 – 7:50 PM danceXL The biggest floor-fillers from around the world.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -740,14 +710,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "18:00 – 19:00",
-      "title": "Chill Africa",
-      "description": "Mellow music from across the continent and diaspora.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/e5/71/b1/e571b1c7-baa0-adbd-e475-250b3e0c6b85/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 6 – 7 PM Chill Africa Mellow music from across the continent and diaspora.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "19:00 – 21:00",
+      "title": "Loops",
+      "description": "Electronic music at its most innovative.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "7 – 9 PM Loops Electronic music at its most innovative.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "19:00 – 21:00",
@@ -755,7 +725,7 @@
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "7 – 9 PM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 7 – 9 PM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -930,6 +900,16 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
+      "time_slot": "19:00 – 21:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "7 – 9 PM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
       "time_slot": "18:00 – 20:00",
       "title": "¡Dale Play!",
       "description": "¡Dale Play! a los éxitos de tus artistas favoritos.",
@@ -1066,6 +1046,26 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "6 – 7 PM Puro Pop Una mezcla única de éxitos del pop latino.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "19:00 – 19:10",
+      "title": "Estoy Escuchando: Beéle",
+      "description": "Las estrellas del momento comparten lo que escuchan.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/8c/d2/96/8cd296f2-b276-440f-bd20-2f7613191321/7fdf8882-6e21-436c-b007-6993b43dd42b.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/estoy-escuchando/1739143000",
+      "raw_text": "7 – 7:10 PM Estoy Escuchando: Beéle Las estrellas del momento comparten lo que escuchan.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "19:10 – 21:00",
+      "title": "Apple Música Uno",
+      "description": "La cultura que te mueve.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "7:10 – 9 PM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
