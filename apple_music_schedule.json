@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-04T15:30:52.294117-07:00",
+  "scraped_at": "2025-10-04T16:29:22.834502-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "New Music Daily Radio with Zane Lowe",
-      "description": "Celebrating the release of Taylor Swift's The Life of a Showgirl.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/27/c6/3a/27c63acd-89a7-e09d-11a6-a6a70b50160e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/new-music-daily-radio-with-zane-lowe/1458161472",
-      "raw_text": "LIVE · 10 – 11 PM New Music Daily Radio with Zane Lowe Celebrating the release of Taylor Swift's The Life of a Showgirl.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "Rap Life Radio with Ebro Darden",
       "description": "Joey Bada$$ calls in to discuss “DARK AURA.”",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/60/9a/10/609a1068-fd7b-efa2-08dd-a675cbbe037c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/rap-life-radio-with-ebro-darden/1472071440",
-      "raw_text": "11PM – 12AM Rap Life Radio with Ebro Darden Joey Bada$$ calls in to discuss “DARK AURA.”",
+      "raw_text": "LIVE · 11PM – 12AM Rap Life Radio with Ebro Darden Joey Bada$$ calls in to discuss “DARK AURA.”",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,22 +170,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "23:00 – 01:00",
       "title": "After School Radio",
       "description": "Mark chats with Danny Elfman.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c8/62/79/c86279b7-c9d5-41f5-8e99-b93c115a7fec/a37216b0-4e1e-4fd3-b2a2-35b6eea1643c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/after-school-radio/1496846020",
-      "raw_text": "11PM – 1AM After School Radio Mark chats with Danny Elfman.",
+      "raw_text": "LIVE · 11PM – 1AM After School Radio Mark chats with Danny Elfman.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -350,6 +330,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "23:00 – 01:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "11PM – 1AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "22:00 – 00:00",
       "title": "Tailgating",
       "description": "Get game-day ready with these country hits.",
@@ -500,22 +490,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "21:50 – 23:10",
-      "title": "Ninja Tune Presents: Solid Steel with Robert Hood",
-      "description": "Founding member of the legendary Underground Resistance.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/23/40/57/2340578e-177b-773c-044c-37d1a87d64db/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 9:50 – 11:10 PM Ninja Tune Presents: Solid Steel with Robert Hood Founding member of the legendary Underground Resistance.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "23:10 – 00:15",
       "title": "Ninja Tune Presents: Solid Steel with Helena Hauff",
       "description": "DJ and producer from Hamburg, Germany, in the mix.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f7/98/49/f798490c-2e54-1611-bbe9-6e17f3b0ba2f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "11:10 PM – 12:15 AM Ninja Tune Presents: Solid Steel with Helena Hauff DJ and producer from Hamburg, Germany, in the mix.",
+      "raw_text": "LIVE · 11:10 PM – 12:15 AM Ninja Tune Presents: Solid Steel with Helena Hauff DJ and producer from Hamburg, Germany, in the mix.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -1046,6 +1026,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
       "raw_text": "9 – 11 PM La Oficial La casa oficial de la música mexicana.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "23:00 – 01:00",
+      "title": "Amor Alternativo",
+      "description": "Sonidos alternativos para el corazón.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/b3/40/25/b34025cf-2552-dfe5-a552-1143702ed133/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "11PM – 1AM Amor Alternativo Sonidos alternativos para el corazón.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
