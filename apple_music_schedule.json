@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-03T17:40:53.241307-07:00",
+  "scraped_at": "2025-10-03T18:57:39.802307-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "00:00 – 01:00",
-      "title": "HYPERHOUSE",
-      "description": "Music from lau.ra, Justin Jay, and Addison Groove. May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/e5/ac/65/e5ac65d4-cc0c-3edb-5a6e-71ec72ee68fc/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/hyperhouse/998788287",
-      "raw_text": "LIVE · 12 – 1 AM HYPERHOUSE Music from lau.ra, Justin Jay, and Addison Groove. May contain explicit content.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "01:00 – 03:00",
       "title": "Beats In Space with Tim Sweeney",
       "description": "Tim Sweeney and HAAi. May contain explicit content.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/83/60/df/8360dfd4-6ebe-3ea1-6885-5e386e8a4f68/d3adf304-a48c-4083-a835-494568ddebc4.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/beats-in-space-with-tim-sweeney/1573950910",
-      "raw_text": "1 – 3 AM Beats In Space with Tim Sweeney Tim Sweeney and HAAi. May contain explicit content.",
+      "raw_text": "LIVE · 1 – 3 AM Beats In Space with Tim Sweeney Tim Sweeney and HAAi. May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -170,22 +160,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "00:00 – 01:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 12 – 1 AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "01:00 – 02:00",
       "title": "In the Mix with Nina Sky",
       "description": "Sixty minutes of sing-alongs with Nina Sky.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/ec/68/c1/ec68c1f1-b5a8-8cde-597c-17b285e3d258/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/pure-throwback-radio-with-nina-sky/1496850732",
-      "raw_text": "1 – 2 AM In the Mix with Nina Sky Sixty minutes of sing-alongs with Nina Sky.",
+      "raw_text": "LIVE · 1 – 2 AM In the Mix with Nina Sky Sixty minutes of sing-alongs with Nina Sky.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -330,14 +310,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "00:00 – 01:00",
-      "title": "Country Rewind",
-      "description": "Timeless country hits you can revisit again and again.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/79/4d/14/794d14fd-e8b1-b218-448a-7bb4fcbb0d9a/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 12 – 1 AM Country Rewind Timeless country hits you can revisit again and again.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "01:00 – 02:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "1 – 2 AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "01:00 – 03:00",
@@ -345,7 +325,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "1 – 3 AM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 1 – 3 AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -500,24 +480,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "23:10 – 00:55",
-      "title": "House Grooves",
-      "description": "Bassline-heavy house designed to make you move.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0d/4b/1a/0d4b1a91-9dde-7d6a-9fca-7346117b5a14/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com#",
-      "raw_text": "LIVE · 11:10 PM – 12:55 AM House Grooves Bassline-heavy house designed to make you move.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
-      "time_slot": "00:55 – 01:55",
-      "title": "NAINA Presents: Prospa Vol.5",
-      "description": "House, bass, and club sounds from the Leeds duo.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f4/c2/77/f4c27733-2a9a-8be5-f44a-446bfd9d4b53/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/naina-presents/1774051496",
-      "raw_text": "12:55 – 1:55 AM NAINA Presents: Prospa Vol.5 House, bass, and club sounds from the Leeds duo.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "01:00 – 03:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "1 – 3 AM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "01:55 – 02:55",
@@ -525,7 +495,7 @@
       "description": "Electronic music at its most innovative.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "1:55 – 2:55 AM Loops Electronic music at its most innovative.",
+      "raw_text": "LIVE · 1:55 – 2:55 AM Loops Electronic music at its most innovative.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -700,14 +670,24 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "00:00 – 01:00",
-      "title": "Zane Needs To Chill",
-      "description": "Zane’s playlist to connect you with calm.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/82/4e/40/824e40a2-6ba3-8929-d9d3-672bb0fbcbb0/b43bb602-0108-47b0-8693-29f2a3cc4f74.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "LIVE · 12 – 1 AM Zane Needs To Chill Zane’s playlist to connect you with calm.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "00:50 – 01:50",
+      "title": "HYPERHOUSE",
+      "description": "Music from lau.ra, Justin Jay, and Addison Groove.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/1d/21/be/1d21be4c-1380-c83f-ea18-7bb227963249/8dac7713-0eb9-4ccc-9956-72a5c4f54049.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/hyperhouse/998788287",
+      "raw_text": "12:50 – 1:50 AM HYPERHOUSE Music from lau.ra, Justin Jay, and Addison Groove.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "01:50 – 02:50",
+      "title": "danceXL",
+      "description": "The biggest floor-fillers from around the world.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "1:50 – 2:50 AM danceXL The biggest floor-fillers from around the world.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "01:00 – 03:00",
@@ -715,7 +695,7 @@
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "1 – 3 AM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 1 – 3 AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -880,14 +860,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "00:00 – 01:10",
-      "title": "Pop-Up con Belinda, Danna y Kenia Os",
-      "description": "Reinas del pop mexicano traen música y una sorpresa.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a5/8b/94/a58b94fb-a2a5-416b-6932-7bf0ad9448cd/55cd03b7-d689-444f-b3d3-f601bcb452bf.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
-      "raw_text": "LIVE · 12 – 1:10 AM Pop-Up con Belinda, Danna y Kenia Os Reinas del pop mexicano traen música y una sorpresa.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "01:00 – 03:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "1 – 3 AM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "01:10 – 03:10",
@@ -895,7 +875,7 @@
       "description": "Los sonidos más frescos de la escena urbana latina.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/c4/50/de/c450de42-3efc-e7e6-492b-91d1557b63ac/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "1:10 – 3:10 AM La Fórmula Los sonidos más frescos de la escena urbana latina.",
+      "raw_text": "LIVE · 1:10 – 3:10 AM La Fórmula Los sonidos más frescos de la escena urbana latina.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1036,6 +1016,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dc/f5/be/dcf5be41-58fe-4cc0-94df-762b9e3d9c6b/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "12 – 1 AM Corridos al Cien Pedazos de realidad en forma de canción.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "01:00 – 03:00",
+      "title": "Pistear",
+      "description": "Para pasar una larga noche de copas entre compas. ¡Salud!",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/5e/47/81/5e478138-b6c4-cd28-f44d-ade334c7c97d/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "1 – 3 AM Pistear Para pasar una larga noche de copas entre compas. ¡Salud!",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
