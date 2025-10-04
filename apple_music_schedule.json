@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-03T22:31:08.783473-07:00",
+  "scraped_at": "2025-10-03T23:36:11.388772-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "04:00 – 06:15",
-      "title": "Tomorrowland Belgium 2025: Charlotte de Witte (Daybreak) at Mainstage, Weekend 1",
-      "description": "May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/bb/c5/f8/bbc5f8a3-5d82-fbae-88da-ad567578770a/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "LIVE · 4 – 6:15 AM Tomorrowland Belgium 2025: Charlotte de Witte (Daybreak) at Mainstage, Weekend 1 May contain explicit content.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "06:15 – 08:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "6:15 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 6:15 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -176,6 +166,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/40/f2/18/40f218f6-e456-9bf5-e6ac-f053962f7329/b76dda28-3068-456c-a38f-30ab5a74bf64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
       "raw_text": "5 – 6:20 AM Ninja Tune Presents: Solid Steel with Robert Hood May contain explicit content.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "06:20 – 07:25",
+      "title": "Ninja Tune Presents: Solid Steel with Helena Hauff",
+      "description": "May contain explicit content.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/40/f2/18/40f218f6-e456-9bf5-e6ac-f053962f7329/b76dda28-3068-456c-a38f-30ab5a74bf64.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
+      "raw_text": "6:20 – 7:25 AM Ninja Tune Presents: Solid Steel with Helena Hauff May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -500,22 +500,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "03:55 – 06:10",
-      "title": "Tomorrowland Belgium 2025: Charlotte de Witte (Daybreak) at Mainstage, Weekend 1",
-      "description": "Belgian techno powerhouse on the main stage.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/a9/e1/14/a9e1149d-cc4a-ae0c-714b-fb525cea1a73/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 3:55 – 6:10 AM Tomorrowland Belgium 2025: Charlotte de Witte (Daybreak) at Mainstage, Weekend 1 Belgian techno powerhouse on the main stage.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "06:10 – 07:50",
       "title": "House Grooves",
       "description": "Bassline-heavy house designed to make you move.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0d/4b/1a/0d4b1a91-9dde-7d6a-9fca-7346117b5a14/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "6:10 – 7:50 AM House Grooves Bassline-heavy house designed to make you move.",
+      "raw_text": "LIVE · 6:10 – 7:50 AM House Grooves Bassline-heavy house designed to make you move.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -710,14 +700,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "04:00 – 06:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 4 – 6 AM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "06:10 – 07:15",
+      "title": "Ninja Tune Presents: Solid Steel with Helena Hauff",
+      "description": "DJ and producer from Hamburg, Germany, in the mix.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f7/98/49/f798490c-2e54-1611-bbe9-6e17f3b0ba2f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "6:10 – 7:15 AM Ninja Tune Presents: Solid Steel with Helena Hauff DJ and producer from Hamburg, Germany, in the mix.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "06:00 – 07:00",
@@ -725,7 +715,7 @@
       "description": "Updates from electronic music’s low-key vanguard.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/d2/7b/dad27b4f-45ab-07b1-bdcd-9a0321c35e30/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "6 – 7 AM Today's Chill Updates from electronic music’s low-key vanguard.",
+      "raw_text": "LIVE · 6 – 7 AM Today's Chill Updates from electronic music’s low-key vanguard.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -896,6 +886,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "5 – 6 AM Evergreen",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "06:00 – 07:00",
+      "title": "Chill Gems",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com#",
+      "raw_text": "6 – 7 AM Chill Gems Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
