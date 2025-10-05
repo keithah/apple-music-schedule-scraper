@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-05T14:28:47.723901-07:00",
+  "scraped_at": "2025-10-05T15:31:02.567264-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "20:00 – 22:00",
-      "title": "Pop Chill",
-      "description": "Pop’s cooler, more laidback side, mixed with a little R&B.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/f3/e7/2d/f3e72dc1-cde4-71c7-3a5a-109e221562f1/7958d8c9-a8df-42c8-a7d5-0d1fcc44912d.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "LIVE · 8 – 10 PM Pop Chill Pop’s cooler, more laidback side, mixed with a little R&B.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "22:00 – 00:00",
       "title": "Today’s Chill",
       "description": "Songs that redefine the sound of chill on a daily basis.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/f0/f5/6e/f0f56e6e-58e2-347e-3565-0c8987571f73/08f697f2-a52a-4f5d-b6d4-b286e7b45f5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "10PM – 12AM Today’s Chill Songs that redefine the sound of chill on a daily basis.",
+      "raw_text": "LIVE · 10PM – 12AM Today’s Chill Songs that redefine the sound of chill on a daily basis.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -166,6 +156,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
       "raw_text": "9 – 10 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "22:00 – 23:00",
+      "title": "The Global Chart Show With Brooke Reese",
+      "description": "The most popular songs on Apple Music.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/68/61/da/6861daa3-4de4-c484-61a4-6aefc5fc0e78/7d4fde68-78db-40cc-9be0-3ca6bab907f1.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
+      "raw_text": "10 – 11 PM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -370,22 +370,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "20:00 – 22:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 8 – 10 PM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
-    },
-    {
       "time_slot": "22:00 – 00:00",
       "title": "Tailgating",
       "description": "Get game-day ready with these country hits.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/90/f3/d9/90f3d9cd-34b2-c4f1-5e2d-5f432afbc215/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "10PM – 12AM Tailgating Get game-day ready with these country hits.",
+      "raw_text": "LIVE · 10PM – 12AM Tailgating Get game-day ready with these country hits.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -530,14 +520,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "21:00 – 22:15",
-      "title": "fabric presents Maribou State",
-      "description": "A mix of soul, funk and disco from London's iconic club.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/7a/bc/00/7abc000c-bed7-d987-a214-600d4575a558/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 9 – 10:15 PM fabric presents Maribou State A mix of soul, funk and disco from London's iconic club.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "22:00 – 00:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "10PM – 12AM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "22:15 – 23:35",
@@ -545,7 +535,7 @@
       "description": "The Tape Records boss brings his house game to this mix.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/61/86/b9/6186b9fe-0df8-3d6a-3777-68c921c39f57/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "10:15 – 11:35 PM GuduMix 053: Deniro The Tape Records boss brings his house game to this mix.",
+      "raw_text": "LIVE · 10:15 – 11:35 PM GuduMix 053: Deniro The Tape Records boss brings his house game to this mix.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -710,14 +700,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "21:00 – 22:00",
-      "title": "Chill Gems",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com#",
-      "raw_text": "LIVE · 9 – 10 PM Chill Gems Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "22:15 – 00:15",
+      "title": "THE HAÇIENDA: Graeme Park at The Warehouse Project, Manchester, Dec 7, 2024",
+      "description": "The legendary DJ recorded live.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/f4/f7/50/f4f75079-cf05-170d-0a09-7677bc1b05f6/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "10:15 PM – 12:15 AM THE HAÇIENDA: Graeme Park at The Warehouse Project, Manchester, Dec 7, 2024 The legendary DJ recorded live.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "22:00 – 00:00",
@@ -725,7 +715,7 @@
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "10PM – 12AM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 10PM – 12AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -890,6 +880,16 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
+      "time_slot": "22:00 – 00:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "10PM – 12AM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
       "time_slot": "21:00 – 23:00",
       "title": "La Oficial",
       "description": "La casa oficial de la música mexicana.",
@@ -1036,6 +1036,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
       "raw_text": "8 – 10 PM La Oficial La casa oficial de la música mexicana.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "22:00 – 00:00",
+      "title": "Apple Música Uno",
+      "description": "La cultura que te mueve.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "10PM – 12AM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
