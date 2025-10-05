@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-05T10:29:27.285638-07:00",
+  "scraped_at": "2025-10-05T11:35:24.458762-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "16:00 – 18:00",
-      "title": "Soulection",
-      "description": "Edits, instrumentals, rare flips, and a few raw demos.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/f6/37/f4/f637f4c4-618f-b13f-73bf-1c7a3ef44c2e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/soulection/993271379",
-      "raw_text": "LIVE · 4 – 6 PM Soulection Edits, instrumentals, rare flips, and a few raw demos.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "18:00 – 20:00",
       "title": "Chill Africa",
       "description": "Mellow music from across the continent and the diaspora.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/80/95/55/809555dd-654f-fe21-41ab-1ea7487bbe96/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "6 – 8 PM Chill Africa Mellow music from across the continent and the diaspora.",
+      "raw_text": "LIVE · 6 – 8 PM Chill Africa Mellow music from across the continent and the diaspora.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -170,22 +160,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "17:00 – 18:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 5 – 6 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "18:00 – 20:00",
       "title": "Apple Music Hits",
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "6 – 8 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 6 – 8 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -370,14 +350,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "17:00 – 18:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 5 – 6 PM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "18:00 – 20:00",
+      "title": "The Estelle Show",
+      "description": "From the singer's library to your ears.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/af/29/1d/af291d47-7feb-2942-461f-3c8ac86b94ec/386a40c2-f584-4d7f-8021-883a85d79377.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
+      "raw_text": "6 – 8 PM The Estelle Show From the singer's library to your ears.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "18:00 – 20:00",
@@ -385,7 +365,7 @@
       "description": "The boost you need to get back in the saddle.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/eb/26/cc/eb26cc3c-27ce-de4d-8be5-920607accd45/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "6 – 8 PM Country Caffeine The boost you need to get back in the saddle.",
+      "raw_text": "LIVE · 6 – 8 PM Country Caffeine The boost you need to get back in the saddle.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -710,22 +690,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "17:00 – 18:00",
-      "title": "Evergreen",
-      "description": null,
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 5 – 6 PM Evergreen",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "18:00 – 19:00",
       "title": "Chill Africa",
       "description": "Mellow music from across the continent and diaspora.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/e5/71/b1/e571b1c7-baa0-adbd-e475-250b3e0c6b85/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "6 – 7 PM Chill Africa Mellow music from across the continent and diaspora.",
+      "raw_text": "LIVE · 6 – 7 PM Chill Africa Mellow music from across the continent and diaspora.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -890,14 +860,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "17:00 – 18:00",
-      "title": "SOMOS Radio",
-      "description": "Kapo y Ovy On The Drums: sobre la música colombiana.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/c7/0e/51/c70e5146-7aa5-efcc-58e3-8a05a3cb6a42/12bb7396-fab3-42c9-b5a1-e00b970090ea.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/somos/1653478999",
-      "raw_text": "LIVE · 5 – 6 PM SOMOS Radio Kapo y Ovy On The Drums: sobre la música colombiana.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "18:00 – 19:00",
+      "title": "Zane Needs To Chill",
+      "description": "Zane’s playlist to bring on the tears.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/d1/71/f2/d171f2aa-c1b8-7cb4-e7ca-42f7de0b4193/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
+      "raw_text": "6 – 7 PM Zane Needs To Chill Zane’s playlist to bring on the tears.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "18:00 – 19:00",
@@ -905,7 +875,7 @@
       "description": "Una mezcla única de éxitos del pop latino.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "6 – 7 PM Puro Pop Una mezcla única de éxitos del pop latino.",
+      "raw_text": "LIVE · 6 – 7 PM Puro Pop Una mezcla única de éxitos del pop latino.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1046,6 +1016,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
       "raw_text": "4 – 6 PM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "18:00 – 19:10",
+      "title": "Pop-Up con Belinda, Danna y Kenia Os",
+      "description": "Reinas del pop mexicano traen música y una sorpresa.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a5/8b/94/a58b94fb-a2a5-416b-6932-7bf0ad9448cd/55cd03b7-d689-444f-b3d3-f601bcb452bf.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
+      "raw_text": "6 – 7:10 PM Pop-Up con Belinda, Danna y Kenia Os Reinas del pop mexicano traen música y una sorpresa.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
