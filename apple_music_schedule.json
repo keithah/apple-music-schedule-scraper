@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-05T06:30:51.587320-07:00",
+  "scraped_at": "2025-10-05T07:30:28.038132-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "12:00 – 14:00",
-      "title": "indie + chill",
-      "description": "Gentle indie pop and rock melodies that make moments better.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/39/bf/cf/39bfcf8e-7a4e-04ec-a694-da75e866f543/pr_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "LIVE · 12 – 2 PM indie + chill Gentle indie pop and rock melodies that make moments better.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "14:00 – 16:00",
       "title": "Vibes",
       "description": "The most exciting sounds that focus on mood and texture.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/10/1e/1f/101e1fa1-55a3-bcb9-3616-d70a409abe67/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "2 – 4 PM Vibes The most exciting sounds that focus on mood and texture.",
+      "raw_text": "LIVE · 2 – 4 PM Vibes The most exciting sounds that focus on mood and texture.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -160,14 +150,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "13:00 – 14:00",
-      "title": "Huey's '80s Radio",
-      "description": "Huey plays some of the biggest soft-rock hits of the '80s.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/9a/94/57/9a945752-a267-e40a-20a4-1a047c0cd94b/6027d765-0072-4b84-891b-4c7bd42d74be.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/hueys-80s-radio/1496848818",
-      "raw_text": "LIVE · 1 – 2 PM Huey's '80s Radio Huey plays some of the biggest soft-rock hits of the '80s.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "14:00 – 16:00",
+      "title": "The Dotty Show",
+      "description": "Dotty announces Soundclash 2025, with GRM Daily in the mix.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/87/36/68/87366810-52c4-9627-733b-2e866b826dfc/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-dotty-show/1526877708",
+      "raw_text": "2 – 4 PM The Dotty Show Dotty announces Soundclash 2025, with GRM Daily in the mix.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "14:00 – 15:00",
@@ -175,7 +165,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "2 – 3 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 2 – 3 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -360,14 +350,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "13:00 – 14:00",
-      "title": "Country Rewind",
-      "description": "Timeless Country hits you can revisit again and again.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/79/4d/14/794d14fd-e8b1-b218-448a-7bb4fcbb0d9a/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 1 – 2 PM Country Rewind Timeless Country hits you can revisit again and again.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "14:00 – 15:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "2 – 3 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "14:00 – 16:00",
@@ -375,7 +365,7 @@
       "description": "Ease into the day with some laidback, rootsy tunes.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "2 – 4 PM Back Porch Country Ease into the day with some laidback, rootsy tunes.",
+      "raw_text": "LIVE · 2 – 4 PM Back Porch Country Ease into the day with some laidback, rootsy tunes.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -520,14 +510,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "12:50 – 13:55",
-      "title": "Apple Music Club",
-      "description": "Where the mix never ends.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 12:50 – 1:55 PM Apple Music Club Where the mix never ends.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "14:00 – 16:00",
+      "title": "The Kelleigh Bannen Show",
+      "description": "Songs from Luke Combs, Jon Pardi, Lauren Watkins, and more.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/28/d2/d7/28d2d71f-e735-ead1-5fae-526e3e172a86/71ddc8cc-6066-44af-acb6-b444ed3cd250.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-kelleigh-bannen-show/1496851605",
+      "raw_text": "2 – 4 PM The Kelleigh Bannen Show Songs from Luke Combs, Jon Pardi, Lauren Watkins, and more.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "13:55 – 15:00",
@@ -535,7 +525,7 @@
       "description": "Downtempo tracks perfect for after a night out.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/ce/3e/69/ce3e69c9-107e-1c3e-7c53-59989deed7c3/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "1:55 – 3 PM Early Hours Mix: Objekt Downtempo tracks perfect for after a night out.",
+      "raw_text": "LIVE · 1:55 – 3 PM Early Hours Mix: Objekt Downtempo tracks perfect for after a night out.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -1056,6 +1046,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "12 – 2 PM Puro Pop Una mezcla única de éxitos del pop latino.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "14:00 – 16:00",
+      "title": "Apple Música Uno",
+      "description": "La cultura que te mueve.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "2 – 4 PM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
