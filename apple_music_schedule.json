@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-05T03:31:43.143270-07:00",
+  "scraped_at": "2025-10-05T04:27:59.203881-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -146,6 +146,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
       "raw_text": "10 – 11 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "11:00 – 13:00",
+      "title": "The Matt Wilkinson Show",
+      "description": "A Britpop mixtape.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/87/43/dd/8743ddf7-e3e2-a9b4-f7ba-c35b7aebbf56/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-matt-wilkinson-show/1184566442",
+      "raw_text": "11AM – 1PM The Matt Wilkinson Show A Britpop mixtape.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -340,14 +350,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "09:00 – 11:00",
-      "title": "Back Porch Country",
-      "description": "Ease into the day with some laidback, rootsy tunes.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 9 – 11 AM Back Porch Country Ease into the day with some laidback, rootsy tunes.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "11:00 – 12:00",
+      "title": "2000s Hits Essentials",
+      "description": "The idols and pop stars who ruled the early 21st century.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/80/8d/ce/808dce42-81c4-a608-832e-a5016196865b/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "11AM – 12PM 2000s Hits Essentials The idols and pop stars who ruled the early 21st century.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "11:00 – 13:00",
@@ -355,7 +365,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "11AM – 1PM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 11AM – 1PM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -500,14 +510,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "09:50 – 10:50",
-      "title": "Shall Not Fade: Lis Sarroca",
-      "description": "Barcelona-based DJ, crate-digger, and producer in the mix.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/62/1d/d2/621dd231-d116-a86a-46d1-f592124b8bc3/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 9:50 – 10:50 AM Shall Not Fade: Lis Sarroca Barcelona-based DJ, crate-digger, and producer in the mix.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "11:00 – 13:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "11AM – 1PM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "10:50 – 11:45",
@@ -515,7 +525,7 @@
       "description": "Something eclectic, melodic, moody, and contrasting.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/99/71/d2/9971d269-f5c2-6412-14a7-6cab03f3cd28/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "10:50 – 11:45 AM HY Radio: NUAGE, Oct 24, 2024 Something eclectic, melodic, moody, and contrasting.",
+      "raw_text": "LIVE · 10:50 – 11:45 AM HY Radio: NUAGE, Oct 24, 2024 Something eclectic, melodic, moody, and contrasting.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -880,22 +890,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "09:00 – 11:00",
-      "title": "¡Dale Play!",
-      "description": "¡Dale Play! a los éxitos de tus artistas favoritos.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
-      "raw_text": "LIVE · 9 – 11 AM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
       "time_slot": "11:00 – 13:00",
       "title": "Apple Música Uno",
       "description": "La cultura que te mueve.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "11AM – 1PM Apple Música Uno La cultura que te mueve.",
+      "raw_text": "LIVE · 11AM – 1PM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
