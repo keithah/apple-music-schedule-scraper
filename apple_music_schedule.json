@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-04T21:32:31.546973-07:00",
+  "scraped_at": "2025-10-04T22:30:55.196593-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Ninja Tune Presents: I. Jordan",
-      "description": "May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/40/f2/18/40f218f6-e456-9bf5-e6ac-f053962f7329/b76dda28-3068-456c-a38f-30ab5a74bf64.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "LIVE · 4 – 5 AM Ninja Tune Presents: I. Jordan May contain explicit content.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "05:00 – 06:20",
       "title": "Ninja Tune Presents: Solid Steel with Robert Hood",
       "description": "May contain explicit content.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/40/f2/18/40f218f6-e456-9bf5-e6ac-f053962f7329/b76dda28-3068-456c-a38f-30ab5a74bf64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "5 – 6:20 AM Ninja Tune Presents: Solid Steel with Robert Hood May contain explicit content.",
+      "raw_text": "LIVE · 5 – 6:20 AM Ninja Tune Presents: Solid Steel with Robert Hood May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -160,22 +150,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 4 – 5 AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "05:00 – 07:00",
       "title": "'90s Club Essentials",
       "description": "Electronic music’s floor-filling golden age.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/f9/e2/29/f9e2290f-2dde-2d06-b8a2-bcf385dc4f48/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "5 – 7 AM '90s Club Essentials Electronic music’s floor-filling golden age.",
+      "raw_text": "LIVE · 5 – 7 AM '90s Club Essentials Electronic music’s floor-filling golden age.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -340,14 +320,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "03:00 – 05:00",
-      "title": "Happy Hour",
-      "description": "Country for amping up and getting down.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/8d/00/09/8d0009eb-321f-50f8-ca99-4fc7165cac37/pr_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 3 – 5 AM Happy Hour Country for amping up and getting down.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "05:00 – 06:00",
+      "title": "Easy Hits",
+      "description": "Low-key songs to help you unwind.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/07/4d/7e/074d7ea9-8d9d-40e4-c5cf-3a8126030cd8/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "5 – 6 AM Easy Hits Low-key songs to help you unwind.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "05:00 – 07:00",
@@ -355,7 +335,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "5 – 7 AM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 5 – 7 AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -490,14 +470,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "03:45 – 04:50",
-      "title": "Ninja Tune Presents: I. JORDAN",
-      "description": "The UK producer gleefully celebrates collective ecstasy.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/2f/30/ba/2f30ba42-9452-da8e-db42-57e67dca1b9b/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 3:45 – 4:50 AM Ninja Tune Presents: I. JORDAN The UK producer gleefully celebrates collective ecstasy.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "05:00 – 07:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "5 – 7 AM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "04:50 – 06:10",
@@ -505,7 +485,7 @@
       "description": "Founding member of the legendary Underground Resistance.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/23/40/57/2340578e-177b-773c-044c-37d1a87d64db/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "4:50 – 6:10 AM Ninja Tune Presents: Solid Steel with Robert Hood Founding member of the legendary Underground Resistance.",
+      "raw_text": "LIVE · 4:50 – 6:10 AM Ninja Tune Presents: Solid Steel with Robert Hood Founding member of the legendary Underground Resistance.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -690,22 +670,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Zane Needs To Chill",
-      "description": "Zane’s playlist to connect you with calm.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/82/4e/40/824e40a2-6ba3-8929-d9d3-672bb0fbcbb0/b43bb602-0108-47b0-8693-29f2a3cc4f74.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "LIVE · 4 – 5 AM Zane Needs To Chill Zane’s playlist to connect you with calm.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "05:00 – 06:00",
       "title": "Evergreen",
       "description": null,
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "5 – 6 AM Evergreen",
+      "raw_text": "LIVE · 5 – 6 AM Evergreen",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -880,14 +850,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "03:00 – 05:00",
-      "title": "De Fiesta",
-      "description": "Pop latino, cumbia, salsa y reggaetón para amanecer bailando.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/13/d5/aa/13d5aa42-4f1c-0c7f-88ed-227c6d746fdf/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 3 – 5 AM De Fiesta Pop latino, cumbia, salsa y reggaetón para amanecer bailando.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "05:00 – 06:00",
+      "title": "Evergreen",
+      "description": null,
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "5 – 6 AM Evergreen",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "05:00 – 07:00",
@@ -895,7 +865,7 @@
       "description": "Clásicos de siempre y éxitos que definen el presente del género.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/31/be/03/31be0354-ec11-f1d5-346d-a8823bdc9a67/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "5 – 7 AM Cumbia Pa' La Fiesta Clásicos de siempre y éxitos que definen el presente del género.",
+      "raw_text": "LIVE · 5 – 7 AM Cumbia Pa' La Fiesta Clásicos de siempre y éxitos que definen el presente del género.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1026,6 +996,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0c/25/8b/0c258b92-4770-fa02-c64d-ade535f0fbd8/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "3 – 5 AM Por Siempre Hits Una colección de hits innolvidables.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "05:00 – 06:10",
+      "title": "Pop-Up con Belinda, Danna y Kenia Os",
+      "description": "Reinas del pop mexicano traen música y una sorpresa.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a5/8b/94/a58b94fb-a2a5-416b-6932-7bf0ad9448cd/55cd03b7-d689-444f-b3d3-f601bcb452bf.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
+      "raw_text": "5 – 6:10 AM Pop-Up con Belinda, Danna y Kenia Os Reinas del pop mexicano traen música y una sorpresa.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
