@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-06T11:37:23.535997-07:00",
+  "scraped_at": "2025-10-06T12:28:33.945679-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "17:00 – 19:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 5 – 7 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "19:00 – 20:30",
       "title": "The Ebro Show",
       "description": "Cardo Got Wings on his new album SIGAN VIENDO.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/3f/34/b3/3f34b3be-e171-ec12-4147-d335cb5de057/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-ebro-show/990473683",
-      "raw_text": "7 – 8:30 PM The Ebro Show Cardo Got Wings on his new album SIGAN VIENDO.",
+      "raw_text": "LIVE · 7 – 8:30 PM The Ebro Show Cardo Got Wings on his new album SIGAN VIENDO.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -186,6 +176,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
       "raw_text": "5:30 – 7 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "19:00 – 21:00",
+      "title": "The Ebro Show",
+      "description": "Bringing the music and sounds of New York City to the world.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/53/82/47/53824768-32d2-d869-0766-c6e74d35daa5/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-ebro-show/990473683",
+      "raw_text": "7 – 9 PM The Ebro Show Bringing the music and sounds of New York City to the world.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -372,22 +372,12 @@
     {
       "time_slot": "18:00 – 20:00",
       "title": "The Estelle Show",
-      "description": "From the singer's library to your ears.",
+      "description": "From the singer’s library to your ears.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/af/29/1d/af291d47-7feb-2942-461f-3c8ac86b94ec/386a40c2-f584-4d7f-8021-883a85d79377.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
-      "raw_text": "6 – 8 PM The Estelle Show From the singer's library to your ears.",
+      "raw_text": "6 – 8 PM The Estelle Show From the singer’s library to your ears.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
-      "time_slot": "17:00 – 19:00",
-      "title": "The Ty Bentli Show",
-      "description": "Daily dispatches from Music City.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/36/14/40/361440d2-92e3-256c-e2d8-05941afc8a38/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-ty-bentli-show/1496851549",
-      "raw_text": "LIVE · 5 – 7 PM The Ty Bentli Show Daily dispatches from Music City.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "19:00 – 20:00",
@@ -395,7 +385,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "7 – 8 PM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 7 – 8 PM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -550,14 +540,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "17:00 – 19:00",
-      "title": "Beats In Space with Tim Sweeney",
-      "description": "Tim Sweeney and HAAi. May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/83/60/df/8360dfd4-6ebe-3ea1-6885-5e386e8a4f68/d3adf304-a48c-4083-a835-494568ddebc4.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/beats-in-space-with-tim-sweeney/1573950910",
-      "raw_text": "LIVE · 5 – 7 PM Beats In Space with Tim Sweeney Tim Sweeney and HAAi. May contain explicit content.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "19:00 – 20:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "7 – 8 PM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "19:00 – 21:00",
@@ -565,7 +555,7 @@
       "description": "Electronic music at its most innovative.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "7 – 9 PM Loops Electronic music at its most innovative.",
+      "raw_text": "LIVE · 7 – 9 PM Loops Electronic music at its most innovative.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -700,14 +690,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "18:00 – 19:00",
-      "title": "Zane Needs To Chill",
-      "description": "Zane’s playlist to bring on the tears.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/d1/71/f2/d171f2aa-c1b8-7cb4-e7ca-42f7de0b4193/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "LIVE · 6 – 7 PM Zane Needs To Chill Zane’s playlist to bring on the tears.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "18:55 – 20:55",
+      "title": "danceXL",
+      "description": "The biggest floor-fillers from around the world.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "6:55 – 8:55 PM danceXL The biggest floor-fillers from around the world.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "19:00 – 21:00",
@@ -715,7 +705,7 @@
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "7 – 9 PM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 7 – 9 PM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -870,14 +860,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "18:00 – 19:10",
-      "title": "Pop-Up con Belinda, Danna y Kenia Os",
-      "description": "Reinas del pop mexicano traen música y una sorpresa.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a5/8b/94/a58b94fb-a2a5-416b-6932-7bf0ad9448cd/55cd03b7-d689-444f-b3d3-f601bcb452bf.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
-      "raw_text": "LIVE · 6 – 7:10 PM Pop-Up con Belinda, Danna y Kenia Os Reinas del pop mexicano traen música y una sorpresa.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "19:00 – 21:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "7 – 9 PM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "19:10 – 20:00",
@@ -885,7 +875,7 @@
       "description": "La cultura que te mueve.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "7:10 – 8 PM Apple Música Uno La cultura que te mueve.",
+      "raw_text": "LIVE · 7:10 – 8 PM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
