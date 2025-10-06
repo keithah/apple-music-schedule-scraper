@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-06T15:31:31.836432-07:00",
+  "scraped_at": "2025-10-06T16:29:51.604890-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "The Global Chart Show With Brooke Reese",
-      "description": "The most popular songs on Apple Music.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/68/61/da/6861daa3-4de4-c484-61a4-6aefc5fc0e78/7d4fde68-78db-40cc-9be0-3ca6bab907f1.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
-      "raw_text": "LIVE · 10 – 11 PM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "The Travis Mills Show",
       "description": "Music from Porch Light, BENEE, and Artemas.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/04/30/3b/04303be0-7ac8-3891-247d-005d16f353fb/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
-      "raw_text": "11PM – 12AM The Travis Mills Show Music from Porch Light, BENEE, and Artemas.",
+      "raw_text": "LIVE · 11PM – 12AM The Travis Mills Show Music from Porch Light, BENEE, and Artemas.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,14 +170,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "23:00 – 00:00",
+      "title": "The Travis Mills Show",
+      "description": "Check in with Apple Music’s pop culture authority.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/04/30/3b/04303be0-7ac8-3891-247d-005d16f353fb/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
+      "raw_text": "11PM – 12AM The Travis Mills Show Check in with Apple Music’s pop culture authority.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "23:00 – 00:00",
@@ -195,7 +185,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -366,6 +356,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "23:00 – 00:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -672,10 +672,20 @@
     {
       "time_slot": "20:55 – 22:55",
       "title": "Blake.08 Live at Anjunadeep Explorations 2025",
-      "description": "A 2-hour set on the beaches of Dhërmi.",
+      "description": "A two-hour set on the beaches of Dhërmi.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/0b/94/12/0b941275-d2e2-8c9f-b226-40aee50b8303/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "8:55 – 10:55 PM Blake.08 Live at Anjunadeep Explorations 2025 A 2-hour set on the beaches of Dhërmi.",
+      "raw_text": "8:55 – 10:55 PM Blake.08 Live at Anjunadeep Explorations 2025 A two-hour set on the beaches of Dhërmi.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "22:55 – 23:55",
+      "title": "Radio Soulwax presents D&SCO",
+      "description": "An hour-long DISCO mix from the classique RSWX series.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/30/80/4c/30804c8e-dcd7-2b99-e09f-f01cccfc4d14/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "10:55 – 11:55 PM Radio Soulwax presents D&SCO An hour-long DISCO mix from the classique RSWX series.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
