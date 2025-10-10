@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-10T15:31:18.149100-07:00",
+  "scraped_at": "2025-10-10T16:29:22.665183-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "danceXL Radio",
-      "description": "The biggest new tunes roaring through clubs around the world.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/d3/4c/fe/d34cfe6d-87d3-fcf1-eb52-2533dad65547/1cdfaf08-2a72-4067-b549-4ded3f13406f.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dancexl-radio/1472071066",
-      "raw_text": "LIVE · 10 – 11 PM danceXL Radio The biggest new tunes roaring through clubs around the world.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 01:00",
       "title": "Loops",
       "description": "Electronic music at its most innovative.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f7/d8/e9/f7d8e9bd-28b4-5434-03b6-0e32507e6f0c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "11PM – 1AM Loops Electronic music at its most innovative.",
+      "raw_text": "LIVE · 11PM – 1AM Loops Electronic music at its most innovative.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -170,22 +160,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "Apple Music Hits",
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -336,6 +316,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "23:00 – 00:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -520,22 +510,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "21:15 – 23:20",
-      "title": "Soul Clap Live At Hï Ibiza: Aug 2, 2025",
-      "description": "The Boston-bred duo plays the iconic club.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/49/05/46/490546b1-fb5e-2251-8355-0631614cf135/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 9:15 – 11:20 PM Soul Clap Live At Hï Ibiza: Aug 2, 2025 The Boston-bred duo plays the iconic club.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "23:20 – 01:00",
       "title": "House Grooves",
       "description": "Bassline-heavy house and disco designed to make you move.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0d/4b/1a/0d4b1a91-9dde-7d6a-9fca-7346117b5a14/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "11:20 PM – 1AM House Grooves Bassline-heavy house and disco designed to make you move.",
+      "raw_text": "LIVE · 11:20 PM – 1AM House Grooves Bassline-heavy house and disco designed to make you move.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -696,6 +676,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/9a/dc/5d/9adc5d35-fd2a-d62a-3db7-569204015636/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "9:45 – 10:40 PM Lazy Ants: Moveltraxx Sessions 024 The Italian DJ/producer with a Moveltraxx mixtape.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "22:40 – 23:45",
+      "title": "Feadz: Moveltraxx Session 006",
+      "description": "French DJ with a Moveltraxx mixtape.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/75/84/ed/7584ed1b-2e4b-6f25-98f9-8e8a44485dad/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "10:40 – 11:45 PM Feadz: Moveltraxx Session 006 French DJ with a Moveltraxx mixtape.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
