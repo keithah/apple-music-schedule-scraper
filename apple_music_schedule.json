@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-09T19:02:17.569507-07:00",
+  "scraped_at": "2025-10-09T19:51:16.676761-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -360,6 +360,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "02:00 – 04:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "2 – 4 AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "01:00 – 03:00",
       "title": "Apple Music Country",
       "description": "Where it sounds like home.",
@@ -696,6 +706,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/af/b7/df/afb7df09-2167-c9f1-5703-b4f5cb5bba8f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/naina-presents/1774051496",
       "raw_text": "1 – 2 AM NAINA Presents: NAINA, Vol. 35 Featuring songs from Bakey and Nia Archives.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "02:00 – 02:55",
+      "title": "Loops",
+      "description": "Electronic music at its most innovative.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "2 – 2:55 AM Loops Electronic music at its most innovative.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
