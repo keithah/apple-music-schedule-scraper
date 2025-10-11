@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-11T15:30:53.303363-07:00",
+  "scraped_at": "2025-10-11T16:29:19.915948-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -180,22 +180,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "Apple Music Hits",
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -360,6 +350,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "23:00 – 01:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "11PM – 1AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "22:00 – 00:00",
       "title": "Tailgating",
       "description": "Get game-day ready with these country hits.",
@@ -510,22 +510,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "21:45 – 22:40",
-      "title": "Lazy Ants: Moveltraxx Sessions 024",
-      "description": "The Italian DJ/producer with a Moveltraxx mixtape.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/9a/dc/5d/9adc5d35-fd2a-d62a-3db7-569204015636/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 9:45 – 10:40 PM Lazy Ants: Moveltraxx Sessions 024 The Italian DJ/producer with a Moveltraxx mixtape.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "22:40 – 23:45",
       "title": "Feadz: Moveltraxx Session 006",
       "description": "French DJ with a Moveltraxx mixtape.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/75/84/ed/7584ed1b-2e4b-6f25-98f9-8e8a44485dad/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "10:40 – 11:45 PM Feadz: Moveltraxx Session 006 French DJ with a Moveltraxx mixtape.",
+      "raw_text": "LIVE · 10:40 – 11:45 PM Feadz: Moveltraxx Session 006 French DJ with a Moveltraxx mixtape.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -1056,6 +1046,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
       "raw_text": "9 – 11 PM La Oficial La casa oficial de la música mexicana.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "23:00 – 01:00",
+      "title": "Amor Alternativo",
+      "description": "Sonidos alternativos para el corazón.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/b3/40/25/b34025cf-2552-dfe5-a552-1143702ed133/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "11PM – 1AM Amor Alternativo Sonidos alternativos para el corazón.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
