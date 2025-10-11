@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-10T23:35:57.218173-07:00",
+  "scraped_at": "2025-10-11T00:29:21.169889-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -190,14 +190,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "05:00 – 07:00",
-      "title": "Jayde Donovan",
-      "description": "From 50 Cent to Lil’ Flip, Aaliyah to Ashanti.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "LIVE · 5 – 7 AM Jayde Donovan From 50 Cent to Lil’ Flip, Aaliyah to Ashanti.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "07:00 – 08:00",
+      "title": "indie + chill",
+      "description": "Gentle indie pop and rock melodies that make moments better.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/39/bf/cf/39bfcf8e-7a4e-04ec-a694-da75e866f543/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
+      "raw_text": "7 – 8 AM indie + chill Gentle indie pop and rock melodies that make moments better.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "07:00 – 09:00",
@@ -205,7 +205,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "7 – 9 AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 7 – 9 AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -360,14 +360,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "05:00 – 07:00",
-      "title": "Back Porch Country",
-      "description": "Ease into the day with some laidback, rootsy tunes.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 5 – 7 AM Back Porch Country Ease into the day with some laidback, rootsy tunes.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "07:00 – 09:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "7 – 9 AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "07:00 – 09:00",
@@ -375,7 +375,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "7 – 9 AM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 7 – 9 AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -526,6 +526,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
       "raw_text": "5 – 7 AM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
+      "time_slot": "07:00 – 09:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "7 – 9 AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -740,22 +750,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "06:00 – 07:00",
-      "title": "Today's Chill",
-      "description": "Updates from electronic music’s low-key vanguard.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/d2/7b/dad27b4f-45ab-07b1-bdcd-9a0321c35e30/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 6 – 7 AM Today's Chill Updates from electronic music’s low-key vanguard.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "07:00 – 09:00",
       "title": "Apple Music Chill",
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "7 – 9 AM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 7 – 9 AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -930,14 +930,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "05:00 – 07:00",
-      "title": "Pistear",
-      "description": "Para pasar una larga noche de copas entre compas. ¡Salud!",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/5e/47/81/5e478138-b6c4-cd28-f44d-ade334c7c97d/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 5 – 7 AM Pistear Para pasar una larga noche de copas entre compas. ¡Salud!",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "07:00 – 09:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "7 – 9 AM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "07:00 – 09:00",
@@ -945,7 +945,7 @@
       "description": "Una colección de hits innolvidables.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0c/25/8b/0c258b92-4770-fa02-c64d-ade535f0fbd8/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "7 – 9 AM Por Siempre Hits Una colección de hits innolvidables.",
+      "raw_text": "LIVE · 7 – 9 AM Por Siempre Hits Una colección de hits innolvidables.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1086,6 +1086,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/31/be/03/31be0354-ec11-f1d5-346d-a8823bdc9a67/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "5 – 7 AM Cumbia Pa' La Fiesta Clásicos de siempre y éxitos que definen el presente del género.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "07:00 – 09:00",
+      "title": "Después del After",
+      "description": "Una mezcla ecléctica para cerrar noches épicas.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/d1/dd/b8/d1ddb81e-b793-44b3-2dfa-b37641942f8c/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "7 – 9 AM Después del After Una mezcla ecléctica para cerrar noches épicas.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
