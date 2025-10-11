@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-10T20:34:36.391241-07:00",
+  "scraped_at": "2025-10-10T21:32:41.156382-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "03:00 – 04:20",
-      "title": "Dirty Channels Live At Hï Ibiza, May 25, 2025",
-      "description": "May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/e0/8c/ac/e08cac55-2b32-e4c4-5919-c58f84b0726a/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "LIVE · 3 – 4:20 AM Dirty Channels Live At Hï Ibiza, May 25, 2025 May contain explicit content.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "04:20 – 06:20",
       "title": "Soul Clap Live At Hï Ibiza: Aug 2, 2025",
       "description": "May contain explicit content.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/62/43/c2/6243c226-d514-a73b-70db-5160345d7c34/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "4:20 – 6:20 AM Soul Clap Live At Hï Ibiza: Aug 2, 2025 May contain explicit content.",
+      "raw_text": "LIVE · 4:20 – 6:20 AM Soul Clap Live At Hï Ibiza: Aug 2, 2025 May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -170,14 +160,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "02:00 – 04:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 2 – 4 AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "03:45 – 04:35",
+      "title": "Househead Samira: Moveltraxx Sessions 016",
+      "description": "May contain explicit content.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/47/cc/fd/47ccfd77-9a07-b064-3a13-156ac8264e44/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
+      "raw_text": "3:45 – 4:35 AM Househead Samira: Moveltraxx Sessions 016 May contain explicit content.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "04:00 – 05:00",
@@ -185,7 +175,7 @@
       "description": "Electronic music’s floor-filling golden age.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/f9/e2/29/f9e2290f-2dde-2d06-b8a2-bcf385dc4f48/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "4 – 5 AM '90s Club Essentials Electronic music’s floor-filling golden age.",
+      "raw_text": "LIVE · 4 – 5 AM '90s Club Essentials Electronic music’s floor-filling golden age.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -340,14 +330,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "03:00 – 04:00",
-      "title": "Today’s Country Radio With Kelleigh Bannen",
-      "description": "ERNEST on recording an unreleased Toby Keith song.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/ec/87/68/ec876863-e80e-8986-5519-7907c3b24e3a/816692b5-3a65-4f8d-9b4b-1c4efd59106b.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/todays-country-radio-with-kelleigh-bannen/1484718373",
-      "raw_text": "LIVE · 3 – 4 AM Today’s Country Radio With Kelleigh Bannen ERNEST on recording an unreleased Toby Keith song.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "04:00 – 05:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "4 – 5 AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "04:00 – 05:00",
@@ -355,7 +345,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "4 – 5 AM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 4 – 5 AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -520,22 +510,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "02:55 – 04:20",
-      "title": "At Hï Ibiza, May 25, 2025: Dity Channels",
-      "description": "The Italian DJs rip up The Theatre in Hï!",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/75/91/d4/7591d4b5-4ee5-ea8c-03fd-80346a2882bc/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 2:55 – 4:20 AM Live At Hï Ibiza, May 25, 2025: Dity Channels The Italian DJs rip up The Theatre in Hï!",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "04:20 – 06:20",
       "title": "Soul Clap Live At Hï Ibiza: Aug 2, 2025",
       "description": "The Boston-bred duo plays the iconic club.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/49/05/46/490546b1-fb5e-2251-8355-0631614cf135/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "4:20 – 6:20 AM Soul Clap Live At Hï Ibiza: Aug 2, 2025 The Boston-bred duo plays the iconic club.",
+      "raw_text": "LIVE · 4:20 – 6:20 AM Soul Clap Live At Hï Ibiza: Aug 2, 2025 The Boston-bred duo plays the iconic club.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -710,14 +690,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "03:00 – 04:00",
-      "title": "Pure Focus",
-      "description": "A mix of immersive, mostly electronic sounds.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 3 – 4 AM Pure Focus A mix of immersive, mostly electronic sounds.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "03:45 – 04:35",
+      "title": "Househead Samira: Moveltraxx Sessions 016",
+      "description": "Tunisia-born, UAE-based DJ/producer in the mix.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0f/25/33/0f25332d-a528-b3d6-ed45-58db3b70fbc4/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "3:45 – 4:35 AM Househead Samira: Moveltraxx Sessions 016 Tunisia-born, UAE-based DJ/producer in the mix.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "04:00 – 06:00",
@@ -725,7 +705,7 @@
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "4 – 6 AM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 4 – 6 AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -886,6 +866,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "3 – 4 AM Pure Focus A mix of immersive, mostly electronic sounds.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "04:00 – 05:00",
+      "title": "Zane Needs To Chill",
+      "description": "Zane’s playlist to bring on the tears.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/d1/71/f2/d171f2aa-c1b8-7cb4-e7ca-42f7de0b4193/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
+      "raw_text": "4 – 5 AM Zane Needs To Chill Zane’s playlist to bring on the tears.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
