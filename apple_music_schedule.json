@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-11T21:32:50.408821-07:00",
+  "scraped_at": "2025-10-11T22:31:23.249421-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,32 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "03:45 – 04:35",
-      "title": "Househead Samira: Moveltraxx Sessions 016",
-      "description": "May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/47/cc/fd/47ccfd77-9a07-b064-3a13-156ac8264e44/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "LIVE · 3:45 – 4:35 AM Househead Samira: Moveltraxx Sessions 016 May contain explicit content.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
-      "time_slot": "04:35 – 05:30",
-      "title": "Lazy Ants: Moveltraxx Sessions 024",
-      "description": "May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/ab/12/6a/ab126a3b-1ad2-d575-f63a-2ffa0f326272/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "4:35 – 5:30 AM Lazy Ants: Moveltraxx Sessions 024 May contain explicit content.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "05:30 – 06:30",
       "title": "Feadz: Moveltraxx Sessions 006",
       "description": "May contain explicit content.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/e7/5f/d5/e75fd57e-1f46-2e01-8ba9-5b5bf79801b4/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "5:30 – 6:30 AM Feadz: Moveltraxx Sessions 006 May contain explicit content.",
+      "raw_text": "LIVE · 5:30 – 6:30 AM Feadz: Moveltraxx Sessions 006 May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -170,22 +150,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 4 – 5 AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "05:00 – 07:00",
       "title": "'90s Club Essentials",
       "description": "Electronic music’s floor-filling golden age.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/f9/e2/29/f9e2290f-2dde-2d06-b8a2-bcf385dc4f48/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "5 – 7 AM '90s Club Essentials Electronic music’s floor-filling golden age.",
+      "raw_text": "LIVE · 5 – 7 AM '90s Club Essentials Electronic music’s floor-filling golden age.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -350,14 +320,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "03:00 – 05:00",
-      "title": "Happy Hour",
-      "description": "Country for amping up and getting down.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/8d/00/09/8d0009eb-321f-50f8-ca99-4fc7165cac37/pr_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 3 – 5 AM Happy Hour Country for amping up and getting down.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "05:00 – 06:00",
+      "title": "Easy Hits",
+      "description": "Low-key songs to help you unwind.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/07/4d/7e/074d7ea9-8d9d-40e4-c5cf-3a8126030cd8/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "5 – 6 AM Easy Hits Low-key songs to help you unwind.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "05:00 – 07:00",
@@ -365,7 +335,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "5 – 7 AM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 5 – 7 AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -500,24 +470,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "03:45 – 04:35",
-      "title": "Househead Samira: Moveltraxx Sessions 016",
-      "description": "Tunisia-born, UAE-based DJ/producer in the mix.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0f/25/33/0f25332d-a528-b3d6-ed45-58db3b70fbc4/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 3:45 – 4:35 AM Househead Samira: Moveltraxx Sessions 016 Tunisia-born, UAE-based DJ/producer in the mix.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
-      "time_slot": "04:35 – 05:25",
-      "title": "Lazy Ants: Moveltraxx Sessions 024",
-      "description": "The Italian DJ/producer with a Moveltraxx mixtape.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/9a/dc/5d/9adc5d35-fd2a-d62a-3db7-569204015636/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "4:35 – 5:25 AM Lazy Ants: Moveltraxx Sessions 024 The Italian DJ/producer with a Moveltraxx mixtape.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "05:00 – 07:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "5 – 7 AM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "05:25 – 06:30",
@@ -525,7 +485,7 @@
       "description": "French DJ with a Moveltraxx mixtape.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/75/84/ed/7584ed1b-2e4b-6f25-98f9-8e8a44485dad/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "5:25 – 6:30 AM Feadz: Moveltraxx Session 006 French DJ with a Moveltraxx mixtape.",
+      "raw_text": "LIVE · 5:25 – 6:30 AM Feadz: Moveltraxx Session 006 French DJ with a Moveltraxx mixtape.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -690,22 +650,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Zane Needs To Chill",
-      "description": "Zane’s playlist to bring on the tears.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/d1/71/f2/d171f2aa-c1b8-7cb4-e7ca-42f7de0b4193/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "LIVE · 4 – 5 AM Zane Needs To Chill Zane’s playlist to bring on the tears.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "05:00 – 06:00",
       "title": "Evergreen",
       "description": null,
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "5 – 6 AM Evergreen",
+      "raw_text": "LIVE · 5 – 6 AM Evergreen",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -880,14 +830,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "03:00 – 05:00",
-      "title": "De Fiesta",
-      "description": "Pop latino, cumbia, salsa y reggaetón para amanecer bailando.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/13/d5/aa/13d5aa42-4f1c-0c7f-88ed-227c6d746fdf/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 3 – 5 AM De Fiesta Pop latino, cumbia, salsa y reggaetón para amanecer bailando.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "05:00 – 06:00",
+      "title": "Evergreen",
+      "description": null,
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "5 – 6 AM Evergreen",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "05:00 – 07:00",
@@ -895,7 +845,7 @@
       "description": "Clásicos de siempre y éxitos que definen el presente del género.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/31/be/03/31be0354-ec11-f1d5-346d-a8823bdc9a67/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "5 – 7 AM Cumbia Pa' La Fiesta Clásicos de siempre y éxitos que definen el presente del género.",
+      "raw_text": "LIVE · 5 – 7 AM Cumbia Pa' La Fiesta Clásicos de siempre y éxitos que definen el presente del género.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1026,6 +976,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0c/25/8b/0c258b92-4770-fa02-c64d-ade535f0fbd8/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "3 – 5 AM Por Siempre Hits Una colección de hits innolvidables.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "05:00 – 06:10",
+      "title": "Pop-Up con Belinda, Danna y Kenia Os",
+      "description": "Reinas del pop mexicano traen música y una sorpresa.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a5/8b/94/a58b94fb-a2a5-416b-6932-7bf0ad9448cd/55cd03b7-d689-444f-b3d3-f601bcb452bf.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
+      "raw_text": "5 – 6:10 AM Pop-Up con Belinda, Danna y Kenia Os Reinas del pop mexicano traen música y una sorpresa.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
