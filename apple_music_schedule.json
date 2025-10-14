@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-14T00:30:59.765512-07:00",
+  "scraped_at": "2025-10-14T01:35:46.957005-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "06:00 – 08:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 6 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "08:00 – 10:00",
       "title": "The Rebecca Judd Show",
       "description": "Big hits, throwbacks, and the best new music.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/d7/b7/10/d7b710ee-3439-bdee-7bf6-afbe4ab617fe/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-rebecca-judd-show/1481636844",
-      "raw_text": "8 – 10 AM The Rebecca Judd Show Big hits, throwbacks, and the best new music.",
+      "raw_text": "LIVE · 8 – 10 AM The Rebecca Judd Show Big hits, throwbacks, and the best new music.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -170,6 +160,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
+      "time_slot": "08:00 – 10:00",
+      "title": "The Rebecca Judd Show",
+      "description": "Big hits, throwbacks, and the best new music.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/e8/03/d8/e803d88e-0a00-dd04-56f2-23234e8df9f3/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-rebecca-judd-show/1481636844",
+      "raw_text": "8 – 10 AM The Rebecca Judd Show Big hits, throwbacks, and the best new music.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
       "time_slot": "07:00 – 09:00",
       "title": "Apple Music Hits",
       "description": "Songs you know and love.",
@@ -262,10 +262,10 @@
     {
       "time_slot": "18:00 – 20:00",
       "title": "The Estelle Show",
-      "description": "From the singer’s library to your ears.",
+      "description": "A celebration of musicianship.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/af/29/1d/af291d47-7feb-2942-461f-3c8ac86b94ec/386a40c2-f584-4d7f-8021-883a85d79377.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
-      "raw_text": "6 – 8 PM The Estelle Show From the singer’s library to your ears.",
+      "raw_text": "6 – 8 PM The Estelle Show A celebration of musicianship.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -686,6 +686,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "6:35 – 7:50 AM danceXL The biggest floor-fillers from around the world.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "07:50 – 09:55",
+      "title": "At Hï Ibiza: Jun 22, 2025: Horse Meat Disco",
+      "description": "Recorded live for Glitterbox on The White Isle.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/60/28/0e/60280e84-3cc5-13c1-ee4a-08ec284402be/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "7:50 – 9:55 AM Live At Hï Ibiza: Jun 22, 2025: Horse Meat Disco Recorded live for Glitterbox on The White Isle.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
