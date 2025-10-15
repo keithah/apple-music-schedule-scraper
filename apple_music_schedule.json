@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-15T10:31:41.488222-07:00",
+  "scraped_at": "2025-10-15T11:37:12.543319-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "16:00 – 18:00",
-      "title": "The Zane Lowe Show",
-      "description": "CORTIS, Oliver Sim, and Olivia Dean join live.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/bc/99/bf/bc99bf27-90f7-1e2e-d8c1-b89224dad041/057a0e39-030b-4301-b1b8-930e4372665b.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "LIVE · 4 – 6 PM The Zane Lowe Show CORTIS, Oliver Sim, and Olivia Dean join live.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "18:00 – 19:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "6 – 7 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 6 – 7 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,14 +170,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "17:00 – 18:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 5 – 6 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "18:00 – 19:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "6 – 7 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "18:00 – 20:00",
@@ -195,7 +185,7 @@
       "description": "A tribute to D’Angelo.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/af/29/1d/af291d47-7feb-2942-461f-3c8ac86b94ec/386a40c2-f584-4d7f-8021-883a85d79377.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
-      "raw_text": "6 – 8 PM The Estelle Show A tribute to D’Angelo.",
+      "raw_text": "LIVE · 6 – 8 PM The Estelle Show A tribute to D’Angelo.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -370,6 +360,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "18:00 – 20:00",
+      "title": "The Estelle Show",
+      "description": "From the singer's library to your ears.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/af/29/1d/af291d47-7feb-2942-461f-3c8ac86b94ec/386a40c2-f584-4d7f-8021-883a85d79377.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
+      "raw_text": "6 – 8 PM The Estelle Show From the singer's library to your ears.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "17:00 – 19:00",
       "title": "The Ty Bentli Show",
       "description": "Daily dispatches from Music City.",
@@ -540,22 +540,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "17:00 – 18:00",
-      "title": "Homoelectric Lockdown Disco: Erol Alkan",
-      "description": "Recorded live for Manchester Pride weekend.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/cf/d9/9a/cfd99a8e-0051-8e50-dd98-3ab90c16e299/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 5 – 6 PM Homoelectric Lockdown Disco: Erol Alkan Recorded live for Manchester Pride weekend.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "18:00 – 19:00",
       "title": "Enter The REALM: Arielle Free 019",
       "description": "The 19th installment of the Enter the REALM mix series.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dc/86/fe/dc86fe7c-66c4-a032-4bdf-e0ef6605e307/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "6 – 7 PM Enter The REALM: Arielle Free 019 The 19th installment of the Enter the REALM mix series.",
+      "raw_text": "LIVE · 6 – 7 PM Enter The REALM: Arielle Free 019 The 19th installment of the Enter the REALM mix series.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -710,22 +700,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "16:00 – 18:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 4 – 6 PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "18:00 – 19:00",
       "title": "Today's Chill",
       "description": "Updates from electronic music’s low-key vanguard.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/d2/7b/dad27b4f-45ab-07b1-bdcd-9a0321c35e30/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "6 – 7 PM Today's Chill Updates from electronic music’s low-key vanguard.",
+      "raw_text": "LIVE · 6 – 7 PM Today's Chill Updates from electronic music’s low-key vanguard.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -880,22 +860,22 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "16:00 – 18:00",
-      "title": "¡Dale Play!",
-      "description": "¡Dale Play! a los éxitos de tus artistas favoritos.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
-      "raw_text": "LIVE · 4 – 6 PM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "18:00 – 19:00",
+      "title": "Today's Chill",
+      "description": "Updates from electronic music’s low-key vanguard.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/d2/7b/dad27b4f-45ab-07b1-bdcd-9a0321c35e30/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "6 – 7 PM Today's Chill Updates from electronic music’s low-key vanguard.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "18:00 – 19:00",
       "title": "SOMOS Radio",
       "description": "Danny Ocean y Rawayana: la música venezolana hoy.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/a1/a3/04/a1a30428-2a66-2b10-5981-39feb5dc1c73/bb_source.png/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/ab/8f/67/ab8f674f-e944-8e83-12ac-b2d9b87a73df/e1dfa141-55e8-4a1a-b3a5-dd5ea8103fcc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/somos/1653478999",
-      "raw_text": "6 – 7 PM SOMOS Radio Danny Ocean y Rawayana: la música venezolana hoy.",
+      "raw_text": "LIVE · 6 – 7 PM SOMOS Radio Danny Ocean y Rawayana: la música venezolana hoy.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1046,6 +1026,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
       "raw_text": "4 – 6 PM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "18:00 – 19:00",
+      "title": "SOMOS Radio",
+      "description": null,
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/e5/9d/f0/e59df0d2-31e4-4c73-2a48-a1e97e7644e8/b8a4cb5c-0eea-4d02-a040-15724b43a9b7.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/somos/1653478999",
+      "raw_text": "6 – 7 PM SOMOS Radio",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
