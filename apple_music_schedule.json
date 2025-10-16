@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-16T15:30:47.505783-07:00",
+  "scraped_at": "2025-10-16T16:31:37.212314-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "The Global Chart Show With Brooke Reese",
-      "description": "The most popular songs on Apple Music.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/68/61/da/6861daa3-4de4-c484-61a4-6aefc5fc0e78/7d4fde68-78db-40cc-9be0-3ca6bab907f1.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
-      "raw_text": "LIVE · 10 – 11 PM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "The Travis Mills Show",
-      "description": "Yellowcard chats their eleventh studio album Better Days.",
+      "description": "Yellowcard chats their 11th studio album, Better Days.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/5c/1a/cf/5c1acfd3-681a-14c2-8c4c-47ca30fd4033/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
-      "raw_text": "11PM – 12AM The Travis Mills Show Yellowcard chats their eleventh studio album Better Days.",
+      "raw_text": "LIVE · 11PM – 12AM The Travis Mills Show Yellowcard chats their 11th studio album, Better Days.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -142,10 +132,10 @@
     {
       "time_slot": "17:00 – 18:00",
       "title": "Rap Life Radio with Ebro Darden",
-      "description": "If it happened this week in rap, it's on Rap Life.",
+      "description": "If it happened this week in rap, it’s on Rap Life.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/60/9a/10/609a1068-fd7b-efa2-08dd-a675cbbe037c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/rap-life-radio-with-ebro-darden/1472071440",
-      "raw_text": "5 – 6 PM Rap Life Radio with Ebro Darden If it happened this week in rap, it's on Rap Life.",
+      "raw_text": "5 – 6 PM Rap Life Radio with Ebro Darden If it happened this week in rap, it’s on Rap Life.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -190,14 +180,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "23:00 – 00:00",
+      "title": "Loops",
+      "description": "Electronic music at its most innovative.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f7/d8/e9/f7d8e9bd-28b4-5434-03b6-0e32507e6f0c/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
+      "raw_text": "11PM – 12AM Loops Electronic music at its most innovative.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "23:00 – 00:00",
@@ -205,7 +195,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -376,6 +366,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "23:00 – 00:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -662,10 +662,10 @@
     {
       "time_slot": "17:00 – 18:00",
       "title": "Drum & Bass",
-      "description": "A deeper strain of D'n'B.",
+      "description": "A deeper strain of D’n’B.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/db/72/ee/db72eedb-5653-6a69-8795-32c52f62af35/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "5 – 6 PM Drum & Bass A deeper strain of D'n'B.",
+      "raw_text": "5 – 6 PM Drum & Bass A deeper strain of D’n’B.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -692,10 +692,10 @@
     {
       "time_slot": "20:00 – 21:25",
       "title": "Shermanology at ARC Music Festival, 2025",
-      "description": "The Dutch brother/sister duo take to the decks.",
+      "description": "The Dutch brother-sister duo take to the decks.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/01/31/3d/01313d94-de72-6831-dfdc-f31e35cdb6c6/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "8 – 9:25 PM Shermanology at ARC Music Festival, 2025 The Dutch brother/sister duo take to the decks.",
+      "raw_text": "8 – 9:25 PM Shermanology at ARC Music Festival, 2025 The Dutch brother-sister duo take to the decks.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -706,6 +706,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/33/7a/27/337a27a4-8897-432e-1d8e-f69949ad27ea/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "9:25 – 10:55 PM Green Velvet b2b Skepta at ARC Music Festival, 2025 Two heavyweights combine for an unreal set.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "22:55 – 23:55",
+      "title": "Goosey at ARC Music Festival, 2025",
+      "description": "A set from one of the UK's most exciting, rising house acts.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/39/66/3b/39663b26-2b88-198a-4d39-c01b2ef5d0d6/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "10:55 – 11:55 PM Goosey at ARC Music Festival, 2025 A set from one of the UK's most exciting, rising house acts.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -1036,6 +1046,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/56/04/fa/5604fa73-e0b3-fb14-46f6-1e6fe0ae0ac2/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
       "raw_text": "10 – 10:30 PM Lo Mejor de Belinda, Danna y Kenia Os Revive los momentos con las reinas del pop mexicano.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "22:30 – 23:40",
+      "title": "Pop-Up con Belinda, Danna y Kenia Os",
+      "description": "Reinas del pop mexicano traen música y una sorpresa.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a5/8b/94/a58b94fb-a2a5-416b-6932-7bf0ad9448cd/55cd03b7-d689-444f-b3d3-f601bcb452bf.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
+      "raw_text": "10:30 – 11:40 PM Pop-Up con Belinda, Danna y Kenia Os Reinas del pop mexicano traen música y una sorpresa.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
