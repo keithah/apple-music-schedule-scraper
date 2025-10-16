@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-16T09:36:07.154555-07:00",
+  "scraped_at": "2025-10-16T10:31:54.617216-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "16:00 – 17:15",
-      "title": "The Zane Lowe Show",
-      "description": "An all-access pass into the world's best new music.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/bc/99/bf/bc99bf27-90f7-1e2e-d8c1-b89224dad041/057a0e39-030b-4301-b1b8-930e4372665b.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "LIVE · 4 – 5:15 PM The Zane Lowe Show An all-access pass into the world's best new music.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "17:15 – 18:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "5:15 – 6 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 5:15 – 6 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -190,14 +180,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "15:00 – 17:00",
-      "title": "Jayde Donovan",
-      "description": "Raising spirits and dropping bone-chilling beats.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "LIVE · 3 – 5 PM Jayde Donovan Raising spirits and dropping bone-chilling beats.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "17:00 – 18:00",
+      "title": "Rap Life Radio with Ebro Darden",
+      "description": "If it happened this week in rap, it's on Rap Life.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/60/9a/10/609a1068-fd7b-efa2-08dd-a675cbbe037c/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/rap-life-radio-with-ebro-darden/1472071440",
+      "raw_text": "5 – 6 PM Rap Life Radio with Ebro Darden If it happened this week in rap, it's on Rap Life.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "17:00 – 18:00",
@@ -205,7 +195,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "5 – 6 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 5 – 6 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -380,14 +370,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "16:00 – 17:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 4 – 5 PM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "17:00 – 18:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "5 – 6 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "17:00 – 19:00",
@@ -395,7 +385,7 @@
       "description": "Daily dispatches from Music City.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/36/14/40/361440d2-92e3-256c-e2d8-05941afc8a38/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-ty-bentli-show/1496851549",
-      "raw_text": "5 – 7 PM The Ty Bentli Show Daily dispatches from Music City.",
+      "raw_text": "LIVE · 5 – 7 PM The Ty Bentli Show Daily dispatches from Music City.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -550,14 +540,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "15:00 – 17:00",
-      "title": "Apple Music Club",
-      "description": "Where the mix never ends.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 3 – 5 PM Apple Music Club Where the mix never ends.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "17:00 – 19:00",
+      "title": "Country Caffeine",
+      "description": "The boost you need to get back in the saddle.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/eb/26/cc/eb26cc3c-27ce-de4d-8be5-920607accd45/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "5 – 7 PM Country Caffeine The boost you need to get back in the saddle.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "17:00 – 19:00",
@@ -565,7 +555,7 @@
       "description": "Tim Sweeney and Shanti Celeste.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/83/60/df/8360dfd4-6ebe-3ea1-6885-5e386e8a4f68/d3adf304-a48c-4083-a835-494568ddebc4.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/beats-in-space-with-tim-sweeney/1573950910",
-      "raw_text": "5 – 7 PM Beats In Space with Tim Sweeney Tim Sweeney and Shanti Celeste.",
+      "raw_text": "LIVE · 5 – 7 PM Beats In Space with Tim Sweeney Tim Sweeney and Shanti Celeste.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -676,6 +666,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/90/6e/54/906e54cf-7ad8-bf88-1207-4cc78b744647/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "4:05 – 5 PM Experts Only Radio #028: AYYBO Takeover at Experts Only, Miami The Anaheim-based producer rocks the Magic City.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "17:00 – 18:00",
+      "title": "Drum & Bass",
+      "description": "A deeper strain of D'n'B.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/db/72/ee/db72eedb-5653-6a69-8795-32c52f62af35/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com#",
+      "raw_text": "5 – 6 PM Drum & Bass A deeper strain of D'n'B.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
