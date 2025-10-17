@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-17T13:32:26.907917-07:00",
+  "scraped_at": "2025-10-17T14:29:45.338440-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -180,22 +180,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "20:00 – 21:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 8 – 9 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "21:00 – 23:00",
       "title": "Apple Music Hits",
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -350,14 +340,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "20:00 – 21:00",
-      "title": "Country Risers Radio with Ward Guenther",
-      "description": "Cameron Whitcomb on responsibility in recovery and purpose.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/3b/32/48/3b324875-3ebc-3e10-31a5-b48ebd01e155/7910b6f4-1496-422f-98ad-5ce6bfe01ee5.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/country-risers-radio-with-ward-guenther/1496865276",
-      "raw_text": "LIVE · 8 – 9 PM Country Risers Radio with Ward Guenther Cameron Whitcomb on responsibility in recovery and purpose.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "21:00 – 23:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "21:00 – 22:00",
@@ -365,7 +355,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "9 – 10 PM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 9 – 10 PM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -530,22 +520,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "20:00 – 21:25",
-      "title": "Shermanology at ARC Music Festival, 2025",
-      "description": "The Dutch brother-sister duo take to the decks.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/01/31/3d/01313d94-de72-6831-dfdc-f31e35cdb6c6/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 8 – 9:25 PM Shermanology at ARC Music Festival, 2025 The Dutch brother-sister duo take to the decks.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "21:25 – 22:55",
       "title": "Green Velvet b2b Skepta at ARC Music Festival, 2025",
       "description": "Two heavyweights combine for an unreal set.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/33/7a/27/337a27a4-8897-432e-1d8e-f69949ad27ea/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "9:25 – 10:55 PM Green Velvet b2b Skepta at ARC Music Festival, 2025 Two heavyweights combine for an unreal set.",
+      "raw_text": "LIVE · 9:25 – 10:55 PM Green Velvet b2b Skepta at ARC Music Festival, 2025 Two heavyweights combine for an unreal set.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -680,64 +660,54 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "15:50 – 17:05",
+      "time_slot": "15:50 – 17:10",
       "title": "fabric 56: Derrick Carter",
       "description": "Dynamic, chugging beats that flow effortlessly.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/51/79/e0/5179e03c-553b-c9c9-bf97-38764e0e78ab/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "3:50 – 5:05 PM fabric 56: Derrick Carter Dynamic, chugging beats that flow effortlessly.",
+      "raw_text": "3:50 – 5:10 PM fabric 56: Derrick Carter Dynamic, chugging beats that flow effortlessly.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "17:05 – 18:00",
+      "time_slot": "17:10 – 17:50",
       "title": "UKG",
       "description": "Bump and flex to the best in new-school UKG.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/bf/24/b1/bf24b1f5-8a2b-e5dd-f8a7-ef420571cc94/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "5:05 – 6 PM UKG Bump and flex to the best in new-school UKG.",
+      "raw_text": "5:10 – 5:50 PM UKG Bump and flex to the best in new-school UKG.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "18:00 – 19:00",
+      "time_slot": "17:50 – 18:50",
       "title": "HYPERHOUSE",
       "description": "Music by John Falke, Lemtom, and Luke Alessi.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/73/9d/54/739d5474-8749-5367-eb60-5664f37f4f2d/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/hyperhouse/998788287",
-      "raw_text": "6 – 7 PM HYPERHOUSE Music by John Falke, Lemtom, and Luke Alessi.",
+      "raw_text": "5:50 – 6:50 PM HYPERHOUSE Music by John Falke, Lemtom, and Luke Alessi.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "19:00 – 20:00",
+      "time_slot": "18:50 – 19:50",
       "title": "danceXL",
       "description": "The biggest floor-fillers from around the world.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "7 – 8 PM danceXL The biggest floor-fillers from around the world.",
+      "raw_text": "6:50 – 7:50 PM danceXL The biggest floor-fillers from around the world.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "20:00 – 22:00",
+      "time_slot": "19:50 – 21:50",
       "title": "Home Again Club Festival 25: Logic1000",
       "description": "Recorded at their special 100-hour Berlin party.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/78/7c/e5/787ce533-bd02-f910-47d0-e7bfbc652c58/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "8 – 10 PM Home Again Club Festival 25: Logic1000 Recorded at their special 100-hour Berlin party.",
+      "raw_text": "7:50 – 9:50 PM Home Again Club Festival 25: Logic1000 Recorded at their special 100-hour Berlin party.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
-      "time_slot": "19:00 – 21:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 7 – 9 PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "21:00 – 22:00",
@@ -745,7 +715,7 @@
       "description": "Pop and indie with a lighter, unplugged touch.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "9 – 10 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
+      "raw_text": "LIVE · 9 – 10 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -906,6 +876,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "7 – 9 PM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "21:00 – 22:00",
+      "title": "Chill Gems",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com#",
+      "raw_text": "9 – 10 PM Chill Gems Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
