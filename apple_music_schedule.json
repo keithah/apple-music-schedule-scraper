@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-17T12:28:32.803089-07:00",
+  "scraped_at": "2025-10-17T13:32:26.907917-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "19:00 – 20:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 7 – 8 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "20:00 – 22:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "8 – 10 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 8 – 10 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -132,10 +122,10 @@
     {
       "time_slot": "12:00 – 14:00",
       "title": "Charlie Sloth Rap Show",
-      "description": "The freshest cuts in hip-hop, straight outta the UK.",
+      "description": "The best of Mobb Deep in the mix.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/0f/6c/c9/0f6cc915-b079-98ef-4736-3cbdc2b1f9ba/23e9df58-010c-4c50-9738-1ce8bda7ef30.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/charlie-sloth-rap-show/1437832972",
-      "raw_text": "12 – 2 PM Charlie Sloth Rap Show The freshest cuts in hip-hop, straight outta the UK.",
+      "raw_text": "12 – 2 PM Charlie Sloth Rap Show The best of Mobb Deep in the mix.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,14 +170,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "18:00 – 20:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 6 – 8 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "20:00 – 22:00",
+      "title": "Today's Hits",
+      "description": "All the songs you know and love from all your favorite artists.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/1c/24/d0/1c24d0de-1833-7fa8-c811-3d3e5df84eb6/947f2946-2f2f-4be0-bc4c-66183f190445.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/todays-hits-on-apple-music-1/1653478003",
+      "raw_text": "8 – 10 PM Today's Hits All the songs you know and love from all your favorite artists.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "20:00 – 21:00",
@@ -195,7 +185,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "8 – 9 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 8 – 9 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -350,14 +340,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "19:00 – 20:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 7 – 8 PM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "20:00 – 21:00",
+      "title": "LINKIN PARK Essentials",
+      "description": "Explore the career-defining hits of music’s biggest stars.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/a7/ee/aa/a7eeaa1f-e556-692d-2f36-4221652b82e5/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "8 – 9 PM LINKIN PARK Essentials Explore the career-defining hits of music’s biggest stars.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "20:00 – 21:00",
@@ -365,7 +355,7 @@
       "description": "Cameron Whitcomb on responsibility in recovery and purpose.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/3b/32/48/3b324875-3ebc-3e10-31a5-b48ebd01e155/7910b6f4-1496-422f-98ad-5ce6bfe01ee5.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/country-risers-radio-with-ward-guenther/1496865276",
-      "raw_text": "8 – 9 PM Country Risers Radio with Ward Guenther Cameron Whitcomb on responsibility in recovery and purpose.",
+      "raw_text": "LIVE · 8 – 9 PM Country Risers Radio with Ward Guenther Cameron Whitcomb on responsibility in recovery and purpose.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -530,14 +520,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "19:00 – 20:00",
-      "title": "Loops",
-      "description": "Electronic music at its most innovative.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 7 – 8 PM Loops Electronic music at its most innovative.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "20:00 – 22:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "8 – 10 PM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "20:00 – 21:25",
@@ -545,7 +535,7 @@
       "description": "The Dutch brother-sister duo take to the decks.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/01/31/3d/01313d94-de72-6831-dfdc-f31e35cdb6c6/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "8 – 9:25 PM Shermanology at ARC Music Festival, 2025 The Dutch brother-sister duo take to the decks.",
+      "raw_text": "LIVE · 8 – 9:25 PM Shermanology at ARC Music Festival, 2025 The Dutch brother-sister duo take to the decks.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -692,10 +682,10 @@
     {
       "time_slot": "15:50 – 17:05",
       "title": "fabric 56: Derrick Carter",
-      "description": "Dynamic chugging beats that flow effortlessly.",
+      "description": "Dynamic, chugging beats that flow effortlessly.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/51/79/e0/5179e03c-553b-c9c9-bf97-38764e0e78ab/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "3:50 – 5:05 PM fabric 56: Derrick Carter Dynamic chugging beats that flow effortlessly.",
+      "raw_text": "3:50 – 5:05 PM fabric 56: Derrick Carter Dynamic, chugging beats that flow effortlessly.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -712,10 +702,10 @@
     {
       "time_slot": "18:00 – 19:00",
       "title": "HYPERHOUSE",
-      "description": "Music by John Falke, Lemtom and Luke Alessi.",
+      "description": "Music by John Falke, Lemtom, and Luke Alessi.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/73/9d/54/739d5474-8749-5367-eb60-5664f37f4f2d/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/hyperhouse/998788287",
-      "raw_text": "6 – 7 PM HYPERHOUSE Music by John Falke, Lemtom and Luke Alessi.",
+      "raw_text": "6 – 7 PM HYPERHOUSE Music by John Falke, Lemtom, and Luke Alessi.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -726,6 +716,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "7 – 8 PM danceXL The biggest floor-fillers from around the world.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "20:00 – 22:00",
+      "title": "Home Again Club Festival 25: Logic1000",
+      "description": "Recorded at their special 100-hour Berlin party.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/78/7c/e5/787ce533-bd02-f910-47d0-e7bfbc652c58/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "8 – 10 PM Home Again Club Festival 25: Logic1000 Recorded at their special 100-hour Berlin party.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -910,22 +910,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "18:00 – 20:00",
-      "title": "Apple Música Uno",
-      "description": "La cultura que te mueve.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 6 – 8 PM Apple Música Uno La cultura que te mueve.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
       "time_slot": "20:00 – 22:00",
       "title": "La Oficial",
       "description": "La casa oficial de la música mexicana.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
-      "raw_text": "8 – 10 PM La Oficial La casa oficial de la música mexicana.",
+      "raw_text": "LIVE · 8 – 10 PM La Oficial La casa oficial de la música mexicana.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -934,7 +924,7 @@
       "title": "Lo Mejor de Belinda, Danna y Kenia Os",
       "description": "Revive los mejores momentos con las reinas.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/56/04/fa/5604fa73-e0b3-fb14-46f6-1e6fe0ae0ac2/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
+      "show_url": "https://music.apple.com/us/curator/radio-takeover/1774052321",
       "raw_text": "10 – 10:30 PM Lo Mejor de Belinda, Danna y Kenia Os Revive los mejores momentos con las reinas.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
@@ -944,7 +934,7 @@
       "title": "Pop-Up con Belinda, Danna y Kenia Os",
       "description": "Reinas del pop mexicano traen música y una sorpresa.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a5/8b/94/a58b94fb-a2a5-416b-6932-7bf0ad9448cd/55cd03b7-d689-444f-b3d3-f601bcb452bf.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/takeover/1774052321",
+      "show_url": "https://music.apple.com/us/curator/radio-takeover/1774052321",
       "raw_text": "10:30 – 11:40 PM Pop-Up con Belinda, Danna y Kenia Os Reinas del pop mexicano traen música y una sorpresa.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
@@ -1086,6 +1076,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
       "raw_text": "6 – 8 PM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "20:00 – 22:00",
+      "title": "Por Siempre Hits",
+      "description": "Una colección de hits innolvidables.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0c/25/8b/0c258b92-4770-fa02-c64d-ade535f0fbd8/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "8 – 10 PM Por Siempre Hits Una colección de hits innolvidables.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
