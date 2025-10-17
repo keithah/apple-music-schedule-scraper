@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-17T01:36:30.269287-07:00",
+  "scraped_at": "2025-10-17T02:32:17.207145-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "08:00 – 09:00",
-      "title": "Africa Now Radio with Nandi Madida",
-      "description": "Nigeria’s ODUMODUBLVCK talks INDUSTRY MACHINE.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/37/78/60/377860e9-1c1a-4ea4-fb12-68a5c3d2ccdb/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/africa-now-radio-with-nandi-madida/1494794631",
-      "raw_text": "LIVE · 8 – 9 AM Africa Now Radio with Nandi Madida Nigeria’s ODUMODUBLVCK talks INDUSTRY MACHINE.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "09:00 – 10:00",
       "title": "The Dotty Show",
       "description": "The biggest tracks in Black music right now.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/19/8a/9d/198a9d16-7ecf-a3e8-1aaa-0a5a5762d60b/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-dotty-show/1526877708",
-      "raw_text": "9 – 10 AM The Dotty Show The biggest tracks in Black music right now.",
+      "raw_text": "LIVE · 9 – 10 AM The Dotty Show The biggest tracks in Black music right now.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -190,22 +180,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "07:00 – 09:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 7 – 9 AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "09:00 – 10:00",
       "title": "Pure Throwback",
       "description": "An amped-up time capsule from the turn of the 2000s.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/dd/2f/37/dd2f373f-69ab-74a6-8f1c-8532a4561786/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "9 – 10 AM Pure Throwback An amped-up time capsule from the turn of the 2000s.",
+      "raw_text": "LIVE · 9 – 10 AM Pure Throwback An amped-up time capsule from the turn of the 2000s.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -380,14 +360,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "07:00 – 09:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 7 – 9 AM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "09:00 – 10:00",
+      "title": "LINKIN PARK Essentials",
+      "description": "Explore the career-defining hits of music’s biggest stars.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/a7/ee/aa/a7eeaa1f-e556-692d-2f36-4221652b82e5/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "9 – 10 AM LINKIN PARK Essentials Explore the career-defining hits of music’s biggest stars.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "09:00 – 10:00",
@@ -395,7 +375,7 @@
       "description": "Revisit the decade when country music exploded.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/b0/fb/16/b0fb16cf-1494-ebee-399b-a23e300bea3b/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "9 – 10 AM '90s Country Essentials Revisit the decade when country music exploded.",
+      "raw_text": "LIVE · 9 – 10 AM '90s Country Essentials Revisit the decade when country music exploded.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -560,14 +540,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "07:00 – 09:00",
-      "title": "danceXL",
-      "description": "The biggest floor-fillers from around the world.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 7 – 9 AM danceXL The biggest floor-fillers from around the world.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "09:00 – 10:00",
+      "title": "'90s Country Essentials",
+      "description": "Revisit the decade when country music exploded.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/b0/fb/16/b0fb16cf-1494-ebee-399b-a23e300bea3b/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "9 – 10 AM '90s Country Essentials Revisit the decade when country music exploded.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "09:00 – 11:55",
@@ -575,7 +555,7 @@
       "description": "The sound of This Never Happened this spring.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/f8/25/07/f8250711-755d-5e48-d3ca-58f4f7406a1e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "9 – 11:55 AM Lane 8 Spring 2025 Mixtape The sound of This Never Happened this spring.",
+      "raw_text": "LIVE · 9 – 11:55 AM Lane 8 Spring 2025 Mixtape The sound of This Never Happened this spring.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -750,22 +730,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "07:00 – 09:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 7 – 9 AM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "09:00 – 10:00",
       "title": "Acoustic Chill",
       "description": "Pop and indie with a lighter, unplugged touch.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "9 – 10 AM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
+      "raw_text": "LIVE · 9 – 10 AM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -920,14 +890,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "07:00 – 09:00",
-      "title": "Apple Música Uno",
-      "description": "La cultura que te mueve.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 7 – 9 AM Apple Música Uno La cultura que te mueve.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "09:00 – 10:00",
+      "title": "Acoustic Chill",
+      "description": "Pop and indie with a lighter, unplugged touch.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "9 – 10 AM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "09:00 – 10:00",
@@ -935,7 +905,7 @@
       "description": "Homenaje a la reina de la salsa.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/dc/13/22/dc13227e-d0c4-46bf-e4f0-130858f02432/a47aab65-9ac7-4c6a-9d7f-82289b8e8715.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/somos/1653478999",
-      "raw_text": "9 – 10 AM SOMOS Radio Homenaje a la reina de la salsa.",
+      "raw_text": "LIVE · 9 – 10 AM SOMOS Radio Homenaje a la reina de la salsa.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1076,6 +1046,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0c/25/8b/0c258b92-4770-fa02-c64d-ade535f0fbd8/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "7 – 9 AM Por Siempre Hits Una colección de hits innolvidables.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "09:00 – 10:00",
+      "title": "Apple Música Uno",
+      "description": "La cultura que te mueve.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "9 – 10 AM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
