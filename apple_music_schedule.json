@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-16T20:37:30.231479-07:00",
+  "scraped_at": "2025-10-16T21:34:18.954992-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "02:00 – 04:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 2 – 4 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "04:00 – 06:00",
       "title": "Today's Hits",
       "description": "The biggest songs in pop, hip-hop, R&B, and more.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/1c/24/d0/1c24d0de-1833-7fa8-c811-3d3e5df84eb6/947f2946-2f2f-4be0-bc4c-66183f190445.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/todays-hits-on-apple-music-1/1653478003",
-      "raw_text": "4 – 6 AM Today's Hits The biggest songs in pop, hip-hop, R&B, and more.",
+      "raw_text": "LIVE · 4 – 6 AM Today's Hits The biggest songs in pop, hip-hop, R&B, and more.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -92,10 +82,10 @@
     {
       "time_slot": "15:00 – 16:00",
       "title": "R&B Now Radio with Nadeska Alexis",
-      "description": "Discover the freshest R&B cuts from the Apple Music playlist.",
+      "description": "R&B from Muni Long, Blxst & SZA.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/09/b4/f4/09b4f46c-e7e6-6983-5dc8-9691bd833207/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/r-b-now-radio/1494793925",
-      "raw_text": "3 – 4 PM R&B Now Radio with Nadeska Alexis Discover the freshest R&B cuts from the Apple Music playlist.",
+      "raw_text": "3 – 4 PM R&B Now Radio with Nadeska Alexis R&B from Muni Long, Blxst & SZA.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -200,22 +190,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "02:00 – 04:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 2 – 4 AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "04:00 – 05:00",
       "title": "Apple Music Hits",
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "4 – 5 AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 4 – 5 AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -390,14 +370,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "03:00 – 04:00",
-      "title": "Color Me Country Radio",
-      "description": "Songs from Madeline Edwards, Alyssia Dominguez, INK, and more.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/79/35/c2/7935c294-d594-7e2f-5704-0495f606d61f/43bacb06-7d89-4d8f-a8d2-ba460753ce1b.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/color-me-country-radio/1500977601",
-      "raw_text": "LIVE · 3 – 4 AM Color Me Country Radio Songs from Madeline Edwards, Alyssia Dominguez, INK, and more.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "04:00 – 05:00",
+      "title": "'90s Club Essentials",
+      "description": "Electronic music’s floor-filling golden age.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/f9/e2/29/f9e2290f-2dde-2d06-b8a2-bcf385dc4f48/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "4 – 5 AM '90s Club Essentials Electronic music’s floor-filling golden age.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "04:00 – 05:00",
@@ -405,7 +385,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "4 – 5 AM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 4 – 5 AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -566,6 +546,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/09/9c/e7/099ce719-fa69-96b7-83ad-7b8dbddb6623/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/todays-country-radio-with-kelleigh-bannen/1484718373",
       "raw_text": "3 – 4 AM Today’s Country Radio With Kelleigh Bannen Chris Young celebrates the release of his 10th album.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
+      "time_slot": "04:00 – 05:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "4 – 5 AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -740,14 +730,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "03:00 – 04:00",
-      "title": "Pure Focus",
-      "description": "A mix of immersive, mostly electronic sounds.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 3 – 4 AM Pure Focus A mix of immersive, mostly electronic sounds.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "04:25 – 05:55",
+      "title": "Green Velvet b2b Skepta at ARC Music Festival, 2025",
+      "description": "Two heavyweights combine for an unreal set.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/33/7a/27/337a27a4-8897-432e-1d8e-f69949ad27ea/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "4:25 – 5:55 AM Green Velvet b2b Skepta at ARC Music Festival, 2025 Two heavyweights combine for an unreal set.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "04:00 – 06:00",
@@ -755,7 +745,7 @@
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "4 – 6 AM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 4 – 6 AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -910,14 +900,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "03:00 – 04:00",
-      "title": "Puro Pop",
-      "description": "Una mezcla única de éxitos del pop latino.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 3 – 4 AM Puro Pop Una mezcla única de éxitos del pop latino.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "04:00 – 06:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "4 – 6 AM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "04:00 – 05:00",
@@ -925,7 +915,7 @@
       "description": "Pedazos de realidad en forma de canción.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dc/f5/be/dcf5be41-58fe-4cc0-94df-762b9e3d9c6b/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "4 – 5 AM Corridos al Cien Pedazos de realidad en forma de canción.",
+      "raw_text": "LIVE · 4 – 5 AM Corridos al Cien Pedazos de realidad en forma de canción.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
