@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-17T00:30:58.574644-07:00",
+  "scraped_at": "2025-10-17T01:36:30.269287-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "06:00 – 08:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 6 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "08:00 – 09:00",
       "title": "Africa Now Radio with Nandi Madida",
       "description": "Nigeria’s ODUMODUBLVCK talks INDUSTRY MACHINE.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/37/78/60/377860e9-1c1a-4ea4-fb12-68a5c3d2ccdb/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/africa-now-radio-with-nandi-madida/1494794631",
-      "raw_text": "8 – 9 AM Africa Now Radio with Nandi Madida Nigeria’s ODUMODUBLVCK talks INDUSTRY MACHINE.",
+      "raw_text": "LIVE · 8 – 9 AM Africa Now Radio with Nandi Madida Nigeria’s ODUMODUBLVCK talks INDUSTRY MACHINE.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -132,20 +122,20 @@
     {
       "time_slot": "22:00 – 23:00",
       "title": "danceXL Radio",
-      "description": "The biggest new tunes roaring through clubs around the world.",
+      "description": "The biggest new tunes roaring through clubs around the world. May contain explicit content.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/d3/4c/fe/d34cfe6d-87d3-fcf1-eb52-2533dad65547/1cdfaf08-2a72-4067-b549-4ded3f13406f.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dancexl-radio/1472071066",
-      "raw_text": "10 – 11 PM danceXL Radio The biggest new tunes roaring through clubs around the world.",
+      "raw_text": "10 – 11 PM danceXL Radio The biggest new tunes roaring through clubs around the world. May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "23:00 – 00:00",
       "title": "Loops",
-      "description": "Electronic music at its most innovative.",
+      "description": "Electronic music at its most innovative. May contain explicit content.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f7/d8/e9/f7d8e9bd-28b4-5434-03b6-0e32507e6f0c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "11PM – 12AM Loops Electronic music at its most innovative.",
+      "raw_text": "11PM – 12AM Loops Electronic music at its most innovative. May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -186,6 +176,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
       "raw_text": "6 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "08:00 – 10:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "8 – 10 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -736,6 +736,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0d/4b/1a/0d4b1a91-9dde-7d6a-9fca-7346117b5a14/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
       "raw_text": "6:55 – 8 AM House Grooves Bassline-heavy house and disco designed to make you move.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "08:00 – 11:00",
+      "title": "Apple Music Club",
+      "description": "Mixed live by Tim Sweeney.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "8 – 11 AM Apple Music Club Mixed live by Tim Sweeney.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
