@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-17T04:29:32.221629-07:00",
+  "scraped_at": "2025-10-17T05:39:04.297031-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -130,12 +130,32 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "03:00 – 06:00",
-      "title": "DJ Mix",
+      "time_slot": "03:00 – 04:30",
+      "title": "Shermanology at ARC Music Festival, 2025",
       "description": "May contain explicit content.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/40/f2/18/40f218f6-e456-9bf5-e6ac-f053962f7329/b76dda28-3068-456c-a38f-30ab5a74bf64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "3 – 6 AM DJ Mix May contain explicit content.",
+      "raw_text": "3 – 4:30 AM Shermanology at ARC Music Festival, 2025 May contain explicit content.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "04:30 – 06:00",
+      "title": "Green Velvet b2b Skepta at ARC Music Festival, 2025",
+      "description": "May contain explicit content.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/40/f2/18/40f218f6-e456-9bf5-e6ac-f053962f7329/b76dda28-3068-456c-a38f-30ab5a74bf64.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
+      "raw_text": "4:30 – 6 AM Green Velvet b2b Skepta at ARC Music Festival, 2025 May contain explicit content.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "06:00 – 07:00",
+      "title": "Goosey at ARC Music Festival, 2025",
+      "description": "May contain explicit content.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/40/f2/18/40f218f6-e456-9bf5-e6ac-f053962f7329/b76dda28-3068-456c-a38f-30ab5a74bf64.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
+      "raw_text": "6 – 7 AM Goosey at ARC Music Festival, 2025 May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -170,14 +190,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "11:00 – 12:00",
-      "title": "2000s Hits Essentials",
-      "description": "The idols and pop stars who ruled the early 21st century.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/80/8d/ce/808dce42-81c4-a608-832e-a5016196865b/pr_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 11AM – 12PM 2000s Hits Essentials The idols and pop stars who ruled the early 21st century.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "12:00 – 14:00",
+      "title": "Charlie Sloth Rap Show",
+      "description": "The freshest cuts in hip-hop, straight outta the UK.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/0f/6c/c9/0f6cc915-b079-98ef-4736-3cbdc2b1f9ba/23e9df58-010c-4c50-9738-1ce8bda7ef30.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/charlie-sloth-rap-show/1437832972",
+      "raw_text": "12 – 2 PM Charlie Sloth Rap Show The freshest cuts in hip-hop, straight outta the UK.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "12:00 – 13:00",
@@ -185,7 +205,7 @@
       "description": "A mix of the decade’s biggest tracks and lost favorites.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/3d/64/fa/3d64faea-b022-d865-4b41-8b693fa79eb3/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "12 – 1 PM '90s Hits Essentials A mix of the decade’s biggest tracks and lost favorites.",
+      "raw_text": "LIVE · 12 – 1 PM '90s Hits Essentials A mix of the decade’s biggest tracks and lost favorites.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -346,6 +366,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "10AM – 12PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "12:00 – 14:00",
+      "title": "Here To There Radio with DJ Spinna",
+      "description": "A Brazilian blend of funky soul, samba, jazz, and boogie.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/a8/6d/68/a86d68de-d975-0406-3891-99f0c92b3511/77860bb0-bc87-476c-8a45-892695917d9f.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/here-to-there-radio-with-dj-spinna/1496851101",
+      "raw_text": "12 – 2 PM Here To There Radio with DJ Spinna A Brazilian blend of funky soul, samba, jazz, and boogie.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -530,22 +560,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "09:00 – 11:55",
-      "title": "Lane 8 Spring 2025 Mixtape",
-      "description": "The sound of This Never Happened this spring.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/f8/25/07/f8250711-755d-5e48-d3ca-58f4f7406a1e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 9 – 11:55 AM Lane 8 Spring 2025 Mixtape The sound of This Never Happened this spring.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "11:55 – 13:05",
       "title": "Apple Music Club",
       "description": "Where the mix never ends.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "11:55 AM – 1:05 PM Apple Music Club Where the mix never ends.",
+      "raw_text": "LIVE · 11:55 AM – 1:05 PM Apple Music Club Where the mix never ends.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -720,14 +740,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "10:00 – 12:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 10AM – 12PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "11:55 – 12:55",
+      "title": "Drum & Bass",
+      "description": "A deeper strain of D’n’B.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/db/72/ee/db72eedb-5653-6a69-8795-32c52f62af35/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com#",
+      "raw_text": "11:55 AM – 12:55 PM Drum & Bass A deeper strain of D’n’B.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "12:00 – 13:00",
@@ -735,7 +755,7 @@
       "description": "A playlist for absent friends.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/b4/45/64/b445641e-52ff-d09e-954c-a9f80b765557/f5138d24-1a92-42a2-b5c2-6b25ce117e23.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "12 – 1 PM Zane Needs To Chill A playlist for absent friends.",
+      "raw_text": "LIVE · 12 – 1 PM Zane Needs To Chill A playlist for absent friends.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -890,14 +910,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "10:00 – 12:00",
-      "title": "La Oficial",
-      "description": "La casa oficial de la música mexicana.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
-      "raw_text": "LIVE · 10AM – 12PM La Oficial La casa oficial de la música mexicana.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "12:00 – 13:00",
+      "title": "Lo-Fi Chill",
+      "description": "Hazy, easy sounds for lean-back listening.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/5e/f2/4d/5ef24d37-9174-683a-5c64-134ced909189/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "12 – 1 PM Lo-Fi Chill Hazy, easy sounds for lean-back listening.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "12:00 – 13:00",
@@ -905,7 +925,7 @@
       "description": "Danny Ocean y Rawayana: la música venezolana hoy.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/ab/8f/67/ab8f674f-e944-8e83-12ac-b2d9b87a73df/e1dfa141-55e8-4a1a-b3a5-dd5ea8103fcc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/somos/1653478999",
-      "raw_text": "12 – 1 PM SOMOS Radio Danny Ocean y Rawayana: la música venezolana hoy.",
+      "raw_text": "LIVE · 12 – 1 PM SOMOS Radio Danny Ocean y Rawayana: la música venezolana hoy.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1056,6 +1076,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "10:10 AM – 12PM Apple Música Uno La cultura que te mueve.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "12:00 – 14:00",
+      "title": "La Oficial",
+      "description": "La casa oficial de la música mexicana.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
+      "raw_text": "12 – 2 PM La Oficial La casa oficial de la música mexicana.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
