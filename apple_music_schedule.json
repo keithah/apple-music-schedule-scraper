@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-16T17:41:03.505868-07:00",
+  "scraped_at": "2025-10-16T19:02:49.237781-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "00:00 – 02:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 12 – 2 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "02:00 – 04:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "2 – 4 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 2 – 4 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -190,24 +180,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "00:00 – 01:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 12 – 1 AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
-      "time_slot": "01:00 – 02:00",
-      "title": "Easy Hits",
-      "description": "Low-key songs to help you unwind.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/07/4d/7e/074d7ea9-8d9d-40e4-c5cf-3a8126030cd8/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "1 – 2 AM Easy Hits Low-key songs to help you unwind.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "01:00 – 03:00",
+      "title": "Beats In Space with Tim Sweeney",
+      "description": "Tim Sweeney and Shanti Celeste. May contain explicit content.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/86/0e/75/860e7515-2439-83c2-9de3-6ee258681974/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/beats-in-space-with-tim-sweeney/1573950910",
+      "raw_text": "1 – 3 AM Beats In Space with Tim Sweeney Tim Sweeney and Shanti Celeste. May contain explicit content.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "02:00 – 04:00",
@@ -215,7 +195,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "2 – 4 AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 2 – 4 AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -380,14 +360,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "00:00 – 01:00",
-      "title": "Country Rewind",
-      "description": "Timeless country hits you can revisit again and again.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/79/4d/14/794d14fd-e8b1-b218-448a-7bb4fcbb0d9a/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 12 – 1 AM Country Rewind Timeless country hits you can revisit again and again.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "01:00 – 02:00",
+      "title": "In the Mix with Nina Sky",
+      "description": "Kick off your weekend with the \"Weekend Warmup\" mix.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/ec/68/c1/ec68c1f1-b5a8-8cde-597c-17b285e3d258/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/pure-throwback-radio-with-nina-sky/1496850732",
+      "raw_text": "1 – 2 AM In the Mix with Nina Sky Kick off your weekend with the \"Weekend Warmup\" mix.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "01:00 – 03:00",
@@ -395,7 +375,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "1 – 3 AM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 1 – 3 AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -560,14 +540,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "23:55 – 01:00",
-      "title": "Apple Music Club",
-      "description": "Where the mix never ends.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 11:55 PM – 1AM Apple Music Club Where the mix never ends.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "01:00 – 03:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "1 – 3 AM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "01:00 – 03:00",
@@ -575,7 +555,7 @@
       "description": "That deep, soulful sound.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/a1/37/d9/a137d950-8159-35c7-23ab-5d0dff8f6e44/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "1 – 3 AM Afro House Nation That deep, soulful sound.",
+      "raw_text": "LIVE · 1 – 3 AM Afro House Nation That deep, soulful sound.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -720,14 +700,24 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "00:00 – 01:00",
-      "title": "Lo-Fi Chill",
-      "description": "Hazy, easy sounds for lean-back listening.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/5e/f2/4d/5ef24d37-9174-683a-5c64-134ced909189/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 12 – 1 AM Lo-Fi Chill Hazy, easy sounds for lean-back listening.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "00:55 – 01:55",
+      "title": "NAINA Presents: Otik, Vol. 36",
+      "description": "An emotive mix sprinkled with bass and techno.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/90/f5/67/90f5670b-b739-bf45-ef58-9e23194f5921/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/naina-presents/1774051496",
+      "raw_text": "12:55 – 1:55 AM NAINA Presents: Otik, Vol. 36 An emotive mix sprinkled with bass and techno.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "01:55 – 02:55",
+      "title": "Loops",
+      "description": "Electronic music at its most innovative.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "1:55 – 2:55 AM Loops Electronic music at its most innovative.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "01:00 – 03:00",
@@ -735,7 +725,7 @@
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "1 – 3 AM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 1 – 3 AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -890,14 +880,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "00:00 – 01:00",
-      "title": "SOMOS Radio",
-      "description": "Danny Ocean y Rawayana: la música venezolana hoy.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/ab/8f/67/ab8f674f-e944-8e83-12ac-b2d9b87a73df/e1dfa141-55e8-4a1a-b3a5-dd5ea8103fcc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/somos/1653478999",
-      "raw_text": "LIVE · 12 – 1 AM SOMOS Radio Danny Ocean y Rawayana: la música venezolana hoy.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "01:00 – 03:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "1 – 3 AM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "01:00 – 03:00",
@@ -905,7 +895,7 @@
       "description": "Los sonidos más frescos de la escena urbana latina.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/c4/50/de/c450de42-3efc-e7e6-492b-91d1557b63ac/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "1 – 3 AM La Fórmula Los sonidos más frescos de la escena urbana latina.",
+      "raw_text": "LIVE · 1 – 3 AM La Fórmula Los sonidos más frescos de la escena urbana latina.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1056,6 +1046,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/75/34/d6/7534d69d-e311-2de2-a4de-da9377fce331/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "11:40 PM – 1AM Belinda, Danna y Kenia Os Essentials Lo mejor de las divas del pop mexicano.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "01:00 – 03:00",
+      "title": "La Fórmula",
+      "description": "Los sonidos más frescos de la escena urbana latina.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/c4/50/de/c450de42-3efc-e7e6-492b-91d1557b63ac/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "1 – 3 AM La Fórmula Los sonidos más frescos de la escena urbana latina.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
