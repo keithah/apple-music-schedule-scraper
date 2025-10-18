@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-17T18:59:16.935385-07:00",
+  "scraped_at": "2025-10-17T19:46:03.903614-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -180,22 +180,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "01:00 – 02:00",
-      "title": "In the Mix with Nina Sky",
-      "description": "Kick off your weekend with the \"Weekend Warmup\" mix.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/ec/68/c1/ec68c1f1-b5a8-8cde-597c-17b285e3d258/pr_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/pure-throwback-radio-with-nina-sky/1496850732",
-      "raw_text": "LIVE · 1 – 2 AM In the Mix with Nina Sky Kick off your weekend with the \"Weekend Warmup\" mix.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "02:00 – 04:00",
       "title": "Apple Music Hits",
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "2 – 4 AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 2 – 4 AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -336,6 +326,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "1 – 2 AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "02:00 – 04:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "2 – 4 AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -686,6 +686,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/73/9d/54/739d5474-8749-5367-eb60-5664f37f4f2d/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/hyperhouse/998788287",
       "raw_text": "12:55 – 1:55 AM HYPERHOUSE Music by John Falke, Lemtom, and Luke Alessi.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "01:55 – 02:55",
+      "title": "danceXL",
+      "description": "The biggest floor-fillers from around the world.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "1:55 – 2:55 AM danceXL The biggest floor-fillers from around the world.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
