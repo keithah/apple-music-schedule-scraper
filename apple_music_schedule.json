@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-18T12:27:57.497661-07:00",
+  "scraped_at": "2025-10-18T13:30:58.381804-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "18:00 – 20:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 6 – 8 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "20:00 – 22:00",
       "title": "Today's Hits",
       "description": "All the songs you know and love from all your favorite artists.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/1c/24/d0/1c24d0de-1833-7fa8-c811-3d3e5df84eb6/947f2946-2f2f-4be0-bc4c-66183f190445.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/todays-hits-on-apple-music-1/1653478003",
-      "raw_text": "8 – 10 PM Today's Hits All the songs you know and love from all your favorite artists.",
+      "raw_text": "LIVE · 8 – 10 PM Today's Hits All the songs you know and love from all your favorite artists.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -170,14 +160,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "18:00 – 20:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 6 – 8 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "20:00 – 22:00",
+      "title": "Pop Chill",
+      "description": "Pop’s cooler, more laidback side, mixed with a little R&B.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/f3/e7/2d/f3e72dc1-cde4-71c7-3a5a-109e221562f1/7958d8c9-a8df-42c8-a7d5-0d1fcc44912d.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
+      "raw_text": "8 – 10 PM Pop Chill Pop’s cooler, more laidback side, mixed with a little R&B.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "20:00 – 21:00",
@@ -185,7 +175,7 @@
       "description": "Explore the career-defining hits of music’s biggest stars.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/a7/ee/aa/a7eeaa1f-e556-692d-2f36-4221652b82e5/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "8 – 9 PM LINKIN PARK Essentials Explore the career-defining hits of music’s biggest stars.",
+      "raw_text": "LIVE · 8 – 9 PM LINKIN PARK Essentials Explore the career-defining hits of music’s biggest stars.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -340,14 +330,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "19:00 – 20:00",
-      "title": "Today’s Country Radio With Kelleigh Bannen",
-      "description": "Chris Young celebrates the release of his 10th album.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/23/1b/64/231b6458-c9be-58f6-0d06-f73072dbc3f7/45786bca-4974-4956-8701-5c4ff7097283.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/todays-country-radio-with-kelleigh-bannen/1484718373",
-      "raw_text": "LIVE · 7 – 8 PM Today’s Country Radio With Kelleigh Bannen Chris Young celebrates the release of his 10th album.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "20:00 – 21:00",
+      "title": "Lady Gaga Essentials",
+      "description": "Explore the career-defining hits of music’s biggest stars.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/a7/ee/aa/a7eeaa1f-e556-692d-2f36-4221652b82e5/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "8 – 9 PM Lady Gaga Essentials Explore the career-defining hits of music’s biggest stars.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "20:00 – 22:00",
@@ -355,7 +345,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "8 – 10 PM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 8 – 10 PM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -490,14 +480,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "18:50 – 19:50",
-      "title": "danceXL",
-      "description": "The biggest floor-fillers from around the world.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 6:50 – 7:50 PM danceXL The biggest floor-fillers from around the world.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "20:00 – 22:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "8 – 10 PM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "19:50 – 21:50",
@@ -505,7 +495,7 @@
       "description": "Recorded at their special 100-hour Berlin party.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/78/7c/e5/787ce533-bd02-f910-47d0-e7bfbc652c58/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "7:50 – 9:50 PM Home Again Club Festival 25: Logic1000 Recorded at their special 100-hour Berlin party.",
+      "raw_text": "LIVE · 7:50 – 9:50 PM Home Again Club Festival 25: Logic1000 Recorded at their special 100-hour Berlin party.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -860,22 +850,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "18:00 – 20:00",
-      "title": "¡Dale Play!",
-      "description": "¡Dale Play! a los éxitos de tus artistas favoritos.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
-      "raw_text": "LIVE · 6 – 8 PM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
       "time_slot": "20:00 – 22:00",
       "title": "Por Siempre Hits",
       "description": "Una colección de hits innolvidables.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0c/25/8b/0c258b92-4770-fa02-c64d-ade535f0fbd8/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "8 – 10 PM Por Siempre Hits Una colección de hits innolvidables.",
+      "raw_text": "LIVE · 8 – 10 PM Por Siempre Hits Una colección de hits innolvidables.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
