@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-17T20:35:24.079983-07:00",
+  "scraped_at": "2025-10-17T21:33:02.685136-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "03:00 – 04:30",
-      "title": "Shermanology at ARC Music Festival, 2025",
-      "description": "May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/60/19/09/6019090c-f15b-3b53-96bd-b9a58f82b465/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "LIVE · 3 – 4:30 AM Shermanology at ARC Music Festival, 2025 May contain explicit content.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "04:30 – 06:00",
       "title": "Green Velvet b2b Skepta at ARC Music Festival, 2025",
       "description": "May contain explicit content.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/e5/94/c3/e594c374-4ad5-25dd-ae83-590464cf216c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "4:30 – 6 AM Green Velvet b2b Skepta at ARC Music Festival, 2025 May contain explicit content.",
+      "raw_text": "LIVE · 4:30 – 6 AM Green Velvet b2b Skepta at ARC Music Festival, 2025 May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,22 +170,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "02:00 – 04:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 2 – 4 AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "04:00 – 05:00",
       "title": "'90s Club Essentials",
       "description": "Electronic music’s floor-filling golden age.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/f9/e2/29/f9e2290f-2dde-2d06-b8a2-bcf385dc4f48/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "4 – 5 AM '90s Club Essentials Electronic music’s floor-filling golden age.",
+      "raw_text": "LIVE · 4 – 5 AM '90s Club Essentials Electronic music’s floor-filling golden age.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -340,14 +320,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "03:00 – 04:00",
-      "title": "Today’s Country Radio With Kelleigh Bannen",
-      "description": "Chris Young celebrates the release of his 10th album.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/23/1b/64/231b6458-c9be-58f6-0d06-f73072dbc3f7/45786bca-4974-4956-8701-5c4ff7097283.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/todays-country-radio-with-kelleigh-bannen/1484718373",
-      "raw_text": "LIVE · 3 – 4 AM Today’s Country Radio With Kelleigh Bannen Chris Young celebrates the release of his 10th album.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "04:00 – 05:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "4 – 5 AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "04:00 – 05:00",
@@ -355,7 +335,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "4 – 5 AM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 4 – 5 AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -510,22 +490,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "02:55 – 04:25",
-      "title": "Shermanology at ARC Music Festival, 2025",
-      "description": "The Dutch brother-sister duo take to the decks.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/01/31/3d/01313d94-de72-6831-dfdc-f31e35cdb6c6/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 2:55 – 4:25 AM Shermanology at ARC Music Festival, 2025 The Dutch brother-sister duo take to the decks.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "04:25 – 05:55",
       "title": "Green Velvet b2b Skepta at ARC Music Festival, 2025",
       "description": "Two heavyweights combine for an unreal set.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/33/7a/27/337a27a4-8897-432e-1d8e-f69949ad27ea/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "4:25 – 5:55 AM Green Velvet b2b Skepta at ARC Music Festival, 2025 Two heavyweights combine for an unreal set.",
+      "raw_text": "LIVE · 4:25 – 5:55 AM Green Velvet b2b Skepta at ARC Music Festival, 2025 Two heavyweights combine for an unreal set.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -700,22 +670,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "03:00 – 04:00",
-      "title": "Pure Focus",
-      "description": "A mix of immersive, mostly electronic sounds.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 3 – 4 AM Pure Focus A mix of immersive, mostly electronic sounds.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "04:00 – 06:00",
       "title": "Apple Music Chill",
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "4 – 6 AM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 4 – 6 AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -876,6 +836,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "3 – 4 AM Pure Focus A mix of immersive, mostly electronic sounds.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "04:00 – 05:00",
+      "title": "Zane Needs To Chill",
+      "description": "A playlist for absent friends.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/b4/45/64/b445641e-52ff-d09e-954c-a9f80b765557/f5138d24-1a92-42a2-b5c2-6b25ce117e23.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
+      "raw_text": "4 – 5 AM Zane Needs To Chill A playlist for absent friends.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
