@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-19T00:28:55.929192-07:00",
+  "scraped_at": "2025-10-19T01:33:16.899467-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "07:00 – 08:00",
-      "title": "In My Room",
-      "description": "Take some me-time with these moody, downtempo pop tunes.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/e5/5a/13/e55a1344-43bd-9708-1b7b-c43418ad1443/71f7874d-94e2-443d-a29d-1d839a68e403.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/in-my-room-on-apple-music-1/1550670817",
-      "raw_text": "LIVE · 7 – 8 AM In My Room Take some me-time with these moody, downtempo pop tunes.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "08:00 – 10:00",
       "title": "Chill Africa",
       "description": "Mellow music from across the continent and the diaspora.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/80/95/55/809555dd-654f-fe21-41ab-1ea7487bbe96/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "8 – 10 AM Chill Africa Mellow music from across the continent and the diaspora.",
+      "raw_text": "LIVE · 8 – 10 AM Chill Africa Mellow music from across the continent and the diaspora.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -146,6 +136,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
       "raw_text": "7 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "08:00 – 10:00",
+      "title": "The Rebecca Judd Show",
+      "description": "Spotlighting Calvin Harris' exclusive Ushuaïa DJ Mix.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/2f/ca/50/2fca5005-dc21-0c7d-c68e-d844b74aabd9/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-rebecca-judd-show/1481636844",
+      "raw_text": "8 – 10 AM The Rebecca Judd Show Spotlighting Calvin Harris' exclusive Ushuaïa DJ Mix.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -490,22 +490,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "06:45 – 07:50",
-      "title": "The Underground",
-      "description": "Sweaty walls, a banging system, and the fringe of techno and house.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/2e/47/10/2e4710a7-b44d-47de-db20-d7ac7cbc5ebf/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com#",
-      "raw_text": "LIVE · 6:45 – 7:50 AM The Underground Sweaty walls, a banging system, and the fringe of techno and house.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "07:50 – 09:50",
       "title": "Apple Music Club",
       "description": "Where the mix never ends.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "7:50 – 9:50 AM Apple Music Club Where the mix never ends.",
+      "raw_text": "LIVE · 7:50 – 9:50 AM Apple Music Club Where the mix never ends.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
