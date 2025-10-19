@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-18T19:07:15.161663-07:00",
+  "scraped_at": "2025-10-18T19:56:20.955335-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -480,22 +480,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "01:55 – 02:55",
-      "title": "danceXL",
-      "description": "The biggest floor-fillers from around the world.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 1:55 – 2:55 AM danceXL The biggest floor-fillers from around the world.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "02:55 – 04:55",
       "title": "Home Again Club Festival 25: Logic1000",
       "description": "Recorded at their special 100-hour Berlin party.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/78/7c/e5/787ce533-bd02-f910-47d0-e7bfbc652c58/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "2:55 – 4:55 AM Home Again Club Festival 25: Logic1000 Recorded at their special 100-hour Berlin party.",
+      "raw_text": "LIVE · 2:55 – 4:55 AM Home Again Club Festival 25: Logic1000 Recorded at their special 100-hour Berlin party.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -646,6 +636,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "1 – 2:05 AM Apple Music Club Where the mix never ends.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "02:05 – 03:05",
+      "title": "Early Hours Mix: Lydo",
+      "description": "A distinctive mix from the New York based sound artist.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/76/92/d4/7692d44b-11c9-ded4-478d-ef1ba870d919/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "2:05 – 3:05 AM Early Hours Mix: Lydo A distinctive mix from the New York based sound artist.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
