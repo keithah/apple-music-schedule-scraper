@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-18T22:32:27.689228-07:00",
+  "scraped_at": "2025-10-18T23:36:54.137835-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -146,6 +146,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/8d/62/db/8d62db89-8251-e805-843b-ffaf930cacdd/07149ddc-cfc2-41d2-ab54-4c9c7c535027.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
       "raw_text": "4 – 6 AM Mellow Days Some days can be stressful, but not today. Take it easy.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "06:00 – 07:00",
+      "title": "indie + chill",
+      "description": "Gentle indie pop and rock melodies that make moments better.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/39/bf/cf/39bfcf8e-7a4e-04ec-a694-da75e866f543/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
+      "raw_text": "6 – 7 AM indie + chill Gentle indie pop and rock melodies that make moments better.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -326,6 +336,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/07/4d/7e/074d7ea9-8d9d-40e4-c5cf-3a8126030cd8/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "5 – 6 AM Easy Hits Low-key songs to help you unwind.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "06:00 – 07:00",
+      "title": "Easy Hits",
+      "description": "Low-key songs to help you unwind.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/07/4d/7e/074d7ea9-8d9d-40e4-c5cf-3a8126030cd8/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "6 – 7 AM Easy Hits Low-key songs to help you unwind.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -650,14 +670,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "05:00 – 06:00",
-      "title": "Evergreen",
-      "description": null,
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 5 – 6 AM Evergreen",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "06:05 – 07:05",
+      "title": "Early Hours Mix: Lydo",
+      "description": "A distinctive mix from the New York based sound artist.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/76/92/d4/7692d44b-11c9-ded4-478d-ef1ba870d919/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "6:05 – 7:05 AM Early Hours Mix: Lydo A distinctive mix from the New York based sound artist.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "06:00 – 07:00",
@@ -665,7 +685,7 @@
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "6 – 7 AM Chill Gems Listen and let go.",
+      "raw_text": "LIVE · 6 – 7 AM Chill Gems Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -836,6 +856,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "5 – 6 AM Evergreen",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "06:00 – 07:00",
+      "title": "Chill Gems",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com#",
+      "raw_text": "6 – 7 AM Chill Gems Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
