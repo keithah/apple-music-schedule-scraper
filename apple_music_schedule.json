@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-20T06:37:02.428252-07:00",
+  "scraped_at": "2025-10-20T07:33:25.748436-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "13:00 – 14:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 1 – 2 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "14:00 – 16:00",
       "title": "The Dotty Show",
       "description": "Dotty relives the best of Soundclash 2025.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/8c/53/a3/8c53a3b7-6818-ab5e-c0a7-cce3c2ce3139/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-dotty-show/1526877708",
-      "raw_text": "2 – 4 PM The Dotty Show Dotty relives the best of Soundclash 2025.",
+      "raw_text": "LIVE · 2 – 4 PM The Dotty Show Dotty relives the best of Soundclash 2025.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -170,14 +160,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "13:00 – 14:00",
-      "title": "Easy Hits",
-      "description": "Low-key songs to help you unwind.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/07/4d/7e/074d7ea9-8d9d-40e4-c5cf-3a8126030cd8/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 1 – 2 PM Easy Hits Low-key songs to help you unwind.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "14:00 – 16:00",
+      "title": "The Dotty Show",
+      "description": "Wrap your ears around Dotty's favourite new album.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/c9/95/a1/c995a1ed-1606-74f3-5afa-cb6e809ecae8/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-dotty-show/1526877708",
+      "raw_text": "2 – 4 PM The Dotty Show Wrap your ears around Dotty's favourite new album.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "14:00 – 15:00",
@@ -185,7 +175,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "2 – 3 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 2 – 3 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -360,14 +350,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "13:00 – 14:00",
-      "title": "Country Rewind",
-      "description": "Timeless country hits you can revisit again and again.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/79/4d/14/794d14fd-e8b1-b218-448a-7bb4fcbb0d9a/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 1 – 2 PM Country Rewind Timeless country hits you can revisit again and again.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "14:00 – 15:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "2 – 3 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "14:00 – 16:00",
@@ -375,17 +365,17 @@
       "description": "The voice of Nashville.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/28/d2/d7/28d2d71f-e735-ead1-5fae-526e3e172a86/71ddc8cc-6066-44af-acb6-b444ed3cd250.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-kelleigh-bannen-show/1496851605",
-      "raw_text": "2 – 4 PM The Kelleigh Bannen Show The voice of Nashville.",
+      "raw_text": "LIVE · 2 – 4 PM The Kelleigh Bannen Show The voice of Nashville.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "16:00 – 17:00",
       "title": "Briley King",
-      "description": "Your favorite artists host their own shows on Apple Music Radio.",
+      "description": "Briley King hosts an hour of her favorite country music.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/87/b4/22/87b42286-cae6-596f-5aee-bb38e5150795/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/radio-takeover/1774052321",
-      "raw_text": "4 – 5 PM Briley King Your favorite artists host their own shows on Apple Music Radio.",
+      "raw_text": "4 – 5 PM Briley King Briley King hosts an hour of her favorite country music.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -526,6 +516,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/79/4d/14/794d14fd-e8b1-b218-448a-7bb4fcbb0d9a/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
       "raw_text": "1 – 2 PM Country Rewind Timeless country hits you can revisit again and again.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
+      "time_slot": "14:00 – 16:00",
+      "title": "The Kelleigh Bannen Show",
+      "description": "The voice of Nashville.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/28/d2/d7/28d2d71f-e735-ead1-5fae-526e3e172a86/71ddc8cc-6066-44af-acb6-b444ed3cd250.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-kelleigh-bannen-show/1496851605",
+      "raw_text": "2 – 4 PM The Kelleigh Bannen Show The voice of Nashville.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -850,22 +850,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "13:00 – 14:00",
-      "title": "Puro Pop",
-      "description": "Una mezcla única de éxitos del pop latino.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 1 – 2 PM Puro Pop Una mezcla única de éxitos del pop latino.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
       "time_slot": "14:00 – 16:00",
       "title": "Apple Música Uno",
       "description": "La cultura que te mueve.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "2 – 4 PM Apple Música Uno La cultura que te mueve.",
+      "raw_text": "LIVE · 2 – 4 PM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1016,6 +1006,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "1 – 2 PM Puro Pop Una mezcla única de éxitos del pop latino.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "14:00 – 16:00",
+      "title": "Apple Música Uno",
+      "description": "La cultura que te mueve.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "2 – 4 PM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
