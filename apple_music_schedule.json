@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-20T15:32:23.060669-07:00",
+  "scraped_at": "2025-10-20T16:30:07.297344-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "The Global Chart Show With Brooke Reese",
-      "description": "Brooke plays some festive faves to fright and delight.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/04/d4/87/04d4877b-f593-d600-1deb-5fde9a4099d2/ebc59ebd-c292-46a8-be7f-53538c828239.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
-      "raw_text": "LIVE · 10 – 11 PM The Global Chart Show With Brooke Reese Brooke plays some festive faves to fright and delight.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "The Travis Mills Show",
       "description": "All Time Low chats their album Everyone's Talking!",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/00/9f/a4/009fa413-f1d5-c06a-6110-ab7e53871872/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
-      "raw_text": "11PM – 12AM The Travis Mills Show All Time Low chats their album Everyone's Talking!",
+      "raw_text": "LIVE · 11PM – 12AM The Travis Mills Show All Time Low chats their album Everyone's Talking!",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,14 +170,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "23:00 – 00:00",
+      "title": "The Travis Mills Show",
+      "description": "Check in with Apple Music’s pop culture authority.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/7a/ff/2c/7aff2c2a-6565-80d8-f532-ebdceaae7721/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
+      "raw_text": "11PM – 12AM The Travis Mills Show Check in with Apple Music’s pop culture authority.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "23:00 – 00:00",
@@ -195,7 +185,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -370,6 +360,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "23:00 – 00:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "22:00 – 00:00",
       "title": "Apple Music Country",
       "description": "Where it sounds like home.",
@@ -540,22 +540,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "21:00 – 23:05",
-      "title": "DGTL: Prins Thomas b2b Gerd Janson at DGTL São Paulo, 2018",
-      "description": "An epic back-to-back mix recorded in Brazil.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/cd/42/6d/cd426d45-6c07-71af-500b-3990d424d6d8/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 9 – 11:05 PM DGTL: Prins Thomas b2b Gerd Janson at DGTL São Paulo, 2018 An epic back-to-back mix recorded in Brazil.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "23:05 – 00:10",
       "title": "Boiler Room: Frankie Knuckles in London, Sep 18, 2013",
       "description": "Hear the late house master at work.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/57/cb/aa/57cbaa81-c542-43af-7bdd-278ea4dc8bef/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "11:05 PM – 12:10 AM Boiler Room: Frankie Knuckles in London, Sep 18, 2013 Hear the late house master at work.",
+      "raw_text": "LIVE · 11:05 PM – 12:10 AM Boiler Room: Frankie Knuckles in London, Sep 18, 2013 Hear the late house master at work.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -682,20 +672,20 @@
     {
       "time_slot": "21:00 – 22:15",
       "title": "Nora En Pure at Proper NYE 23/24: The Wall Stage",
-      "description": "The Swiss-South African DJ live in San Diego.",
+      "description": "The Swiss South African DJ live in San Diego.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/c3/6d/31/c36d310d-a365-41d8-acbf-77a6e16cf557/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "9 – 10:15 PM Nora En Pure at Proper NYE 23/24: The Wall Stage The Swiss-South African DJ live in San Diego.",
+      "raw_text": "9 – 10:15 PM Nora En Pure at Proper NYE 23/24: The Wall Stage The Swiss South African DJ live in San Diego.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "22:15 – 23:30",
       "title": "Wayfarer, Vol. VII",
-      "description": "Deep and progressive euphoria from MYRNE",
+      "description": "Deep and progressive euphoria from MYRNE.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/0d/46/8d/0d468d17-953d-461c-1a90-468ce6c299b4/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "10:15 – 11:30 PM Wayfarer, Vol. VII Deep and progressive euphoria from MYRNE",
+      "raw_text": "10:15 – 11:30 PM Wayfarer, Vol. VII Deep and progressive euphoria from MYRNE.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
