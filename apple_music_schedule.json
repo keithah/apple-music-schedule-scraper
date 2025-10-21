@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-21T00:31:22.367294-07:00",
+  "scraped_at": "2025-10-21T01:37:51.224786-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "06:00 – 08:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 6 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "08:00 – 10:00",
       "title": "The Rebecca Judd Show",
       "description": "Big hits, throwbacks, and the best new music.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/d3/1c/e3/d31ce3f3-0203-3195-d92e-8a845bcf896a/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-rebecca-judd-show/1481636844",
-      "raw_text": "8 – 10 AM The Rebecca Judd Show Big hits, throwbacks, and the best new music.",
+      "raw_text": "LIVE · 8 – 10 AM The Rebecca Judd Show Big hits, throwbacks, and the best new music.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,6 +170,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
+      "time_slot": "08:00 – 10:00",
+      "title": "The Rebecca Judd Show",
+      "description": "Music from Drake, RAYE and MK.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/67/6b/df/676bdfbf-ef5d-3529-834c-dda9c25bb965/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-rebecca-judd-show/1481636844",
+      "raw_text": "8 – 10 AM The Rebecca Judd Show Music from Drake, RAYE and MK.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
       "time_slot": "07:00 – 09:00",
       "title": "Apple Music Hits",
       "description": "Songs you know and love.",
@@ -252,10 +252,10 @@
     {
       "time_slot": "15:00 – 17:00",
       "title": "Jayde Donovan",
-      "description": "Good vibes and the best pop from the ’90s and 2000s.",
+      "description": "Reminiscing on some of our favorite tracks.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "3 – 5 PM Jayde Donovan Good vibes and the best pop from the ’90s and 2000s.",
+      "raw_text": "3 – 5 PM Jayde Donovan Reminiscing on some of our favorite tracks.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -352,10 +352,10 @@
     {
       "time_slot": "05:00 – 07:00",
       "title": "Jayde Donovan",
-      "description": "Good vibes and the best pop from the ’90s and 2000s.",
+      "description": "Reminiscing on some of our favorite tracks.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "5 – 7 AM Jayde Donovan Good vibes and the best pop from the ’90s and 2000s.",
+      "raw_text": "5 – 7 AM Jayde Donovan Reminiscing on some of our favorite tracks.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
