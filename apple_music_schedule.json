@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-24T09:35:56.009754-07:00",
+  "scraped_at": "2025-10-24T10:31:45.906847-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -140,14 +140,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "15:00 – 17:00",
-      "title": "Jayde Donovan",
-      "description": "From Pitbull to Paul Wall, Ariana to Ashanti.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "LIVE · 3 – 5 PM Jayde Donovan From Pitbull to Paul Wall, Ariana to Ashanti.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "17:00 – 18:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "5 – 6 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "17:00 – 18:00",
@@ -155,7 +155,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "5 – 6 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 5 – 6 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -310,14 +310,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "15:00 – 17:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 3 – 5 PM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "17:00 – 18:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "5 – 6 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "17:00 – 19:00",
@@ -325,7 +325,7 @@
       "description": "The boost you need to get back in the saddle.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/eb/26/cc/eb26cc3c-27ce-de4d-8be5-920607accd45/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "5 – 7 PM Country Caffeine The boost you need to get back in the saddle.",
+      "raw_text": "LIVE · 5 – 7 PM Country Caffeine The boost you need to get back in the saddle.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -490,22 +490,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "15:55 – 17:10",
-      "title": "fabric 56: Derrick Carter",
-      "description": "Dynamic, chugging beats that flow effortlessly.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/51/79/e0/5179e03c-553b-c9c9-bf97-38764e0e78ab/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 3:55 – 5:10 PM fabric 56: Derrick Carter Dynamic, chugging beats that flow effortlessly.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "17:10 – 17:55",
       "title": "Drum & Bass",
       "description": "A deeper strain of D’n’B.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/db/72/ee/db72eedb-5653-6a69-8795-32c52f62af35/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "5:10 – 5:55 PM Drum & Bass A deeper strain of D’n’B.",
+      "raw_text": "LIVE · 5:10 – 5:55 PM Drum & Bass A deeper strain of D’n’B.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -666,6 +656,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/ce/37/75/ce377572-edb4-efc1-42bc-41994e05e1f9/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "3:05 – 5:05 PM Live At Hï Ibiza: Aug 2, 2025: Soul Clap The Boston-bred duo provides an Ibizan soundtrack.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "17:05 – 18:05",
+      "title": "UKG",
+      "description": "Bump and flex to the best in new-school UKG.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/bf/24/b1/bf24b1f5-8a2b-e5dd-f8a7-ef420571cc94/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com#",
+      "raw_text": "5:05 – 6:05 PM UKG Bump and flex to the best in new-school UKG.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -836,6 +836,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
       "raw_text": "4 – 5 PM Chill Gems Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "17:00 – 18:00",
+      "title": "Evergreen",
+      "description": null,
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "5 – 6 PM Evergreen",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
