@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-24T22:31:56.787567-07:00",
+  "scraped_at": "2025-10-24T23:36:20.790661-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "04:55 – 06:00",
-      "title": "Gudu Mix 058: John Falke",
-      "description": "May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/a5/67/79/a5677975-72bf-b2f0-60df-42f2bae91141/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "LIVE · 4:55 – 6 AM GuduMix 058: John Falke May contain explicit content.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "06:00 – 08:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "6 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 6 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -166,6 +156,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/79/13/49/7913499b-ee8e-f07b-a58c-80ba60486820/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
       "raw_text": "4:10 – 5:35 AM Adam Beyer b2b Layton Giordani at ARC Music Festival, 2025 May contain explicit content.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "05:35 – 06:35",
+      "title": "Arielle Free at ARC Music Festival, 2025",
+      "description": "May contain explicit content.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/06/d9/79/06d97961-022a-2f63-0144-908f41a306b0/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
+      "raw_text": "5:35 – 6:35 AM Arielle Free at ARC Music Festival, 2025 May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -500,22 +500,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "04:50 – 05:55",
-      "title": "Gudu Mix 058: John Falke",
-      "description": "Tracks from the club to the couch.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/82/30/ea/8230ea90-af54-4b46-1ef8-6472602b2fff/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 4:50 – 5:55 AM GuduMix 058: John Falke Tracks from the club to the couch.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "05:55 – 08:00",
       "title": "House Grooves",
       "description": "Bassline-heavy house and disco designed to make you move.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0d/4b/1a/0d4b1a91-9dde-7d6a-9fca-7346117b5a14/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "5:55 – 8 AM House Grooves Bassline-heavy house and disco designed to make you move.",
+      "raw_text": "LIVE · 5:55 – 8 AM House Grooves Bassline-heavy house and disco designed to make you move.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -670,14 +660,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "04:00 – 06:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 4 – 6 AM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "05:40 – 06:40",
+      "title": "Arielle Free at ARC Music Festival, 2025",
+      "description": "Arielle Free in the mix.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/05/f6/98/05f69890-a401-32f4-8bf1-e43d417fceb8/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "5:40 – 6:40 AM Arielle Free at ARC Music Festival, 2025 Arielle Free in the mix.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "06:00 – 07:00",
@@ -685,7 +675,7 @@
       "description": "Music for a long journey.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/ae/ed/a3/aeeda30a-3d0d-6295-a982-f52c6fc1b8a9/626cdceb-6bb1-4028-b103-5cda92566bc4.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "6 – 7 AM Zane Needs To Chill Music for a long journey.",
+      "raw_text": "LIVE · 6 – 7 AM Zane Needs To Chill Music for a long journey.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -856,6 +846,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "5 – 6 AM Evergreen",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "06:00 – 07:00",
+      "title": "Chill Gems",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com#",
+      "raw_text": "6 – 7 AM Chill Gems Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
