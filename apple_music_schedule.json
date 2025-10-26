@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-26T01:33:59.519978-07:00",
+  "scraped_at": "2025-10-26T02:30:06.712609-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -170,22 +170,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "07:00 – 09:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 7 – 9 AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "09:00 – 10:00",
       "title": "Whitney Houston Essentials",
       "description": "Explore the career-defining hits of music’s biggest stars.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/a7/ee/aa/a7eeaa1f-e556-692d-2f36-4221652b82e5/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "9 – 10 AM Whitney Houston Essentials Explore the career-defining hits of music’s biggest stars.",
+      "raw_text": "LIVE · 9 – 10 AM Whitney Houston Essentials Explore the career-defining hits of music’s biggest stars.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -360,14 +350,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "07:00 – 09:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 7 – 9 AM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "09:00 – 10:00",
+      "title": "Pure Throwback",
+      "description": "An amped-up time capsule from the turn of the 2000s.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/dd/2f/37/dd2f373f-69ab-74a6-8f1c-8532a4561786/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "9 – 10 AM Pure Throwback An amped-up time capsule from the turn of the 2000s.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "09:00 – 11:00",
@@ -375,7 +365,7 @@
       "description": "Ease into the day with some laidback, rootsy tunes.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "9 – 11 AM Back Porch Country Ease into the day with some laidback, rootsy tunes.",
+      "raw_text": "LIVE · 9 – 11 AM Back Porch Country Ease into the day with some laidback, rootsy tunes.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -506,6 +496,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
       "raw_text": "7 – 9 AM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
+      "time_slot": "09:00 – 10:00",
+      "title": "90s Country Essentials",
+      "description": "Revisit the decade when country music exploded.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/b0/fb/16/b0fb16cf-1494-ebee-399b-a23e300bea3b/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "9 – 10 AM 90s Country Essentials Revisit the decade when country music exploded.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -670,14 +670,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "07:00 – 09:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 7 – 9 AM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "09:15 – 10:30",
+      "title": "fabric presents TSHA",
+      "description": "The British DJ represents dance music at its most elemental.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/7e/27/17/7e2717e6-d05d-fc36-5005-859eea4ae738/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "9:15 – 10:30 AM fabric presents TSHA The British DJ represents dance music at its most elemental.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "09:00 – 10:00",
@@ -685,7 +685,7 @@
       "description": "Pop and indie with a lighter, unplugged touch.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "9 – 10 AM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
+      "raw_text": "LIVE · 9 – 10 AM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -860,14 +860,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "07:00 – 09:00",
-      "title": "Después del After",
-      "description": "Una mezcla ecléctica para cerrar noches épicas.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/d1/dd/b8/d1ddb81e-b793-44b3-2dfa-b37641942f8c/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 7 – 9 AM Después del After Una mezcla ecléctica para cerrar noches épicas.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "09:00 – 10:00",
+      "title": "Acoustic Chill",
+      "description": "Pop and indie with a lighter, unplugged touch.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "9 – 10 AM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "09:00 – 11:00",
@@ -875,7 +875,7 @@
       "description": "El artista puertorriqueño habla sobre su sencillo, SCORPIO.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
-      "raw_text": "9 – 11 AM ¡Dale Play! El artista puertorriqueño habla sobre su sencillo, SCORPIO.",
+      "raw_text": "LIVE · 9 – 11 AM ¡Dale Play! El artista puertorriqueño habla sobre su sencillo, SCORPIO.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1016,6 +1016,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "7 – 9 AM Apple Música Uno La cultura que te mueve.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "09:00 – 10:00",
+      "title": "Corridos al Cien",
+      "description": "Pedazos de realidad en forma de canción.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dc/f5/be/dcf5be41-58fe-4cc0-94df-762b9e3d9c6b/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "9 – 10 AM Corridos al Cien Pedazos de realidad en forma de canción.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
