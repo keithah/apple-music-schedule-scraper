@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-27T14:30:15.177415-07:00",
+  "scraped_at": "2025-10-27T15:32:04.377760-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "21:00 – 22:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 9 – 10 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "22:00 – 23:00",
       "title": "The Global Chart Show With Brooke Reese",
       "description": "The most popular songs on Apple Music.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9c/87/c9/9c87c94d-592e-5da7-8ad4-b096889891b2/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
-      "raw_text": "10 – 11 PM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
+      "raw_text": "LIVE · 10 – 11 PM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -162,10 +152,10 @@
     {
       "time_slot": "17:00 – 18:00",
       "title": "Gracie Abrams: The Zane Lowe Interview",
-      "description": "An all-access pass into the world's best new music.",
+      "description": "A conversation with the star ahead of her Apple Music Live show.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/c9/7a/50c97a01-82cd-dd61-ced8-bd308fc95764/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "5 – 6 PM Gracie Abrams: The Zane Lowe Interview An all-access pass into the world's best new music.",
+      "raw_text": "5 – 6 PM Gracie Abrams: The Zane Lowe Interview A conversation with the star ahead of her Apple Music Live show.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -196,6 +186,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/62/29/b3/6229b392-611f-992a-14e3-5b1ea6f0d456/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/radio-takeover/1774052321",
       "raw_text": "9 – 10 PM Rita Ora Your favorite artists host their own shows on Apple Music Radio.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "22:00 – 23:00",
+      "title": "The Global Chart Show With Brooke Reese",
+      "description": "The most popular songs on Apple Music.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/7e/d5/4e/7ed54ebe-9e63-27c4-d562-82629a93e442/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
+      "raw_text": "10 – 11 PM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -390,22 +390,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "20:00 – 22:00",
-      "title": "The Ward Guenther Show",
-      "description": "New music from Gareth, Megan Moroney, and Vincent Mason.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/e9/ef/1b/e9ef1b76-a78f-4bfb-b6ea-c293e3945d5d/0d2f99a6-efce-4e86-a0e6-02e5c553530c.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-ward-guenther-show/1500977263",
-      "raw_text": "LIVE · 8 – 10 PM The Ward Guenther Show New music from Gareth, Megan Moroney, and Vincent Mason.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
-    },
-    {
       "time_slot": "22:00 – 00:00",
       "title": "Apple Music Country",
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "10PM – 12AM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 10PM – 12AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -560,14 +550,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "21:00 – 22:10",
-      "title": "Boiler Room Festival 2021: Ash Lauryn in New York City",
-      "description": "The Detroit native recorded live in NYC.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/a3/0e/ba/a30ebad9-3c8c-f894-021e-7d03ffaa8b8a/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 9 – 10:10 PM Boiler Room Festival 2021: Ash Lauryn in New York City The Detroit native recorded live in NYC.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "22:00 – 00:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "10PM – 12AM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "22:10 – 23:05",
@@ -575,7 +565,7 @@
       "description": "A mixed bag of classic deep house and techno.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/64/ff/19/64ff1971-2ce6-f6b3-2237-197ea19de5fa/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "10:10 – 11:05 PM RA.031 Jamie Jones A mixed bag of classic deep house and techno.",
+      "raw_text": "LIVE · 10:10 – 11:05 PM RA.031 Jamie Jones A mixed bag of classic deep house and techno.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -740,14 +730,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "21:00 – 22:00",
-      "title": "Acoustic Chill",
-      "description": "Pop and indie with a lighter, unplugged touch.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 9 – 10 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "22:10 – 23:25",
+      "title": "fabric presents Bonobo",
+      "description": "A musical snapshot of club music in 2019.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/75/fc/a1/75fca1b5-848e-5310-b442-10106d9d7afc/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "10:10 – 11:25 PM fabric presents Bonobo A musical snapshot of club music in 2019.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "22:00 – 00:00",
@@ -755,7 +745,7 @@
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "10PM – 12AM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 10PM – 12AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -910,14 +900,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "20:00 – 22:00",
-      "title": "La Oficial",
-      "description": "La casa oficial de la música mexicana.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
-      "raw_text": "LIVE · 8 – 10 PM La Oficial La casa oficial de la música mexicana.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "22:00 – 00:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "10PM – 12AM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "22:00 – 00:00",
@@ -925,7 +915,7 @@
       "description": "La cultura que te mueve.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "10PM – 12AM Apple Música Uno La cultura que te mueve.",
+      "raw_text": "LIVE · 10PM – 12AM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1076,6 +1066,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
       "raw_text": "8 – 10 PM La Oficial La casa oficial de la música mexicana.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "22:00 – 00:00",
+      "title": "Apple Música Uno",
+      "description": "La cultura que te mueve.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "10PM – 12AM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
