@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-28T15:33:04.234989-07:00",
+  "scraped_at": "2025-10-28T16:30:41.838477-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "The Global Chart Show With Brooke Reese",
-      "description": "The most popular songs on Apple Music.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/7e/d5/4e/7ed54ebe-9e63-27c4-d562-82629a93e442/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
-      "raw_text": "LIVE · 10 – 11 PM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "The Travis Mills Show",
       "description": "The indie-pop artist chats i feel everything.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/75/71/be/7571be76-02c4-a185-a73f-95bdc126e3a0/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
-      "raw_text": "11PM – 12AM The Travis Mills Show The indie-pop artist chats i feel everything.",
+      "raw_text": "LIVE · 11PM – 12AM The Travis Mills Show The indie-pop artist chats i feel everything.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -173,7 +163,7 @@
       "time_slot": "21:00 – 22:00",
       "title": "Burna Boy",
       "description": "Your favorite artists host their own shows on Apple Music Radio.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/9b/ad/95/9bad950f-4893-a639-f899-ea6618bf8199/bb_source.png/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/15/eb/b6/15ebb69c-5f62-b490-59c8-2a659d5a1b9d/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/radio-takeover/1774052321",
       "raw_text": "9 – 10 PM Burna Boy Your favorite artists host their own shows on Apple Music Radio.",
       "station": "Apple Music 1",
@@ -190,14 +180,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "After School Radio",
-      "description": "Mark talks with director/producer Judd Apatow.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/52/d6/59/52d65993-055d-5975-590b-39d6802e2e99/400e44ed-ccd7-4095-999c-cfad9062ab2f.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/after-school-radio/1496846020",
-      "raw_text": "LIVE · 9 – 11 PM After School Radio Mark talks with director/producer Judd Apatow.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "23:00 – 00:00",
+      "title": "The Travis Mills Show",
+      "description": "Check in with Apple Music’s pop culture authority.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/86/36/69/86366911-df3d-4426-d63b-079bc55f9deb/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
+      "raw_text": "11PM – 12AM The Travis Mills Show Check in with Apple Music’s pop culture authority.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "23:00 – 00:00",
@@ -205,7 +195,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -380,6 +370,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "23:00 – 00:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "22:00 – 00:00",
       "title": "Apple Music Country",
       "description": "Where it sounds like home.",
@@ -550,22 +550,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "22:10 – 23:25",
-      "title": "fabric presents Bonobo",
-      "description": "A snapshot of club music in 2019.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/75/fc/a1/75fca1b5-848e-5310-b442-10106d9d7afc/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 10:10 – 11:25 PM fabric presents Bonobo A snapshot of club music in 2019.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "23:25 – 01:00",
       "title": "Apple Music Club",
       "description": "Where the mix never ends.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "11:25 PM – 1AM Apple Music Club Where the mix never ends.",
+      "raw_text": "LIVE · 11:25 PM – 1AM Apple Music Club Where the mix never ends.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -706,6 +696,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/c9/04/4d/c9044d5f-4270-0ac5-2f5f-1dcae4607246/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "9 – 10:30 PM Sam Divine at [UNVRS]: Aug 23, 2025 Recorded live at Ibiza’s newest superclub.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "22:30 – 00:00",
+      "title": "Arielle Free at [UNVRS]: Aug 9, 2025",
+      "description": "Recorded live at Ibiza's newest super-club.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/36/49/82/364982d5-de9e-3d6e-a7f8-6a8eddc9513d/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "10:30 PM – 12AM Arielle Free at [UNVRS]: Aug 9, 2025 Recorded live at Ibiza's newest super-club.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
