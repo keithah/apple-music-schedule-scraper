@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-28T10:33:08.952668-07:00",
+  "scraped_at": "2025-10-28T11:37:35.830037-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,32 +10,22 @@
   ],
   "shows": [
     {
-      "time_slot": "17:00 – 18:00",
-      "title": "Gracie Abrams: The Zane Lowe Interview",
-      "description": "A conversation with the star ahead of her Apple Music Live show.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/c9/7a/50c97a01-82cd-dd61-ced8-bd308fc95764/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "LIVE · 5 – 6 PM Gracie Abrams: The Zane Lowe Interview A conversation with the star ahead of her Apple Music Live show.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
-      "time_slot": "18:00 – 19:00",
+      "time_slot": "18:00 – 19:05",
       "title": "CORTIS",
       "description": "The K-pop boy band presses play on their debut EP.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/49/85/3a/49853ac4-1d15-614e-694e-e93b1a138d04/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/radio-takeover/1774052321",
-      "raw_text": "6 – 7 PM CORTIS The K-pop boy band presses play on their debut EP.",
+      "raw_text": "LIVE · 6 – 7:05 PM CORTIS The K-pop boy band presses play on their debut EP.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "19:00 – 21:00",
+      "time_slot": "19:05 – 21:00",
       "title": "The Ebro Show",
       "description": "Ty Dolla $ign joins Ebro live from LA. May contain explicit content.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/1c/a9/23/1ca923d0-7859-2403-629a-83ebe3af6cfe/f4897bc2-340c-4eca-adcf-127cc0b8d3b4.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-ebro-show/990473683",
-      "raw_text": "7 – 9 PM The Ebro Show Ty Dolla $ign joins Ebro live from LA. May contain explicit content.",
+      "raw_text": "7:05 – 9 PM The Ebro Show Ty Dolla $ign joins Ebro live from LA. May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -62,10 +52,10 @@
     {
       "time_slot": "23:00 – 00:00",
       "title": "The Travis Mills Show",
-      "description": "Check in with Apple Music’s pop culture authority.",
+      "description": "The indie-pop artist chats 'i feel everything'.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/75/71/be/7571be76-02c4-a185-a73f-95bdc126e3a0/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
-      "raw_text": "11PM – 12AM The Travis Mills Show Check in with Apple Music’s pop culture authority.",
+      "raw_text": "11PM – 12AM The Travis Mills Show The indie-pop artist chats 'i feel everything'.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -182,22 +172,22 @@
     {
       "time_slot": "16:00 – 18:00",
       "title": "The Zane Lowe Show",
-      "description": "An all-access pass into the world's best new music.",
+      "description": "An all-access pass into the world’s best new music.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/bc/99/bf/bc99bf27-90f7-1e2e-d8c1-b89224dad041/057a0e39-030b-4301-b1b8-930e4372665b.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "4 – 6 PM The Zane Lowe Show An all-access pass into the world's best new music.",
+      "raw_text": "4 – 6 PM The Zane Lowe Show An all-access pass into the world’s best new music.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "17:00 – 18:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 5 – 6 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "18:00 – 19:00",
+      "title": "Level Up Radio",
+      "description": "Normani on collaborating with Ciara and her influence.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/e9/4b/86/e94b869e-6d45-ba43-3d59-fb1175ee0c55/a34115b4-9835-421b-ab03-09a4948525e2.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/level-up-radio/1496849489",
+      "raw_text": "6 – 7 PM Level Up Radio Normani on collaborating with Ciara and her influence.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "18:00 – 20:00",
@@ -205,7 +195,7 @@
       "description": "From the singer’s library to your ears.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/af/29/1d/af291d47-7feb-2942-461f-3c8ac86b94ec/386a40c2-f584-4d7f-8021-883a85d79377.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
-      "raw_text": "6 – 8 PM The Estelle Show From the singer’s library to your ears.",
+      "raw_text": "LIVE · 6 – 8 PM The Estelle Show From the singer’s library to your ears.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -282,10 +272,10 @@
     {
       "time_slot": "05:00 – 07:00",
       "title": "Jayde Donovan",
-      "description": "Good vibes and the best pop from the ’90s and 2000s.",
+      "description": "Workin’ things out like a boss.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "5 – 7 AM Jayde Donovan Good vibes and the best pop from the ’90s and 2000s.",
+      "raw_text": "5 – 7 AM Jayde Donovan Workin’ things out like a boss.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -376,6 +366,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "5 – 6 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "18:00 – 20:00",
+      "title": "The Estelle Show",
+      "description": "From the singer’s library to your ears.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/af/29/1d/af291d47-7feb-2942-461f-3c8ac86b94ec/386a40c2-f584-4d7f-8021-883a85d79377.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
+      "raw_text": "6 – 8 PM The Estelle Show From the singer’s library to your ears.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -550,22 +550,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "17:00 – 18:05",
-      "title": "Karma Karma Radio with Shimza 002",
-      "description": "The Afro-tech specialist has a fresh batch of South African soul.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/04/83/08/04830862-8511-94e9-1339-caca830d88d8/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 5 – 6:05 PM Karma Karma Radio with Shimza 002 The Afro-tech specialist has a fresh batch of South African soul.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "18:05 – 19:05",
       "title": "Defected presents: Jonas Blue In The House",
       "description": "The Essex hitmaker delivers the best crowd-pleaser anthems.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/79/5a/ea/795aeaba-6f0d-8b33-cab4-cc69de40659e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "6:05 – 7:05 PM Defected presents: Jonas Blue In The House The Essex hitmaker delivers the best crowd-pleaser anthems.",
+      "raw_text": "LIVE · 6:05 – 7:05 PM Defected presents: Jonas Blue In The House The Essex hitmaker delivers the best crowd-pleaser anthems.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -730,22 +720,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "16:00 – 18:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 4 – 6 PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "18:00 – 19:00",
       "title": "Today's Chill",
       "description": "Updates from electronic music’s low-key vanguard.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/d2/7b/dad27b4f-45ab-07b1-bdcd-9a0321c35e30/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "6 – 7 PM Today's Chill Updates from electronic music’s low-key vanguard.",
+      "raw_text": "LIVE · 6 – 7 PM Today's Chill Updates from electronic music’s low-key vanguard.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -900,24 +880,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "16:00 – 18:00",
-      "title": "¡Dale Play!",
-      "description": "¡Dale Play! a los éxitos de tus artistas favoritos.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
-      "raw_text": "LIVE · 4 – 6 PM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
-      "time_slot": "18:00 – 18:10",
-      "title": "Estoy Escuchando",
-      "description": "Las estrellas del momento comparten lo que escuchan.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/8c/bb/4d8cbbce-0017-f4b9-2340-720e3f8acbd3/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/estoy-escuchando/1739143000",
-      "raw_text": "6 – 6:10 PM Estoy Escuchando Las estrellas del momento comparten lo que escuchan.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "18:00 – 19:00",
+      "title": "Today's Chill",
+      "description": "Updates from electronic music’s low-key vanguard.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/d2/7b/dad27b4f-45ab-07b1-bdcd-9a0321c35e30/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "6 – 7 PM Today's Chill Updates from electronic music’s low-key vanguard.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "18:10 – 20:00",
@@ -925,7 +895,7 @@
       "description": "La cultura que te mueve.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "6:10 – 8 PM Apple Música Uno La cultura que te mueve.",
+      "raw_text": "LIVE · 6:10 – 8 PM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1066,6 +1036,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
       "raw_text": "4 – 6 PM ¡Dale Play! Juntos por primera vez, Tainy y Feid hablan sobre, MONTRUO.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "18:00 – 20:00",
+      "title": "Apple Música Uno",
+      "description": "La cultura que te mueve.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "6 – 8 PM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
