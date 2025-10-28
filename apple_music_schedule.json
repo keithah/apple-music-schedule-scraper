@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-27T21:34:43.749925-07:00",
+  "scraped_at": "2025-10-27T22:33:29.324163-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,32 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "J-Pop Now Radio with Kentaro Ochiai",
-      "description": "Kentaro is on Apple Music 1 with the biggest hits in J-pop.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/5f/bf/53/5fbf53ef-4990-3492-0cda-40c13cd9261a/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/j-pop-now-radio-with-kentaro-ochiai/1526877564",
-      "raw_text": "LIVE · 4 – 5 AM J-Pop Now Radio with Kentaro Ochiai Kentaro is on Apple Music 1 with the biggest hits in J-pop.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
-      "time_slot": "05:00 – 05:20",
-      "title": "UMI",
-      "description": "The artist on the songs she is loving and inspired by.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/e9/52/94/e95294d5-f26b-3c49-82c5-ed6128c81149/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/listening-to/1774051863",
-      "raw_text": "5 – 5:20 AM UMI The artist on the songs she is loving and inspired by.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "05:20 – 05:45",
       "title": "Ayumu Imazu",
       "description": "The artist on the music that brightens his days.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/e9/52/94/e95294d5-f26b-3c49-82c5-ed6128c81149/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/listening-to/1774051863",
-      "raw_text": "5:20 – 5:45 AM Ayumu Imazu The artist on the music that brightens his days.",
+      "raw_text": "LIVE · 5:20 – 5:45 AM Ayumu Imazu The artist on the music that brightens his days.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -200,14 +180,24 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 4 – 5 AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "05:00 – 05:25",
+      "title": "Kroi",
+      "description": "Members of the band play their favorite songs.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/e9/52/94/e95294d5-f26b-3c49-82c5-ed6128c81149/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/listening-to/1774051863",
+      "raw_text": "5 – 5:25 AM Kroi Members of the band play their favorite songs.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "05:25 – 05:45",
+      "title": "JO1",
+      "description": "JO1 on the songs that inspired them.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/e9/52/94/e95294d5-f26b-3c49-82c5-ed6128c81149/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/listening-to/1774051863",
+      "raw_text": "5:25 – 5:45 AM JO1 JO1 on the songs that inspired them.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "05:00 – 07:00",
@@ -215,7 +205,7 @@
       "description": "Good vibes and the best pop from the ’90s and 2000s.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "5 – 7 AM Jayde Donovan Good vibes and the best pop from the ’90s and 2000s.",
+      "raw_text": "LIVE · 5 – 7 AM Jayde Donovan Good vibes and the best pop from the ’90s and 2000s.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -390,14 +380,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 4 – 5 AM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "05:00 – 07:00",
+      "title": "Jayde Donovan",
+      "description": "Good vibes and the best pop from the ’90s and 2000s.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
+      "raw_text": "5 – 7 AM Jayde Donovan Good vibes and the best pop from the ’90s and 2000s.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "05:00 – 07:00",
@@ -405,7 +395,7 @@
       "description": "Rootsy tunes for kicking back and watching the world go by.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "5 – 7 AM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
+      "raw_text": "LIVE · 5 – 7 AM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -560,14 +550,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "04:00 – 04:55",
-      "title": "Gudu Mix 059: Prom Night",
-      "description": "Peak-time club tracks to sun-kissed Balearic vibes.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/eb/05/5a/eb055a77-b072-176f-8793-20a8404be85d/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 4 – 4:55 AM GuduMix 059: Prom Night Peak-time club tracks to sun-kissed Balearic vibes.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "05:00 – 07:00",
+      "title": "Back Porch Country",
+      "description": "Rootsy tunes for kicking back and watching the world go by.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "5 – 7 AM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "04:55 – 05:55",
@@ -575,7 +565,7 @@
       "description": "Tracks from the club to the couch.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/82/30/ea/8230ea90-af54-4b46-1ef8-6472602b2fff/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "4:55 – 5:55 AM GuduMix 058: John Falke Tracks from the club to the couch.",
+      "raw_text": "LIVE · 4:55 – 5:55 AM GuduMix 058: John Falke Tracks from the club to the couch.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -900,22 +890,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Corridos al Cien",
-      "description": "Pedazos de realidad en forma de canción.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dc/f5/be/dcf5be41-58fe-4cc0-94df-762b9e3d9c6b/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 4 – 5 AM Corridos al Cien Pedazos de realidad en forma de canción.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
       "time_slot": "05:00 – 07:00",
       "title": "¡Dale Play!",
       "description": "¡Dale Play! a los éxitos de tus artistas favoritos.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
-      "raw_text": "5 – 7 AM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
+      "raw_text": "LIVE · 5 – 7 AM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1066,6 +1046,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dc/f5/be/dcf5be41-58fe-4cc0-94df-762b9e3d9c6b/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "4 – 5 AM Corridos al Cien Pedazos de realidad en forma de canción.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "05:00 – 07:00",
+      "title": "¡Dale Play!",
+      "description": "¡Dale Play! a los éxitos de tus artistas favoritos.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
+      "raw_text": "5 – 7 AM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
