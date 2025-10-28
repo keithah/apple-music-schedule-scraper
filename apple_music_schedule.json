@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-28T07:34:44.161919-07:00",
+  "scraped_at": "2025-10-28T08:34:01.797166-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -112,10 +112,10 @@
     {
       "time_slot": "04:00 – 05:00",
       "title": "J-Pop Now Radio with Kentaro Ochiai",
-      "description": "Kentaro is on Apple Music 1 with the biggest hits in J-Pop.",
+      "description": "Kentaro is on Apple Music 1 with the biggest hits in J-pop.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/5f/bf/53/5fbf53ef-4990-3492-0cda-40c13cd9261a/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/j-pop-now-radio-with-kentaro-ochiai/1526877564",
-      "raw_text": "4 – 5 AM J-Pop Now Radio with Kentaro Ochiai Kentaro is on Apple Music 1 with the biggest hits in J-Pop.",
+      "raw_text": "4 – 5 AM J-Pop Now Radio with Kentaro Ochiai Kentaro is on Apple Music 1 with the biggest hits in J-pop.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -152,10 +152,10 @@
     {
       "time_slot": "08:00 – 10:00",
       "title": "The Rebecca Judd Show",
-      "description": "Meet the rising Essex singer, Chrissi.",
+      "description": "Meet rising Essex singer Chrissi.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/ea/90/b8/ea90b8ff-4173-a0d3-2be3-9d45d20f92da/0e074dce-66ee-44e3-8f27-22b88467d34d.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-rebecca-judd-show/1481636844",
-      "raw_text": "8 – 10 AM The Rebecca Judd Show Meet the rising Essex singer, Chrissi.",
+      "raw_text": "8 – 10 AM The Rebecca Judd Show Meet rising Essex singer Chrissi.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -172,10 +172,10 @@
     {
       "time_slot": "11:00 – 13:00",
       "title": "The Matt Wilkinson Show",
-      "description": "Playing an exclusive premiere from Melody's Echo Chamber.",
+      "description": "Playing an exclusive premiere from Melody’s Echo Chamber.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6d/aa/86/6daa867b-1a40-0b36-f8b7-4d58cab2f1e8/6f83b0b3-55aa-4e4d-b9db-dd2a7c260077.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-matt-wilkinson-show/1184566442",
-      "raw_text": "11AM – 1PM The Matt Wilkinson Show Playing an exclusive premiere from Melody's Echo Chamber.",
+      "raw_text": "11AM – 1PM The Matt Wilkinson Show Playing an exclusive premiere from Melody’s Echo Chamber.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -200,22 +200,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "14:00 – 15:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 2 – 3 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "15:00 – 17:00",
       "title": "Jayde Donovan",
       "description": "Workin’ things out like a boss.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "3 – 5 PM Jayde Donovan Workin’ things out like a boss.",
+      "raw_text": "LIVE · 3 – 5 PM Jayde Donovan Workin’ things out like a boss.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -390,6 +380,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "15:00 – 17:00",
+      "title": "Jayde Donovan",
+      "description": "Good vibes and the best pop from the ’90s and 2000s.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
+      "raw_text": "3 – 5 PM Jayde Donovan Good vibes and the best pop from the ’90s and 2000s.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "14:00 – 16:00",
       "title": "The Kelleigh Bannen Show",
       "description": "The voice of Nashville.",
@@ -560,22 +560,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "13:05 – 15:00",
-      "title": "Deep House Haven",
-      "description": "Feel the warm, inviting vibe of modern deep house.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/d5/b9/02/d5b902e1-b67d-fbe5-258b-0714c5fdd4fa/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 1:05 – 3 PM Deep House Haven Feel the warm, inviting vibe of modern deep house.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "15:00 – 17:00",
       "title": "Apple Music Club",
       "description": "Where the mix never ends.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "3 – 5 PM Apple Music Club Where the mix never ends.",
+      "raw_text": "LIVE · 3 – 5 PM Apple Music Club Where the mix never ends.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -672,10 +662,10 @@
     {
       "time_slot": "04:10 – 05:40",
       "title": "Adam Beyer b2b Layton Giordani at ARC Music Festival, 2025",
-      "description": "Adam Beyer b2b Layton Giordani",
+      "description": "Adam Beyer b2b Layton Giordani.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/49/59/ab/4959abfe-c1f3-c242-d2ab-bbf46e27a835/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "4:10 – 5:40 AM Adam Beyer b2b Layton Giordani at ARC Music Festival, 2025 Adam Beyer b2b Layton Giordani",
+      "raw_text": "4:10 – 5:40 AM Adam Beyer b2b Layton Giordani at ARC Music Festival, 2025 Adam Beyer b2b Layton Giordani.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -740,14 +730,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "13:00 – 15:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 1 – 3 PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "15:00 – 17:00",
+      "title": "Apple Music Club",
+      "description": "Where the mix never ends.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "3 – 5 PM Apple Music Club Where the mix never ends.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "15:00 – 16:00",
@@ -755,7 +745,7 @@
       "description": "A mix of immersive, mostly electronic sounds.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "3 – 4 PM Pure Focus A mix of immersive, mostly electronic sounds.",
+      "raw_text": "LIVE · 3 – 4 PM Pure Focus A mix of immersive, mostly electronic sounds.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -906,6 +896,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "1 – 3 PM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "15:00 – 16:00",
+      "title": "Pure Focus",
+      "description": "A mix of immersive, mostly electronic sounds.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "3 – 4 PM Pure Focus A mix of immersive, mostly electronic sounds.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
