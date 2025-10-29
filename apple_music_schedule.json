@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-29T15:34:21.299703-07:00",
+  "scraped_at": "2025-10-29T16:30:50.332225-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "The Global Chart Show With Brooke Reese",
-      "description": "The most popular songs on Apple Music.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/29/2b/1a/292b1ae1-f441-3097-9577-545abc73e652/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
-      "raw_text": "LIVE · 10 – 11 PM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "The Travis Mills Show",
       "description": "Check in with Apple Music’s pop culture authority.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/86/36/69/86366911-df3d-4426-d63b-079bc55f9deb/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
-      "raw_text": "11PM – 12AM The Travis Mills Show Check in with Apple Music’s pop culture authority.",
+      "raw_text": "LIVE · 11PM – 12AM The Travis Mills Show Check in with Apple Music’s pop culture authority.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -42,10 +32,10 @@
     {
       "time_slot": "02:00 – 03:00",
       "title": "Apple Music Live: Gracie Abrams",
-      "description": "Gracie Abrams plays Red Rocks in this exclusive live performance.",
+      "description": "Gracie Abrams plays Red Rocks in this exclusive performance.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/ad/e9/25/ade925e0-b173-9d59-ade7-8537e64416d5/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/apple-music-presents/1573950660",
-      "raw_text": "2 – 3 AM Apple Music Live: Gracie Abrams Gracie Abrams plays Red Rocks in this exclusive live performance.",
+      "raw_text": "2 – 3 AM Apple Music Live: Gracie Abrams Gracie Abrams plays Red Rocks in this exclusive performance.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -200,14 +190,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "23:00 – 00:00",
+      "title": "The Travis Mills Show",
+      "description": "The duo dissects “Freaks” and their Halloween favorites.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c8/eb/60/c8eb6050-e99c-b96f-4399-c6cc114bcc5b/84a4888c-1250-4f26-947c-e150997ca701.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
+      "raw_text": "11PM – 12AM The Travis Mills Show The duo dissects “Freaks” and their Halloween favorites.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "23:00 – 00:00",
@@ -215,7 +205,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -386,6 +376,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "23:00 – 00:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -696,6 +696,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/88/36/1a/88361ac4-b0c5-a2f6-10a1-81f020e9b56d/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "9 – 10:30 PM Skream & Prospa A 2023 mixtape for Circo Loco Records.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "22:30 – 00:00",
+      "title": "LE YORA at The Brooklyn Mirage: Cityfox Halloween, Nov 2, 2024",
+      "description": "DJ / Producer collective recorded live in Brooklyn.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/71/86/f3/7186f328-625f-77f7-bce1-e4088d942e43/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "10:30 PM – 12AM LE YORA at The Brooklyn Mirage: Cityfox Halloween, Nov 2, 2024 DJ / Producer collective recorded live in Brooklyn.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
