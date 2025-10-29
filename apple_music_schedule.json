@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-29T09:37:28.137684-07:00",
+  "scraped_at": "2025-10-29T10:33:39.398292-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -22,20 +22,20 @@
     {
       "time_slot": "18:00 – 19:00",
       "title": "Level Up Radio",
-      "description": "Normani on collaborating with Ciara and her influence.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/e9/4b/86/e94b869e-6d45-ba43-3d59-fb1175ee0c55/a34115b4-9835-421b-ab03-09a4948525e2.png/632x632cc.webp",
+      "description": "The Memphis rapper explains how she taps into her power.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/9d/31/e2/9d31e241-66e0-8681-6aef-5d99f56764a7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/level-up-radio/1496849489",
-      "raw_text": "6 – 7 PM Level Up Radio Normani on collaborating with Ciara and her influence.",
+      "raw_text": "6 – 7 PM Level Up Radio The Memphis rapper explains how she taps into her power.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "19:00 – 21:00",
       "title": "The Ebro Show",
-      "description": "Bringing the music and sounds of New York City to the world.",
+      "description": "Elmiene performs songs from his upcoming album.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/1c/a9/23/1ca923d0-7859-2403-629a-83ebe3af6cfe/f4897bc2-340c-4eca-adcf-127cc0b8d3b4.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-ebro-show/990473683",
-      "raw_text": "7 – 9 PM The Ebro Show Bringing the music and sounds of New York City to the world.",
+      "raw_text": "7 – 9 PM The Ebro Show Elmiene performs songs from his upcoming album.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -81,11 +81,11 @@
     },
     {
       "time_slot": "02:00 – 03:00",
-      "title": "Apple Music Presents",
+      "title": "Apple Music Live: Gracie Abrams",
       "description": null,
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/e2/35/be/e235be71-8641-d178-f960-a9b0cf644ec4/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/apple-music-presents/1573950660",
-      "raw_text": "2 – 3 AM Apple Music Presents",
+      "raw_text": "2 – 3 AM Apple Music Live: Gracie Abrams",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -192,22 +192,12 @@
     {
       "time_slot": "16:00 – 18:00",
       "title": "The Zane Lowe Show",
-      "description": "An all-access pass into the world's best new music.",
+      "description": "An all-access pass into the world’s best new music.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/bc/99/bf/bc99bf27-90f7-1e2e-d8c1-b89224dad041/057a0e39-030b-4301-b1b8-930e4372665b.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "4 – 6 PM The Zane Lowe Show An all-access pass into the world's best new music.",
+      "raw_text": "4 – 6 PM The Zane Lowe Show An all-access pass into the world’s best new music.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
-      "time_slot": "15:00 – 17:00",
-      "title": "Jayde Donovan",
-      "description": "Dance floor killers, just in time for Halloween.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "LIVE · 3 – 5 PM Jayde Donovan Dance floor killers, just in time for Halloween.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "17:00 – 18:00",
@@ -215,7 +205,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "5 – 6 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 5 – 6 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -390,14 +380,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "16:00 – 17:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 4 – 5 PM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "17:00 – 18:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "5 – 6 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "17:00 – 19:00",
@@ -405,7 +395,7 @@
       "description": "Daily dispatches from Music City.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/36/14/40/361440d2-92e3-256c-e2d8-05941afc8a38/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-ty-bentli-show/1496851549",
-      "raw_text": "5 – 7 PM The Ty Bentli Show Daily dispatches from Music City.",
+      "raw_text": "LIVE · 5 – 7 PM The Ty Bentli Show Daily dispatches from Music City.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -560,14 +550,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "15:00 – 17:00",
-      "title": "Apple Music Club",
-      "description": "Where the mix never ends.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 3 – 5 PM Apple Music Club Where the mix never ends.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "17:00 – 19:00",
+      "title": "The Ty Bentli Show",
+      "description": "Daily dispatches from Music City.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/36/14/40/361440d2-92e3-256c-e2d8-05941afc8a38/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-ty-bentli-show/1496851549",
+      "raw_text": "5 – 7 PM The Ty Bentli Show Daily dispatches from Music City.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "17:00 – 19:00",
@@ -575,7 +565,7 @@
       "description": "An epic b2b recorded live on the Junkyard stage.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/05/28/24/05282473-2f05-8cf6-f8b2-26a85535727a/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "5 – 7 PM Live from Lost Village 2025: Ewan McVicar b2b Bradley Zero An epic b2b recorded live on the Junkyard stage.",
+      "raw_text": "LIVE · 5 – 7 PM Live from Lost Village 2025: Ewan McVicar b2b Bradley Zero An epic b2b recorded live on the Junkyard stage.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -706,6 +696,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "3 – 5 PM Apple Music Club Where the mix never ends.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "17:00 – 19:00",
+      "title": "Beats In Space with Tim Sweeney",
+      "description": null,
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/83/60/df/8360dfd4-6ebe-3ea1-6885-5e386e8a4f68/d3adf304-a48c-4083-a835-494568ddebc4.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/beats-in-space-with-tim-sweeney/1573950910",
+      "raw_text": "5 – 7 PM Beats In Space with Tim Sweeney",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
