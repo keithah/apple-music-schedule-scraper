@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-29T21:34:21.985128-07:00",
+  "scraped_at": "2025-10-29T22:32:59.895451-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,32 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "J-Pop Now Radio with Kentaro Ochiai",
-      "description": "Kentaro is on Apple Music 1 with the biggest hits in J-pop.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/53/36/29/53362957-aeb9-a3e2-48ae-0d85873e98c8/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/j-pop-now-radio-with-kentaro-ochiai/1526877564",
-      "raw_text": "LIVE · 4 – 5 AM J-Pop Now Radio with Kentaro Ochiai Kentaro is on Apple Music 1 with the biggest hits in J-pop.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
-      "time_slot": "05:00 – 05:20",
-      "title": "Cocomi",
-      "description": "The flautist on the diverse music she listens to.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/e9/52/94/e95294d5-f26b-3c49-82c5-ed6128c81149/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/listening-to/1774051863",
-      "raw_text": "5 – 5:20 AM Cocomi The flautist on the diverse music she listens to.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "05:20 – 05:50",
       "title": "Tetsuji Hayashi",
       "description": "The city-pop composer on his favorite classic songs.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/e9/52/94/e95294d5-f26b-3c49-82c5-ed6128c81149/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/listening-to/1774051863",
-      "raw_text": "5:20 – 5:50 AM Tetsuji Hayashi The city-pop composer on his favorite classic songs.",
+      "raw_text": "LIVE · 5:20 – 5:50 AM Tetsuji Hayashi The city-pop composer on his favorite classic songs.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -190,22 +170,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 4 – 5 AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "05:00 – 07:00",
       "title": "Jayde Donovan",
       "description": "Dance floor killers, just in time for Halloween.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "5 – 7 AM Jayde Donovan Dance floor killers, just in time for Halloween.",
+      "raw_text": "LIVE · 5 – 7 AM Jayde Donovan Dance floor killers, just in time for Halloween.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -380,14 +350,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 4 – 5 AM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "05:00 – 07:00",
+      "title": "Jayde Donovan",
+      "description": "Expressing gratitude for the good, the bad, and the ugly.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
+      "raw_text": "5 – 7 AM Jayde Donovan Expressing gratitude for the good, the bad, and the ugly.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "05:00 – 07:00",
@@ -395,7 +365,7 @@
       "description": "Rootsy tunes for kicking back and watching the world go by.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "5 – 7 AM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
+      "raw_text": "LIVE · 5 – 7 AM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -550,14 +520,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "03:00 – 05:00",
-      "title": "Apple Music Club",
-      "description": "Where the mix never ends.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 3 – 5 AM Apple Music Club Where the mix never ends.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "05:00 – 07:00",
+      "title": "Back Porch Country",
+      "description": "Rootsy tunes for kicking back and watching the world go by.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "5 – 7 AM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "05:00 – 07:00",
@@ -565,7 +535,7 @@
       "description": "An epic b2b recorded live on the Junkyard stage.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/05/28/24/05282473-2f05-8cf6-f8b2-26a85535727a/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "5 – 7 AM Live from Lost Village 2025: Ewan McVicar b2b Bradley Zero An epic b2b recorded live on the Junkyard stage.",
+      "raw_text": "LIVE · 5 – 7 AM Live from Lost Village 2025: Ewan McVicar b2b Bradley Zero An epic b2b recorded live on the Junkyard stage.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -696,6 +666,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "3 – 5 AM Apple Music Club Where the mix never ends.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "05:00 – 07:00",
+      "title": "Beats In Space with Tim Sweeney",
+      "description": null,
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/83/60/df/8360dfd4-6ebe-3ea1-6885-5e386e8a4f68/d3adf304-a48c-4083-a835-494568ddebc4.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/beats-in-space-with-tim-sweeney/1573950910",
+      "raw_text": "5 – 7 AM Beats In Space with Tim Sweeney",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -870,22 +850,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Puro Pop",
-      "description": "Una mezcla única de éxitos del pop latino.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 4 – 5 AM Puro Pop Una mezcla única de éxitos del pop latino.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
       "time_slot": "05:00 – 07:00",
       "title": "¡Dale Play!",
       "description": "Juntos por primera vez, Tainy y Feid hablan sobre, MONTRUO.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
-      "raw_text": "5 – 7 AM ¡Dale Play! Juntos por primera vez, Tainy y Feid hablan sobre, MONTRUO.",
+      "raw_text": "LIVE · 5 – 7 AM ¡Dale Play! Juntos por primera vez, Tainy y Feid hablan sobre, MONTRUO.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1026,6 +996,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dc/f5/be/dcf5be41-58fe-4cc0-94df-762b9e3d9c6b/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "4 – 5 AM Corridos al Cien Pedazos de realidad en forma de canción.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "05:00 – 07:00",
+      "title": "¡Dale Play!",
+      "description": "¡Dale Play! a los éxitos de tus artistas favoritos.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
+      "raw_text": "5 – 7 AM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
