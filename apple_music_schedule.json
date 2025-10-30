@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-30T12:29:22.631574-07:00",
+  "scraped_at": "2025-10-30T13:33:15.495484-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -190,14 +190,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "18:00 – 20:00",
-      "title": "The Estelle Show",
-      "description": "From the singer’s library to your ears.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/af/29/1d/af291d47-7feb-2942-461f-3c8ac86b94ec/386a40c2-f584-4d7f-8021-883a85d79377.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-estelle-show/1496683147",
-      "raw_text": "LIVE · 6 – 8 PM The Estelle Show From the singer’s library to your ears.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "20:00 – 22:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "8 – 10 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "20:00 – 21:00",
@@ -205,7 +205,7 @@
       "description": "An amped-up time capsule from the turn of the 2000s.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/dd/2f/37/dd2f373f-69ab-74a6-8f1c-8532a4561786/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "8 – 9 PM Pure Throwback An amped-up time capsule from the turn of the 2000s.",
+      "raw_text": "LIVE · 8 – 9 PM Pure Throwback An amped-up time capsule from the turn of the 2000s.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -390,14 +390,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "19:00 – 20:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 7 – 8 PM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "20:00 – 21:00",
+      "title": "Apple Music Hits",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "8 – 9 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "20:00 – 22:00",
@@ -405,7 +405,7 @@
       "description": "Celebrating Halloween with country artist costume ideas.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/e9/ef/1b/e9ef1b76-a78f-4bfb-b6ea-c293e3945d5d/0d2f99a6-efce-4e86-a0e6-02e5c553530c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-ward-guenther-show/1500977263",
-      "raw_text": "8 – 10 PM The Ward Guenther Show Celebrating Halloween with country artist costume ideas.",
+      "raw_text": "LIVE · 8 – 10 PM The Ward Guenther Show Celebrating Halloween with country artist costume ideas.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -556,6 +556,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
       "raw_text": "7 – 8 PM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
+      "time_slot": "20:00 – 21:00",
+      "title": "Country Risers Radio with Ward Guenther",
+      "description": "Cameron Whitcomb talks flips on stage and social media.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/3b/32/48/3b324875-3ebc-3e10-31a5-b48ebd01e155/7910b6f4-1496-422f-98ad-5ce6bfe01ee5.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/country-risers-radio-with-ward-guenther/1496865276",
+      "raw_text": "8 – 9 PM Country Risers Radio with Ward Guenther Cameron Whitcomb talks flips on stage and social media.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -716,6 +726,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "7 – 8 PM Loops Electronic music at its most innovative.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "20:00 – 21:00",
+      "title": "DJ Mix Block",
+      "description": null,
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "8 – 9 PM DJ Mix Block",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -890,22 +910,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "18:00 – 20:00",
-      "title": "Apple Música Uno",
-      "description": "La cultura que te mueve.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 6 – 8 PM Apple Música Uno La cultura que te mueve.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
       "time_slot": "20:00 – 22:00",
       "title": "La Oficial",
       "description": "La casa oficial de la música mexicana.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
-      "raw_text": "8 – 10 PM La Oficial La casa oficial de la música mexicana.",
+      "raw_text": "LIVE · 8 – 10 PM La Oficial La casa oficial de la música mexicana.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1046,6 +1056,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "6 – 8 PM Apple Música Uno La cultura que te mueve.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "20:00 – 22:00",
+      "title": "La Oficial",
+      "description": "La casa oficial de la música mexicana.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
+      "raw_text": "8 – 10 PM La Oficial La casa oficial de la música mexicana.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
