@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-30T21:35:22.429391-07:00",
+  "scraped_at": "2025-10-30T22:33:28.663274-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -200,14 +200,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 4 – 5 AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "05:20 – 06:20",
+      "title": "RL Grime: Halloween XIII: The End",
+      "description": "May contain explicit content.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/40/f2/18/40f218f6-e456-9bf5-e6ac-f053962f7329/b76dda28-3068-456c-a38f-30ab5a74bf64.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
+      "raw_text": "5:20 – 6:20 AM RL Grime: Halloween XIII: The End May contain explicit content.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "05:00 – 07:00",
@@ -215,7 +215,7 @@
       "description": "Expressing gratitude for the good, the bad, and the ugly.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/32/c4/c332c43f-a7ee-2aa5-e555-74e7dcfd1b2d/1b08f34c-01e5-4057-b0c2-cd9b65736b5c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/jayde-donovan/1496683632",
-      "raw_text": "5 – 7 AM Jayde Donovan Expressing gratitude for the good, the bad, and the ugly.",
+      "raw_text": "LIVE · 5 – 7 AM Jayde Donovan Expressing gratitude for the good, the bad, and the ugly.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -400,14 +400,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 4 – 5 AM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "05:00 – 07:00",
+      "title": "'90s Club Essentials",
+      "description": "Electronic music’s floor-filling golden age.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/f9/e2/29/f9e2290f-2dde-2d06-b8a2-bcf385dc4f48/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "5 – 7 AM '90s Club Essentials Electronic music’s floor-filling golden age.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "05:00 – 07:00",
@@ -415,7 +415,7 @@
       "description": "Rootsy tunes for kicking back and watching the world go by.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "5 – 7 AM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
+      "raw_text": "LIVE · 5 – 7 AM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -580,14 +580,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "03:00 – 05:00",
-      "title": "Apple Music Club",
-      "description": "Where the mix never ends.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 3 – 5 AM Apple Music Club Where the mix never ends.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "05:00 – 07:00",
+      "title": "Back Porch Country",
+      "description": "Rootsy tunes for kicking back and watching the world go by.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "5 – 7 AM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "05:00 – 07:00",
@@ -595,7 +595,7 @@
       "description": "Tim Sweeney and FJAAK.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/83/60/df/8360dfd4-6ebe-3ea1-6885-5e386e8a4f68/d3adf304-a48c-4083-a835-494568ddebc4.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/beats-in-space-with-tim-sweeney/1573950910",
-      "raw_text": "5 – 7 AM Beats In Space with Tim Sweeney Tim Sweeney and FJAAK.",
+      "raw_text": "LIVE · 5 – 7 AM Beats In Space with Tim Sweeney Tim Sweeney and FJAAK.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -770,6 +770,16 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
+      "time_slot": "05:25 – 06:25",
+      "title": "Halloween XIII: The End",
+      "description": "A frightful 2024 mixtape from RL Grime.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/12/ef/b1/12efb15d-551d-0df6-fdf8-7d157c561c3b/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "5:25 – 6:25 AM Halloween XIII: The End A frightful 2024 mixtape from RL Grime.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
       "time_slot": "04:00 – 06:00",
       "title": "Apple Music Chill",
       "description": "Listen and let go.",
@@ -940,22 +950,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "04:00 – 05:00",
-      "title": "Corridos al Cien",
-      "description": "Pedazos de realidad en forma de canción.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dc/f5/be/dcf5be41-58fe-4cc0-94df-762b9e3d9c6b/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 4 – 5 AM Corridos al Cien Pedazos de realidad en forma de canción.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
       "time_slot": "05:00 – 07:00",
       "title": "¡Dale Play!",
       "description": "¡Dale Play! a los éxitos de tus artistas favoritos.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/4d/32/22/4d32220c-771e-f1f7-d8c3-9d6b15c6c088/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dale-play-radio-with-lechero/1391364296",
-      "raw_text": "5 – 7 AM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
+      "raw_text": "LIVE · 5 – 7 AM ¡Dale Play! ¡Dale Play! a los éxitos de tus artistas favoritos.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1086,6 +1086,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/13/d5/aa/13d5aa42-4f1c-0c7f-88ed-227c6d746fdf/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "3 – 5 AM De Fiesta Pop latino, cumbia, salsa y reggaetón para amanecer bailando.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "05:00 – 07:00",
+      "title": "Pistear",
+      "description": "Para pasar una larga noche de copas entre compas. ¡Salud!",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/5e/47/81/5e478138-b6c4-cd28-f44d-ade334c7c97d/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "5 – 7 AM Pistear Para pasar una larga noche de copas entre compas. ¡Salud!",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
