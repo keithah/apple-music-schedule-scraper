@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-31T02:32:52.543595-07:00",
+  "scraped_at": "2025-10-31T03:34:34.165906-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "09:00 – 10:00",
-      "title": "The Dotty Show",
-      "description": "Dotty delivers the best in Black music right now.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6c/d3/93/6cd393ba-a500-2d16-aa18-1c5fe437f60f/33f29bfe-220d-4afe-b817-fdb33729e92f.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-dotty-show/1526877708",
-      "raw_text": "LIVE · 9 – 10 AM The Dotty Show Dotty delivers the best in Black music right now.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "10:00 – 11:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/7b/a7/a1/7ba7a1bd-bae7-67f0-3487-e31d47ab799a/U0MtTVQtVEVSLVRoZV9MaXN0X0xpdmUtMjAyMC1OZXdMb2dvLnBuZw.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "10 – 11 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 10 – 11 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -52,10 +42,10 @@
     {
       "time_slot": "15:00 – 16:00",
       "title": "R&B Now Radio with Nadeska Alexis",
-      "description": "Discover the freshest R&B cuts from the Apple Music playlist.",
+      "description": "R&B from Brent Faiyaz, BJRNCK & Teyana Taylor.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/09/b4/f4/09b4f46c-e7e6-6983-5dc8-9691bd833207/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/r-b-now-radio/1494793925",
-      "raw_text": "3 – 4 PM R&B Now Radio with Nadeska Alexis Discover the freshest R&B cuts from the Apple Music playlist.",
+      "raw_text": "3 – 4 PM R&B Now Radio with Nadeska Alexis R&B from Brent Faiyaz, BJRNCK & Teyana Taylor.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -112,10 +102,10 @@
     {
       "time_slot": "22:00 – 23:00",
       "title": "danceXL Radio",
-      "description": "The biggest new tunes roaring through clubs around the world.",
+      "description": "The biggest new tunes roaring through clubs around the world. May contain explicit content.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/d3/4c/fe/d34cfe6d-87d3-fcf1-eb52-2533dad65547/1cdfaf08-2a72-4067-b549-4ded3f13406f.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/dancexl-radio/1472071066",
-      "raw_text": "10 – 11 PM danceXL Radio The biggest new tunes roaring through clubs around the world.",
+      "raw_text": "10 – 11 PM danceXL Radio The biggest new tunes roaring through clubs around the world. May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -210,14 +200,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "09:00 – 10:00",
-      "title": "Pure Throwback",
-      "description": "An amped-up time capsule from the turn of the 2000s.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/dd/2f/37/dd2f373f-69ab-74a6-8f1c-8532a4561786/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 9 – 10 AM Pure Throwback An amped-up time capsule from the turn of the 2000s.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "10:00 – 12:00",
+      "title": "Today's Hits",
+      "description": "The biggest songs in pop, hip-hop, R&B, and more.\r\n-OR-\r\nAll the songs you know and love from all your favorite artists.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/1c/24/d0/1c24d0de-1833-7fa8-c811-3d3e5df84eb6/947f2946-2f2f-4be0-bc4c-66183f190445.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/todays-hits-on-apple-music-1/1653478003",
+      "raw_text": "10AM – 12PM Today's Hits The biggest songs in pop, hip-hop, R&B, and more.\r\n-OR-\r\nAll the songs you know and love from all your favorite artists.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "10:00 – 11:00",
@@ -225,7 +215,7 @@
       "description": "Viral sensations and A-list bops rule the airwaves.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/13/36/08/133608bc-e86a-a650-32f6-b74ac46d9d94/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "10 – 11 AM 2010s Hits Essentials Viral sensations and A-list bops rule the airwaves.",
+      "raw_text": "LIVE · 10 – 11 AM 2010s Hits Essentials Viral sensations and A-list bops rule the airwaves.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -410,14 +400,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "09:00 – 10:00",
-      "title": "90s Country Essentials",
-      "description": "Revisit the decade when country music exploded.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/b0/fb/16/b0fb16cf-1494-ebee-399b-a23e300bea3b/pr_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 9 – 10 AM 90s Country Essentials Revisit the decade when country music exploded.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "10:00 – 12:00",
+      "title": "The Hits List",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "10AM – 12PM The Hits List Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "10:00 – 11:00",
@@ -425,7 +415,7 @@
       "description": "A decade of big tunes that chronicle life’s little moments.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/9a/a1/3d/9aa13d51-f437-233b-b221-068b07c16603/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "10 – 11 AM 2000s Country Essentials A decade of big tunes that chronicle life’s little moments.",
+      "raw_text": "LIVE · 10 – 11 AM 2000s Country Essentials A decade of big tunes that chronicle life’s little moments.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -590,14 +580,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "09:00 – 10:30",
-      "title": "Skream & Prospa",
-      "description": "A 2023 mixtape for Circo Loco Records.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/88/36/1a/88361ac4-b0c5-a2f6-10a1-81f020e9b56d/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 9 – 10:30 AM Skream & Prospa A 2023 mixtape for Circo Loco Records.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "10:00 – 11:00",
+      "title": "2000s Country Essentials",
+      "description": "A decade of big tunes that chronicle life’s little moments.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/9a/a1/3d/9aa13d51-f437-233b-b221-068b07c16603/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "10 – 11 AM 2000s Country Essentials A decade of big tunes that chronicle life’s little moments.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "10:30 – 12:00",
@@ -605,7 +595,7 @@
       "description": "DJ/producer collective recorded live in Brooklyn.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/71/86/f3/7186f328-625f-77f7-bce1-e4088d942e43/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "10:30 AM – 12PM LE YORA at The Brooklyn Mirage: Cityfox Halloween, Nov 2, 2024 DJ/producer collective recorded live in Brooklyn.",
+      "raw_text": "LIVE · 10:30 AM – 12PM LE YORA at The Brooklyn Mirage: Cityfox Halloween, Nov 2, 2024 DJ/producer collective recorded live in Brooklyn.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -780,22 +770,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "09:00 – 10:00",
-      "title": "Acoustic Chill",
-      "description": "Pop and indie with a lighter, unplugged touch.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 9 – 10 AM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "10:00 – 12:00",
       "title": "Apple Music Chill",
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "10AM – 12PM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 10AM – 12PM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -950,14 +930,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "09:00 – 10:00",
-      "title": "Corridos al Cien",
-      "description": "Pedazos de realidad en forma de canción.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dc/f5/be/dcf5be41-58fe-4cc0-94df-762b9e3d9c6b/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 9 – 10 AM Corridos al Cien Pedazos de realidad en forma de canción.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "10:00 – 12:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "10AM – 12PM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "10:00 – 12:00",
@@ -965,7 +945,7 @@
       "description": "La casa oficial de la música mexicana.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6d/30/78/6d30785c-a453-8f1b-d927-265fafa942a7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/la-oficial-radio-with-evelyn-sicairos/1774051453",
-      "raw_text": "10AM – 12PM La Oficial La casa oficial de la música mexicana.",
+      "raw_text": "LIVE · 10AM – 12PM La Oficial La casa oficial de la música mexicana.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1096,6 +1076,26 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "9 – 10 AM Apple Música Uno La cultura que te mueve.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "10:00 – 10:10",
+      "title": "Estoy Escuchando",
+      "description": "Las estrellas del momento comparten lo que escuchan.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/ae/aa/29/aeaa2990-9db4-c0f0-f1b7-bc1e11a03eee/14303a02-47dd-42d5-b3e6-d36ac39808af.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/estoy-escuchando/1739143000",
+      "raw_text": "10 – 10:10 AM Estoy Escuchando Las estrellas del momento comparten lo que escuchan.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "10:10 – 12:00",
+      "title": "Apple Música Uno",
+      "description": "La cultura que te mueve.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "10:10 AM – 12PM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
