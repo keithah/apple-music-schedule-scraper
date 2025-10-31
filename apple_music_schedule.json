@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-31T11:37:21.444549-07:00",
+  "scraped_at": "2025-10-31T12:28:39.935097-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "18:00 – 19:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 6 – 7 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "19:00 – 20:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "7 – 8 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 7 – 8 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -380,22 +370,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "17:00 – 19:00",
-      "title": "Country Caffeine",
-      "description": "The boost you need to get back in the saddle.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/eb/26/cc/eb26cc3c-27ce-de4d-8be5-920607accd45/pr_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 5 – 7 PM Country Caffeine The boost you need to get back in the saddle.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
-    },
-    {
       "time_slot": "19:00 – 20:00",
       "title": "Apple Music Country",
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "7 – 8 PM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 7 – 8 PM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -560,14 +540,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "18:00 – 19:00",
-      "title": "NAINA Presents: Pinch, Vol. 38",
-      "description": "Featuring dubstep, bass, and techno flavors.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/44/ad/52/44ad5222-a7c1-874c-9e54-137c777ba064/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/naina-presents/1774051496",
-      "raw_text": "LIVE · 6 – 7 PM NAINA Presents: Pinch, Vol. 38 Featuring dubstep, bass, and techno flavors.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "19:00 – 20:00",
+      "title": "Today’s Country Radio With Kelleigh Bannen",
+      "description": "What’s happening from the heart of the country scene.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/99/2a/7d/992a7d62-1d20-c44a-3478-ebd9e1eb8276/703496cb-5efe-4fd7-81b4-4249640b8621.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/todays-country-radio-with-kelleigh-bannen/1484718373",
+      "raw_text": "7 – 8 PM Today’s Country Radio With Kelleigh Bannen What’s happening from the heart of the country scene.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "19:00 – 20:00",
@@ -575,7 +555,7 @@
       "description": "Electronic music at its most innovative.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "7 – 8 PM Loops Electronic music at its most innovative.",
+      "raw_text": "LIVE · 7 – 8 PM Loops Electronic music at its most innovative.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -752,22 +732,22 @@
     {
       "time_slot": "18:00 – 19:00",
       "title": "HYPERHOUSE",
-      "description": "Music from Keeya Keys & Yiigaa, Luke Alessi and Dusky & TEED.",
+      "description": "Music from Keeya Keys & Yiigaa, Luke Alessi, and Dusky & TEED.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/5e/a4/c0/5ea4c05f-504d-8857-8ec9-d27546cf9d3c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/hyperhouse/998788287",
-      "raw_text": "6 – 7 PM HYPERHOUSE Music from Keeya Keys & Yiigaa, Luke Alessi and Dusky & TEED.",
+      "raw_text": "6 – 7 PM HYPERHOUSE Music from Keeya Keys & Yiigaa, Luke Alessi, and Dusky & TEED.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "18:00 – 19:00",
-      "title": "Zane Needs To Chill",
-      "description": "Zane’s playlist for a sleepless night.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/98/6c/4a/986c4a51-fb40-bf6e-218e-ed312fcd9752/9dc7c548-228d-4e62-ac39-f07d14311956.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "LIVE · 6 – 7 PM Zane Needs To Chill Zane’s playlist for a sleepless night.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "19:00 – 20:00",
+      "title": "danceXL",
+      "description": "The biggest floor-fillers from around the world.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "7 – 8 PM danceXL The biggest floor-fillers from around the world.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "19:00 – 21:00",
@@ -775,7 +755,7 @@
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "7 – 9 PM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 7 – 9 PM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -940,6 +920,16 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
+      "time_slot": "19:00 – 21:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "7 – 9 PM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
       "time_slot": "18:00 – 20:00",
       "title": "Apple Música Uno",
       "description": "La cultura que te mueve.",
@@ -1072,10 +1062,10 @@
     {
       "time_slot": "15:00 – 16:00",
       "title": "Dia De Muertos by Carlos",
-      "description": null,
+      "description": "Carlos Eric Lopez y Danny Lux celebran Dia de Muertos.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/51/1d/46/511d46b6-4822-d0e7-9efe-454935066c68/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
-      "raw_text": "3 – 4 PM Dia De Muertos by Carlos",
+      "raw_text": "3 – 4 PM Dia De Muertos by Carlos Carlos Eric Lopez y DannyLux celebran Dia de Muertos.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
