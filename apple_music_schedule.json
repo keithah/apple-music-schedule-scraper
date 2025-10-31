@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-31T15:32:40.735791-07:00",
+  "scraped_at": "2025-10-31T16:30:03.874469-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "danceXL Radio",
-      "description": "The biggest new tunes roaring through clubs around the world. May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/d3/4c/fe/d34cfe6d-87d3-fcf1-eb52-2533dad65547/1cdfaf08-2a72-4067-b549-4ded3f13406f.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dancexl-radio/1472071066",
-      "raw_text": "LIVE · 10 – 11 PM danceXL Radio The biggest new tunes roaring through clubs around the world. May contain explicit content.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "Loops",
       "description": "Electronic music at its most innovative. May contain explicit content.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f7/d8/e9/f7d8e9bd-28b4-5434-03b6-0e32507e6f0c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "11PM – 12AM Loops Electronic music at its most innovative. May contain explicit content.",
+      "raw_text": "LIVE · 11PM – 12AM Loops Electronic music at its most innovative. May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -200,14 +190,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 9 – 11 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "23:00 – 00:00",
+      "title": "Rap Life Radio with Ebro Darden",
+      "description": "Highlights from Gunna's One Night Only interview.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/60/9a/10/609a1068-fd7b-efa2-08dd-a675cbbe037c/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/rap-life-radio-with-ebro-darden/1472071440",
+      "raw_text": "11PM – 12AM Rap Life Radio with Ebro Darden Highlights from Gunna's One Night Only interview.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "23:00 – 00:00",
@@ -215,7 +205,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -366,6 +356,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "9 – 11 PM Apple Music Hits Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "23:00 – 01:00",
+      "title": "After School Radio",
+      "description": "Mark talks with director/producer Judd Apatow.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/52/d6/59/52d65993-055d-5975-590b-39d6802e2e99/400e44ed-ccd7-4095-999c-cfad9062ab2f.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/after-school-radio/1496846020",
+      "raw_text": "11PM – 1AM After School Radio Mark talks with director/producer Judd Apatow.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -540,22 +540,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "22:20 – 23:20",
-      "title": "Halloween XIII: The End",
-      "description": "A frightful 2024 mixtape from RL Grime.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/12/ef/b1/12efb15d-551d-0df6-fdf8-7d157c561c3b/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 10:20 – 11:20 PM Halloween XIII: The End A frightful 2024 mixtape from RL Grime.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "23:20 – 01:05",
       "title": "House Grooves",
       "description": "Bassline-heavy house and disco designed to make you move.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0d/4b/1a/0d4b1a91-9dde-7d6a-9fca-7346117b5a14/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "11:20 PM – 1:05 AM House Grooves Bassline-heavy house and disco designed to make you move.",
+      "raw_text": "LIVE · 11:20 PM – 1:05 AM House Grooves Bassline-heavy house and disco designed to make you move.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -726,6 +716,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/82/d6/3d/82d63d51-1a8b-cd29-0e00-9f9ba6cda0f9/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "9:35 – 11:10 PM Phonica Mix Series 100: Erol Alkan A mixtape for London’s iconic Phonica Records.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "23:10 – 00:50",
+      "title": "The Underground",
+      "description": "Sweaty walls, a banging system, and the fringe of techno and house.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/2e/47/10/2e4710a7-b44d-47de-db20-d7ac7cbc5ebf/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com#",
+      "raw_text": "11:10 PM – 12:50 AM The Underground Sweaty walls, a banging system, and the fringe of techno and house.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
