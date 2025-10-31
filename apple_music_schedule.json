@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-30T19:06:11.915430-07:00",
+  "scraped_at": "2025-10-30T19:54:32.217147-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -736,6 +736,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/44/ad/52/44ad5222-a7c1-874c-9e54-137c777ba064/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/naina-presents/1774051496",
       "raw_text": "1:05 – 2:05 AM NAINA Presents: Pinch, Vol. 38 Featuring dubstep, bass, and techno flavors.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "02:05 – 03:05",
+      "title": "Loops",
+      "description": "Electronic music at its most innovative.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "2:05 – 3:05 AM Loops Electronic music at its most innovative.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
