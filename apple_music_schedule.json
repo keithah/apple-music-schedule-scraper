@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-01T11:36:00.876985-07:00",
+  "scraped_at": "2025-11-01T12:27:34.552100-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -166,6 +166,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/f9/da/a7/f9daa76b-7def-a740-0732-c68472be0b07/73d2d6c0-e276-4ed7-a802-b1db5674f030.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/soulection/993271379",
       "raw_text": "5 – 7 PM Soulection A tribute to The Soulquarians.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "19:00 – 21:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/6f/b3/73/6fb3738b-5f33-9ef5-5f9a-5186fcc64c22/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "7 – 9 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -340,14 +350,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "18:00 – 19:00",
-      "title": "The ’90s Country Show with Riley Green",
-      "description": "Riley tells the harrowing story of his drive to work.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/1f/9b/06/1f9b066f-a25b-3c15-7511-feaa0a63c1c7/deaa0f41-14b8-4bad-8469-e01c36944d08.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-90s-country-show-with-riley-green/1774052213",
-      "raw_text": "LIVE · 6 – 7 PM The ’90s Country Show with Riley Green Riley tells the harrowing story of his drive to work.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "19:00 – 21:00",
+      "title": "The Hits List",
+      "description": "Songs you know and love.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "7 – 9 PM The Hits List Songs you know and love.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "19:00 – 20:00",
@@ -355,7 +365,7 @@
       "description": "What’s happening from the heart of the country scene.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/99/2a/7d/992a7d62-1d20-c44a-3478-ebd9e1eb8276/703496cb-5efe-4fd7-81b4-4249640b8621.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/todays-country-radio-with-kelleigh-bannen/1484718373",
-      "raw_text": "7 – 8 PM Today’s Country Radio With Kelleigh Bannen What’s happening from the heart of the country scene.",
+      "raw_text": "LIVE · 7 – 8 PM Today’s Country Radio With Kelleigh Bannen What’s happening from the heart of the country scene.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -500,14 +510,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "18:00 – 19:00",
-      "title": "HYPERHOUSE",
-      "description": "Music from Keeya Keys & Yiigaa, Luke Alessi, and Dusky & TEED.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/5e/a4/c0/5ea4c05f-504d-8857-8ec9-d27546cf9d3c/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/hyperhouse/998788287",
-      "raw_text": "LIVE · 6 – 7 PM HYPERHOUSE Music from Keeya Keys & Yiigaa, Luke Alessi, and Dusky & TEED.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "19:00 – 21:00",
+      "title": "Country Caffeine",
+      "description": "The boost you need to get back in the saddle.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/eb/26/cc/eb26cc3c-27ce-de4d-8be5-920607accd45/pr_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "7 – 9 PM Country Caffeine The boost you need to get back in the saddle.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "19:00 – 20:00",
@@ -515,7 +525,7 @@
       "description": "The biggest floor-fillers from around the world.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/b4/81/8f/b4818f93-b9d9-86d2-e057-828466309817/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "7 – 8 PM danceXL The biggest floor-fillers from around the world.",
+      "raw_text": "LIVE · 7 – 8 PM danceXL The biggest floor-fillers from around the world.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -690,22 +700,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "18:00 – 19:00",
-      "title": "Chill Africa",
-      "description": "Mellow music from across the continent and diaspora.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/e5/71/b1/e571b1c7-baa0-adbd-e475-250b3e0c6b85/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 6 – 7 PM Chill Africa Mellow music from across the continent and diaspora.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "19:00 – 21:00",
       "title": "Apple Music Chill",
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "7 – 9 PM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 7 – 9 PM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -880,6 +880,16 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
+      "time_slot": "19:00 – 20:00",
+      "title": "Chill Africa",
+      "description": "Mellow music from across the continent and diaspora.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/e5/71/b1/e571b1c7-baa0-adbd-e475-250b3e0c6b85/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "7 – 8 PM Chill Africa Mellow music from across the continent and diaspora.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
       "time_slot": "18:00 – 20:00",
       "title": "¡Dale Play!",
       "description": "Los creadores de capaz (merengueton) hablan de su éxito",
@@ -912,10 +922,10 @@
     {
       "time_slot": "00:00 – 01:05",
       "title": "Dia De Muertos by Carlos",
-      "description": "Carlos Eric Lopez y Danny Lux celebran Dia de Muertos.",
+      "description": "Danny Lux, Eva Longoria, y Willy Chavarria celebran la vida.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c2/05/67/c20567c5-cb2f-326a-5cbe-ded3e53c7310/155d4ad2-b0ce-4202-8526-0ba618f52333.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
-      "raw_text": "12 – 1:05 AM Dia De Muertos by Carlos Carlos Eric Lopez y DannyLux celebran Dia de Muertos.",
+      "raw_text": "12 – 1:05 AM Dia De Muertos by Carlos DannyLux, Eva Longoria, y Willy Chavarria celebran la vida.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1016,6 +1026,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "6 – 7 PM Puro Pop Una mezcla única de éxitos del pop latino.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "19:00 – 20:00",
+      "title": "Puro Pop",
+      "description": "Una mezcla única de éxitos del pop latino.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/03/89/e5/0389e59c-9089-fa00-59a1-b15a03fcf316/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "7 – 8 PM Puro Pop Una mezcla única de éxitos del pop latino.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
