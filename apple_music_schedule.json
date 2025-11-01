@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-31T16:30:03.874469-07:00",
+  "scraped_at": "2025-10-31T17:44:02.331409-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "23:00 – 00:00",
-      "title": "Loops",
-      "description": "Electronic music at its most innovative. May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f7/d8/e9/f7d8e9bd-28b4-5434-03b6-0e32507e6f0c/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-1/ra.978194965",
-      "raw_text": "LIVE · 11PM – 12AM Loops Electronic music at its most innovative. May contain explicit content.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "00:00 – 01:00",
       "title": "HYPERHOUSE",
       "description": "Music from Keeya Keys & Yiigaa, Luke Alessi, and Dusky & TEED.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/a4/51/77/a45177b0-1a6c-d4da-fb95-0ab6279d1557/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/hyperhouse/998788287",
-      "raw_text": "12 – 1 AM HYPERHOUSE Music from Keeya Keys & Yiigaa, Luke Alessi, and Dusky & TEED.",
+      "raw_text": "LIVE · 12 – 1 AM HYPERHOUSE Music from Keeya Keys & Yiigaa, Luke Alessi, and Dusky & TEED.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -192,22 +182,22 @@
     {
       "time_slot": "23:00 – 00:00",
       "title": "Rap Life Radio with Ebro Darden",
-      "description": "Highlights from Gunna's One Night Only interview.",
+      "description": "Highlights from Gunna’s One Night Only interview.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/60/9a/10/609a1068-fd7b-efa2-08dd-a675cbbe037c/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/rap-life-radio-with-ebro-darden/1472071440",
-      "raw_text": "11PM – 12AM Rap Life Radio with Ebro Darden Highlights from Gunna's One Night Only interview.",
+      "raw_text": "11PM – 12AM Rap Life Radio with Ebro Darden Highlights from Gunna’s One Night Only interview.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "23:00 – 00:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 11PM – 12AM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "00:00 – 02:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/6f/b3/73/6fb3738b-5f33-9ef5-5f9a-5186fcc64c22/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "12 – 2 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "00:00 – 01:00",
@@ -215,7 +205,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "12 – 1 AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 12 – 1 AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -370,22 +360,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "22:00 – 00:00",
-      "title": "Happy Hour",
-      "description": "Country for amping up and getting down.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/8d/00/09/8d0009eb-321f-50f8-ca99-4fc7165cac37/pr_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 10PM – 12AM Happy Hour Country for amping up and getting down.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
-    },
-    {
       "time_slot": "00:00 – 01:00",
       "title": "Country Rewind",
       "description": "Timeless country hits you can revisit again and again.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/79/4d/14/794d14fd-e8b1-b218-448a-7bb4fcbb0d9a/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "12 – 1 AM Country Rewind Timeless country hits you can revisit again and again.",
+      "raw_text": "LIVE · 12 – 1 AM Country Rewind Timeless country hits you can revisit again and again.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -536,6 +516,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/90/f3/d9/90f3d9cd-34b2-c4f1-5e2d-5f432afbc215/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
       "raw_text": "10PM – 12AM Tailgating Get game-day ready with these country hits.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
+      "time_slot": "00:00 – 01:00",
+      "title": "Country Rewind",
+      "description": "Timeless country hits you can revisit again and again.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/79/4d/14/794d14fd-e8b1-b218-448a-7bb4fcbb0d9a/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "12 – 1 AM Country Rewind Timeless country hits you can revisit again and again.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -730,22 +720,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "22:00 – 00:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 10PM – 12AM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "00:00 – 01:00",
       "title": "Lo-Fi Chill",
       "description": "Hazy, easy sounds for lean-back listening.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/5e/f2/4d/5ef24d37-9174-683a-5c64-134ced909189/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "12 – 1 AM Lo-Fi Chill Hazy, easy sounds for lean-back listening.",
+      "raw_text": "LIVE · 12 – 1 AM Lo-Fi Chill Hazy, easy sounds for lean-back listening.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -910,14 +890,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "22:00 – 00:00",
-      "title": "Apple Música Uno",
-      "description": "La cultura que te mueve.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 10PM – 12AM Apple Música Uno La cultura que te mueve.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "00:00 – 01:00",
+      "title": "Lo-Fi Chill",
+      "description": "Hazy, easy sounds for lean-back listening.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/5e/f2/4d/5ef24d37-9174-683a-5c64-134ced909189/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "12 – 1 AM Lo-Fi Chill Hazy, easy sounds for lean-back listening.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "00:00 – 01:00",
@@ -925,7 +905,7 @@
       "description": "La cultura que te mueve.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "12 – 1 AM Apple Música Uno La cultura que te mueve.",
+      "raw_text": "LIVE · 12 – 1 AM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1020,22 +1000,22 @@
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
     {
-      "time_slot": "15:00 – 16:00",
+      "time_slot": "15:00 – 16:05",
       "title": "Dia De Muertos by Carlos",
       "description": "Carlos Eric Lopez y Danny Lux celebran Dia de Muertos.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/51/1d/46/511d46b6-4822-d0e7-9efe-454935066c68/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
-      "raw_text": "3 – 4 PM Dia De Muertos by Carlos Carlos Eric Lopez y DannyLux celebran Dia de Muertos.",
+      "raw_text": "3 – 4:05 PM Dia De Muertos by Carlos Carlos Eric Lopez y DannyLux celebran Dia de Muertos.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
     {
-      "time_slot": "16:00 – 17:00",
+      "time_slot": "16:05 – 17:00",
       "title": "Jay Wheeler: GIRASOLES",
       "description": "Un recorrido por cada canción del álbum.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "4 – 5 PM Jay Wheeler: GIRASOLES Un recorrido por cada canción del álbum.",
+      "raw_text": "4:05 – 5 PM Jay Wheeler: GIRASOLES Un recorrido por cada canción del álbum.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -1076,6 +1056,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "10PM – 12AM Apple Música Uno La cultura que te mueve.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "00:00 – 01:05",
+      "title": "Dia De Muertos by Carlos",
+      "description": "Carlos Eric Lopez y Danny Lux celebran Dia de Muertos.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/51/1d/46/511d46b6-4822-d0e7-9efe-454935066c68/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/apple-music-specials/1203924916",
+      "raw_text": "12 – 1:05 AM Dia De Muertos by Carlos Carlos Eric Lopez y DannyLux celebran Dia de Muertos.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
