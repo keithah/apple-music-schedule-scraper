@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-02T14:31:28.720725-08:00",
+  "scraped_at": "2025-11-02T15:29:54.211859-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/6f/b3/73/6fb3738b-5f33-9ef5-5f9a-5186fcc64c22/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 9 – 11 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 01:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/6f/b3/73/6fb3738b-5f33-9ef5-5f9a-5186fcc64c22/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "11PM – 1AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 11PM – 1AM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -190,14 +180,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "Apple Music Hits",
-      "description": "Songs you know and love.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "LIVE · 10 – 11 PM Apple Music Hits Songs you know and love.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "23:00 – 00:00",
+      "title": "The Global Chart Show With Brooke Reese",
+      "description": "The most popular songs on Apple Music.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/1b/1e/d0/1b1ed0fc-e4ee-eaa6-c1a7-3abecc33a263/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
+      "raw_text": "11PM – 12AM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "23:00 – 00:00",
@@ -205,7 +195,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "11PM – 12AM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 11PM – 12AM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -283,7 +273,7 @@
       "time_slot": "08:00 – 10:00",
       "title": "Holiday Hits",
       "description": "The sounds of the season.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/d9/12/bd/d912bd07-79bd-5c95-2a6b-7c1d8251c4b7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "8 – 10 AM Holiday Hits The sounds of the season.",
       "station": "Apple Music Hits",
@@ -293,7 +283,7 @@
       "time_slot": "10:00 – 12:00",
       "title": "Holiday Hits",
       "description": "The sounds of the season.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/d1/1d/51/d11d511e-1057-4d5e-b001-8706da859088/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "10AM – 12PM Holiday Hits The sounds of the season.",
       "station": "Apple Music Hits",
@@ -303,7 +293,7 @@
       "time_slot": "12:00 – 14:00",
       "title": "Holiday Hits",
       "description": "The sounds of the season.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/90/3b/26/903b26ba-d355-8354-5228-925c27b88128/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "12 – 2 PM Holiday Hits The sounds of the season.",
       "station": "Apple Music Hits",
@@ -313,7 +303,7 @@
       "time_slot": "14:00 – 16:00",
       "title": "Holiday Hits",
       "description": "The sounds of the season.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/e0/1f/35/e01f3549-2875-9bd9-38f9-72367c97d469/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "2 – 4 PM Holiday Hits The sounds of the season.",
       "station": "Apple Music Hits",
@@ -323,7 +313,7 @@
       "time_slot": "16:00 – 18:00",
       "title": "Holiday Hits",
       "description": "The sounds of the season.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/cf/08/f5/cf08f5e8-2db1-a10e-5da7-7e60bc8a1bc8/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "4 – 6 PM Holiday Hits The sounds of the season.",
       "station": "Apple Music Hits",
@@ -333,7 +323,7 @@
       "time_slot": "18:00 – 20:00",
       "title": "Holiday Hits",
       "description": "The sounds of the season.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/82/5d/e5/825de5c2-be66-7e8e-e044-e47ee162b1ea/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "6 – 8 PM Holiday Hits The sounds of the season.",
       "station": "Apple Music Hits",
@@ -343,7 +333,7 @@
       "time_slot": "20:00 – 22:00",
       "title": "Holiday Hits",
       "description": "The sounds of the season.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/d9/12/bd/d912bd07-79bd-5c95-2a6b-7c1d8251c4b7/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "8 – 10 PM Holiday Hits The sounds of the season.",
       "station": "Apple Music Hits",
@@ -353,21 +343,11 @@
       "time_slot": "22:00 – 00:00",
       "title": "Holiday Hits",
       "description": "The sounds of the season.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/d1/1d/51/d11d511e-1057-4d5e-b001-8706da859088/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
       "raw_text": "10PM – 12AM Holiday Hits The sounds of the season.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
-      "time_slot": "21:00 – 23:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 9 – 11 PM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "23:00 – 01:00",
@@ -375,7 +355,7 @@
       "description": "Get game-day ready with these country hits.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/90/f3/d9/90f3d9cd-34b2-c4f1-5e2d-5f432afbc215/pr_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "11PM – 1AM Tailgating Get game-day ready with these country hits.",
+      "raw_text": "LIVE · 11PM – 1AM Tailgating Get game-day ready with these country hits.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -506,6 +486,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/e9/ef/1b/e9ef1b76-a78f-4bfb-b6ea-c293e3945d5d/0d2f99a6-efce-4e86-a0e6-02e5c553530c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-ward-guenther-show/1500977263",
       "raw_text": "9 – 11 PM The Ward Guenther Show Ward pays homage to Florida Georgia Line.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
+      "time_slot": "23:00 – 01:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "11PM – 1AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -670,14 +660,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "Chill Gems",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com#",
-      "raw_text": "LIVE · 10 – 11 PM Chill Gems Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "22:55 – 00:05",
+      "title": "fabric 61: Visionquest",
+      "description": "The Michigan foursome in the mix.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/95/fe/a8/95fea837-a26e-b3a0-b93b-1eaaf2c55a50/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "10:55 PM – 12:05 AM fabric 61: Visionquest The Michigan foursome in the mix.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "23:00 – 01:00",
@@ -685,7 +675,7 @@
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "11PM – 1AM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 11PM – 1AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -846,6 +836,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "10 – 11 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "23:00 – 01:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "11PM – 1AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
