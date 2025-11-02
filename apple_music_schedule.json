@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-02T08:33:51.320109-08:00",
+  "scraped_at": "2025-11-02T09:30:42.453853-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "15:00 – 17:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/6f/b3/73/6fb3738b-5f33-9ef5-5f9a-5186fcc64c22/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 3 – 5 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "17:00 – 19:00",
       "title": "Soulection",
       "description": "A tribute to The Soulquarians.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/f9/da/a7/f9daa76b-7def-a740-0732-c68472be0b07/73d2d6c0-e276-4ed7-a802-b1db5674f030.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/soulection/993271379",
-      "raw_text": "5 – 7 PM Soulection A tribute to The Soulquarians.",
+      "raw_text": "LIVE · 5 – 7 PM Soulection A tribute to The Soulquarians.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -176,6 +166,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6c/d3/93/6cd393ba-a500-2d16-aa18-1c5fe437f60f/33f29bfe-220d-4afe-b817-fdb33729e92f.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-dotty-show/1526877708",
       "raw_text": "3 – 5 PM The Dotty Show Dotty's favourite new album from the weekend.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "17:00 – 19:00",
+      "title": "The Zane Lowe Show",
+      "description": "An all-access pass into the world's best new music.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/19/34/37/19343733-4ac4-b3df-3cb2-825165a40026/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
+      "raw_text": "5 – 7 PM The Zane Lowe Show An all-access pass into the world's best new music.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -360,22 +360,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "15:00 – 17:00",
-      "title": "Back Porch Country",
-      "description": "Rootsy tunes for kicking back and watching the world go by.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 3 – 5 PM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
-    },
-    {
       "time_slot": "17:00 – 18:00",
       "title": "Country Risers Radio with Ward Guenther",
       "description": "Cameron Whitcomb talks flips onstage and social media.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/3b/32/48/3b324875-3ebc-3e10-31a5-b48ebd01e155/7910b6f4-1496-422f-98ad-5ce6bfe01ee5.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/country-risers-radio-with-ward-guenther/1496865276",
-      "raw_text": "5 – 6 PM Country Risers Radio with Ward Guenther Cameron Whitcomb talks flips onstage and social media.",
+      "raw_text": "LIVE · 5 – 6 PM Country Risers Radio with Ward Guenther Cameron Whitcomb talks flips onstage and social media.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -510,14 +500,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "16:00 – 17:00",
-      "title": "Chilltronics",
-      "description": "Weightless breakbeats, blissed-out deep house, and more laidback grooves.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/9e/63/ce/9e63ce90-e3cb-d407-ede4-d0ea86706b6f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 4 – 5 PM Chilltronics Weightless breakbeats, blissed-out deep house, and more laidback grooves.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "17:00 – 18:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "5 – 6 PM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "17:00 – 20:00",
@@ -525,7 +515,7 @@
       "description": "Because good times never go out of style.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/6f/2c/2a/6f2c2aba-e462-6855-2656-f45dc8726ea0/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "5 – 8 PM Club Disco Because good times never go out of style.",
+      "raw_text": "LIVE · 5 – 8 PM Club Disco Because good times never go out of style.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -670,22 +660,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "16:00 – 17:00",
-      "title": "Pure Focus",
-      "description": "A mix of immersive, mostly electronic sounds.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 4 – 5 PM Pure Focus A mix of immersive, mostly electronic sounds.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "17:00 – 18:00",
       "title": "Chill Gems",
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "5 – 6 PM Chill Gems Listen and let go.",
+      "raw_text": "LIVE · 5 – 6 PM Chill Gems Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -856,6 +836,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/dd/c2/80/ddc280ac-8bcc-1961-b648-5b1274c5a68e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "4 – 5 PM Pure Focus A mix of immersive, mostly electronic sounds.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "17:00 – 19:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "5 – 7 PM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
