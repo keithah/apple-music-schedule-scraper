@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-01T22:32:27.679665-07:00",
+  "scraped_at": "2025-11-01T23:37:08.600705-07:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "04:30 – 06:10",
-      "title": "Phonica Mix Series 100: Erol Alkan",
-      "description": "May contain explicit content.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/2e/12/a0/2e12a012-905a-a7d7-6867-19d7a1ac978a/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/dj-mixes-on-apple-music-1/1550669739",
-      "raw_text": "LIVE · 4:30 – 6:10 AM Phonica Mix Series 100: Erol Alkan May contain explicit content.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "06:10 – 07:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/6f/b3/73/6fb3738b-5f33-9ef5-5f9a-5186fcc64c22/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "6:10 – 7 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 6:10 – 7 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -176,6 +166,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/25/e4/b5/25e4b566-9d0a-a5c4-9c6b-246d21172508/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/listening-to/1774051863",
       "raw_text": "5:25 – 5:45 AM Listening To: Bonbero The rapper shares tracks that have inspired his signature sound.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "05:45 – 08:00",
+      "title": "Apple Music 1",
+      "description": "The world’s best new music is on Apple Music 1.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/6f/b3/73/6fb3738b-5f33-9ef5-5f9a-5186fcc64c22/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
+      "raw_text": "5:45 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -370,6 +370,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
+      "time_slot": "06:00 – 07:00",
+      "title": "Easy Hits",
+      "description": "Low-key songs to help you unwind.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/07/4d/7e/074d7ea9-8d9d-40e4-c5cf-3a8126030cd8/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
+      "raw_text": "6 – 7 AM Easy Hits Low-key songs to help you unwind.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
       "time_slot": "05:00 – 07:00",
       "title": "Apple Music Country",
       "description": "Where it sounds like home.",
@@ -520,14 +530,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "04:20 – 06:00",
-      "title": "Phonica Mix Series 100: Erol Alkan",
-      "description": "A mixtape for London’s iconic Phonica Records.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/82/d6/3d/82d63d51-1a8b-cd29-0e00-9f9ba6cda0f9/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 4:20 – 6 AM Phonica Mix Series 100: Erol Alkan A mixtape for London’s iconic Phonica Records.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "06:00 – 08:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "6 – 8 AM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "06:00 – 07:40",
@@ -535,7 +545,7 @@
       "description": "Sweaty walls, a banging system, and the fringe of techno and house.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/2e/47/10/2e4710a7-b44d-47de-db20-d7ac7cbc5ebf/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "6 – 7:40 AM The Underground Sweaty walls, a banging system, and the fringe of techno and house.",
+      "raw_text": "LIVE · 6 – 7:40 AM The Underground Sweaty walls, a banging system, and the fringe of techno and house.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -700,22 +710,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "05:00 – 06:00",
-      "title": "Evergreen",
-      "description": null,
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 5 – 6 AM Evergreen",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "06:00 – 07:00",
       "title": "Chill Gems",
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "6 – 7 AM Chill Gems Listen and let go.",
+      "raw_text": "LIVE · 6 – 7 AM Chill Gems Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -890,6 +890,16 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
+      "time_slot": "06:00 – 07:00",
+      "title": "Evergreen",
+      "description": null,
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "6 – 7 AM Evergreen",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
       "time_slot": "05:00 – 07:00",
       "title": "Cumbia Pa' La Fiesta",
       "description": "Clásicos de siempre y éxitos que definen el presente del género.",
@@ -1036,6 +1046,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/0c/25/8b/0c258b92-4770-fa02-c64d-ade535f0fbd8/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "4 – 6 AM Por Siempre Hits Una colección de hits innolvidables.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "06:00 – 07:00",
+      "title": "Jay Wheeler: GIRASOLES",
+      "description": "Un recorrido por cada canción del álbum.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "6 – 7 AM Jay Wheeler: GIRASOLES Un recorrido por cada canción del álbum.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
