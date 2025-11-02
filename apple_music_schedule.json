@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-02T06:31:00.293891-08:00",
+  "scraped_at": "2025-11-02T07:30:23.987628-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "13:00 – 15:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/6f/b3/73/6fb3738b-5f33-9ef5-5f9a-5186fcc64c22/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 1 – 3 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "15:00 – 17:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/6f/b3/73/6fb3738b-5f33-9ef5-5f9a-5186fcc64c22/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "3 – 5 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 3 – 5 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -180,14 +170,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "14:00 – 15:00",
-      "title": "Huey's '80s Radio",
-      "description": "Huey counts down the top '80s hits from the Material Girl.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/5e/2c/2a/5e2c2a6d-5689-2fab-a7b1-62b574454bbb/27e8fa5b-915c-4cfa-b066-da9058a4b8c7.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/hueys-80s-radio/1496848818",
-      "raw_text": "LIVE · 2 – 3 PM Huey's '80s Radio Huey counts down the top '80s hits from the Material Girl.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "15:00 – 17:00",
+      "title": "The Dotty Show",
+      "description": "Dotty's favourite new album from the weekend.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6c/d3/93/6cd393ba-a500-2d16-aa18-1c5fe437f60f/33f29bfe-220d-4afe-b817-fdb33729e92f.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-dotty-show/1526877708",
+      "raw_text": "3 – 5 PM The Dotty Show Dotty's favourite new album from the weekend.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "15:00 – 16:00",
@@ -195,7 +185,7 @@
       "description": "Songs you know and love.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/18/ea/f4/18eaf4b9-1954-56a7-0229-3b95250756bd/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-      "raw_text": "3 – 4 PM Apple Music Hits Songs you know and love.",
+      "raw_text": "LIVE · 3 – 4 PM Apple Music Hits Songs you know and love.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -370,22 +360,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "14:00 – 15:00",
-      "title": "Country Rewind",
-      "description": "Timeless Country hits you can revisit again and again.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource116/v4/79/4d/14/794d14fd-e8b1-b218-448a-7bb4fcbb0d9a/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 2 – 3 PM Country Rewind Timeless Country hits you can revisit again and again.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
-    },
-    {
       "time_slot": "15:00 – 17:00",
       "title": "Back Porch Country",
       "description": "Rootsy tunes for kicking back and watching the world go by.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource126/v4/fd/67/90/fd679074-4c3d-4008-2eef-8c73c30c471e/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "3 – 5 PM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
+      "raw_text": "LIVE · 3 – 5 PM Back Porch Country Rootsy tunes for kicking back and watching the world go by.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -520,14 +500,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "14:30 – 15:00",
-      "title": "Apple Music Club",
-      "description": "Where the mix never ends.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 2:30 – 3 PM Apple Music Club Where the mix never ends.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "15:00 – 17:00",
+      "title": "The Kelleigh Bannen Show",
+      "description": "The voice of Nashville.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/28/d2/d7/28d2d71f-e735-ead1-5fae-526e3e172a86/71ddc8cc-6066-44af-acb6-b444ed3cd250.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-kelleigh-bannen-show/1496851605",
+      "raw_text": "3 – 5 PM The Kelleigh Bannen Show The voice of Nashville.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "15:00 – 16:00",
@@ -535,7 +515,7 @@
       "description": "A distinctive mix from the New York based sound artist.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/76/92/d4/7692d44b-11c9-ded4-478d-ef1ba870d919/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "3 – 4 PM Early Hours Mix: Lydo A distinctive mix from the New York based sound artist.",
+      "raw_text": "LIVE · 3 – 4 PM Early Hours Mix: Lydo A distinctive mix from the New York based sound artist.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
