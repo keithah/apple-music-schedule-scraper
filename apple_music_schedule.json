@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-03T09:32:30.967758-08:00",
+  "scraped_at": "2025-11-03T10:37:01.869226-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "17:00 – 19:00",
-      "title": "The Zane Lowe Show",
-      "description": "An all-access pass into the world’s best new music.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/19/34/37/19343733-4ac4-b3df-3cb2-825165a40026/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "LIVE · 5 – 7 PM The Zane Lowe Show An all-access pass into the world’s best new music.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
-      "time_slot": "19:00 – 20:00",
+      "time_slot": "18:00 – 20:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "7 – 8 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "LIVE · 6 – 8 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -200,22 +190,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "16:00 – 18:00",
-      "title": "Holiday Hits",
-      "description": "The sounds of the season.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/cf/08/f5/cf08f5e8-2db1-a10e-5da7-7e60bc8a1bc8/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/holiday-hits/ra.1498155548",
-      "raw_text": "LIVE · 4 – 6 PM Holiday Hits The sounds of the season.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "18:00 – 20:00",
       "title": "Holiday Hits",
       "description": "The sounds of the season.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/82/5d/e5/825de5c2-be66-7e8e-e044-e47ee162b1ea/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/holiday-hits/ra.1498155548",
-      "raw_text": "6 – 8 PM Holiday Hits The sounds of the season.",
+      "raw_text": "LIVE · 6 – 8 PM Holiday Hits The sounds of the season.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -330,14 +310,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "17:00 – 18:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 5 – 6 PM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "18:00 – 20:00",
+      "title": "Holiday Hits",
+      "description": "The sounds of the season.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/f6/98/55/f6985562-b0d8-6de8-d0c8-fcb3dd952eb5/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/holiday-hits/ra.1498155548",
+      "raw_text": "6 – 8 PM Holiday Hits The sounds of the season.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "18:00 – 20:00",
@@ -345,7 +325,7 @@
       "description": "Ty highlights country artists who weave between genres.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/36/14/40/361440d2-92e3-256c-e2d8-05941afc8a38/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-ty-bentli-show/1496851549",
-      "raw_text": "6 – 8 PM The Ty Bentli Show Ty highlights country artists who weave between genres.",
+      "raw_text": "LIVE · 6 – 8 PM The Ty Bentli Show Ty highlights country artists who weave between genres.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -480,14 +460,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "15:55 – 17:55",
-      "title": "Apple Music Club",
-      "description": "Where the mix never ends.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 3:55 – 5:55 PM Apple Music Club Where the mix never ends.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "18:00 – 20:00",
+      "title": "The Ty Bentli Show",
+      "description": "Daily dispatches from Music City.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/36/14/40/361440d2-92e3-256c-e2d8-05941afc8a38/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-ty-bentli-show/1496851549",
+      "raw_text": "6 – 8 PM The Ty Bentli Show Daily dispatches from Music City.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "17:55 – 19:55",
@@ -495,7 +475,7 @@
       "description": "Tim Sweeney and FJAAK.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/83/60/df/8360dfd4-6ebe-3ea1-6885-5e386e8a4f68/d3adf304-a48c-4083-a835-494568ddebc4.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/beats-in-space-with-tim-sweeney/1573950910",
-      "raw_text": "5:55 – 7:55 PM Beats In Space with Tim Sweeney Tim Sweeney and FJAAK.",
+      "raw_text": "LIVE · 5:55 – 7:55 PM Beats In Space with Tim Sweeney Tim Sweeney and FJAAK.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -646,6 +626,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "3:55 – 5:55 PM Apple Music Club Where the mix never ends.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "17:55 – 20:00",
+      "title": "Solardo at [UNVRS]: Aug 14, 2025",
+      "description": "The duo’s set from Ibiza’s newest superclub.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/72/7b/26/727b2629-897e-cee8-edcf-5d4ff50cd9f0/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "5:55 – 8 PM Solardo at [UNVRS]: Aug 14, 2025 The duo’s set from Ibiza’s newest superclub.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -820,22 +810,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "16:00 – 18:00",
-      "title": "Apple Música Uno",
-      "description": "La cultura que te mueve.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 4 – 6 PM Apple Música Uno La cultura que te mueve.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
       "time_slot": "18:00 – 19:00",
       "title": "Track by Track",
       "description": "Un recorrido por cada canción del álbum.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "6 – 7 PM Track by Track Un recorrido por cada canción del álbum.",
+      "raw_text": "LIVE · 6 – 7 PM Track by Track Un recorrido por cada canción del álbum.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -966,6 +946,26 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "4 – 6 PM Apple Música Uno La cultura que te mueve.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "18:00 – 18:10",
+      "title": "Estoy Escuchando",
+      "description": "JHAYCO nos comparte los temas que está escuchando.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/fc/4b/61/fc4b6126-2b1f-ce60-b3b4-b755f5ced025/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/estoy-escuchando/1739143000",
+      "raw_text": "6 – 6:10 PM Estoy Escuchando JHAYCO nos comparte los temas que está escuchando.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "18:10 – 20:00",
+      "title": "Apple Música Uno",
+      "description": "La cultura que te mueve.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "6:10 – 8 PM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
