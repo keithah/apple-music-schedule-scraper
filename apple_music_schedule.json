@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-02T18:07:00.525410-08:00",
+  "scraped_at": "2025-11-02T18:57:01.599599-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -500,22 +500,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "02:00 – 02:55",
-      "title": "Apple Music Club",
-      "description": "Where the mix never ends.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 2 – 2:55 AM Apple Music Club Where the mix never ends.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "02:55 – 03:55",
       "title": "Early Hours Mix: Lydo",
       "description": "A distinctive mix from the New York based sound artist.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/76/92/d4/7692d44b-11c9-ded4-478d-ef1ba870d919/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "2:55 – 3:55 AM Early Hours Mix: Lydo A distinctive mix from the New York based sound artist.",
+      "raw_text": "LIVE · 2:55 – 3:55 AM Early Hours Mix: Lydo A distinctive mix from the New York based sound artist.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
