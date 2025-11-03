@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-03T06:34:38.750213-08:00",
+  "scraped_at": "2025-11-03T07:33:19.376548-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "14:00 – 15:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/6f/b3/73/6fb3738b-5f33-9ef5-5f9a-5186fcc64c22/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 2 – 3 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "15:00 – 17:00",
       "title": "The Dotty Show",
       "description": "Dotty's favourite new album from the weekend.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6c/d3/93/6cd393ba-a500-2d16-aa18-1c5fe437f60f/33f29bfe-220d-4afe-b817-fdb33729e92f.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-dotty-show/1526877708",
-      "raw_text": "3 – 5 PM The Dotty Show Dotty's favourite new album from the weekend.",
+      "raw_text": "LIVE · 3 – 5 PM The Dotty Show Dotty's favourite new album from the weekend.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -200,6 +190,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
+      "time_slot": "15:00 – 17:00",
+      "title": "The Dotty Show",
+      "description": "Saint joins Dotty and reveals all his celeb encounters.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6c/d3/93/6cd393ba-a500-2d16-aa18-1c5fe437f60f/33f29bfe-220d-4afe-b817-fdb33729e92f.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-dotty-show/1526877708",
+      "raw_text": "3 – 5 PM The Dotty Show Saint joins Dotty and reveals all his celeb encounters.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
       "time_slot": "14:00 – 16:00",
       "title": "Holiday Hits",
       "description": "The sounds of the season.",
@@ -330,22 +330,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "14:00 – 15:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 2 – 3 PM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
-    },
-    {
       "time_slot": "15:00 – 17:00",
       "title": "The Kelleigh Bannen Show",
       "description": "The voice of Nashville.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/28/d2/d7/28d2d71f-e735-ead1-5fae-526e3e172a86/71ddc8cc-6066-44af-acb6-b444ed3cd250.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-kelleigh-bannen-show/1496851605",
-      "raw_text": "3 – 5 PM The Kelleigh Bannen Show The voice of Nashville.",
+      "raw_text": "LIVE · 3 – 5 PM The Kelleigh Bannen Show The voice of Nashville.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -476,6 +466,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
       "raw_text": "2 – 3 PM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
+      "time_slot": "15:00 – 17:00",
+      "title": "The Kelleigh Bannen Show",
+      "description": "The voice of Nashville.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/28/d2/d7/28d2d71f-e735-ead1-5fae-526e3e172a86/71ddc8cc-6066-44af-acb6-b444ed3cd250.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-kelleigh-bannen-show/1496851605",
+      "raw_text": "3 – 5 PM The Kelleigh Bannen Show The voice of Nashville.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
