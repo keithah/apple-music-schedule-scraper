@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-04T12:34:14.957697-08:00",
+  "scraped_at": "2025-11-04T13:30:43.472290-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -340,22 +340,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "20:00 – 21:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 8 – 9 PM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
-    },
-    {
       "time_slot": "21:00 – 23:00",
       "title": "The Ward Guenther Show",
       "description": "Fishing songs from Cole Goodwin and Mackenzie Carpenter.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/e9/ef/1b/e9ef1b76-a78f-4bfb-b6ea-c293e3945d5d/0d2f99a6-efce-4e86-a0e6-02e5c553530c.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-ward-guenther-show/1500977263",
-      "raw_text": "9 – 11 PM The Ward Guenther Show Fishing songs from Cole Goodwin and Mackenzie Carpenter.",
+      "raw_text": "LIVE · 9 – 11 PM The Ward Guenther Show Fishing songs from Cole Goodwin and Mackenzie Carpenter.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -486,6 +476,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
       "raw_text": "8 – 9 PM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
+      "time_slot": "21:00 – 23:00",
+      "title": "The Ward Guenther Show",
+      "description": "One-chord songs from Brothers Osborne and Blake Shelton.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/e9/ef/1b/e9ef1b76-a78f-4bfb-b6ea-c293e3945d5d/0d2f99a6-efce-4e86-a0e6-02e5c553530c.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-ward-guenther-show/1500977263",
+      "raw_text": "9 – 11 PM The Ward Guenther Show One-chord songs from Brothers Osborne and Blake Shelton.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -632,10 +632,10 @@
     {
       "time_slot": "19:00 – 20:05",
       "title": "Ferreck Dawn: Ibiza House",
-      "description": "The Dutch DJ with a sun drenched mixtape.",
+      "description": "The Dutch DJ with a sun-drenched mixtape.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/19/33/29/193329cb-bb1b-ba75-f364-e3e21b0a5ff4/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "7 – 8:05 PM Ferreck Dawn: Ibiza House The Dutch DJ with a sun drenched mixtape.",
+      "raw_text": "7 – 8:05 PM Ferreck Dawn: Ibiza House The Dutch DJ with a sun-drenched mixtape.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
