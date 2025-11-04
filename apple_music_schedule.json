@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-04T14:32:50.489771-08:00",
+  "scraped_at": "2025-11-04T15:30:49.456071-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "DDG",
-      "description": "DDG takes you through moo and his life as a streamer.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/27/5c/46/275c46ed-ced3-e282-2885-52c97f5e48df/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/radio-takeover/1774052321",
-      "raw_text": "LIVE · 10 – 11 PM DDG DDG takes you through moo and his life as a streamer.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "The Global Chart Show With Brooke Reese",
       "description": "The most popular songs on Apple Music.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/68/61/da/6861daa3-4de4-c484-61a4-6aefc5fc0e78/7d4fde68-78db-40cc-9be0-3ca6bab907f1.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
-      "raw_text": "11PM – 12AM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
+      "raw_text": "LIVE · 11PM – 12AM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -210,6 +200,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
+      "time_slot": "23:00 – 00:00",
+      "title": "The Global Chart Show With Brooke Reese",
+      "description": "The most popular songs on Apple Music.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f9/cf/be/f9cfbe5f-6689-7048-3c16-8b1a8fe320dc/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
+      "raw_text": "11PM – 12AM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
       "time_slot": "22:00 – 00:00",
       "title": "Holiday Hits",
       "description": "The sounds of the season.",
@@ -340,22 +340,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "The Ward Guenther Show",
-      "description": "Fishing songs from Cole Goodwin and Mackenzie Carpenter.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/e9/ef/1b/e9ef1b76-a78f-4bfb-b6ea-c293e3945d5d/0d2f99a6-efce-4e86-a0e6-02e5c553530c.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-ward-guenther-show/1500977263",
-      "raw_text": "LIVE · 9 – 11 PM The Ward Guenther Show Fishing songs from Cole Goodwin and Mackenzie Carpenter.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
-    },
-    {
       "time_slot": "23:00 – 01:00",
       "title": "Apple Music Country",
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "11PM – 1AM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 11PM – 1AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -490,14 +480,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "22:00 – 23:30",
-      "title": "Tomorrowland Belgium 2025: Malugi at Atmosphere, Weekend 2",
-      "description": "The German DJ rips up the Atmosphere stage.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/fa/8c/62/fa8c6234-d8e3-00c2-b5ff-0d7216fb4dc9/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 10 – 11:30 PM Tomorrowland Belgium 2025: Malugi at Atmosphere, Weekend 2 The German DJ rips up the Atmosphere stage.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "23:00 – 01:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "11PM – 1AM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "23:30 – 01:30",
@@ -505,7 +495,7 @@
       "description": "The Berlin DJ recorded live.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/dd/9b/b1/dd9bb1c1-f20a-2fff-8fa4-9d46baa43bce/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "11:30 PM – 1:30 AM Palms Trax at Dekmantel Ten The Berlin DJ recorded live.",
+      "raw_text": "LIVE · 11:30 PM – 1:30 AM Palms Trax at Dekmantel Ten The Berlin DJ recorded live.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -650,22 +640,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "Acoustic Chill",
-      "description": "Pop and indie with a lighter, unplugged touch.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 10 – 11 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "23:00 – 01:00",
       "title": "Apple Music Chill",
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "11PM – 1AM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 11PM – 1AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -816,6 +796,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/b4/45/64/b445641e-52ff-d09e-954c-a9f80b765557/f5138d24-1a92-42a2-b5c2-6b25ce117e23.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
       "raw_text": "10 – 11 PM Zane Needs To Chill A playlist for absent friends.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "23:00 – 01:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "11PM – 1AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
