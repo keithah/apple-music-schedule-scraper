@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-04T00:37:03.850836-08:00",
+  "scraped_at": "2025-11-04T01:34:23.845182-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "08:00 – 09:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/6f/b3/73/6fb3738b-5f33-9ef5-5f9a-5186fcc64c22/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 8 – 9 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "09:00 – 11:00",
       "title": "The Rebecca Judd Show",
       "description": "Rebecca meets HAVEN. the myserious viral artist.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/ea/90/b8/ea90b8ff-4173-a0d3-2be3-9d45d20f92da/0e074dce-66ee-44e3-8f27-22b88467d34d.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-rebecca-judd-show/1481636844",
-      "raw_text": "9 – 11 AM The Rebecca Judd Show Rebecca meets HAVEN. the myserious viral artist.",
+      "raw_text": "LIVE · 9 – 11 AM The Rebecca Judd Show Rebecca meets HAVEN. the myserious viral artist.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -196,6 +186,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/6f/b3/73/6fb3738b-5f33-9ef5-5f9a-5186fcc64c22/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
       "raw_text": "8 – 9 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "09:00 – 11:00",
+      "title": "The Rebecca Judd Show",
+      "description": "Introducing singer fliss, plus music from RAYE.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/ab/93/f0/ab93f029-fac6-3628-f011-4a18a13b928f/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-rebecca-judd-show/1481636844",
+      "raw_text": "9 – 11 AM The Rebecca Judd Show Introducing singer fliss, plus music from RAYE.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
