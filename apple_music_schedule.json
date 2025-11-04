@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-04T01:34:23.845182-08:00",
+  "scraped_at": "2025-11-04T02:35:39.885565-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -200,22 +200,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "08:00 – 10:00",
-      "title": "Holiday Hits",
-      "description": "The sounds of the season.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/7f/5c/3a/7f5c3a2d-b7b5-1f3a-fefd-8fc9a018d530/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/holiday-hits/ra.1498155548",
-      "raw_text": "LIVE · 8 – 10 AM Holiday Hits The sounds of the season.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
-    },
-    {
       "time_slot": "10:00 – 12:00",
       "title": "Holiday Hits",
       "description": "The sounds of the season.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/75/c2/14/75c21402-de74-1b86-c369-cd54194981eb/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/holiday-hits/ra.1498155548",
-      "raw_text": "10AM – 12PM Holiday Hits The sounds of the season.",
+      "raw_text": "LIVE · 10AM – 12PM Holiday Hits The sounds of the season.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -330,14 +320,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "08:00 – 10:00",
-      "title": "Apple Music Country",
-      "description": "Where it sounds like home.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "LIVE · 8 – 10 AM Apple Music Country Where it sounds like home.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+      "time_slot": "10:00 – 12:00",
+      "title": "Holiday Hits",
+      "description": "The sounds of the season.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/35/2e/99/352e99ce-a4f6-c829-de5d-b303e5743092/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/holiday-hits/ra.1498155548",
+      "raw_text": "10AM – 12PM Holiday Hits The sounds of the season.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
       "time_slot": "10:00 – 12:00",
@@ -345,7 +335,7 @@
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "10AM – 12PM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 10AM – 12PM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -480,14 +470,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "07:55 – 09:55",
-      "title": "Loops",
-      "description": "Electronic music at its most innovative.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 7:55 – 9:55 AM Loops Electronic music at its most innovative.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
+      "time_slot": "10:00 – 12:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "10AM – 12PM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
       "time_slot": "09:55 – 10:55",
@@ -495,7 +485,7 @@
       "description": "dj poolboi in the mix.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/80/42/de/8042de41-352f-16ae-1a49-e3ff55cfde33/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "9:55 – 10:55 AM Shall Not Fade: dj poolboi dj poolboi in the mix.",
+      "raw_text": "LIVE · 9:55 – 10:55 AM Shall Not Fade: dj poolboi dj poolboi in the mix.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -640,14 +630,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "08:00 – 10:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 8 – 10 AM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "10:05 – 11:30",
+      "title": "Tomorrowland Belgium 2025: Malugi at Atmosphere, Weekend 2",
+      "description": "The German DJ rips up the Atmosphere stage.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/fa/8c/62/fa8c6234-d8e3-00c2-b5ff-0d7216fb4dc9/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "10:05 – 11:30 AM Tomorrowland Belgium 2025: Malugi at Atmosphere, Weekend 2 The German DJ rips up the Atmosphere stage.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "10:00 – 11:00",
@@ -655,7 +645,7 @@
       "description": "Pop and indie with a lighter, unplugged touch.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "10 – 11 AM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
+      "raw_text": "LIVE · 10 – 11 AM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -810,14 +800,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "08:00 – 10:00",
-      "title": "Apple Música Uno",
-      "description": "La cultura que te mueve.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 8 – 10 AM Apple Música Uno La cultura que te mueve.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "10:00 – 11:00",
+      "title": "Zane Needs To Chill",
+      "description": "A playlist for absent friends.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/b4/45/64/b445641e-52ff-d09e-954c-a9f80b765557/f5138d24-1a92-42a2-b5c2-6b25ce117e23.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
+      "raw_text": "10 – 11 AM Zane Needs To Chill A playlist for absent friends.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "10:00 – 12:00",
@@ -825,7 +815,7 @@
       "description": "La cultura que te mueve.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "10AM – 12PM Apple Música Uno La cultura que te mueve.",
+      "raw_text": "LIVE · 10AM – 12PM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -956,6 +946,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "8 – 10 AM Apple Música Uno La cultura que te mueve.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "10:00 – 12:00",
+      "title": "Apple Música Uno",
+      "description": "La cultura que te mueve.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "10AM – 12PM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
