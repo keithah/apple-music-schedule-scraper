@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-03T18:06:33.641960-08:00",
+  "scraped_at": "2025-11-03T18:54:26.277899-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -50,22 +50,22 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "05:15 – 06:00",
+      "time_slot": "05:15 – 05:45",
       "title": "Listening To: YURIYAN RETRIEVER",
-      "description": "The artist shares music that has inspired her artistry and career.",
+      "description": "The comedian and artist shares music that has inspired her career.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/1f/17/a7/1f17a793-236f-15f6-a8e6-a47e59065c8f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/listening-to/1774051863",
-      "raw_text": "5:15 – 6 AM Listening To: YURIYAN RETRIEVER The artist shares music that has inspired her artistry and career.",
+      "raw_text": "5:15 – 5:45 AM Listening To: YURIYAN RETRIEVER The comedian and artist shares music that has inspired her career.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "06:00 – 08:00",
+      "time_slot": "05:45 – 08:00",
       "title": "Apple Music 1",
       "description": "The world’s best new music is on Apple Music 1.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/6f/b3/73/6fb3738b-5f33-9ef5-5f9a-5186fcc64c22/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "6 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
+      "raw_text": "5:45 – 8 AM Apple Music 1 The world’s best new music is on Apple Music 1.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -161,11 +161,11 @@
     },
     {
       "time_slot": "22:00 – 23:00",
-      "title": "Takeover",
+      "title": "DDG",
       "description": "Your favorite artists host their own shows on Apple Music Radio.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/bd/24/56/bd2456d9-b551-f77d-d877-3ae80b5ca11d/bb_source.png/632x632cc.webp",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/27/5c/46/275c46ed-ced3-e282-2885-52c97f5e48df/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/radio-takeover/1774052321",
-      "raw_text": "10 – 11 PM Takeover Your favorite artists host their own shows on Apple Music Radio.",
+      "raw_text": "10 – 11 PM DDG Your favorite artists host their own shows on Apple Music Radio.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
