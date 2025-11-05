@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-05T10:37:16.907222-08:00",
+  "scraped_at": "2025-11-05T11:29:29.078851-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "18:30 – 19:00",
-      "title": "Apple Music 1",
-      "description": "The world’s best new music is on Apple Music 1.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/84/85/02/84850251-ecdc-3aac-2fc0-47395103fe4f/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-apple-music-1-list-live/1194191879",
-      "raw_text": "LIVE · 6:30 – 7 PM Apple Music 1 The world’s best new music is on Apple Music 1.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "19:00 – 20:00",
       "title": "Level Up Radio",
       "description": "Nora Fatehi talks about building her own empire. May contain explicit content.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/c4/69/e4/c469e475-3ac6-530a-b6b3-b4d92a2e5984/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/level-up-radio/1496849489",
-      "raw_text": "7 – 8 PM Level Up Radio Nora Fatehi talks about building her own empire. May contain explicit content.",
+      "raw_text": "LIVE · 7 – 8 PM Level Up Radio Nora Fatehi talks about building her own empire. May contain explicit content.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -206,6 +196,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/bc/99/bf/bc99bf27-90f7-1e2e-d8c1-b89224dad041/057a0e39-030b-4301-b1b8-930e4372665b.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
       "raw_text": "5 – 7 PM The Zane Lowe Show An all-access pass into the world's best new music.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
+      "time_slot": "19:00 – 20:00",
+      "title": "Danny Brown",
+      "description": "Your favorite artists host their own shows on Apple Music Radio.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9b/59/17/9b59172c-f976-ce73-7009-8e7330316090/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/radio-takeover/1774052321",
+      "raw_text": "7 – 8 PM Danny Brown Your favorite artists host their own shows on Apple Music Radio.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -490,22 +490,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "18:05 – 19:00",
-      "title": "Defected Black History Month 2025: Rimarkable",
-      "description": "An uplifting house music mix for Black History Month.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/f1/45/4b/f1454bb7-13f1-28d9-e0f2-fe95c35ef6cb/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 6:05 – 7 PM Defected Black History Month 2025: Rimarkable An uplifting house music mix for Black History Month.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "19:00 – 20:05",
       "title": "Ferreck Dawn: Ibiza House",
       "description": "The Dutch DJ with a sun-drenched mixtape.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/19/33/29/193329cb-bb1b-ba75-f364-e3e21b0a5ff4/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "7 – 8:05 PM Ferreck Dawn: Ibiza House The Dutch DJ with a sun-drenched mixtape.",
+      "raw_text": "LIVE · 7 – 8:05 PM Ferreck Dawn: Ibiza House The Dutch DJ with a sun-drenched mixtape.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -660,22 +650,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "17:00 – 19:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 5 – 7 PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
-    },
-    {
       "time_slot": "19:00 – 20:00",
       "title": "Today's Chill",
       "description": "Updates from electronic music’s low-key vanguard.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/d2/7b/dad27b4f-45ab-07b1-bdcd-9a0321c35e30/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "7 – 8 PM Today's Chill Updates from electronic music’s low-key vanguard.",
+      "raw_text": "LIVE · 7 – 8 PM Today's Chill Updates from electronic music’s low-key vanguard.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -826,6 +806,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "5 – 7 PM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "19:00 – 20:00",
+      "title": "Today's Chill",
+      "description": "Updates from electronic music’s low-key vanguard.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/da/d2/7b/dad27b4f-45ab-07b1-bdcd-9a0321c35e30/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "7 – 8 PM Today's Chill Updates from electronic music’s low-key vanguard.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
