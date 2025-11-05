@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-04T15:30:49.456071-08:00",
+  "scraped_at": "2025-11-04T16:42:43.048102-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "23:00 – 00:00",
-      "title": "The Global Chart Show With Brooke Reese",
-      "description": "The most popular songs on Apple Music.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/68/61/da/6861daa3-4de4-c484-61a4-6aefc5fc0e78/7d4fde68-78db-40cc-9be0-3ca6bab907f1.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
-      "raw_text": "LIVE · 11PM – 12AM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "00:00 – 01:00",
       "title": "The Travis Mills Show",
       "description": "Singer-songwriter Taylor Acorn chats her album Poster Child.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/53/0e/71/530e7190-f759-0b1d-5ad3-8d84b50eddef/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
-      "raw_text": "12 – 1 AM The Travis Mills Show Singer-songwriter Taylor Acorn chats her album Poster Child.",
+      "raw_text": "LIVE · 12 – 1 AM The Travis Mills Show Singer-songwriter Taylor Acorn chats her album Poster Child.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -210,14 +200,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "22:00 – 00:00",
-      "title": "Holiday Hits",
-      "description": "The sounds of the season.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/75/c2/14/75c21402-de74-1b86-c369-cd54194981eb/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/holiday-hits/ra.1498155548",
-      "raw_text": "LIVE · 10PM – 12AM Holiday Hits The sounds of the season.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "00:00 – 01:00",
+      "title": "The Travis Mills Show",
+      "description": "Check in with Apple Music’s pop culture authority.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/04/30/3b/04303be0-7ac8-3891-247d-005d16f353fb/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-travis-mills-show/1191586538",
+      "raw_text": "12 – 1 AM The Travis Mills Show Check in with Apple Music’s pop culture authority.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "00:00 – 02:00",
@@ -225,7 +215,7 @@
       "description": "The sounds of the season.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/01/46/b8/0146b8a7-0d71-3a6e-adf6-cde66a28ebc0/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/holiday-hits/ra.1498155548",
-      "raw_text": "12 – 2 AM Holiday Hits The sounds of the season.",
+      "raw_text": "LIVE · 12 – 2 AM Holiday Hits The sounds of the season.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -336,6 +326,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/35/2e/99/352e99ce-a4f6-c829-de5d-b303e5743092/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/holiday-hits/ra.1498155548",
       "raw_text": "10PM – 12AM Holiday Hits The sounds of the season.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "00:00 – 02:00",
+      "title": "Holiday Hits",
+      "description": "The sounds of the season.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/35/2e/99/352e99ce-a4f6-c829-de5d-b303e5743092/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/holiday-hits/ra.1498155548",
+      "raw_text": "12 – 2 AM Holiday Hits The sounds of the season.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -632,10 +632,20 @@
     {
       "time_slot": "22:05 – 00:05",
       "title": "Saturday Night, Vol. 2: Kevin Mc Kay",
-      "description": "A pulsing mix of R&B, disco and house.",
+      "description": "A pulsing mix of R&B, disco, and house.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/ec/6a/1c/ec6a1c93-7310-eb91-aef0-770f57ded0e0/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "10:05 PM – 12:05 AM Saturday Night, Vol. 2: Kevin McKay A pulsing mix of R&B, disco and house.",
+      "raw_text": "10:05 PM – 12:05 AM Saturday Night, Vol. 2: Kevin McKay A pulsing mix of R&B, disco, and house.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "00:05 – 01:05",
+      "title": "Claptone at CRSSD Festival Spring '25: The Palms",
+      "description": "Recorded live at Waterfront Park in San Diego.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/14/3c/a4/143ca47d-a212-bab7-92cc-76f30c1c60fb/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "12:05 – 1:05 AM Claptone at CRSSD Festival Spring '25: The Palms Recorded live at Waterfront Park in San Diego.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -810,22 +820,12 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "22:00 – 00:00",
-      "title": "Apple Música Uno",
-      "description": "La cultura que te mueve.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 10PM – 12AM Apple Música Uno La cultura que te mueve.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
-    },
-    {
       "time_slot": "00:00 – 02:00",
       "title": "Apple Música Uno",
       "description": "La cultura que te mueve.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "12 – 2 AM Apple Música Uno La cultura que te mueve.",
+      "raw_text": "LIVE · 12 – 2 AM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -946,6 +946,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "10PM – 12AM Apple Música Uno La cultura que te mueve.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "00:00 – 02:00",
+      "title": "Apple Música Uno",
+      "description": "La cultura que te mueve.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "12 – 2 AM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
