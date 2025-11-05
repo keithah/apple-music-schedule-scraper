@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-05T13:30:46.244513-08:00",
+  "scraped_at": "2025-11-05T14:32:58.651713-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "21:00 – 22:00",
-      "title": "YFN Lucci",
-      "description": "The Atlanta rapper hosts ALREADY LEGEND Radio.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/27/1d/4c/271d4ccb-ce08-fe3b-193b-cbb8be82ede1/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/radio-takeover/1774052321",
-      "raw_text": "LIVE · 9 – 10 PM YFN Lucci The Atlanta rapper hosts ALREADY LEGEND Radio.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "22:00 – 23:00",
       "title": "Carly Rae Jepsen",
       "description": "The pop singer spins the ’80s hits that inspired her.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/09/f6/57/09f65744-f152-3b10-d466-c7ce4dab806f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/radio-takeover/1774052321",
-      "raw_text": "10 – 11 PM Carly Rae Jepsen The pop singer spins the ’80s hits that inspired her.",
+      "raw_text": "LIVE · 10 – 11 PM Carly Rae Jepsen The pop singer spins the ’80s hits that inspired her.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -142,10 +132,10 @@
     {
       "time_slot": "12:00 – 14:00",
       "title": "The Matt Wilkinson Show",
-      "description": "Digging into Insecure Men and Radiohead's live setlist.",
+      "description": "Digging into Insecure Men and Radiohead's live set list.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6d/aa/86/6daa867b-1a40-0b36-f8b7-4d58cab2f1e8/6f83b0b3-55aa-4e4d-b9db-dd2a7c260077.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-matt-wilkinson-show/1184566442",
-      "raw_text": "12 – 2 PM The Matt Wilkinson Show Digging into Insecure Men and Radiohead's live setlist.",
+      "raw_text": "12 – 2 PM The Matt Wilkinson Show Digging into Insecure Men and Radiohead's live set list.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -200,14 +190,14 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
-      "time_slot": "20:00 – 22:00",
-      "title": "Holiday Hits",
-      "description": "The sounds of the season.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/35/2e/99/352e99ce-a4f6-c829-de5d-b303e5743092/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/holiday-hits/ra.1498155548",
-      "raw_text": "LIVE · 8 – 10 PM Holiday Hits The sounds of the season.",
-      "station": "Apple Music Hits",
-      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+      "time_slot": "22:00 – 23:00",
+      "title": "UMI",
+      "description": "The singer connects with her 2025 album, people stories.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/76/5f/ae/765faea4-9b09-46c7-2f04-e4d597d648c0/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/radio-takeover/1774052321",
+      "raw_text": "10 – 11 PM UMI The singer connects with her 2025 album, people stories.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
       "time_slot": "22:00 – 00:00",
@@ -215,7 +205,7 @@
       "description": "The sounds of the season.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/35/2e/99/352e99ce-a4f6-c829-de5d-b303e5743092/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/holiday-hits/ra.1498155548",
-      "raw_text": "10PM – 12AM Holiday Hits The sounds of the season.",
+      "raw_text": "LIVE · 10PM – 12AM Holiday Hits The sounds of the season.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -326,6 +316,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/35/2e/99/352e99ce-a4f6-c829-de5d-b303e5743092/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/holiday-hits/ra.1498155548",
       "raw_text": "8 – 10 PM Holiday Hits The sounds of the season.",
+      "station": "Apple Music Hits",
+      "station_url": "https://music.apple.com/us/radio/ra.1498155548"
+    },
+    {
+      "time_slot": "22:00 – 00:00",
+      "title": "Holiday Hits",
+      "description": "The sounds of the season.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/35/2e/99/352e99ce-a4f6-c829-de5d-b303e5743092/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/holiday-hits/ra.1498155548",
+      "raw_text": "10PM – 12AM Holiday Hits The sounds of the season.",
       "station": "Apple Music Hits",
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
@@ -480,22 +480,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "20:05 – 22:05",
-      "title": "Loops",
-      "description": "Electronic music at its most innovative.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/50/fe/ef/50feef51-9d51-43a8-d9af-28b77ab70df7/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 8:05 – 10:05 PM Loops Electronic music at its most innovative.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "22:05 – 00:05",
       "title": "Saturday Night, Vol. 2: Kevin Mc Kay",
       "description": "A pulsing mix of R&B, disco, and house.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/ec/6a/1c/ec6a1c93-7310-eb91-aef0-770f57ded0e0/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "10:05 PM – 12:05 AM Saturday Night, Vol. 2: Kevin McKay A pulsing mix of R&B, disco, and house.",
+      "raw_text": "LIVE · 10:05 PM – 12:05 AM Saturday Night, Vol. 2: Kevin McKay A pulsing mix of R&B, disco, and house.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -640,14 +630,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "20:00 – 22:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 8 – 10 PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "22:00 – 01:00",
+      "title": "Enamour at Club Space Miami, Aug 15, 2025",
+      "description": "LA-based genre-bending producer in the mix.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "10PM – 1AM Enamour at Club Space Miami, Aug 15, 2025 LA-based genre-bending producer in the mix.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "22:00 – 23:00",
@@ -655,7 +645,7 @@
       "description": "A playlist for absent friends.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/b4/45/64/b445641e-52ff-d09e-954c-a9f80b765557/f5138d24-1a92-42a2-b5c2-6b25ce117e23.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
-      "raw_text": "10 – 11 PM Zane Needs To Chill A playlist for absent friends.",
+      "raw_text": "LIVE · 10 – 11 PM Zane Needs To Chill A playlist for absent friends.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -810,14 +800,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
-      "time_slot": "20:00 – 22:00",
-      "title": "Apple Música Uno",
-      "description": "La cultura que te mueve.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "LIVE · 8 – 10 PM Apple Música Uno La cultura que te mueve.",
-      "station": "Apple Musica Uno",
-      "station_url": "https://music.apple.com/radio/ra.1740613864"
+      "time_slot": "22:00 – 23:00",
+      "title": "Acoustic Chill",
+      "description": "Pop and indie with a lighter, unplugged touch.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "10 – 11 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
     {
       "time_slot": "22:00 – 00:00",
@@ -825,7 +815,7 @@
       "description": "La cultura que te mueve.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
-      "raw_text": "10PM – 12AM Apple Música Uno La cultura que te mueve.",
+      "raw_text": "LIVE · 10PM – 12AM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     },
@@ -936,6 +926,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
       "raw_text": "8 – 10 PM Apple Música Uno La cultura que te mueve.",
+      "station": "Apple Musica Uno",
+      "station_url": "https://music.apple.com/radio/ra.1740613864"
+    },
+    {
+      "time_slot": "22:00 – 00:00",
+      "title": "Apple Música Uno",
+      "description": "La cultura que te mueve.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/53/ef/4d/53ef4d09-660c-939d-2a74-d48998a5c863/3c7a28dd-3c3d-4a0b-b458-1c9c355a5115.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-m%C3%BAsica-uno/ra.1740613864",
+      "raw_text": "10PM – 12AM Apple Música Uno La cultura que te mueve.",
       "station": "Apple Musica Uno",
       "station_url": "https://music.apple.com/radio/ra.1740613864"
     }
