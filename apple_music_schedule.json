@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-04T18:07:05.883287-08:00",
+  "scraped_at": "2025-11-04T18:54:44.354082-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -646,6 +646,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
       "raw_text": "1:05 – 2:05 AM Apple Music Club Where the mix never ends.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
+    },
+    {
+      "time_slot": "02:05 – 04:05",
+      "title": "House Nation",
+      "description": "Classic club vibes for the 21st century.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/eb/e8/ef/ebe8ef13-c9b1-f878-848f-cb7354d86264/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "2:05 – 4:05 AM House Nation Classic club vibes for the 21st century.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
