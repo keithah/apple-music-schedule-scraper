@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-06T14:32:55.188389-08:00",
+  "scraped_at": "2025-11-06T15:30:35.872952-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -10,22 +10,12 @@
   ],
   "shows": [
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "UMI",
-      "description": "The singer connects with her 2025 album, people stories.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/76/5f/ae/765faea4-9b09-46c7-2f04-e4d597d648c0/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/radio-takeover/1774052321",
-      "raw_text": "LIVE · 10 – 11 PM UMI The singer connects with her 2025 album, people stories.",
-      "station": "Apple Music 1",
-      "station_url": "https://music.apple.com/us/radio/ra.978194965"
-    },
-    {
       "time_slot": "23:00 – 00:00",
       "title": "The Global Chart Show With Brooke Reese",
       "description": "The most popular songs on Apple Music.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/92/9c/81/929c81dc-7a1d-f704-7207-e70557648477/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/curator/the-global-chart-show-with-brooke-reese/1011966026",
-      "raw_text": "11PM – 12AM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
+      "raw_text": "LIVE · 11PM – 12AM The Global Chart Show With Brooke Reese The most popular songs on Apple Music.",
       "station": "Apple Music 1",
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
@@ -200,6 +190,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.978194965"
     },
     {
+      "time_slot": "23:00 – 00:00",
+      "title": "danceXL Radio",
+      "description": "The biggest new tunes roaring through clubs around the world.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/d3/4c/fe/d34cfe6d-87d3-fcf1-eb52-2533dad65547/1cdfaf08-2a72-4067-b549-4ded3f13406f.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/dancexl-radio/1472071066",
+      "raw_text": "11PM – 12AM danceXL Radio The biggest new tunes roaring through clubs around the world.",
+      "station": "Apple Music 1",
+      "station_url": "https://music.apple.com/us/radio/ra.978194965"
+    },
+    {
       "time_slot": "22:00 – 00:00",
       "title": "Holiday Hits",
       "description": "The sounds of the season.",
@@ -330,22 +330,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498155548"
     },
     {
-      "time_slot": "21:00 – 23:00",
-      "title": "The Ward Guenther Show",
-      "description": "Love songs from Chase Rice, Bayker Blankenship, and more.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/e9/ef/1b/e9ef1b76-a78f-4bfb-b6ea-c293e3945d5d/0d2f99a6-efce-4e86-a0e6-02e5c553530c.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/curator/the-ward-guenther-show/1500977263",
-      "raw_text": "LIVE · 9 – 11 PM The Ward Guenther Show Love songs from Chase Rice, Bayker Blankenship, and more.",
-      "station": "Apple Music Country",
-      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
-    },
-    {
       "time_slot": "23:00 – 01:00",
       "title": "Apple Music Country",
       "description": "Where it sounds like home.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
-      "raw_text": "11PM – 1AM Apple Music Country Where it sounds like home.",
+      "raw_text": "LIVE · 11PM – 1AM Apple Music Country Where it sounds like home.",
       "station": "Apple Music Country",
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
@@ -490,6 +480,16 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
+      "time_slot": "23:00 – 01:00",
+      "title": "Apple Music Country",
+      "description": "Where it sounds like home.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/48/25/f9/4825f941-5e2f-5c2b-6b6c-d6a78c143cad/source/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166",
+      "raw_text": "11PM – 1AM Apple Music Country Where it sounds like home.",
+      "station": "Apple Music Country",
+      "station_url": "https://music.apple.com/us/radio/ra.1498157166"
+    },
+    {
       "time_slot": "22:00 – 01:00",
       "title": "Enamour at Club Space Miami, Aug 15, 2025",
       "description": "LA-based genre-bending producer in the mix.",
@@ -580,22 +580,22 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "17:00 – 18:00",
+      "time_slot": "17:00 – 18:10",
       "title": "RA.102 Four Tet",
       "description": "Four Tet turns in a rough ’n’ ready mix of electronic music.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/3b/4b/3f/3b4b3f8a-28ff-8c09-bc3b-963d4632f066/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "5 – 6 PM RA.102 Four Tet Four Tet turns in a rough ’n’ ready mix of electronic music.",
+      "raw_text": "5 – 6:10 PM RA.102 Four Tet Four Tet turns in a rough ’n’ ready mix of electronic music.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "18:00 – 19:00",
+      "time_slot": "18:10 – 19:00",
       "title": "Drum & Bass",
       "description": "A deeper strain of D'n'B.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/db/72/ee/db72eedb-5653-6a69-8795-32c52f62af35/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com#",
-      "raw_text": "6 – 7 PM Drum & Bass A deeper strain of D'n'B.",
+      "raw_text": "6:10 – 7 PM Drum & Bass A deeper strain of D'n'B.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -630,24 +630,24 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "22:00 – 23:00",
+      "time_slot": "22:00 – 23:05",
       "title": "Enter The REALM: Azzecca 018",
       "description": "High energy house, techno acid and huge 'cosmic' sounds.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/53/93/08/53930828-af44-458f-d177-1e1b8b98838f/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "10 – 11 PM Enter The REALM: Azzecca 018 High energy house, techno acid and huge 'cosmic' sounds.",
+      "raw_text": "10 – 11:05 PM Enter The REALM: Azzecca 018 High energy house, techno acid and huge 'cosmic' sounds.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "22:00 – 23:00",
-      "title": "Acoustic Chill",
-      "description": "Pop and indie with a lighter, unplugged touch.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 10 – 11 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "23:05 – 00:05",
+      "title": "Enter The REALM: Gorgon City 016",
+      "description": "A solid gold selection of bangers for bassheads.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/f8/67/c1/f867c135-a5a3-37a1-80cf-84b8a1f3b3d2/bb_source.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "11:05 PM – 12:05 AM Enter The REALM: Gorgon City 016 A solid gold selection of bangers for bassheads.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "23:00 – 01:00",
@@ -655,7 +655,7 @@
       "description": "Listen and let go.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "11PM – 1AM Apple Music Chill Listen and let go.",
+      "raw_text": "LIVE · 11PM – 1AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -806,6 +806,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/9f/e6/e0/9fe6e0c5-76d9-bac5-8393-90e5d52f65d3/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "10 – 11 PM Acoustic Chill Pop and indie with a lighter, unplugged touch.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "23:00 – 01:00",
+      "title": "Apple Music Chill",
+      "description": "Listen and let go.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
+      "raw_text": "11PM – 1AM Apple Music Chill Listen and let go.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
