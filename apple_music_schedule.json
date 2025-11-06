@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-11-06T04:38:49.732101-08:00",
+  "scraped_at": "2025-11-06T05:37:15.403263-08:00",
   "stations_scraped": [
     "Apple Music 1",
     "Apple Music Hits",
@@ -460,22 +460,12 @@
       "station_url": "https://music.apple.com/us/radio/ra.1498157166"
     },
     {
-      "time_slot": "12:00 – 13:00",
-      "title": "Claptone at CRSSD Festival Spring '25: The Palms",
-      "description": "Recorded live at Waterfront Park in San Diego.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource221/v4/14/3c/a4/143ca47d-a212-bab7-92cc-76f30c1c60fb/bb_source.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "LIVE · 12 – 1 PM Claptone at CRSSD Festival Spring '25: The Palms Recorded live at Waterfront Park in San Diego.",
-      "station": "Apple Music Club",
-      "station_url": "https://music.apple.com/radio/ra.1740613859"
-    },
-    {
       "time_slot": "13:00 – 14:00",
       "title": "Apple Music Club",
       "description": "Where the mix never ends.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
-      "raw_text": "1 – 2 PM Apple Music Club Where the mix never ends.",
+      "raw_text": "LIVE · 1 – 2 PM Apple Music Club Where the mix never ends.",
       "station": "Apple Music Club",
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
@@ -590,14 +580,14 @@
       "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
-      "time_slot": "11:00 – 13:00",
-      "title": "Apple Music Chill",
-      "description": "Listen and let go.",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
-      "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "LIVE · 11AM – 1PM Apple Music Chill Listen and let go.",
-      "station": "Apple Music Chill",
-      "station_url": "https://music.apple.com/radio/ra.1740614260"
+      "time_slot": "13:00 – 14:00",
+      "title": "Apple Music Club",
+      "description": "Where the mix never ends.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/c1/04/13/c1041340-86ad-cb6e-91c3-cb258e33b7cc/d5c03e2b-1ff3-4990-affa-327d91ca5e64.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/station/apple-music-club/ra.1740613859",
+      "raw_text": "1 – 2 PM Apple Music Club Where the mix never ends.",
+      "station": "Apple Music Club",
+      "station_url": "https://music.apple.com/radio/ra.1740613859"
     },
     {
       "time_slot": "13:00 – 14:00",
@@ -605,7 +595,7 @@
       "description": "Hazy, easy sounds for lean-back listening.",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/RadioSource211/v4/5e/f2/4d/5ef24d37-9174-683a-5c64-134ced909189/bb_source.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
-      "raw_text": "1 – 2 PM Lo-Fi Chill Hazy, easy sounds for lean-back listening.",
+      "raw_text": "LIVE · 1 – 2 PM Lo-Fi Chill Hazy, easy sounds for lean-back listening.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
@@ -756,6 +746,16 @@
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/a3/48/ad/a348ad87-ef08-cb26-25b0-267e6be9fa94/cdbcfb25-5574-4caa-9027-5eebe3dd83cc.png/632x632cc.webp",
       "show_url": "https://music.apple.com/us/station/apple-music-chill/ra.1740614260",
       "raw_text": "11AM – 1PM Apple Music Chill Listen and let go.",
+      "station": "Apple Music Chill",
+      "station_url": "https://music.apple.com/radio/ra.1740614260"
+    },
+    {
+      "time_slot": "13:00 – 14:00",
+      "title": "Zane Needs To Chill",
+      "description": "A playlist for absent friends.",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/b4/45/64/b445641e-52ff-d09e-954c-a9f80b765557/f5138d24-1a92-42a2-b5c2-6b25ce117e23.png/632x632cc.webp",
+      "show_url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553",
+      "raw_text": "1 – 2 PM Zane Needs To Chill A playlist for absent friends.",
       "station": "Apple Music Chill",
       "station_url": "https://music.apple.com/radio/ra.1740614260"
     },
